@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-05-25T12:12:15.884232+00:00</updated>
+  <updated>2025-05-25T14:12:14.531691+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5483</id>
+    <title>小桂桂的回忆录 📒 #5483</title>
+    <updated>2025-05-25T13:32:03+00:00</updated>
+    <content>&lt;p&gt;以及，今天终于见到了幽灵灵好开心！是认识了超级久的朋友，也是这个频道的第一位订阅者 qwq&lt;/p&gt;
+&lt;p&gt;因为觉得幽灵灵或许和我一样会喜欢可爱又没什么用的小物件，昨天去百円店买了些手工原料做了一个晴天娃娃作为礼物 &lt;i class="custom-emoji" emoji-src="emoji/6170419595350903248.webm"&gt;✨&lt;/i&gt;（有感觉自己在变成小学三年小孩子）&lt;/p&gt;
+&lt;p&gt;相对应，我收到了一本设计用词的可爱绘本和东京旅行信息书（确实很需要，感谢！），还有ta的作品小册子（希望总有一天我能够读懂）&lt;i class="custom-emoji" emoji-src="emoji/6323267916523374069.webp"&gt;🥺&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;今天看完写真馆之后还在附近走了走逛了一些有趣的店，总之是很开心的一天 &lt;i class="custom-emoji" emoji-src="emoji/6170432338518869955.webm"&gt;🦀&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5483" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>5473</id>
+    <title>小桂桂的回忆录 📒 #5473</title>
+    <updated>2025-05-25T12:34:43+00:00</updated>
+    <content>&lt;p&gt;今天去東京都写真美術館看了 JPS 2025 的展会。因为禁止摄影，为了记录分享展会上喜欢的作品花钱买了一本作品集（好贵！）&lt;/p&gt;
+&lt;p&gt;这个作品集感觉排版真的有点无聊，像是资源管理器「大缩略图」直出，完全没有用心排版的感觉。不过作品还是有很多喜欢的&lt;/p&gt;
+&lt;p&gt;这个喝着夕暮的猫猫真的好可爱好迷幻 &lt;i class="custom-emoji" emoji-src="emoji/6170139473288890346.webm"&gt;🤩&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5473" rel="alternate"/>
+  </entry>
   <entry>
     <id>5472</id>
     <title>小桂桂的回忆录 📒 #5472</title>
