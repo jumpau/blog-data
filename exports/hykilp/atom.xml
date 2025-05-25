@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-05-25T00:20:55.187182+00:00</updated>
+  <updated>2025-05-25T02:46:23.729149+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5467</id>
+    <title>小桂桂的回忆录 📒 #5467</title>
+    <updated>2025-05-25T01:46:59+00:00</updated>
+    <content>&lt;p&gt;昨晚和天文姐姐和谦谦去看了星星 &lt;i class="custom-emoji" emoji-src="emoji/5217818964612108191.tgs"&gt;✨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;其实不是真的星星啦，是去了 MyGO 高松灯喜欢去的池袋那家「满天」看到了投影的星星。这个投影设备好厉害，效果就像真的有满天星星一样 &lt;i class="custom-emoji" emoji-src="emoji/6170139473288890346.webm"&gt;🤩&lt;/i&gt; &lt;/p&gt;
+&lt;p&gt;看星星好治愈！决定给之后北海道的行程加上「看星星」&lt;/p&gt;
+&lt;p&gt;以及发现星座的定义好随意，感觉想要看出星座描述里的东西真的需要很大想象力&lt;del&gt;（高情商）&lt;/del&gt;&lt;i class="custom-emoji" emoji-src="emoji/6169953432485496291.webm"&gt;😶&lt;/i&gt; 在想有没有办法做一个算法，输入一个图形然后连接任意的星星找到最接近的形状&lt;/p&gt;
+&lt;p&gt;回家路上看到了东京唯一一条轻轨樱花线 &lt;i class="custom-emoji" emoji-src="emoji/6132038041016993493.webp"&gt;🚉&lt;/i&gt; 奇妙&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5467" rel="alternate"/>
+  </entry>
   <entry>
     <id>5461</id>
     <title>小桂桂的回忆录 📒 #5461</title>
