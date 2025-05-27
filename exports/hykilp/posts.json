@@ -45031,7 +45031,7 @@
     "id": 3322,
     "date": "2024-02-09T10:10:27",
     "text": "收到了黎黎的信和小狐狸，开心！\n\n<del>（然后让小狐狸加入了书架上兔兔们的 party</del>",
-    "views": 83,
+    "views": 84,
     "forwards": 0,
     "media_group_id": 13659787420409725,
     "images": [
@@ -45150,7 +45150,7 @@
     "id": 3331,
     "date": "2024-02-10T06:22:18",
     "text": "我也来简约大色块赛博光污染",
-    "views": 90,
+    "views": 91,
     "forwards": 1,
     "media_group_id": 13660369110710973,
     "images": [
@@ -45185,7 +45185,7 @@
     "id": 3333,
     "date": "2024-02-10T08:43:38",
     "text": "呜呜呜呜呜呜呜呜呜\n\n我刚搬到 Google Workspace 然后 MS365 给我 renew 了 \n(╯’ – ‘)╯︵ ┻━┻",
-    "views": 82,
+    "views": 83,
     "forwards": 0,
     "reply": {
       "id": 3280,
@@ -45208,7 +45208,7 @@
     "id": 3334,
     "date": "2024-02-10T12:16:01",
     "text": "哭哭 找人合作的时候发现街机音游这个社群里有钱在家里买手台的人都要工作没有时间合作 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n今天写到了凌晨七点，写完了主页又写了一个用户界面的 demo，有 DX Rating 评分趋势和像 github 一样的游玩热力图，都是官服上看不到的哦 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（虽然还没有调页面风格，感觉 chartjs 调起来真的可以花上无限的时间\n\n以及想把 AquaNet 做成一个像 ppy 那样混搭了不同音游的自制谱 hub，不过还要想想怎么做...\n\n总之先睡觉。又不知不觉就写到凌晨七点了，写起喜欢的项目好容易扭曲时间 <i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i> <del>很有过年的气氛</del>",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "reply": {
       "id": 3331,
@@ -45360,7 +45360,7 @@
     "id": 3342,
     "date": "2024-02-13T03:46:36",
     "text": "由于太沉迷写街机的东西导致我课一节都没上，然后刚刚才发现明天后天要考试了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n卸载 Telegram 两天专注补课，如果效率高也许还能睡觉...",
-    "views": 102,
+    "views": 103,
     "forwards": 1,
     "media_group_id": 13662367969554517,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5197,
+    "views": 5198,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1705,
+    "views": 1706,
     "forwards": 50
   },
   {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5659,
+    "views": 5660,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -75243,7 +75243,7 @@
     "id": 5453,
     "date": "2025-05-23T02:14:49",
     "text": "哇 居然已经 30 年了，Java 生日快乐！\n\n<del>感觉 JVM 生态能活到现在完全是靠 Minecraft 和安卓这两个社区...</del>",
-    "views": 338,
+    "views": 340,
     "forwards": 11,
     "images": [
       {
@@ -75609,7 +75609,7 @@
     "id": 5483,
     "date": "2025-05-25T13:32:03",
     "text": "以及，今天终于见到了幽灵灵好开心！是认识了超级久的朋友，也是这个频道的第一位订阅者 qwq\n\n因为觉得幽灵灵或许和我一样会喜欢可爱又没什么用的小物件，昨天去百円店买了些手工原料做了一个晴天娃娃作为礼物 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（有感觉自己在变成小学三年小孩子）\n\n相对应，我收到了一本设计用词的可爱绘本和东京旅行信息书（确实很需要，感谢！），还有ta的作品小册子（希望总有一天我能够读懂）<i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n今天看完写真馆之后还在附近走了走逛了一些有趣的店，总之是很开心的一天 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 166,
+    "views": 167,
     "forwards": 2,
     "media_group_id": 13985439389650525,
     "images": [
@@ -75689,14 +75689,14 @@
     "id": 5490,
     "date": "2025-05-26T02:15:39",
     "text": "发现自己会被外国人当作日本人、会被日本人当作外国人 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 162,
+    "views": 163,
     "forwards": 1
   },
   {
     "id": 5491,
     "date": "2025-05-26T10:07:57",
     "text": "每次看到新干线的图标 <i class=\"custom-emoji\" emoji-src=\"emoji/6289796008025003402.webp\">🚄</i> 都觉得像一个胖大叔的肚肚怎么办",
-    "views": 152,
+    "views": 155,
     "forwards": 1,
     "images": [
       {
@@ -75715,7 +75715,7 @@
     "id": 5492,
     "date": "2025-05-26T12:06:15",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n工作的时候被推到的一首歌，因为从歌词里听到了 \"mafuyu\" 注意到了它\n\n...听起来好冷，真的有 mafuyu 会写出的歌的感觉",
-    "views": 116,
+    "views": 120,
     "forwards": 2,
     "files": [
       {
