@@ -41160,7 +41160,7 @@
     "id": 3048,
     "date": "2023-12-20T08:37:33",
     "text": "呜呜 给蓝夏传文件的时候发现从她西雅图那边连过来居然只有 33 Mbps，然后就用世界各地的 VPS 测了一下，发现果然家宽还是不太行... 即使有 3 Gbps 的理论上行，但是实际连到别人的机器上却 1 Gbps 都跑不满\n\n目前用 iperf3 测试的结果如下：\n<pre>*                     | 上传 | 下载\n* 🇨🇦 UofT CS Wolf     |  122 |  825\n* 🇨🇦 UofT CS dbsrv1   |  247 |  742\n* 🇨🇦 OVH (100M)       |   77 |  100\n* 🇨🇦 Bell (Jun)       |  857 |  \n* 🇨🇦 Bell M5V         |  939 |\n* 🇨🇦 TekSavvy L6C     |   44 |  927\n* 🇨🇦 Toronto Yuuta    |      |  485\n* 🇨🇦 Vancouver Yuuta  |  433 |  378\n* 🇱🇺 Luxemburg Gcore  |  122 |  109\n* 🇺🇸 Washington Vultr |  385 |  330\n* 🇺🇸 Seattle Yuuta    |      |  278\n* 🇺🇸 Texas Comcast    |   11 |\n* 🇮🇳 Mumbai Gcore     |   46 |   27\n* 🇨🇳 Aliyun Hangzhou  |    6 |  115\n* 🇨🇳 Hunan Unicom     |   32 |\n* 🇨🇳 Jiangsu Mobile   |   31 |\n* 🇭🇰 HK CNServers     |  122 |\n\n(下面两个不太算数)\n* 🇨🇦 Bell Aster PPPoE | 2830 | 2790\n* 🇨🇦 Speedtest.net    | 3201 | 3153</pre>\n\n\n总之多伦多的 3 Gbps 上行居然在多伦多内都跑不满感觉好难受，感觉自己升宽带像是被骗了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i> 这几天找一个各地互联都比较快的节点做外网代理好了\n\n欢迎大家有电脑也来测一下 qwq 跑 <code>iperf3 -R -c daisy-ddns.hydev.org</code> 就可以",
-    "views": 164,
+    "views": 165,
     "forwards": 1,
     "reply": {
       "id": 2726,
@@ -41637,7 +41637,7 @@
     "id": 3084,
     "date": "2023-12-27T15:44:02",
     "text": "拿到了！是展示机（这也算 open box 的吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323278563747301029.webp\">❓</i>",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "reply": {
       "id": 3081,
@@ -42368,7 +42368,7 @@
     "id": 3138,
     "date": "2024-01-04T06:28:10",
     "text": "呜呜 这个游戏带入感好强，不知不觉又连续玩了 11h 脑袋晕晕，感觉自己要被传送到博德之门的世界了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "reply": {
       "id": 3133,
@@ -42379,7 +42379,7 @@
     "id": 3139,
     "date": "2024-01-04T07:19:28",
     "text": "呜呜 发现一个大问题。现在 MS365 要过期了，但是我和导师的沟通一直是在 Teams 上，可是如果迁移到 G Suite 的话就不能继续用 Teams 了，而且聊天记录没办法一起迁移... 怎么办呢？",
-    "views": 112,
+    "views": 113,
     "forwards": 0,
     "reply": {
       "id": 3120,
@@ -42390,7 +42390,7 @@
     "id": 3140,
     "date": "2024-01-04T21:20:42",
     "text": "咦 发现今年好像还没出过门",
-    "views": 104,
+    "views": 105,
     "forwards": 0
   },
   {
@@ -42480,7 +42480,7 @@
     "id": 3146,
     "date": "2024-01-05T21:05:03",
     "text": "不喜欢命令行编辑器另一个原因是因为，无论是 vim 还是 nano 都没办法在保存的时候尝试 sudo 保存... 每次都是忘了 sudo 然后在保存的时候才发现没权限写不进去，然后就只能退出重新 sudo 启动编辑一遍再保存了 💢\n\n而 GUI 编辑器无论是 vscode 还是 gnome 自带的都会自动请求权限",
-    "views": 128,
+    "views": 129,
     "forwards": 1,
     "images": [
       {
@@ -42499,7 +42499,7 @@
     "id": 3147,
     "date": "2024-01-06T06:36:23",
     "text": "高中同学来玩，给我带了芒果蛋糕，好吃！开心！<i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 123,
+    "views": 124,
     "forwards": 0,
     "media_group_id": 13636183865706885,
     "files": [
@@ -42534,7 +42534,7 @@
     "id": 3149,
     "date": "2024-01-06T06:42:25",
     "text": "今天的博德之门：在别人族的重要画像上乱涂乱画，然后看有人走过来想要擦掉但是失败了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 115,
+    "views": 116,
     "forwards": 0,
     "reply": {
       "id": 3143,
@@ -42596,7 +42596,7 @@
     "id": 3153,
     "date": "2024-01-08T00:40:26",
     "text": "不懂，明明 Vulkan 应该在各方面都比 DX11/OpenGL 好的，可是每次用 Vulkan 玩游戏都好失望...\n\n这几天玩博德之门的时候用 Vulkan 启动的话帧率更高但是会有黑方块闪来闪去，昨天玩 Minecraft 的时候尝试用 Vulkan 启动直接让显卡驱动崩溃了。查查 reddit 却发现社区里大部分人都没有遇到同样的问题，可是遇到同样问题的机器里既有 Nvidia 也有 AMD 卡，既有高清高刷 HDR 也有普通显示器，完全找不到共同点...\n\n呜 不理解",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "files": [
       {
@@ -42617,14 +42617,14 @@
     "id": 3154,
     "date": "2024-01-08T20:02:02",
     "text": "哭 开学第一天就把课全都睡过去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 247,
+    "views": 248,
     "forwards": 2
   },
   {
     "id": 3155,
     "date": "2024-01-09T06:04:56",
     "text": "哭 发现今年的六门课里只有两门有 recording，看来不能像上学期一样不去学校了...",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "images": [
       {
@@ -42643,7 +42643,7 @@
     "id": 3156,
     "date": "2024-01-09T10:37:50",
     "text": "之前打博德之门 3 的时候在第三章从一个地洞出来真的梦回英雄无敌 3，然后今天在和聊聊重温英雄无敌 3 打教程关\n\n我：呜呜，这个游戏比我老了，99 年的\n聊聊：呜呜呜呜呜，这个游戏比我小啊",
-    "views": 116,
+    "views": 117,
     "forwards": 0,
     "images": [
       {
@@ -42662,7 +42662,7 @@
     "id": 3157,
     "date": "2024-01-09T18:28:14",
     "text": "今年上 Web 课，我我来招人写私服 UI 了hhhh",
-    "views": 124,
+    "views": 125,
     "forwards": 1,
     "images": [
       {
@@ -42681,7 +42681,7 @@
     "id": 3158,
     "date": "2024-01-09T20:34:33",
     "text": "我：咦 2023 年的「爱的付出奖」怎么选了一个 RDR2 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n聊聊：这是怎么选的\n我：“直到今天，游戏仍在不断推出新内容...”\n聊聊：啊这个游戏在线模式一直在推新内容\n我：啊？这个游戏居然有在线模式？哦我玩的是学习版没事了 🌚",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "images": [
       {
@@ -72135,7 +72135,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5208,
+    "views": 5209,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -75104,7 +75104,7 @@
     "id": 5443,
     "date": "2025-05-21T02:26:05",
     "text": "？Copilot 你想干什么 <i class=\"custom-emoji\" emoji-src=\"emoji/6213122269036680377.webm\">😊</i>",
-    "views": 247,
+    "views": 248,
     "forwards": 0,
     "images": [
       {
@@ -75421,7 +75421,7 @@
     "id": 5467,
     "date": "2025-05-25T01:46:59",
     "text": "昨晚和天文姐姐和谦谦去看了星星 <i class=\"custom-emoji\" emoji-src=\"emoji/5217818964612108191.tgs\">✨</i>\n\n其实不是真的星星啦，是去了 MyGO 高松灯喜欢去的池袋那家「满天」看到了投影的星星。这个投影设备好厉害，效果就像真的有满天星星一样 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> \n\n看星星好治愈！决定给之后北海道的行程加上「看星星」\n\n以及发现星座的定义好随意，感觉想要看出星座描述里的东西真的需要很大想象力<del>（高情商）</del><i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 在想有没有办法做一个算法，输入一个图形然后连接任意的星星找到最接近的形状\n\n回家路上看到了东京唯一一条轻轨樱花线 <i class=\"custom-emoji\" emoji-src=\"emoji/6132038041016993493.webp\">🚉</i> 奇妙",
-    "views": 212,
+    "views": 213,
     "forwards": 2,
     "media_group_id": 13985100958430453,
     "images": [
@@ -75461,7 +75461,7 @@
     "id": 5470,
     "date": "2025-05-25T04:18:43",
     "text": "呜呜 去点餐原本想用日语点餐，结果说了一句日语然后服务员开始和我说英语了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n点了咖喱和汤和冰红茶，但是冰红茶只是红茶+冰，没有柠檬也没有甜味...",
-    "views": 185,
+    "views": 186,
     "forwards": 1,
     "media_group_id": 13985173791443813,
     "images": [
@@ -75491,14 +75491,14 @@
     "id": 5472,
     "date": "2025-05-25T05:35:59",
     "text": "去摄影艺术馆就是 看到好多想和不同朋友分享的作品但是禁止摄影",
-    "views": 165,
+    "views": 166,
     "forwards": 0
   },
   {
     "id": 5473,
     "date": "2025-05-25T12:34:43",
     "text": "今天去東京都写真美術館看了 JPS 2025 的展会。因为禁止摄影，为了记录分享展会上喜欢的作品花钱买了一本作品集（好贵！）\n\n这个作品集感觉排版真的有点无聊，像是资源管理器「大缩略图」直出，完全没有用心排版的感觉。不过作品还是有很多喜欢的\n\n这个喝着夕暮的猫猫真的好可爱好迷幻 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 162,
+    "views": 163,
     "forwards": 0,
     "media_group_id": 13985411869769157,
     "images": [
@@ -75608,7 +75608,7 @@
     "id": 5483,
     "date": "2025-05-25T13:32:03",
     "text": "以及，今天终于见到了幽灵灵好开心！是认识了超级久的朋友，也是这个频道的第一位订阅者 qwq\n\n因为觉得幽灵灵或许和我一样会喜欢可爱又没什么用的小物件，昨天去百円店买了些手工原料做了一个晴天娃娃作为礼物 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（有感觉自己在变成小学三年小孩子）\n\n相对应，我收到了一本设计用词的可爱绘本和东京旅行信息书（确实很需要，感谢！），还有ta的作品小册子（希望总有一天我能够读懂）<i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n今天看完写真馆之后还在附近走了走逛了一些有趣的店，总之是很开心的一天 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 180,
+    "views": 181,
     "forwards": 2,
     "media_group_id": 13985439389650525,
     "images": [
@@ -75688,14 +75688,14 @@
     "id": 5490,
     "date": "2025-05-26T02:15:39",
     "text": "发现自己会被外国人当作日本人、会被日本人当作外国人 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 179,
+    "views": 180,
     "forwards": 1
   },
   {
     "id": 5491,
     "date": "2025-05-26T10:07:57",
     "text": "每次看到新干线的图标 <i class=\"custom-emoji\" emoji-src=\"emoji/6289796008025003402.webp\">🚄</i> 都觉得像一个胖大叔的肚肚怎么办",
-    "views": 181,
+    "views": 182,
     "forwards": 1,
     "images": [
       {
@@ -75714,7 +75714,7 @@
     "id": 5492,
     "date": "2025-05-26T12:06:15",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n工作的时候被推到的一首歌，因为从歌词里听到了 \"mafuyu\" 注意到了它\n\n...听起来好冷，真的有 mafuyu 会写出的歌的感觉",
-    "views": 161,
+    "views": 162,
     "forwards": 2,
     "files": [
       {
@@ -75736,7 +75736,7 @@
     "id": 5493,
     "date": "2025-05-28T03:20:38",
     "text": "ヤマト快递这个图标真的是生动形象了，大猫猫叼着小猫猫\n\n（虽然有希望它画得更可爱一点",
-    "views": 159,
+    "views": 160,
     "forwards": 2,
     "images": [
       {
@@ -75754,7 +75754,7 @@
   {
     "id": 5494,
     "date": "2025-05-28T03:21:50",
-    "views": 162,
+    "views": 163,
     "forwards": 2,
     "files": [
       {
@@ -75775,7 +75775,7 @@
     "id": 5495,
     "date": "2025-05-28T09:10:19",
     "text": "因为天气好出门散步，看到一只小鸟落在树枝上，背景的窗户变成了小鸟的天然相框 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 91,
+    "views": 94,
     "forwards": 0,
     "media_group_id": 13987387354182557,
     "images": [
