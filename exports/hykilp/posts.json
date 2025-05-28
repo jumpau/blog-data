@@ -72135,7 +72135,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5209,
+    "views": 5210,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -75461,7 +75461,7 @@
     "id": 5470,
     "date": "2025-05-25T04:18:43",
     "text": "呜呜 去点餐原本想用日语点餐，结果说了一句日语然后服务员开始和我说英语了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n点了咖喱和汤和冰红茶，但是冰红茶只是红茶+冰，没有柠檬也没有甜味...",
-    "views": 186,
+    "views": 187,
     "forwards": 1,
     "media_group_id": 13985173791443813,
     "images": [
@@ -75775,7 +75775,7 @@
     "id": 5495,
     "date": "2025-05-28T09:10:19",
     "text": "因为天气好出门散步，看到一只小鸟落在树枝上，背景的窗户变成了小鸟的天然相框 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 94,
+    "views": 96,
     "forwards": 0,
     "media_group_id": 13987387354182557,
     "images": [
