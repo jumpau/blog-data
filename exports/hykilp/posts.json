@@ -41183,7 +41183,7 @@
     "id": 3049,
     "date": "2023-12-20T16:22:25",
     "text": "草 原来 iperf3 默认测的是是客户端上传，加 <code>-R</code> 才是服务端上传 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 143,
+    "views": 144,
     "forwards": 0,
     "reply": {
       "id": 3048,
@@ -41194,7 +41194,7 @@
     "id": 3050,
     "date": "2023-12-20T18:53:08",
     "text": "聊聊买了一个这个鼓，没有压感感觉接上 garageband 的音源也救不了它...",
-    "views": 104,
+    "views": 105,
     "forwards": 0,
     "images": [
       {
@@ -41213,7 +41213,7 @@
     "id": 3051,
     "date": "2023-12-21T02:57:01",
     "text": "？🫠",
-    "views": 110,
+    "views": 111,
     "forwards": 1,
     "images": [
       {
@@ -41232,21 +41232,21 @@
     "id": 3052,
     "date": "2023-12-22T08:18:05",
     "text": "之前投完 Bilibili 视频从私信认识了几位同样在多伦多喜欢玩街机音游的朋友，今天 CauBaC 来这里玩，见到了新朋友好开心 qwq\n\n感觉好神奇，即使没有互相发过照片依然一眼认出了是网友（以及 CauBaC 好可爱！）而且发现我真的不社恐了诶，<del>想起来两三年前这样见网友还会觉得认错人会好尴尬，然后就会在约定地点旁边打字问∞个问题之后发现网友就在眼前</del>（？）\n\n玩得很开心！她好厉害！> < 刚过来她还说没怎么玩过中二，然后我很耐心地讲了各种流程结果她上来就打 13+ 打了一个 995 (╯’ – ‘)╯︵ ┻━┻ <del>被音游人的例常卖菜骗到了</del>\n\n好想快点把 Wacca 和 maimai 也搭起来...",
-    "views": 119,
+    "views": 120,
     "forwards": 0
   },
   {
     "id": 3053,
     "date": "2023-12-22T09:11:04",
     "text": "又发生了睡觉 deadlock，我在等聊聊睡觉的时候聊聊在等我睡觉，结果就到凌晨四点了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 115,
+    "views": 116,
     "forwards": 2
   },
   {
     "id": 3054,
     "date": "2023-12-22T23:19:55",
     "text": "更新完了！<a href=\"https://github.com/hykilpikonna/AquaDX\">AquaDX</a> 和 <a href=\"lux.hydev.org\">lux.hydev.org</a> 都支持中二 SUN Plus 了！所有数据也都同步了哦",
-    "views": 124,
+    "views": 125,
     "forwards": 1,
     "media_group_id": 13626297563827117,
     "images": [
@@ -41296,7 +41296,7 @@
     "id": 3058,
     "date": "2023-12-23T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n《Show me how》—Men I Trust\n\n\"Show me how you're proud,\nTell me how you reach the moon\"\n\n好想要张开双手抓住月亮\n\n<a href=\"https://www.youtube.com/watch?v=OZRYzH0Q0pU\">YouTube (MV)</a> | <a href=\"https://music.163.com/song?id=1305366120\">网易云</a>",
-    "views": 189,
+    "views": 190,
     "forwards": 0,
     "reply": {
       "id": 2964,
@@ -41322,21 +41322,21 @@
     "id": 3059,
     "date": "2023-12-23T07:15:55",
     "text": "这个假期想做的 TODO 列表写在这里好啦，虽然不知道能做完多少...\n\n* 搭好中二 sun plus 更新私服 ✅\n* 把 HTPC 的黑苹果修好 ✅\n* 启动起来 drummania\n* 把 wacca touch 固件写了然后让 Asuna 帮忙测试 \n* 再订一套 wactroller 框的零件寄过来 ✅\n* 修 VPS 的 PPPoE IP 问题 ✅\n* ADHD ECG 检查",
-    "views": 234,
+    "views": 235,
     "forwards": 0
   },
   {
     "id": 3061,
     "date": "2023-12-24T07:50:45",
     "text": "呜 好想出去玩",
-    "views": 182,
+    "views": 183,
     "forwards": 0
   },
   {
     "id": 3062,
     "date": "2023-12-24T20:57:15",
     "text": "呜 原本计划去看 3:30 的电影结果今天又睡了 13h 睡到了下午四点... 感觉自己在冬眠 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 156,
+    "views": 157,
     "forwards": 0,
     "reply": {
       "id": 3061,
@@ -41347,7 +41347,7 @@
     "id": 3063,
     "date": "2023-12-24T21:36:38",
     "text": "把 HTPC 的黑苹果 EFI 修好了，开起来一个五年前就在用的 macOS 系统发现启动好慢，打算清一下的自启项目... 然后看到了这些乱七八糟的 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\nDrew Mills 和 Elly McNeal 和 Vesa Heikkil 都是啥？Helper-Tool 是什么东西的 helper？？为什么 <code>/bin/ln</code> 和 <code>/bin/python3</code> 要自启？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 125,
+    "views": 126,
     "forwards": 0,
     "media_group_id": 13627630389805149,
     "images": [
@@ -41377,7 +41377,7 @@
     "id": 3065,
     "date": "2023-12-25T06:49:59",
     "text": "既然要从国内订 Wacca 架子的铝型材空运过来那就顺便多买点铝型材做一个桌子吧（反正不会增加包裹的总共体积",
-    "views": 111,
+    "views": 112,
     "forwards": 0,
     "reply": {
       "id": 3059,
@@ -41400,7 +41400,7 @@
     "id": 3067,
     "date": "2023-12-25T11:01:14",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n补一下昨天和 Celestium 做的烤鸡和炒菜 qwq\n\n是平安夜烤鸡！",
-    "views": 102,
+    "views": 103,
     "forwards": 1,
     "media_group_id": 13628016598669917,
     "images": [
@@ -41430,14 +41430,14 @@
     "id": 3068,
     "date": "2023-12-25T11:08:00",
     "text": "圣诞节快乐！<span class=\"spoiler\"><span>子兰生日快乐！</span></span>\n\n说起来虽然已经和前前任子兰分手快三年了，电脑的解锁密码却仍然是子兰的生日... 懒得改，感觉要改的话还要覆盖掉一个刻在肌肉记忆里的动作好麻烦 quq",
-    "views": 101,
+    "views": 102,
     "forwards": 1
   },
   {
     "id": 3069,
     "date": "2023-12-25T18:03:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 Celestium 一起做的咖喱五花肉面！\n\n<del>因为又想吃咖喱又想吃面就做了咖喱面</del>，还挺好吃的 qwq\n\n大概先热锅烧油炒葱白、炒五花肉片，然后放咖喱酱进去一起炒，然后倒开水煮五分钟就好啦",
-    "views": 128,
+    "views": 129,
     "forwards": 0,
     "media_group_id": 13628219165055509,
     "images": [
@@ -41477,7 +41477,7 @@
     "id": 3072,
     "date": "2023-12-25T22:56:44",
     "text": "去看了吉卜力的新作《The Boy and the Heron》，三个人集体没看懂 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "reply": {
       "id": 3062,
@@ -41488,7 +41488,7 @@
     "id": 3073,
     "date": "2023-12-26T20:08:45",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n圣诞的黄桃抹茶慕斯！",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "media_group_id": 13628970602555357,
     "images": [
@@ -41548,7 +41548,7 @@
     "id": 3078,
     "date": "2023-12-27T00:54:11",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炒冷面！",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "images": [
       {
@@ -41567,7 +41567,7 @@
     "id": 3079,
     "date": "2023-12-27T04:52:39",
     "text": "Lexar NM710 这个盘好便宜！Gen4 TLC 的盘 1TB 居然只要 $50？！\n\n室友猪猪买了两张组 raid0 读写 4.1GB/s <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 我买了四张同样想 raid0 但是 PCIe 分路卡还在飞机上",
-    "views": 176,
+    "views": 177,
     "forwards": 1,
     "media_group_id": 13629222073810197,
     "images": [
@@ -41597,7 +41597,7 @@
     "id": 3081,
     "date": "2023-12-27T11:37:15",
     "text": "今年的 boxing day 花了六个小时给聊聊挑新的笔记本\n\n写了三个爬虫，分别爬 CanadaComputers 笔记本价格数据、让 GPT3.5 从商品名里面解析清理型号、爬 NotebookCheck CPU 信息和 GPU 跑分、爬 Passmark CPU 跑分，爬下来处理完最终生成出了<a href=\"https://hw.hydev.org/PCData/\">这个网页</a>！（源码在<a href=\"https://github.com/hykilpikonna/OpenHardware/tree/main/PCData\">这里</a>！\n\n它可以按各种需求计算出 100% 性价比最高的笔记本，比如如果需要游戏本就看 gpu 比例高的列表，需要轻薄本就看 cpu 比例高的列表。\n\n和聊聊聊聊之后打算买 IdeaPad 3 啦，因为聊聊需要轻薄也不需要用笔记本打游戏。轻 1.6kg 15\"，Ryzen 5825U，SSD 内存都能换，看拆机视频可维修性超高，感觉还不错 qwq",
-    "views": 98,
+    "views": 99,
     "forwards": 2,
     "media_group_id": 13629416286353677,
     "images": [
@@ -41637,7 +41637,7 @@
     "id": 3084,
     "date": "2023-12-27T15:44:02",
     "text": "拿到了！是展示机（这也算 open box 的吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323278563747301029.webp\">❓</i>",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "reply": {
       "id": 3081,
@@ -41649,7 +41649,7 @@
     "id": 3085,
     "date": "2023-12-27T17:56:31",
     "text": "买回来立即升级了 SSD 和内存，不过第一次见 15 寸这么大的笔记本里面居然这么空，<del>说不定能塞一些魔改进去，感觉空间这么大可以放一个 rf 写卡器了</del>",
-    "views": 98,
+    "views": 99,
     "forwards": 1,
     "reply": {
       "id": 3084,
@@ -41672,7 +41672,7 @@
     "id": 3086,
     "date": "2023-12-28T04:55:50",
     "text": "+ maimai DX！\n\n它真的好大好重！送到的时候是一个大卡车开过来司机专门打电话联系我了，送上楼还被公寓物业骂了说需要申请货物电梯，然后三个人一起才把它搬上来拼好（感谢 Celestium 帮忙 qwq\n\n用了一段时间把软件调好啦，感谢蓝夏的魔改！现在还缺读卡器和自起脚本，私服似乎也已经兼容了 1.40 的样子（虽然没有做修改，可能是这两个版本之间 API 本身就没有改动吧）\n\n总之明天再继续折腾了，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 230,
+    "views": 231,
     "forwards": 3,
     "media_group_id": 13629914800119629,
     "images": [
@@ -41722,7 +41722,7 @@
     "id": 3092,
     "date": "2023-12-28T21:45:57",
     "text": "第一次见到 boxing day 打折还没结束就卖缺货了，可能这个盘真的太香",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "media_group_id": 13630399662928013,
     "images": [
@@ -41757,7 +41757,7 @@
     "id": 3094,
     "date": "2023-12-29T03:06:42",
     "text": "哭哭 感觉有点亏... 花了 $50 升 SSD，花了 $70 升 40GB 内存，然后发现这个屏幕是 TN 屏看着好难受想再花 $50 从国内买替换屏幕... 但是那样加起来就 $690 了，感觉还不如退掉从国内买机械革命无界 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 95,
+    "views": 96,
     "forwards": 1,
     "reply": {
       "id": 3085,
@@ -41768,7 +41768,7 @@
     "id": 3095,
     "date": "2023-12-29T03:32:41",
     "text": "决定试试退掉，如果能退掉就<del>上船</del>",
-    "views": 86,
+    "views": 87,
     "forwards": 0,
     "reply": {
       "id": 3094,
@@ -41779,7 +41779,7 @@
     "id": 3096,
     "date": "2023-12-29T04:00:11",
     "text": "读卡器和开机自起都做好啦！用 Windows Task Scheduler 加了两个服务，一个是登录自动启动读卡器和 maimai，另一个是断电的时候自动关机，然后用 sysinternals 设了开机自动登录\n\n从开机到能玩只要两分半！",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "reply": {
       "id": 3086,
@@ -41806,7 +41806,7 @@
     "id": 3097,
     "date": "2023-12-29T04:51:40",
     "text": "聊聊在拼天坛\n我：这个亭子怎么这么和风🇯🇵\n聊聊（沉默）\n\n...但是它看起来确实很🇯🇵！<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "images": [
       {
@@ -41825,7 +41825,7 @@
     "id": 3098,
     "date": "2023-12-29T08:47:34",
     "text": "<del>年度总结：今年睡了 8761h</del>",
-    "views": 89,
+    "views": 90,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -41836,7 +41836,7 @@
     "id": 3099,
     "date": "2023-12-29T19:29:17",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n<del>牛角三明培根鸡蛋治包！</del>",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "images": [
       {
@@ -41855,7 +41855,7 @@
     "id": 3100,
     "date": "2023-12-29T21:00:06",
     "text": "后续：退掉了！",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "reply": {
       "id": 3095,
@@ -41866,14 +41866,14 @@
     "id": 3101,
     "date": "2023-12-29T21:02:39",
     "text": "我：要不要打车？\n聊聊：没必要吧\n我：\"maybe 要吧\" 是要还是不要",
-    "views": 96,
+    "views": 97,
     "forwards": 0
   },
   {
     "id": 3102,
     "date": "2023-12-29T22:01:41",
     "text": "哭哭 比较倒霉\n\n原本想顺便看看怎么把之前坏掉的手机寄回国送修，去顺丰顺丰没开，然后去 UPS 和 Canada Post 都说有电池不能寄... 为什么中国能寄过来但是加拿大不能寄回去，怪哦\n\n不知道怎么办了",
-    "views": 161,
+    "views": 162,
     "forwards": 1,
     "images": [
       {
@@ -49425,7 +49425,7 @@
     "id": 3619,
     "date": "2024-04-29T20:12:06",
     "text": "堵飞机",
-    "views": 134,
+    "views": 135,
     "forwards": 1,
     "media_group_id": 13715372215239485,
     "images": [
@@ -49455,7 +49455,7 @@
     "id": 3621,
     "date": "2024-04-30T12:44:31",
     "text": "试着在飞机上写一些 Wactroller v2 控制板的代码，看看我写的这些支离破碎的初始化代码 🌚 没有网络没有 AI 帮忙，不能查用例和文档，只有 IDE 和依赖源码可以参考... 上次这样写代码应该还是在小学打算法比赛的时候。\n\n没有需要网的效率工具我真的好废，不过同时也觉得读依赖源码让我对 TWAI (CAN) 理解得更多了，这种理解也许不是看着样例照猫画虎把项目写出来能学到的 qwq",
-    "views": 115,
+    "views": 116,
     "forwards": 0,
     "images": [
       {
@@ -49474,7 +49474,7 @@
     "id": 3622,
     "date": "2024-04-30T16:00:52",
     "text": "在香港和 qrty 玩得很开心 qwq\n\n坐了天星小轮，船票居然只要 ￥5 哇，比地铁便宜风景还好好，如果当时在西雅图能用这么便宜的价格坐船过河的话我一定会天天坐船上班的（然而当时开车过桥每过一次要收 US$4.5 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n办了一张八达通加入了我的地铁卡收藏 qwq 感觉在这边八达通就像 Suica 一样在哪里都能用诶（而且同样都是 Felica！）如果多伦多的 Presto 也是这样就好了。\n\n坐了 MTR 地铁，感觉除了机场快线很舒服以外其他的地铁站和车厢都和北京的差不多，比例超级误导的地铁地图也是一模一样（？）",
-    "views": 121,
+    "views": 122,
     "forwards": 1,
     "media_group_id": 13715942816462349,
     "images": [
@@ -49554,7 +49554,7 @@
     "id": 3629,
     "date": "2024-04-30T16:23:28",
     "text": "还去了港大！环境好棒，有不是那么追求安静的图书馆，听到了从公用钢琴传来的琴声和歌声\n\n建筑也好奇妙，感觉这个校园重新定义了地面，走在路上会给我一种在地面的错觉，但是实际上楼的一层下面也有其他的楼，从地铁出来进校区的那一刻就已经在天上了 quq",
-    "views": 109,
+    "views": 110,
     "forwards": 1,
     "media_group_id": 13715953665026693,
     "images": [
@@ -61483,7 +61483,7 @@
     "id": 4488,
     "date": "2024-09-27T02:04:52",
     "text": "curiosity",
-    "views": 151,
+    "views": 152,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -72135,7 +72135,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5212,
+    "views": 5213,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73065,7 +73065,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5676,
+    "views": 5677,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -75461,7 +75461,7 @@
     "id": 5470,
     "date": "2025-05-25T04:18:43",
     "text": "呜呜 去点餐原本想用日语点餐，结果说了一句日语然后服务员开始和我说英语了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n点了咖喱和汤和冰红茶，但是冰红茶只是红茶+冰，没有柠檬也没有甜味...",
-    "views": 188,
+    "views": 189,
     "forwards": 1,
     "media_group_id": 13985173791443813,
     "images": [
@@ -75736,7 +75736,7 @@
     "id": 5493,
     "date": "2025-05-28T03:20:38",
     "text": "ヤマト快递这个图标真的是生动形象了，大猫猫叼着小猫猫\n\n（虽然有希望它画得更可爱一点",
-    "views": 165,
+    "views": 166,
     "forwards": 2,
     "images": [
       {
@@ -75754,7 +75754,7 @@
   {
     "id": 5494,
     "date": "2025-05-28T03:21:50",
-    "views": 168,
+    "views": 169,
     "forwards": 2,
     "files": [
       {
@@ -75775,7 +75775,7 @@
     "id": 5495,
     "date": "2025-05-28T09:10:19",
     "text": "因为天气好出门散步，看到一只小鸟落在树枝上，背景的窗户变成了小鸟的天然相框 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 100,
+    "views": 102,
     "forwards": 0,
     "media_group_id": 13987387354182557,
     "images": [
