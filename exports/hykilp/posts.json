@@ -72135,7 +72135,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5211,
+    "views": 5212,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73065,7 +73065,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5671,
+    "views": 5673,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -74845,7 +74845,7 @@
     "id": 5423,
     "date": "2025-05-18T00:43:22",
     "text": "如果我的头发是触手就好了\n\n我的意思是，如果人类头发有进化出像水母触手那样会自动防打结的功能就好了。昨天在江の島風有 40km/h 吹得头发全都打结了 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 278,
+    "views": 279,
     "forwards": 2
   },
   {
@@ -75104,7 +75104,7 @@
     "id": 5443,
     "date": "2025-05-21T02:26:05",
     "text": "？Copilot 你想干什么 <i class=\"custom-emoji\" emoji-src=\"emoji/6213122269036680377.webm\">😊</i>",
-    "views": 248,
+    "views": 249,
     "forwards": 0,
     "images": [
       {
@@ -75775,7 +75775,7 @@
     "id": 5495,
     "date": "2025-05-28T09:10:19",
     "text": "因为天气好出门散步，看到一只小鸟落在树枝上，背景的窗户变成了小鸟的天然相框 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 98,
+    "views": 99,
     "forwards": 0,
     "media_group_id": 13987387354182557,
     "images": [
