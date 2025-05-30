@@ -70679,7 +70679,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2506,
+    "views": 2507,
     "forwards": 29,
     "images": [
       {
@@ -72135,7 +72135,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5221,
+    "views": 5222,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73065,7 +73065,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5689,
+    "views": 5691,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -74091,7 +74091,7 @@
   {
     "id": 5363,
     "date": "2025-05-12T11:37:58",
-    "views": 269,
+    "views": 270,
     "forwards": 1,
     "images": [
       {
@@ -74110,7 +74110,7 @@
     "id": 5364,
     "date": "2025-05-12T16:25:17",
     "text": "刚刚回家 这是凌晨零点我的工位（因为想借用公司的显示器写研究生申请所以待到了凌晨 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n（因为不能真的发工位照片所以让 CyberRealistic img2img 了一下\n\n回来的时候骑了共享电滑板... 好爽！这是上次自己买的电滑板被偷走之后第一次骑电滑板 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 想以后就电滑板上下班吧",
-    "views": 255,
+    "views": 256,
     "forwards": 2,
     "media_group_id": 13976536938894741,
     "images": [
@@ -75242,7 +75242,7 @@
     "id": 5453,
     "date": "2025-05-23T02:14:49",
     "text": "哇 居然已经 30 年了，Java 生日快乐！\n\n<del>感觉 JVM 生态能活到现在完全是靠 Minecraft 和安卓这两个社区...</del>",
-    "views": 375,
+    "views": 377,
     "forwards": 11,
     "images": [
       {
@@ -75695,7 +75695,7 @@
     "id": 5491,
     "date": "2025-05-26T10:07:57",
     "text": "每次看到新干线的图标 <i class=\"custom-emoji\" emoji-src=\"emoji/6289796008025003402.webp\">🚄</i> 都觉得像一个胖大叔的肚肚怎么办",
-    "views": 212,
+    "views": 215,
     "forwards": 1,
     "images": [
       {
@@ -75775,7 +75775,7 @@
     "id": 5495,
     "date": "2025-05-28T09:10:19",
     "text": "因为天气好出门散步，看到一只小鸟落在树枝上，背景的窗户变成了小鸟的天然相框 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 155,
+    "views": 156,
     "forwards": 0,
     "media_group_id": 13987387354182557,
     "images": [
@@ -75805,7 +75805,7 @@
     "id": 5497,
     "date": "2025-05-29T11:45:04",
     "text": "现在是工作的第三周，这次的研究项目是想让我用新方法 A 去解决问题 X。但是我觉得 A 不靠谱，想先试试以前用过的旧方法 B，结果 B 真的解决了 X，还差不多是天花板的效率和准确率...\n\n听上去大吉，问题解决了，但是实际上方法 B 太普通了没办法用来发文，结果反而可能要换方向浪费掉了两周 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 145,
+    "views": 146,
     "forwards": 0,
     "media_group_id": 13988152835403037,
     "images": [
@@ -75845,7 +75845,7 @@
     "id": 5500,
     "date": "2025-05-30T07:21:56",
     "text": "东京建筑师到底是多么不喜欢焊接... <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 108,
+    "views": 114,
     "forwards": 1,
     "media_group_id": 13988717735589437,
     "images": [
@@ -75875,7 +75875,7 @@
     "id": 5502,
     "date": "2025-05-30T07:27:39",
     "text": "猜猜我昨天和 <a href=\"https://t.me/MizukiAmakawa\">@MizukiAmakawa</a> 去了哪里 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 首先排除美国\n\n是台場！",
-    "views": 85,
+    "views": 92,
     "forwards": 0,
     "media_group_id": 13988720475874117,
     "images": [
@@ -75955,7 +75955,7 @@
     "id": 5509,
     "date": "2025-05-30T07:43:51",
     "text": "在海边散了步之后从彩虹桥走回家了！走了一个小时左右，拍了很多好看照片，大满足 qwq\n\n可惜手机的镜头在低光线环境不太行，即使手动调 ISO 和快门速度这也是极限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i> 好想买相机呀（买不起，悲）",
-    "views": 75,
+    "views": 84,
     "forwards": 0,
     "media_group_id": 13988728255370421,
     "images": [
