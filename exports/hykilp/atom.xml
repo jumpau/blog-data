@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-05-30T16:14:25.519901+00:00</updated>
+  <updated>2025-05-30T18:14:04.937535+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5518</id>
+    <title>小桂桂的回忆录 📒 #5518</title>
+    <updated>2025-05-30T16:44:51+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##戴上耳机"&gt;#戴上耳机&lt;/a&gt;
+零，用摩斯电码表达是五个长音，写出来像分割线一样诶&lt;/p&gt;
+&lt;p&gt;零点也是日期的的分割线，今日が昨日に、明日が今日に... 也许有什么更深的意味，但是我的脑洞已经被累累的一天熨平了 &lt;i class="custom-emoji" emoji-src="emoji/5445342095453725432.tgs"&gt;😴&lt;/i&gt; 睡睡&lt;/p&gt;
+&lt;p&gt;♪ おやすみ まだ名前のない 無数の想い
+♪ おやすみ またこんな夜に歌になる日まで&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5518" rel="alternate"/>
+  </entry>
   <entry>
     <id>5517</id>
     <title>小桂桂的回忆录 📒 #5517</title>
