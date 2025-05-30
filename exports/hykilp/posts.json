@@ -34762,7 +34762,7 @@
     "id": 2604,
     "date": "2023-09-05T23:41:35",
     "text": "🌆",
-    "views": 106,
+    "views": 107,
     "forwards": 1,
     "files": [
       {
@@ -34784,7 +34784,7 @@
     "id": 2605,
     "date": "2023-09-06T02:28:18",
     "text": "可怜狐狸刚做完手术好痛苦的样子...",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "files": [
       {
@@ -34806,7 +34806,7 @@
     "id": 2606,
     "date": "2023-09-06T06:10:27",
     "text": "一号去看了黄石南侧！早上天气不是很好，在多云掉雨点的样子。\n\n开车路过清澈的小溪，停下来接了一瓶溪水。没有 Rainier 的冰山水好喝但是也不错啦......结果继续上山发现上游有地下的火山水混进来 🌚 害怕。\n\n接下来看到了更多的水晶一样的湖和正在喷喷的间歇泉。剩下两位都拿着专业相机拍了湖那我就改拍他们好啦。Old Faithful 间歇泉大家都说好看，但是我们看的那次喷射好扫兴。还以为会更高的，而且很快就结束了，还有两小时的<del>贤者模式时间</del>（？）可惜这里真正最高的间歇泉 Steamboat 没办法预测喷射时间。",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "media_group_id": 13551845022368893,
     "images": [
@@ -34886,7 +34886,7 @@
     "id": 2613,
     "date": "2023-09-06T13:04:41",
     "text": "接下来沿着海找了野餐位置，拿出来丙烷炉和便携锅烧上水，然后突然吹过来好大的风... 赶快准备收摊了，刚收完摊回到车上就下起了暴雨。野餐计划失败了好可惜，不过回旅店之后在旅店外面重新烧了野餐螺蛳粉，好好吃 qwq\n\n回去的路上遇到三辆车被警察 pull over... 希望他们还好，我只超了一点速反而没被看到好幸运。\n\n路上还看了一个禁止钓鱼的钓鱼桥，桥下游过几只小鸭，映着日落非常好看！还路过了一段急流小河，水流的速度让声音像瀑布一样。急流上面站着几只小鹅，很好奇它们是怎样做到没被水流冲走的。\n\n那之后天就正好黑下来了，一路飙车回家啦。即使出发的行程有点赶，两天时间正好把黄石里所有想去的景点都看到了！很开心！<i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 81,
+    "views": 82,
     "forwards": 1,
     "media_group_id": 13552043848792709,
     "images": [
@@ -67059,7 +67059,7 @@
   {
     "id": 4863,
     "date": "2025-01-15T21:53:19",
-    "views": 179,
+    "views": 180,
     "forwards": 1,
     "images": [
       {
@@ -67078,7 +67078,7 @@
     "id": 4864,
     "date": "2025-01-15T23:56:15",
     "text": "在 线 人 数 显 示",
-    "views": 168,
+    "views": 169,
     "forwards": 0,
     "images": [
       {
@@ -67097,7 +67097,7 @@
     "id": 4865,
     "date": "2025-01-16T02:45:46",
     "text": "和 syama 一起花了三天做了一个联机 mod AquaMai.WorldsLink，装上 mod 之后任何网络下任何版本任何服务器上都可以互相联机了！\n\n（原本游戏必须是同一个局域网的基准机/从机才可以互相联机，两个机器必须都互相能访问到对方开放的 TCP 和 UDP 端口，而且必须是相同游戏版本）\n\n实现方法是把游戏原本需要 P2P 互相给对方开放的端口发东西的设计改成两个客户端同时连到一个公网服务器，然后这个服务器会转发互相发送的请求。（其实也是某种分流？每个客户端只和服务器建立一个 TCP 流，然后通过消息内容来分辨每个消息属于哪个分流然后单独处理 qwq\n\n为此手动在 kt 里搓了一个 TCP/UDP over TCP 的<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/src/main/java/icu/samnyan/aqua/sega/maimai2/worldslink/FutariServer.kt\">转发服务器</a>，和一个 C# 里面的<a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariClient.cs\">连接客户端</a>... 再加上一个 System Socket <a href=\"https://github.com/MewoLab/AquaMai/blob/futari/AquaMai.Mods/WorldsLink/FutariSocket.cs\">兼容层</a>把游戏内的调用都勾走，再修了些奇妙小 bug 就成功啦！感觉去年计网课真的没白学 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 208,
+    "views": 209,
     "forwards": 2,
     "images": [
       {
@@ -68137,7 +68137,7 @@
     "id": 4934,
     "date": "2025-02-14T18:00:50",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i> sinmai.ipa 绝赞崩坏中",
-    "views": 1414,
+    "views": 1415,
     "forwards": 9,
     "files": [
       {
@@ -68158,7 +68158,7 @@
   {
     "id": 4935,
     "date": "2025-02-14T21:16:56",
-    "views": 226,
+    "views": 227,
     "forwards": 0,
     "images": [
       {
@@ -68177,13 +68177,13 @@
     "id": 4936,
     "date": "2025-02-15T04:46:21",
     "text": "买了一个新域名 <a href=\"https://maigo.dev/\">maigo.dev</a> ，开了一个新的 GitHub Org，打算把今后和朋友一起做的新项目放在这里 qwq\n\n<span class=\"spoiler\"><span>（实际上是因为最近发生了一些很心痛的矛盾导致 AquaDX 现在的开发团队大概要散了，服务器也要拆分开了... 所以建起 MaigoLabs 大概是想建一个和新的朋友、以及被矛盾伤害到和现在的团队不兼容的朋友重新开始的地方吧，就像动画里的 MyGO 乐队那样 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</span></span></i>",
-    "views": 212,
+    "views": 213,
     "forwards": 0
   },
   {
     "id": 4937,
     "date": "2025-02-15T08:13:39",
-    "views": 205,
+    "views": 206,
     "forwards": 0,
     "files": [
       {
@@ -68208,7 +68208,7 @@
     "id": 4938,
     "date": "2025-02-17T09:28:42",
     "text": "聊聊今天去了她一个微博网友的生日派对，大暴风雪天机厅都停业了，然后居然来了 30 个人，大部分都是聊聊不认识的... 好震撼，还好我没去 quq\n\n这就是社牛吗... 我可能约饭有大于五个人就会过载 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n不过不太懂，为什么生日派对要邀请这么多不是很熟的人聚在一起，明明她和聊聊在那之前也有一年多没联系了，而且上次联系也是约饭 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 感觉如果是我也许只会想要邀请特别熟的人吧",
-    "views": 201,
+    "views": 202,
     "forwards": 1
   },
   {
@@ -68538,14 +68538,14 @@
     "id": 4961,
     "date": "2025-02-25T06:51:57",
     "text": "<del>进行一个人类 vs LLM 比赛：小桂桂打字和在 cpu 上跑 R1 谁打字速度更快</del>",
-    "views": 200,
+    "views": 201,
     "forwards": 0
   },
   {
     "id": 4962,
     "date": "2025-02-25T12:39:50",
     "text": "唉 感觉一般人对大模型的 scale 都有很大误解...\n\n不知道多少次和别人聊天听到别人觉得「671B 的 DeepSeek R1 是可以随便跑的」还有「distil 小模型效果和大模型差不多」\n\n实际上我的那台 GPU 服务器即使是插满四张 V100 也只能跑 32B 这种量级的模型，一般家里的机器也就最多跑跑 7B 1.5B 吧... 虽然确实有方案在小内存小显存的机器上跑大模型，比如显存不够的话可以在内存和显存之间搬来搬去，内存不够的话可以在内存和硬盘之间搬来搬去，<del>但是那样可能几个小时都回答不上你一个问题了</del>",
-    "views": 226,
+    "views": 227,
     "forwards": 0,
     "reply": {
       "id": 4961,
@@ -68555,7 +68555,7 @@
   {
     "id": 4963,
     "date": "2025-02-25T15:43:48",
-    "views": 242,
+    "views": 243,
     "forwards": 0,
     "images": [
       {
@@ -68574,21 +68574,21 @@
     "id": 4964,
     "date": "2025-02-25T23:57:41",
     "text": "KanadeDX 正式发布了！是 maimaiDX 移动端移植版\n\n欢迎来玩 <a href=\"https://kdx.nightcord.com.de\">https://kdx.nightcord.com.de</a> <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 337,
+    "views": 338,
     "forwards": 11
   },
   {
     "id": 4965,
     "date": "2025-02-26T03:29:56",
     "text": "聊聊去超市买了三次香菜都没买对，今天一起去的时候让聊聊帮忙拿香菜（因为太远了我走不动）然后聊聊给我拿了 curly parsley <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 229,
+    "views": 230,
     "forwards": 0
   },
   {
     "id": 4966,
     "date": "2025-02-26T11:56:44",
     "text": "因为 Quest 3 也是安卓，试了一下在 VR 里面装 KanadeDX，还真的能带得动\n\n<a href=\"https://www.youtube.com/watch?v=o6VLNAwER2E\">https://www.youtube.com/watch?v=o6VLNAwER2E</a>\n\n虽然手指追踪不是很行，因为是原生安卓应用不是 VR 应用所以只有食指的触摸可以被识别到，真的变成多拉A梦了\n\n（打 Lv9 红谱打了一个 AAA <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 233,
+    "views": 234,
     "forwards": 1,
     "reply": {
       "id": 4964,
@@ -70261,7 +70261,7 @@
     "id": 5082,
     "date": "2025-03-27T11:37:31",
     "text": "相信前几天<a href=\"https://github.com/langgenius/dify/pull/16819\">某个 dify PR</a> 大家肯定听说了。改图标把私钥推上去还给上游开 pr 确实离谱，但是我觉得评论区里这 106 个发评论炒作凑热闹的人更离谱...\n\n这种 pr 明明是 github 上天天都在发生的家常事，在同一个仓库搜索 <code>is:closed is:unmerged</code> 就会发现<a href=\"https://github.com/langgenius/dify/pull/16000\">差不多的事情</a>这两周里已经发生了五六次了...\n\n感觉会不小心把部署文件 pr 上来更多是 github 的 ux 设计问题，叉仓库的时候默认就假设了你想给上游做贡献而不是自己用。一个大黄框里摆一个超显眼的 pr 按钮的话，谁看到都会觉得应该点吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 211,
+    "views": 212,
     "forwards": 1,
     "media_group_id": 13944603614114381,
     "images": [
@@ -70291,7 +70291,7 @@
     "id": 5084,
     "date": "2025-03-28T01:01:02",
     "text": "今天天气好好，出门散步摸草\n\n走着走着走到了一个小公园，荡了秋千，聊聊推着我的感觉好奇妙好催眠，好想就在秋千上睡过去。还玩了那个弹簧杠杆椅子装置（<del>忘记叫什么了</del> 是跷跷板）\n\n好开心，不知道上次玩这些已经是多少年前了 qwq <del>等以后有固定的家了一定要在家里买一张秋千床</del>",
-    "views": 192,
+    "views": 193,
     "forwards": 2,
     "media_group_id": 13944989298419221,
     "images": [
@@ -70371,14 +70371,14 @@
     "id": 5091,
     "date": "2025-03-28T02:18:25",
     "text": "在想 现实中的树一定是无环的吗？世界这么大总会有一棵树有两根树枝分叉之后长到一起去的吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 208,
+    "views": 209,
     "forwards": 1
   },
   {
     "id": 5092,
     "date": "2025-03-28T14:55:53",
     "text": "买了一个酒杯，好好看",
-    "views": 191,
+    "views": 192,
     "forwards": 1,
     "images": [
       {
@@ -70397,7 +70397,7 @@
     "id": 5093,
     "date": "2025-03-28T15:21:04",
     "text": "<a href=\"##小桂桂今天吃什么\">#小桂桂今天吃什么</a>\n炒方便面杯，干杯！<i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n重新定义一下杯面",
-    "views": 209,
+    "views": 210,
     "forwards": 3,
     "media_group_id": 13945402114660557,
     "images": [
@@ -70437,21 +70437,21 @@
     "id": 5096,
     "date": "2025-03-28T16:11:27",
     "text": "（在犹豫要不要出门，犹豫超级久）\n聊聊：能不能定下主意\n我：好 那我决定了！我要在家里再犹豫半小时",
-    "views": 237,
+    "views": 238,
     "forwards": 0
   },
   {
     "id": 5097,
     "date": "2025-03-29T05:43:04",
     "text": "草\n\n我：聊聊好\n聊聊：喵\n我：聊聊坏\n聊聊：（哈气）\n我：聊聊又好又坏\n聊聊：喵哈～ <i class=\"custom-emoji\" emoji-src=\"emoji/6284922117792208146.webp\">🐱</i>\n\n笑得肚子疼",
-    "views": 324,
+    "views": 325,
     "forwards": 2
   },
   {
     "id": 5098,
     "date": "2025-03-29T19:42:46",
     "text": "今天打开账号 profile 发现居然已经两个月没玩 maimai 了... 果然所有精力都用来逆向游戏魔改游戏就没精力玩游戏了吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 227,
+    "views": 228,
     "forwards": 0,
     "images": [
       {
@@ -70470,7 +70470,7 @@
     "id": 5099,
     "date": "2025-03-29T21:42:34",
     "text": "不要把相机放在奇怪的地方啊啊\n(╯’ – ‘)╯︵ ┻━┻",
-    "views": 234,
+    "views": 235,
     "forwards": 0,
     "media_group_id": 13946276436934485,
     "images": [
@@ -75242,7 +75242,7 @@
     "id": 5453,
     "date": "2025-05-23T02:14:49",
     "text": "哇 居然已经 30 年了，Java 生日快乐！\n\n<del>感觉 JVM 生态能活到现在完全是靠 Minecraft 和安卓这两个社区...</del>",
-    "views": 368,
+    "views": 371,
     "forwards": 11,
     "images": [
       {
@@ -75608,7 +75608,7 @@
     "id": 5483,
     "date": "2025-05-25T13:32:03",
     "text": "以及，今天终于见到了幽灵灵好开心！是认识了超级久的朋友，也是这个频道的第一位订阅者 qwq\n\n因为觉得幽灵灵或许和我一样会喜欢可爱又没什么用的小物件，昨天去百円店买了些手工原料做了一个晴天娃娃作为礼物 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（有感觉自己在变成小学三年小孩子）\n\n相对应，我收到了一本设计用词的可爱绘本和东京旅行信息书（确实很需要，感谢！），还有ta的作品小册子（希望总有一天我能够读懂）<i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n今天看完写真馆之后还在附近走了走逛了一些有趣的店，总之是很开心的一天 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 191,
+    "views": 192,
     "forwards": 2,
     "media_group_id": 13985439389650525,
     "images": [
@@ -75688,14 +75688,14 @@
     "id": 5490,
     "date": "2025-05-26T02:15:39",
     "text": "发现自己会被外国人当作日本人、会被日本人当作外国人 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 198,
+    "views": 199,
     "forwards": 1
   },
   {
     "id": 5491,
     "date": "2025-05-26T10:07:57",
     "text": "每次看到新干线的图标 <i class=\"custom-emoji\" emoji-src=\"emoji/6289796008025003402.webp\">🚄</i> 都觉得像一个胖大叔的肚肚怎么办",
-    "views": 197,
+    "views": 198,
     "forwards": 1,
     "images": [
       {
@@ -75714,7 +75714,7 @@
     "id": 5492,
     "date": "2025-05-26T12:06:15",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n工作的时候被推到的一首歌，因为从歌词里听到了 \"mafuyu\" 注意到了它\n\n...听起来好冷，真的有 mafuyu 会写出的歌的感觉",
-    "views": 179,
+    "views": 182,
     "forwards": 2,
     "files": [
       {
@@ -75736,8 +75736,8 @@
     "id": 5493,
     "date": "2025-05-28T03:20:38",
     "text": "ヤマト快递这个图标真的是生动形象了，大猫猫叼着小猫猫\n\n（虽然有希望它画得更可爱一点",
-    "views": 190,
-    "forwards": 3,
+    "views": 194,
+    "forwards": 4,
     "images": [
       {
         "width": 156,
@@ -75754,7 +75754,7 @@
   {
     "id": 5494,
     "date": "2025-05-28T03:21:50",
-    "views": 192,
+    "views": 195,
     "forwards": 4,
     "files": [
       {
@@ -75775,7 +75775,7 @@
     "id": 5495,
     "date": "2025-05-28T09:10:19",
     "text": "因为天气好出门散步，看到一只小鸟落在树枝上，背景的窗户变成了小鸟的天然相框 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 135,
+    "views": 138,
     "forwards": 0,
     "media_group_id": 13987387354182557,
     "images": [
@@ -75805,7 +75805,7 @@
     "id": 5497,
     "date": "2025-05-29T11:45:04",
     "text": "现在是工作的第三周，这次的研究项目是想让我用新方法 A 去解决问题 X。但是我觉得 A 不靠谱，想先试试以前用过的旧方法 B，结果 B 真的解决了 X，还差不多是天花板的效率和准确率...\n\n听上去大吉，问题解决了，但是实际上方法 B 太普通了没办法用来发文，结果反而可能要换方向浪费掉了两周 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 114,
+    "views": 117,
     "forwards": 0,
     "media_group_id": 13988152835403037,
     "images": [
