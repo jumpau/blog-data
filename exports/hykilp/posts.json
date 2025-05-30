@@ -72902,7 +72902,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1709,
+    "views": 1710,
     "forwards": 50
   },
   {
@@ -73065,7 +73065,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5687,
+    "views": 5688,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -75321,7 +75321,7 @@
     "id": 5459,
     "date": "2025-05-23T10:28:10",
     "text": "发现自己从多伦多飞到东京之后每天都有出门，明明之前是家里蹲类型的，看来真的是多伦多村太无聊了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 222,
+    "views": 223,
     "forwards": 3
   },
   {
@@ -75461,7 +75461,7 @@
     "id": 5470,
     "date": "2025-05-25T04:18:43",
     "text": "呜呜 去点餐原本想用日语点餐，结果说了一句日语然后服务员开始和我说英语了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n点了咖喱和汤和冰红茶，但是冰红茶只是红茶+冰，没有柠檬也没有甜味...",
-    "views": 196,
+    "views": 198,
     "forwards": 1,
     "media_group_id": 13985173791443813,
     "images": [
@@ -75491,14 +75491,14 @@
     "id": 5472,
     "date": "2025-05-25T05:35:59",
     "text": "去摄影艺术馆就是 看到好多想和不同朋友分享的作品但是禁止摄影",
-    "views": 174,
+    "views": 175,
     "forwards": 0
   },
   {
     "id": 5473,
     "date": "2025-05-25T12:34:43",
     "text": "今天去東京都写真美術館看了 JPS 2025 的展会。因为禁止摄影，为了记录分享展会上喜欢的作品花钱买了一本作品集（好贵！）\n\n这个作品集感觉排版真的有点无聊，像是资源管理器「大缩略图」直出，完全没有用心排版的感觉。不过作品还是有很多喜欢的\n\n这个喝着夕暮的猫猫真的好可爱好迷幻 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 171,
+    "views": 172,
     "forwards": 0,
     "media_group_id": 13985411869769157,
     "images": [
@@ -75608,7 +75608,7 @@
     "id": 5483,
     "date": "2025-05-25T13:32:03",
     "text": "以及，今天终于见到了幽灵灵好开心！是认识了超级久的朋友，也是这个频道的第一位订阅者 qwq\n\n因为觉得幽灵灵或许和我一样会喜欢可爱又没什么用的小物件，昨天去百円店买了些手工原料做了一个晴天娃娃作为礼物 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（有感觉自己在变成小学三年小孩子）\n\n相对应，我收到了一本设计用词的可爱绘本和东京旅行信息书（确实很需要，感谢！），还有ta的作品小册子（希望总有一天我能够读懂）<i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n今天看完写真馆之后还在附近走了走逛了一些有趣的店，总之是很开心的一天 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 190,
+    "views": 191,
     "forwards": 2,
     "media_group_id": 13985439389650525,
     "images": [
@@ -75688,14 +75688,14 @@
     "id": 5490,
     "date": "2025-05-26T02:15:39",
     "text": "发现自己会被外国人当作日本人、会被日本人当作外国人 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 197,
+    "views": 198,
     "forwards": 1
   },
   {
     "id": 5491,
     "date": "2025-05-26T10:07:57",
     "text": "每次看到新干线的图标 <i class=\"custom-emoji\" emoji-src=\"emoji/6289796008025003402.webp\">🚄</i> 都觉得像一个胖大叔的肚肚怎么办",
-    "views": 196,
+    "views": 197,
     "forwards": 1,
     "images": [
       {
@@ -75714,7 +75714,7 @@
     "id": 5492,
     "date": "2025-05-26T12:06:15",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n工作的时候被推到的一首歌，因为从歌词里听到了 \"mafuyu\" 注意到了它\n\n...听起来好冷，真的有 mafuyu 会写出的歌的感觉",
-    "views": 178,
+    "views": 179,
     "forwards": 2,
     "files": [
       {
@@ -75736,7 +75736,7 @@
     "id": 5493,
     "date": "2025-05-28T03:20:38",
     "text": "ヤマト快递这个图标真的是生动形象了，大猫猫叼着小猫猫\n\n（虽然有希望它画得更可爱一点",
-    "views": 189,
+    "views": 190,
     "forwards": 3,
     "images": [
       {
@@ -75754,7 +75754,7 @@
   {
     "id": 5494,
     "date": "2025-05-28T03:21:50",
-    "views": 191,
+    "views": 192,
     "forwards": 4,
     "files": [
       {
@@ -75775,7 +75775,7 @@
     "id": 5495,
     "date": "2025-05-28T09:10:19",
     "text": "因为天气好出门散步，看到一只小鸟落在树枝上，背景的窗户变成了小鸟的天然相框 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 133,
+    "views": 135,
     "forwards": 0,
     "media_group_id": 13987387354182557,
     "images": [
@@ -75805,7 +75805,7 @@
     "id": 5497,
     "date": "2025-05-29T11:45:04",
     "text": "现在是工作的第三周，这次的研究项目是想让我用新方法 A 去解决问题 X。但是我觉得 A 不靠谱，想先试试以前用过的旧方法 B，结果 B 真的解决了 X，还差不多是天花板的效率和准确率...\n\n听上去大吉，问题解决了，但是实际上方法 B 太普通了没办法用来发文，结果反而可能要换方向浪费掉了两周 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 108,
+    "views": 114,
     "forwards": 0,
     "media_group_id": 13988152835403037,
     "images": [
