@@ -4430,7 +4430,7 @@
     "id": 451,
     "date": "2022-01-19T22:38:34",
     "text": "🐱",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "images": [
       {
@@ -68137,7 +68137,7 @@
     "id": 4934,
     "date": "2025-02-14T18:00:50",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i> sinmai.ipa 绝赞崩坏中",
-    "views": 1415,
+    "views": 1416,
     "forwards": 9,
     "files": [
       {
@@ -72902,7 +72902,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1710,
+    "views": 1711,
     "forwards": 50
   },
   {
@@ -73065,7 +73065,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5691,
+    "views": 5692,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73963,7 +73963,7 @@
     "id": 5351,
     "date": "2025-05-11T13:57:48",
     "text": "今天下午约天文姐姐和 <a href=\"https://t.me/ArakawaHideki\">@ArakawaHideki</a> 和 <a href=\"https://t.me/petergu8022\">@petergu8022</a> 去逛了秋葉原，那里在举行两年一度的神田祭，超热闹！\n\n还一起逛了电子零件市场，感觉小学的回忆里中关村电子城衰落之前最繁华的时候就是这样的...好怀念。\n\n也理解了动画里那些天才工程师小孩子都不是夸大，有这些店在这里的话确实能很方便搓出想要的东西。比如如果我想买微动做街机手台的话，比起淘宝下单等三天送到再退，直接来店里摸实物确认手感真的方便太多太多\n\n然后看到了超大 fufu 合了影，进去买了一只 mafufu（面无表情的表情超可爱！！！\n\n晚上约了谦谦和 <a href=\"https://t.me/MizukiAmakawa\">@MizukiAmakawa</a> 和 <a href=\"https://t.me/Dimensionlez\">@Dimensionlez</a> 也一起过来吃自助烧鸟，听他们六个人聊了一晚上学术和工作的事情感觉日本好可怕 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n（与此同时有一只完熟芒果因为不自量力地喝了鸡尾酒头晕去旁边躺躺了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> <span class=\"spoiler\"><span>小桂桂只有面 <3 个人的时候不会变成完熟芒果</span></span>",
-    "views": 272,
+    "views": 273,
     "forwards": 16,
     "media_group_id": 13975774948467493,
     "images": [
@@ -74845,7 +74845,7 @@
     "id": 5423,
     "date": "2025-05-18T00:43:22",
     "text": "如果我的头发是触手就好了\n\n我的意思是，如果人类头发有进化出像水母触手那样会自动防打结的功能就好了。昨天在江の島風有 40km/h 吹得头发全都打结了 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 283,
+    "views": 284,
     "forwards": 2
   },
   {
@@ -75242,7 +75242,7 @@
     "id": 5453,
     "date": "2025-05-23T02:14:49",
     "text": "哇 居然已经 30 年了，Java 生日快乐！\n\n<del>感觉 JVM 生态能活到现在完全是靠 Minecraft 和安卓这两个社区...</del>",
-    "views": 377,
+    "views": 378,
     "forwards": 11,
     "images": [
       {
@@ -75714,7 +75714,7 @@
     "id": 5492,
     "date": "2025-05-26T12:06:15",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n工作的时候被推到的一首歌，因为从歌词里听到了 \"mafuyu\" 注意到了它\n\n...听起来好冷，真的有 mafuyu 会写出的歌的感觉",
-    "views": 197,
+    "views": 198,
     "forwards": 2,
     "files": [
       {
@@ -75736,7 +75736,7 @@
     "id": 5493,
     "date": "2025-05-28T03:20:38",
     "text": "ヤマト快递这个图标真的是生动形象了，大猫猫叼着小猫猫\n\n（虽然有希望它画得更可爱一点",
-    "views": 207,
+    "views": 208,
     "forwards": 4,
     "images": [
       {
@@ -75754,7 +75754,7 @@
   {
     "id": 5494,
     "date": "2025-05-28T03:21:50",
-    "views": 206,
+    "views": 208,
     "forwards": 4,
     "files": [
       {
@@ -75775,7 +75775,7 @@
     "id": 5495,
     "date": "2025-05-28T09:10:19",
     "text": "因为天气好出门散步，看到一只小鸟落在树枝上，背景的窗户变成了小鸟的天然相框 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 156,
+    "views": 157,
     "forwards": 0,
     "media_group_id": 13987387354182557,
     "images": [
@@ -75845,8 +75845,8 @@
     "id": 5500,
     "date": "2025-05-30T07:21:56",
     "text": "东京建筑师到底是多么不喜欢焊接... <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 114,
-    "forwards": 1,
+    "views": 122,
+    "forwards": 2,
     "media_group_id": 13988717735589437,
     "images": [
       {
@@ -75875,7 +75875,7 @@
     "id": 5502,
     "date": "2025-05-30T07:27:39",
     "text": "猜猜我昨天和 <a href=\"https://t.me/MizukiAmakawa\">@MizukiAmakawa</a> 去了哪里 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 首先排除美国\n\n是台場！",
-    "views": 92,
+    "views": 99,
     "forwards": 0,
     "media_group_id": 13988720475874117,
     "images": [
@@ -75955,7 +75955,7 @@
     "id": 5509,
     "date": "2025-05-30T07:43:51",
     "text": "在海边散了步之后从彩虹桥走回家了！走了一个小时左右，拍了很多好看照片，大满足 qwq\n\n可惜手机的镜头在低光线环境不太行，即使手动调 ISO 和快门速度这也是极限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i> 好想买相机呀（买不起，悲）",
-    "views": 84,
+    "views": 90,
     "forwards": 0,
     "media_group_id": 13988728255370421,
     "images": [
@@ -76028,6 +76028,28 @@
         "url": "media/5515.jpg",
         "size": 934318,
         "thumb": "media/5515.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5516,
+    "date": "2025-05-30T12:27:33",
+    "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n被推到了少数很喜欢的中文歌\n\n感觉陈娴静的曲子成功把吐字不清的短板变成了一种艺术风格，听起来像是一边梦游在街边飘来飘去一边录下的歌 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>",
+    "views": 45,
+    "forwards": 2,
+    "files": [
+      {
+        "duration": 268,
+        "performer": "陳嫺靜",
+        "title": "如果每天都可以 happy happy 谁想要sad:))",
+        "file_name": "陳嫺靜 - 如果每天都可以 happy happy 谁想要sad)).mp3",
+        "mime_type": "audio/mpeg",
+        "date": "2025-05-30T12:27:33",
+        "media_type": "audio_file",
+        "original_name": "陳嫺靜 - 如果每天都可以 happy happy 谁想要sad)).mp3",
+        "url": "media/5516.mp3",
+        "size": 10625811,
+        "thumb": "media/5516.mp3_thumb.jpg"
       }
     ]
   }

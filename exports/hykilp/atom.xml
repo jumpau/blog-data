@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-05-30T12:14:24.311132+00:00</updated>
+  <updated>2025-05-30T14:28:17.967565+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5516</id>
+    <title>小桂桂的回忆录 📒 #5516</title>
+    <updated>2025-05-30T12:27:33+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##戴上耳机"&gt;#戴上耳机&lt;/a&gt;
+被推到了少数很喜欢的中文歌&lt;/p&gt;
+&lt;p&gt;感觉陈娴静的曲子成功把吐字不清的短板变成了一种艺术风格，听起来像是一边梦游在街边飘来飘去一边录下的歌 &lt;i class="custom-emoji" emoji-src="emoji/6113861254089017243.webm"&gt;🎈&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5516" rel="alternate"/>
+  </entry>
   <entry>
     <id>5509</id>
     <title>小桂桂的回忆录 📒 #5509</title>
