@@ -72902,7 +72902,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1711,
+    "views": 1712,
     "forwards": 50
   },
   {
@@ -73065,7 +73065,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5696,
+    "views": 5697,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -75242,7 +75242,7 @@
     "id": 5453,
     "date": "2025-05-23T02:14:49",
     "text": "哇 居然已经 30 年了，Java 生日快乐！\n\n<del>感觉 JVM 生态能活到现在完全是靠 Minecraft 和安卓这两个社区...</del>",
-    "views": 382,
+    "views": 383,
     "forwards": 11,
     "images": [
       {
@@ -75736,7 +75736,7 @@
     "id": 5493,
     "date": "2025-05-28T03:20:38",
     "text": "ヤマト快递这个图标真的是生动形象了，大猫猫叼着小猫猫\n\n（虽然有希望它画得更可爱一点",
-    "views": 215,
+    "views": 216,
     "forwards": 4,
     "images": [
       {
@@ -75754,7 +75754,7 @@
   {
     "id": 5494,
     "date": "2025-05-28T03:21:50",
-    "views": 215,
+    "views": 216,
     "forwards": 4,
     "files": [
       {
@@ -75845,7 +75845,7 @@
     "id": 5500,
     "date": "2025-05-30T07:21:56",
     "text": "东京建筑师到底是多么不喜欢焊接... <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 144,
+    "views": 145,
     "forwards": 2,
     "media_group_id": 13988717735589437,
     "images": [
@@ -75875,7 +75875,7 @@
     "id": 5502,
     "date": "2025-05-30T07:27:39",
     "text": "猜猜我昨天和 <a href=\"https://t.me/MizukiAmakawa\">@MizukiAmakawa</a> 去了哪里 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 首先排除美国\n\n是台場！",
-    "views": 124,
+    "views": 127,
     "forwards": 1,
     "media_group_id": 13988720475874117,
     "images": [
@@ -75955,7 +75955,7 @@
     "id": 5509,
     "date": "2025-05-30T07:43:51",
     "text": "在海边散了步之后从彩虹桥走回家了！走了一个小时左右，拍了很多好看照片，大满足 qwq\n\n可惜手机的镜头在低光线环境不太行，即使手动调 ISO 和快门速度这也是极限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i> 好想买相机呀（买不起，悲）",
-    "views": 123,
+    "views": 126,
     "forwards": 1,
     "media_group_id": 13988728255370421,
     "images": [
@@ -76035,7 +76035,7 @@
     "id": 5516,
     "date": "2025-05-30T12:27:33",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n被推到了少数很喜欢的中文歌\n\n感觉陈娴静的曲子成功把吐字不清的短板变成了一种艺术风格，听起来像是一边梦游在街边飘来飘去一边录下的歌 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>",
-    "views": 112,
+    "views": 114,
     "forwards": 3,
     "files": [
       {
@@ -76057,7 +76057,7 @@
     "id": 5517,
     "date": "2025-05-30T15:37:10",
     "text": "-----",
-    "views": 106,
+    "views": 110,
     "forwards": 1,
     "images": [
       {
@@ -76076,7 +76076,7 @@
     "id": 5518,
     "date": "2025-05-30T16:44:51",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n零，用摩斯电码表达是五个长音，写出来像分割线一样诶\n\n零点也是日期的的分割线，今日が昨日に、明日が今日に... 也许有什么更深的意味，但是我的脑洞已经被累累的一天熨平了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i> 睡睡\n\n♪ おやすみ まだ名前のない 無数の想い\n♪ おやすみ またこんな夜に歌になる日まで",
-    "views": 79,
+    "views": 86,
     "forwards": 1,
     "reply": {
       "id": 5517,
