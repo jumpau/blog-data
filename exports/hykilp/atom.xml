@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-05-31T16:14:22.986557+00:00</updated>
+  <updated>2025-05-31T18:12:36.473697+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5521</id>
+    <title>小桂桂的回忆录 📒 #5521</title>
+    <updated>2025-05-31T16:50:56+00:00</updated>
+    <content>&lt;p&gt;啊 太困了回到家就睡着了。做了很多乱七八糟的梦，刚才迷迷糊糊醒来觉得不是八九点也应该五六点了吧，然后看下手机才刚快两点 &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;完了作息又乱了&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5521" rel="alternate"/>
+  </entry>
   <entry>
     <id>5519</id>
     <title>小桂桂的回忆录 📒 #5519</title>
