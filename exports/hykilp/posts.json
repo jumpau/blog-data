@@ -35241,7 +35241,7 @@
     "id": 2641,
     "date": "2023-09-09T06:28:26",
     "text": "狗狗在互相舔哪里 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> <del>hso</del>",
-    "views": 114,
+    "views": 115,
     "forwards": 0,
     "reply": {
       "id": 2626,
@@ -35268,7 +35268,7 @@
     "id": 2642,
     "date": "2023-09-09T18:29:15",
     "text": "结婚了！<i class=\"custom-emoji\" emoji-src=\"emoji/6323595626823025961.webp\">🥰</i>\n\n在梦想小木屋旅店，穿上了很适合小木屋的 lolita，分别邀请了我的前任和聊聊的前任做证婚人，戴上去年七夕做的折纸戒指 qwq",
-    "views": 142,
+    "views": 143,
     "forwards": 7,
     "media_group_id": 13554273244968861,
     "images": [
@@ -35328,7 +35328,7 @@
     "id": 2647,
     "date": "2023-09-11T16:04:50",
     "text": "开学了，看看今年 CSC 课对 LLM (ChatGPT, Copilot, ...) 的态度：\n\n301 Intro SE：真正的软件公司不会禁止，所以当然可以用\n384 Intro AI：作业可以，考试不能（然后长篇大论讲了 LLM 的局限性）\n369 Intro OS：严格禁止\n\n318 和 420 完全没有提 LLM，好像没更新 syllabus 的样子",
-    "views": 119,
+    "views": 120,
     "forwards": 1,
     "images": [
       {
@@ -35392,7 +35392,7 @@
     "id": 2651,
     "date": "2023-09-13T19:38:31",
     "text": "世界上最远的距离... 课间的十分钟跑过去还是骑车过去都赶不上",
-    "views": 125,
+    "views": 126,
     "forwards": 2,
     "media_group_id": 13557071287951933,
     "images": [
@@ -35422,7 +35422,7 @@
     "id": 2653,
     "date": "2023-09-14T22:29:59",
     "text": "？",
-    "views": 111,
+    "views": 112,
     "forwards": 0,
     "files": [
       {
@@ -42824,7 +42824,7 @@
     "id": 3168,
     "date": "2024-01-11T05:47:55",
     "text": "（聊聊看了一个土味情话梗来问我）\n聊聊：神奇宝贝不神奇了叫什么？\n我：嗯... 动物！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n聊聊一脸黑线",
-    "views": 111,
+    "views": 112,
     "forwards": 1
   },
   {
@@ -42919,7 +42919,7 @@
     "id": 3177,
     "date": "2024-01-12T19:45:17",
     "text": "因为键盘方向键太紧凑很容易按错，写了一个 AHK 脚本让 Caps 键变成一个 FN 层、让 Caps + Tab 还原原本大写锁定的功能、然后让 Caps + WASD / IJKL 变成了方向键 qwq\n\n<pre language=\"ahk\">; Block standalone CapsLock toggle\nCapsLock::return\n\n; Use CAPS + TAB to toggle CAPS LOCK\nCapsLock & Tab::\n    SetCapsLockState, % (GetKeyState(\"CapsLock\", \"T\") ? \"Off\" : \"On\")\n    return\n\n; Block CAPS LOCK state change when CAPS is combined with any other key\nCapsLock & w::Up\nCapsLock & a::Left\nCapsLock & s::Down\nCapsLock & d::Right\n\nCapsLock & i::Up\nCapsLock & j::Left\nCapsLock & k::Down\nCapsLock & l::Right</pre>",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "reply": {
       "id": 3171,
@@ -42931,7 +42931,7 @@
     "id": 3178,
     "date": "2024-01-12T22:34:30",
     "text": "哭哭 多么好看的板子被一个天线毁了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>",
-    "views": 90,
+    "views": 91,
     "forwards": 0,
     "images": [
       {
@@ -42950,14 +42950,14 @@
     "id": 3179,
     "date": "2024-01-12T22:59:49",
     "text": "又焊了两排排针... 因为买的时候想省 ¥ 5 所以没有让卖家焊，不知道焊排针的时间值不值得，不过也就当作练习了 qwq",
-    "views": 93,
+    "views": 94,
     "forwards": 0
   },
   {
     "id": 3180,
     "date": "2024-01-12T23:02:31",
     "text": "今天的博德之门：我是一只猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "media_group_id": 13640804408751741,
     "images": [
@@ -43060,14 +43060,14 @@
     "id": 3186,
     "date": "2024-01-14T16:31:29",
     "text": "<a href=\"##梦\">#梦</a> 梦见在西雅图和 Wan 去超市买完菜想要回家，我习惯向南走但是 Wan 很惊讶地说他习惯向北走，然后我就跟着他一直向北走了，路上全都是不认识的街道和建筑但是走着走着还是走到家了 🤔 世界成了一个莫比乌斯环",
-    "views": 98,
+    "views": 99,
     "forwards": 0
   },
   {
     "id": 3187,
     "date": "2024-01-14T16:56:48",
     "text": "大风把运货车刮走了💨",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "images": [
       {
@@ -43086,7 +43086,7 @@
     "id": 3188,
     "date": "2024-01-15T01:56:26",
     "text": "今天在 smash 打过了聊聊！",
-    "views": 116,
+    "views": 117,
     "forwards": 0,
     "images": [
       {
@@ -43105,7 +43105,7 @@
     "id": 3189,
     "date": "2024-01-15T02:07:21",
     "text": "（在选择角色的时候）\n聊聊：给你看看这个 DLC 都有什么了不起的联动\n（省略一千字）\n我：<del>那也不是很多嘛，连 nekopara 香子兰都没有</del>",
-    "views": 120,
+    "views": 121,
     "forwards": 0,
     "reply": {
       "id": 3188,
@@ -63503,7 +63503,7 @@
     "id": 4632,
     "date": "2024-11-06T16:53:52",
     "text": "今天又犯蠢，想要解压一个压缩包的时候打了 7z d，然后没有提示就把压缩包里所有东西删掉了...\n\n为了防止以后犯同样的蠢在 zshrc 里面加了一条禁止 7z d <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 177,
+    "views": 178,
     "forwards": 0,
     "media_group_id": 13847296262786181,
     "images": [
@@ -63627,7 +63627,7 @@
     "id": 4640,
     "date": "2024-11-09T13:27:23",
     "text": "讲真，搭好 typst 环境比 latex 容易太多了，无论本地还是在线都是\n\n（翻邮件看到今天有人回我 2022 年开的 issue 似乎是遇到了同样的问题没办法搭好 overleaf 的开发环境，这还是他们重构之后的，唉有些代码库真的永远不会变",
-    "views": 159,
+    "views": 160,
     "forwards": 0,
     "images": [
       {
@@ -63646,14 +63646,14 @@
     "id": 4641,
     "date": "2024-11-09T13:37:22",
     "text": "感冒了，但是因为有作业 overdue 被迫通宵... <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 167,
+    "views": 168,
     "forwards": 0
   },
   {
     "id": 4642,
     "date": "2024-11-11T00:39:52",
     "text": "每月去 JLC 白嫖打一套板子 (1/2)",
-    "views": 145,
+    "views": 146,
     "forwards": 0,
     "images": [
       {
@@ -63672,14 +63672,14 @@
     "id": 4643,
     "date": "2024-11-11T01:36:15",
     "text": "呜呜 昨天和 syama 例常打 facetime 电话，然后今天被派出所找上门了... 不知道是怎么检测的，可能需要抓包把 facetime 域名加到代理规则里",
-    "views": 163,
+    "views": 164,
     "forwards": 4
   },
   {
     "id": 4645,
     "date": "2024-11-11T20:20:14",
     "text": "支持一下 typst\n\n<del>为什么 Overleaf $8/mo 就觉得好贵还是自搭吧，typst $8/mo 反而觉得很情愿，明明都是开源软件</del> 可能是因为 typst 这边真的在 actively 加新功能",
-    "views": 153,
+    "views": 154,
     "forwards": 0,
     "reply": {
       "id": 4640,
@@ -63828,7 +63828,7 @@
     "id": 4652,
     "date": "2024-11-15T08:50:17",
     "text": "昨天秋叶留言服务器宕了，上去看一眼原因是盘满了...\n\n清出 9GB 空间修好之后，为了防止同样的事情再次发生，随手写了一个 py crontab 脚本每小时检查一下盘用量，超过 85% 就在 tg 上发消息 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n<del>懒猫猫当然要用懒猫猫解决方案</del>",
-    "views": 142,
+    "views": 143,
     "forwards": 0,
     "media_group_id": 13853284941485317,
     "images": [
@@ -69310,7 +69310,7 @@
     "id": 5017,
     "date": "2025-03-12T12:26:54",
     "text": "今天是植树节，想试试和大家一起种一颗 tgcn 频道树 🌳 qwq\n\n这里是小桂桂的回忆录，是树根哦~\n\n如果你也有公开频道，想成为这个频道的树叶的话，就去给 <a href=\"https://t.me/tgtreebot\">@tgtreebot</a> 发送 <code>/leaf hykilp {你的频道名}</code> 吧！ > < <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fhykilp&rhash=d96b84e483dc30\">‎</a>",
-    "views": 718,
+    "views": 719,
     "forwards": 8
   },
   {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2513,
+    "views": 2514,
     "forwards": 29,
     "images": [
       {
@@ -75609,7 +75609,7 @@
     "id": 5483,
     "date": "2025-05-25T13:32:03",
     "text": "以及，今天终于见到了幽灵灵好开心！是认识了超级久的朋友，也是这个频道的第一位订阅者 qwq\n\n因为觉得幽灵灵或许和我一样会喜欢可爱又没什么用的小物件，昨天去百円店买了些手工原料做了一个晴天娃娃作为礼物 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（有感觉自己在变成小学三年小孩子）\n\n相对应，我收到了一本设计用词的可爱绘本和东京旅行信息书（确实很需要，感谢！），还有ta的作品小册子（希望总有一天我能够读懂）<i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n\n今天看完写真馆之后还在附近走了走逛了一些有趣的店，总之是很开心的一天 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 216,
+    "views": 217,
     "forwards": 2,
     "media_group_id": 13985439389650525,
     "images": [
@@ -75689,14 +75689,14 @@
     "id": 5490,
     "date": "2025-05-26T02:15:39",
     "text": "发现自己会被外国人当作日本人、会被日本人当作外国人 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 237,
+    "views": 238,
     "forwards": 1
   },
   {
     "id": 5491,
     "date": "2025-05-26T10:07:57",
     "text": "每次看到新干线的图标 <i class=\"custom-emoji\" emoji-src=\"emoji/6289796008025003402.webp\">🚄</i> 都觉得像一个胖大叔的肚肚怎么办",
-    "views": 231,
+    "views": 232,
     "forwards": 1,
     "images": [
       {
@@ -75715,7 +75715,7 @@
     "id": 5492,
     "date": "2025-05-26T12:06:15",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n工作的时候被推到的一首歌，因为从歌词里听到了 \"mafuyu\" 注意到了它\n\n...听起来好冷，真的有 mafuyu 会写出的歌的感觉",
-    "views": 217,
+    "views": 218,
     "forwards": 3,
     "files": [
       {
@@ -75737,7 +75737,7 @@
     "id": 5493,
     "date": "2025-05-28T03:20:38",
     "text": "ヤマト快递这个图标真的是生动形象了，大猫猫叼着小猫猫\n\n（虽然有希望它画得更可爱一点",
-    "views": 224,
+    "views": 226,
     "forwards": 4,
     "images": [
       {
@@ -75755,7 +75755,7 @@
   {
     "id": 5494,
     "date": "2025-05-28T03:21:50",
-    "views": 226,
+    "views": 228,
     "forwards": 4,
     "files": [
       {
@@ -75776,7 +75776,7 @@
     "id": 5495,
     "date": "2025-05-28T09:10:19",
     "text": "因为天气好出门散步，看到一只小鸟落在树枝上，背景的窗户变成了小鸟的天然相框 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 176,
+    "views": 178,
     "forwards": 0,
     "media_group_id": 13987387354182557,
     "images": [
@@ -75806,7 +75806,7 @@
     "id": 5497,
     "date": "2025-05-29T11:45:04",
     "text": "现在是工作的第三周，这次的研究项目是想让我用新方法 A 去解决问题 X。但是我觉得 A 不靠谱，想先试试以前用过的旧方法 B，结果 B 真的解决了 X，还差不多是天花板的效率和准确率...\n\n听上去大吉，问题解决了，但是实际上方法 B 太普通了没办法用来发文，结果反而可能要换方向浪费掉了两周 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 170,
+    "views": 171,
     "forwards": 0,
     "media_group_id": 13988152835403037,
     "images": [
@@ -75846,7 +75846,7 @@
     "id": 5500,
     "date": "2025-05-30T07:21:56",
     "text": "东京建筑师到底是多么不喜欢焊接... <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 161,
+    "views": 162,
     "forwards": 2,
     "media_group_id": 13988717735589437,
     "images": [
@@ -75876,7 +75876,7 @@
     "id": 5502,
     "date": "2025-05-30T07:27:39",
     "text": "猜猜我昨天和 <a href=\"https://t.me/MizukiAmakawa\">@MizukiAmakawa</a> 去了哪里 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 首先排除美国\n\n是台場！",
-    "views": 143,
+    "views": 144,
     "forwards": 1,
     "media_group_id": 13988720475874117,
     "images": [
@@ -75956,7 +75956,7 @@
     "id": 5509,
     "date": "2025-05-30T07:43:51",
     "text": "在海边散了步之后从彩虹桥走回家了！走了一个小时左右，拍了很多好看照片，大满足 qwq\n\n可惜手机的镜头在低光线环境不太行，即使手动调 ISO 和快门速度这也是极限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i> 好想买相机呀（买不起，悲）",
-    "views": 149,
+    "views": 150,
     "forwards": 1,
     "media_group_id": 13988728255370421,
     "images": [
@@ -76036,7 +76036,7 @@
     "id": 5516,
     "date": "2025-05-30T12:27:33",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n被推到了少数很喜欢的中文歌\n\n感觉陈娴静的曲子成功把吐字不清的短板变成了一种艺术风格，听起来像是一边梦游在街边飘来飘去一边录下的歌 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>",
-    "views": 148,
+    "views": 150,
     "forwards": 3,
     "files": [
       {
@@ -76058,7 +76058,7 @@
     "id": 5517,
     "date": "2025-05-30T15:37:10",
     "text": "-----",
-    "views": 150,
+    "views": 152,
     "forwards": 1,
     "images": [
       {
@@ -76077,7 +76077,7 @@
     "id": 5518,
     "date": "2025-05-30T16:44:51",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n零，用摩斯电码表达是五个长音，写出来像分割线一样诶\n\n零点也是日期的的分割线，今日が昨日に、明日が今日に... 也许有什么更深的意味，但是我的脑洞已经被累累的一天熨平了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i> 睡睡\n\n♪ おやすみ まだ名前のない 無数の想い\n♪ おやすみ またこんな夜に歌になる日まで",
-    "views": 148,
+    "views": 151,
     "forwards": 1,
     "reply": {
       "id": 5517,
@@ -76103,7 +76103,7 @@
     "id": 5519,
     "date": "2025-05-31T08:14:11",
     "text": "无刺的仙人掌、有刺的仙人掌\n\n<span class=\"spoiler\"><span>还有刺被拔掉了的仙人掌</span></span>",
-    "views": 120,
+    "views": 123,
     "forwards": 0,
     "media_group_id": 13989434013463309,
     "images": [
@@ -76133,7 +76133,7 @@
     "id": 5521,
     "date": "2025-05-31T16:50:56",
     "text": "啊 太困了回到家就睡着了。做了很多乱七八糟的梦，刚才迷迷糊糊醒来觉得不是八九点也应该五六点了吧，然后看下手机才刚快两点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n完了作息又乱了",
-    "views": 49,
+    "views": 63,
     "forwards": 0
   }
 ]
