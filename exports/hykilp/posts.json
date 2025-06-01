@@ -40216,7 +40216,7 @@
     "id": 2984,
     "date": "2023-12-08T03:46:26",
     "text": "今早的雪 qwq\n\n上次窗外变得白白一片还是一年前，有点激动（不过可惜白天就融化了没玩到雪",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "images": [
       {
@@ -40235,7 +40235,7 @@
     "id": 2985,
     "date": "2023-12-08T07:03:57",
     "text": "🤔\n\n（是在搜 USB 接口元件 <i class=\"custom-emoji\" emoji-src=\"emoji/6323463440614557670.webp\">☺️</i>",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "images": [
       {
@@ -40360,7 +40360,7 @@
     "id": 2994,
     "date": "2023-12-09T19:13:52",
     "text": "第二个版本把 S3-wroom 里面的 MCU 和晶振和闪存画出来了，还加了 jtag 调试接口。下单啦，省下了 ￥155\n\n希望它工作 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 91,
+    "views": 92,
     "forwards": 1,
     "reply": {
       "id": 2991,
@@ -40384,7 +40384,7 @@
     "id": 2995,
     "date": "2023-12-09T19:20:24",
     "text": "大号蛋挞模（？）",
-    "views": 99,
+    "views": 100,
     "forwards": 1,
     "reply": {
       "id": 2886,
@@ -40407,7 +40407,7 @@
     "id": 2996,
     "date": "2023-12-10T22:43:27",
     "text": "spoiler: r18（？）",
-    "views": 127,
+    "views": 128,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -40526,7 +40526,7 @@
     "id": 3003,
     "date": "2023-12-12T10:01:22",
     "text": "今天半喵来玩，玩了简简单单又好可爱的 pusheen 桌游，有被治愈 <i class=\"custom-emoji\" emoji-src=\"emoji/5445239995491164162.tgs\">🐈</i>\n\n然后猪猪做了牛丼好好吃 qwq",
-    "views": 81,
+    "views": 82,
     "forwards": 0,
     "media_group_id": 13619002263460005,
     "images": [
@@ -40556,7 +40556,7 @@
     "id": 3005,
     "date": "2023-12-12T10:27:34",
     "text": "<a href=\"##wactroller\">#wactroller</a> 这个支架设计好之后先给土豆订了一份想让她帮忙验证一下能不能成功拼起来，今天连麦和土豆和 DV 一起试着拼了结果果然遇到了这些问题：\n\n1. 直角件太长了，两个 28mm 直角件加起来超过了中间 50mm 支柱的长度，换隐形连接件了\n2. 螺丝头太大，三通件插进去一个螺丝就插不进去第二个了\n3. 忘记买旋转 T 螺母（悲）\n\n总之今天拼了大概 1/3，写了一些迫真宜家拼装教程，等要补的零件到了再继续啦。感谢土豆和 DV 帮忙 qwq",
-    "views": 84,
+    "views": 85,
     "forwards": 1,
     "media_group_id": 13619014837220061,
     "images": [
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2515,
+    "views": 2516,
     "forwards": 29,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5230,
+    "views": 5232,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5709,
+    "views": 5711,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -76103,7 +76103,7 @@
     "id": 5519,
     "date": "2025-05-31T08:14:11",
     "text": "无刺的仙人掌、有刺的仙人掌\n\n<span class=\"spoiler\"><span>还有刺被拔掉了的仙人掌</span></span>",
-    "views": 132,
+    "views": 136,
     "forwards": 0,
     "media_group_id": 13989434013463309,
     "images": [
@@ -76133,7 +76133,7 @@
     "id": 5521,
     "date": "2025-05-31T16:50:56",
     "text": "啊 太困了回到家就睡着了。做了很多乱七八糟的梦，刚才迷迷糊糊醒来觉得不是八九点也应该五六点了吧，然后看下手机才刚快两点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n完了作息又乱了",
-    "views": 93,
+    "views": 99,
     "forwards": 0
   }
 ]
