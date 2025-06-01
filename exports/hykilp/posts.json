@@ -21175,7 +21175,7 @@
     "id": 1616,
     "date": "2022-12-18T04:59:00",
     "text": "为了庆祝放假和我们的快一周年聊聊拉我去坐了船w\n\n然后发现这种船上的餐厅真的完全没有坐船的感觉哇... 感觉更像是换了一张壁纸在室内吃饭跳舞，也不是很能体会到这种被商业化的浪漫，不是很喜欢。比起在安大略湖上转圈圈吃饭，我更想要试试夏天去找一个小河抓鱼 qwq\n\n到后面我甚至无聊到开始在手上乱涂乱画了，想起上一次在手上乱画还是在高中天主教学校每周一小时的弥撒时间 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n不过被聊聊拉出来玩还是好开心的，好久没有去过学校和家以外的地方了",
-    "views": 87,
+    "views": 88,
     "forwards": 3,
     "media_group_id": 13370716325848253,
     "images": [
@@ -55621,7 +55621,7 @@
   {
     "id": 4079,
     "date": "2024-06-29T13:31:37",
-    "views": 291,
+    "views": 292,
     "forwards": 12,
     "files": [
       {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2514,
+    "views": 2515,
     "forwards": 29,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5228,
+    "views": 5229,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1716,
+    "views": 1717,
     "forwards": 51
   },
   {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5707,
+    "views": 5708,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -75846,7 +75846,7 @@
     "id": 5500,
     "date": "2025-05-30T07:21:56",
     "text": "东京建筑师到底是多么不喜欢焊接... <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 162,
+    "views": 163,
     "forwards": 2,
     "media_group_id": 13988717735589437,
     "images": [
@@ -75876,7 +75876,7 @@
     "id": 5502,
     "date": "2025-05-30T07:27:39",
     "text": "猜猜我昨天和 <a href=\"https://t.me/MizukiAmakawa\">@MizukiAmakawa</a> 去了哪里 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 首先排除美国\n\n是台場！",
-    "views": 144,
+    "views": 145,
     "forwards": 1,
     "media_group_id": 13988720475874117,
     "images": [
@@ -75956,7 +75956,7 @@
     "id": 5509,
     "date": "2025-05-30T07:43:51",
     "text": "在海边散了步之后从彩虹桥走回家了！走了一个小时左右，拍了很多好看照片，大满足 qwq\n\n可惜手机的镜头在低光线环境不太行，即使手动调 ISO 和快门速度这也是极限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i> 好想买相机呀（买不起，悲）",
-    "views": 150,
+    "views": 151,
     "forwards": 1,
     "media_group_id": 13988728255370421,
     "images": [
@@ -76036,7 +76036,7 @@
     "id": 5516,
     "date": "2025-05-30T12:27:33",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n被推到了少数很喜欢的中文歌\n\n感觉陈娴静的曲子成功把吐字不清的短板变成了一种艺术风格，听起来像是一边梦游在街边飘来飘去一边录下的歌 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>",
-    "views": 150,
+    "views": 151,
     "forwards": 3,
     "files": [
       {
@@ -76058,7 +76058,7 @@
     "id": 5517,
     "date": "2025-05-30T15:37:10",
     "text": "-----",
-    "views": 152,
+    "views": 153,
     "forwards": 1,
     "images": [
       {
@@ -76077,7 +76077,7 @@
     "id": 5518,
     "date": "2025-05-30T16:44:51",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n零，用摩斯电码表达是五个长音，写出来像分割线一样诶\n\n零点也是日期的的分割线，今日が昨日に、明日が今日に... 也许有什么更深的意味，但是我的脑洞已经被累累的一天熨平了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i> 睡睡\n\n♪ おやすみ まだ名前のない 無数の想い\n♪ おやすみ またこんな夜に歌になる日まで",
-    "views": 151,
+    "views": 152,
     "forwards": 1,
     "reply": {
       "id": 5517,
@@ -76103,7 +76103,7 @@
     "id": 5519,
     "date": "2025-05-31T08:14:11",
     "text": "无刺的仙人掌、有刺的仙人掌\n\n<span class=\"spoiler\"><span>还有刺被拔掉了的仙人掌</span></span>",
-    "views": 125,
+    "views": 129,
     "forwards": 0,
     "media_group_id": 13989434013463309,
     "images": [
@@ -76133,7 +76133,7 @@
     "id": 5521,
     "date": "2025-05-31T16:50:56",
     "text": "啊 太困了回到家就睡着了。做了很多乱七八糟的梦，刚才迷迷糊糊醒来觉得不是八九点也应该五六点了吧，然后看下手机才刚快两点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n完了作息又乱了",
-    "views": 70,
+    "views": 79,
     "forwards": 0
   }
 ]
