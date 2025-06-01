@@ -45440,7 +45440,7 @@
     "id": 3349,
     "date": "2024-02-14T17:31:28",
     "text": "469 OS 期中也考完了！\n\n因为可以打印一张双面 cheat sheet，所以花时间做了一个脚本把 markdown 笔记转换成了完美信息密度的文字块，还用颜色高亮了树结构标题，<del>妈妈再也不用担心我记不住东西辣</del>\n\n以及发现这次在做计划的时候时间估算得意外的准，居然真的在预计的八小时里把一个月 12 小时的录像补完了！",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "media_group_id": 13663455105663077,
     "images": [
@@ -45560,7 +45560,7 @@
     "id": 3355,
     "date": "2024-02-17T03:26:14",
     "text": "看着好舒服 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 92,
+    "views": 93,
     "forwards": 1,
     "reply": {
       "id": 3354
@@ -45582,7 +45582,7 @@
     "id": 3356,
     "date": "2024-02-17T07:58:50",
     "text": "今天给 AquaDX 注册域名的时候试了一下最新最热的 Spaceship，发现了也许是最便宜的 hosted 邮箱服务，一年只要 $5.88 耶！\n\n（相比之下 GSuite 一年要 $93，MS365 一年要 $97\n\n不过我 <a href=\"hydev.org\">hydev.org</a> 的域名邮箱刚迁移完暂时不想再迁移了，试试用 Spaceship 的邮箱服务做 AquaDX 的业务邮箱给用户发邮件好了 qwq",
-    "views": 98,
+    "views": 99,
     "forwards": 0,
     "reply": {
       "id": 3280,
@@ -45605,7 +45605,7 @@
     "id": 3359,
     "date": "2024-02-18T08:39:19",
     "text": "昨天去了 UofT CSSU 组织的情人节聚会！吃到了巧克力和甜甜圈，还玩了些马车，很开心！（虽然马车输得很惨 quq 之后他们切到 smash 我就没有继续玩了\n\n不过和组织者 Jamie 聊聊发现似乎组织的过程不是很顺利... 希望以后可以帮一些忙\n\n以及回家的地铁上看到了路人在「口罩提示」上面画了笑脸，好可爱 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 79,
+    "views": 80,
     "forwards": 0,
     "media_group_id": 13665964471897581,
     "images": [
@@ -45699,7 +45699,7 @@
     "id": 3365,
     "date": "2024-02-19T01:36:46",
     "text": "今天 Henry 和他的朋友还有 Jun 和 Jamie 过来玩，好喜欢家里热闹的气氛，以及吃到了 Henry 他们带过来的芒果蛋糕好开心 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\nHenry 和他的朋友都好厉害，他们是从 Arcaea 过来的，中二上手好快，感觉马上就要被他们超车了 quq\n\n以及今天 maimai 收了第一个 Lv13！<del>果然有人围观的时候会玩得更好</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 76,
+    "views": 77,
     "forwards": 0,
     "media_group_id": 13666452852406205,
     "images": [
@@ -45739,7 +45739,7 @@
     "id": 3368,
     "date": "2024-02-19T01:40:14",
     "text": "<del>看神仙打架.webm</del>",
-    "views": 102,
+    "views": 103,
     "forwards": 1,
     "reply": {
       "id": 3365,
@@ -45767,7 +45767,7 @@
     "id": 3369,
     "date": "2024-02-19T02:47:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n每次在 maimai 选曲界面听到这首「随机选曲 BGM」都好希望它是一首真的能玩的谱子 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n可惜不能\n\n<del>等我学会做自制谱就把它做出来</del>",
-    "views": 83,
+    "views": 84,
     "forwards": 0,
     "files": [
       {
@@ -55406,7 +55406,7 @@
     "id": 4065,
     "date": "2024-06-28T09:33:35",
     "text": "和府捞面！",
-    "views": 135,
+    "views": 136,
     "forwards": 1,
     "images": [
       {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5716,
+    "views": 5720,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -75755,7 +75755,7 @@
   {
     "id": 5494,
     "date": "2025-05-28T03:21:50",
-    "views": 238,
+    "views": 239,
     "forwards": 4,
     "files": [
       {
@@ -75776,7 +75776,7 @@
     "id": 5495,
     "date": "2025-05-28T09:10:19",
     "text": "因为天气好出门散步，看到一只小鸟落在树枝上，背景的窗户变成了小鸟的天然相框 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 193,
+    "views": 194,
     "forwards": 0,
     "media_group_id": 13987387354182557,
     "images": [
@@ -75806,7 +75806,7 @@
     "id": 5497,
     "date": "2025-05-29T11:45:04",
     "text": "现在是工作的第三周，这次的研究项目是想让我用新方法 A 去解决问题 X。但是我觉得 A 不靠谱，想先试试以前用过的旧方法 B，结果 B 真的解决了 X，还差不多是天花板的效率和准确率...\n\n听上去大吉，问题解决了，但是实际上方法 B 太普通了没办法用来发文，结果反而可能要换方向浪费掉了两周 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 184,
+    "views": 185,
     "forwards": 0,
     "media_group_id": 13988152835403037,
     "images": [
@@ -75956,7 +75956,7 @@
     "id": 5509,
     "date": "2025-05-30T07:43:51",
     "text": "在海边散了步之后从彩虹桥走回家了！走了一个小时左右，拍了很多好看照片，大满足 qwq\n\n可惜手机的镜头在低光线环境不太行，即使手动调 ISO 和快门速度这也是极限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i> 好想买相机呀（买不起，悲）",
-    "views": 161,
+    "views": 162,
     "forwards": 1,
     "media_group_id": 13988728255370421,
     "images": [
@@ -76036,7 +76036,7 @@
     "id": 5516,
     "date": "2025-05-30T12:27:33",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n被推到了少数很喜欢的中文歌\n\n感觉陈娴静的曲子成功把吐字不清的短板变成了一种艺术风格，听起来像是一边梦游在街边飘来飘去一边录下的歌 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>",
-    "views": 167,
+    "views": 168,
     "forwards": 3,
     "files": [
       {
@@ -76058,7 +76058,7 @@
     "id": 5517,
     "date": "2025-05-30T15:37:10",
     "text": "-----",
-    "views": 169,
+    "views": 170,
     "forwards": 1,
     "images": [
       {
@@ -76077,7 +76077,7 @@
     "id": 5518,
     "date": "2025-05-30T16:44:51",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n零，用摩斯电码表达是五个长音，写出来像分割线一样诶\n\n零点也是日期的的分割线，今日が昨日に、明日が今日に... 也许有什么更深的意味，但是我的脑洞已经被累累的一天熨平了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i> 睡睡\n\n♪ おやすみ まだ名前のない 無数の想い\n♪ おやすみ またこんな夜に歌になる日まで",
-    "views": 177,
+    "views": 178,
     "forwards": 1,
     "reply": {
       "id": 5517,
@@ -76103,7 +76103,7 @@
     "id": 5519,
     "date": "2025-05-31T08:14:11",
     "text": "无刺的仙人掌、有刺的仙人掌\n\n<span class=\"spoiler\"><span>还有刺被拔掉了的仙人掌</span></span>",
-    "views": 166,
+    "views": 169,
     "forwards": 0,
     "media_group_id": 13989434013463309,
     "images": [
@@ -76133,14 +76133,14 @@
     "id": 5521,
     "date": "2025-05-31T16:50:56",
     "text": "啊 太困了回到家就睡着了。做了很多乱七八糟的梦，刚才迷迷糊糊醒来觉得不是八九点也应该五六点了吧，然后看下手机才刚快两点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n完了作息又乱了",
-    "views": 152,
+    "views": 156,
     "forwards": 0
   },
   {
     "id": 5522,
     "date": "2025-06-01T06:29:12",
     "text": "带着聊聊猫出门了",
-    "views": 134,
+    "views": 143,
     "forwards": 1,
     "images": [
       {
@@ -76159,8 +76159,8 @@
     "id": 5523,
     "date": "2025-06-01T14:49:20",
     "text": "<a href=\"##不寻常的日常\">#不寻常的日常</a>\n1. 还差１円\n2. 鲨鲨轮回：几个月前挂在我背包上的鲨鲨逃跑了，今天在路上捡到了从别人背包上逃跑的鲨鲨\n3. 电车轨道上长了小草\n4. 售卖机的柚子饮料被晒掉色变成粉色还蛮可爱的\n5. 为什么这个警示牌有 3D 图标\n6. 建筑和天空融化在一起\n7. 波奇鱼，把自己埋在沙子里面了",
-    "views": 66,
-    "forwards": 0,
+    "views": 83,
+    "forwards": 1,
     "media_group_id": 13990314886162485,
     "images": [
       {
@@ -76239,8 +76239,8 @@
     "id": 5530,
     "date": "2025-06-01T15:11:07",
     "text": "向山进发！今天和 <a href=\"https://t.me/MizukiAmakawa\">@MizukiAmakawa</a> 和天文还有两个刚认识的朋友去爬了高尾山，好累好累\n\n上去有一半的路程坐了缆车，虽然比以前好很多了但是依然很恐高... 接下来爬到山顶再爬下去走了总共七八公里的路程，不仅腿酸酸，下坡还磨破了两只袜子和一双鞋垫... <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 看来衣服和我一样不喜欢爬山\n\n路上遇到了好多可爱的东西，有带着保暖帽子的雕像、有看上去像是别人摆在山上的手工乒乓球玩偶，然后发现不约而同每人都带了谷子就一起用玩偶合了影。",
-    "views": 52,
-    "forwards": 0,
+    "views": 73,
+    "forwards": 1,
     "media_group_id": 13990325337230133,
     "images": [
       {
