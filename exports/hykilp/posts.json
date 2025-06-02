@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5731,
+    "views": 5732,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -76239,7 +76239,7 @@
     "id": 5530,
     "date": "2025-06-01T15:11:07",
     "text": "向山进发！今天和 <a href=\"https://t.me/MizukiAmakawa\">@MizukiAmakawa</a> 和天文还有两个刚认识的朋友去爬了高尾山，好累好累\n\n上去有一半的路程坐了缆车，虽然比以前好很多了但是依然很恐高... 接下来爬到山顶再爬下去走了总共七八公里的路程，不仅腿酸酸，下坡还磨破了两只袜子和一双鞋垫... <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 看来衣服和我一样不喜欢爬山\n\n路上遇到了好多可爱的东西，有带着保暖帽子的雕像、有看上去像是别人摆在山上的手工乒乓球玩偶，然后发现不约而同每人都带了谷子就一起用玩偶合了影。",
-    "views": 109,
+    "views": 110,
     "forwards": 1,
     "media_group_id": 13990325337230133,
     "images": [
