@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2517,
+    "views": 2518,
     "forwards": 29,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5242,
+    "views": 5243,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1721,
+    "views": 1723,
     "forwards": 51
   },
   {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5726,
+    "views": 5729,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -74846,7 +74846,7 @@
     "id": 5423,
     "date": "2025-05-18T00:43:22",
     "text": "如果我的头发是触手就好了\n\n我的意思是，如果人类头发有进化出像水母触手那样会自动防打结的功能就好了。昨天在江の島風有 40km/h 吹得头发全都打结了 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 288,
+    "views": 289,
     "forwards": 2
   },
   {
@@ -75322,7 +75322,7 @@
     "id": 5459,
     "date": "2025-05-23T10:28:10",
     "text": "发现自己从多伦多飞到东京之后每天都有出门，明明之前是家里蹲类型的，看来真的是多伦多村太无聊了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 243,
+    "views": 244,
     "forwards": 3
   },
   {
@@ -76140,7 +76140,7 @@
     "id": 5522,
     "date": "2025-06-01T06:29:12",
     "text": "带着聊聊猫出门了",
-    "views": 157,
+    "views": 159,
     "forwards": 1,
     "images": [
       {
@@ -76159,7 +76159,7 @@
     "id": 5523,
     "date": "2025-06-01T14:49:20",
     "text": "<a href=\"##不寻常的日常\">#不寻常的日常</a>\n1. 还差１円\n2. 鲨鲨轮回：几个月前挂在我背包上的鲨鲨逃跑了，今天在路上捡到了从别人背包上逃跑的鲨鲨\n3. 电车轨道上长了小草\n4. 售卖机的柚子饮料被晒掉色变成粉色还蛮可爱的\n5. 为什么这个警示牌有 3D 图标\n6. 建筑和天空融化在一起\n7. 波奇鱼，把自己埋在沙子里面了",
-    "views": 111,
+    "views": 112,
     "forwards": 1,
     "media_group_id": 13990314886162485,
     "images": [
@@ -76239,7 +76239,7 @@
     "id": 5530,
     "date": "2025-06-01T15:11:07",
     "text": "向山进发！今天和 <a href=\"https://t.me/MizukiAmakawa\">@MizukiAmakawa</a> 和天文还有两个刚认识的朋友去爬了高尾山，好累好累\n\n上去有一半的路程坐了缆车，虽然比以前好很多了但是依然很恐高... 接下来爬到山顶再爬下去走了总共七八公里的路程，不仅腿酸酸，下坡还磨破了两只袜子和一双鞋垫... <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 看来衣服和我一样不喜欢爬山\n\n路上遇到了好多可爱的东西，有带着保暖帽子的雕像、有看上去像是别人摆在山上的手工乒乓球玩偶，然后发现不约而同每人都带了谷子就一起用玩偶合了影。",
-    "views": 105,
+    "views": 106,
     "forwards": 1,
     "media_group_id": 13990325337230133,
     "images": [
