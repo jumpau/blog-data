@@ -51216,7 +51216,7 @@
     "id": 3758,
     "date": "2024-05-15T04:32:20",
     "text": "29km/h 的风好恐怖",
-    "views": 89,
+    "views": 90,
     "forwards": 0,
     "files": [
       {
@@ -51237,7 +51237,7 @@
     "id": 3759,
     "date": "2024-05-15T14:40:14",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n卤肉ラーメン！🍜\n\n之前说过「拉面」和「ラーメン」和 \"Ramen\" 都是很不一样的东西，这次回国从淘宝买了些日式食材比如鱼板和干木耳条和海苔和面和浓缩汤底终于能做比较正宗的ラーメン了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "media_group_id": 13726272119231821,
     "images": [
@@ -51301,7 +51301,7 @@
     "id": 3764,
     "date": "2024-05-15T14:43:45",
     "text": "menci 桌桌施工现场 qwq",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "media_group_id": 13726273805886781,
     "images": [
@@ -54755,7 +54755,7 @@
     "id": 4020,
     "date": "2024-06-18T18:27:16",
     "text": "在 diy mai 框上打的第一 pc",
-    "views": 209,
+    "views": 210,
     "forwards": 4,
     "images": [
       {
@@ -54774,7 +54774,7 @@
     "id": 4021,
     "date": "2024-06-20T07:41:22",
     "text": "给路由器打印一个壳 quq",
-    "views": 85,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13750954262014477,
     "images": [
@@ -54814,7 +54814,7 @@
     "id": 4024,
     "date": "2024-06-20T20:30:20",
     "text": "把 mai 挪到最终位置然后整理了一下房间，这个项目算是完工了！\n\n整理房间好累 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 82,
+    "views": 83,
     "forwards": 0,
     "media_group_id": 13751323365774045,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5248,
+    "views": 5250,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5744,
+    "views": 5746,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73290,7 +73290,7 @@
     "id": 5304,
     "date": "2025-05-02T21:46:41",
     "text": "第一次用 libvirt + virsh + kvm，好好用！居然打一个指令之后就直接能访问 TTY shell 了\n\n意识到之前在 linux 服务器上远程桌面然后用 VMware Workstation 跑虚拟机好蠢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 432,
+    "views": 433,
     "forwards": 3,
     "media_group_id": 13969779211072469,
     "images": [
@@ -73678,14 +73678,14 @@
     "id": 5329,
     "date": "2025-05-09T14:35:30",
     "text": "日本网络栈好厉害，住进公寓连上 wifi 零配置就直接 dhcp 拿到了独立公网 ipv6... 据说是纯 v6 + 代理 v4 的模式\n\n与此同时，加拿大 bell 还完全不通 v6... 刚住进来在路由器设置里戳戳戳发现 WAN 上既没有 NAT 也没有 pppoe 才意识到 v6 时代已经不需要这些了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 265,
+    "views": 266,
     "forwards": 3
   },
   {
     "id": 5330,
     "date": "2025-05-09T14:43:44",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n<del>馄饨邪恶</del>広州雲吞面\n\n以及见到了谦谦，开心！<del>感谢谦谦帮我补充了很多这边的常识</del>",
-    "views": 284,
+    "views": 285,
     "forwards": 2,
     "images": [
       {
@@ -75193,7 +75193,7 @@
     "id": 5449,
     "date": "2025-05-22T16:42:30",
     "text": "在东京第一次凌晨一点半回家\n\n运气比较差，想坐的环线正方向坏掉了，只能坐反方向，但是反方向末班到不了家...\n\n结果坐到末班终点站之后租电滑板骑回家了，路上拍到了睡着的电车 🚃💤\n\n虽然到家累累，但是即使末班结束也自己回到家了还是很开心，<del>证明自己已经不再是路痴型迷子了</del>",
-    "views": 240,
+    "views": 241,
     "forwards": 1,
     "media_group_id": 13983457204795525,
     "images": [
@@ -75806,7 +75806,7 @@
     "id": 5497,
     "date": "2025-05-29T11:45:04",
     "text": "现在是工作的第三周，这次的研究项目是想让我用新方法 A 去解决问题 X。但是我觉得 A 不靠谱，想先试试以前用过的旧方法 B，结果 B 真的解决了 X，还差不多是天花板的效率和准确率...\n\n听上去大吉，问题解决了，但是实际上方法 B 太普通了没办法用来发文，结果反而可能要换方向浪费掉了两周 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 205,
+    "views": 206,
     "forwards": 0,
     "media_group_id": 13988152835403037,
     "images": [
@@ -75846,7 +75846,7 @@
     "id": 5500,
     "date": "2025-05-30T07:21:56",
     "text": "东京建筑师到底是多么不喜欢焊接... <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 190,
+    "views": 191,
     "forwards": 2,
     "media_group_id": 13988717735589437,
     "images": [
@@ -75876,7 +75876,7 @@
     "id": 5502,
     "date": "2025-05-30T07:27:39",
     "text": "猜猜我昨天和 <a href=\"https://t.me/MizukiAmakawa\">@MizukiAmakawa</a> 去了哪里 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 首先排除美国\n\n是台場！",
-    "views": 169,
+    "views": 170,
     "forwards": 1,
     "media_group_id": 13988720475874117,
     "images": [
@@ -75956,7 +75956,7 @@
     "id": 5509,
     "date": "2025-05-30T07:43:51",
     "text": "在海边散了步之后从彩虹桥走回家了！走了一个小时左右，拍了很多好看照片，大满足 qwq\n\n可惜手机的镜头在低光线环境不太行，即使手动调 ISO 和快门速度这也是极限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i> 好想买相机呀（买不起，悲）",
-    "views": 178,
+    "views": 179,
     "forwards": 1,
     "media_group_id": 13988728255370421,
     "images": [
@@ -76058,7 +76058,7 @@
     "id": 5517,
     "date": "2025-05-30T15:37:10",
     "text": "-----",
-    "views": 194,
+    "views": 195,
     "forwards": 1,
     "images": [
       {
@@ -76077,7 +76077,7 @@
     "id": 5518,
     "date": "2025-05-30T16:44:51",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n零，用摩斯电码表达是五个长音，写出来像分割线一样诶\n\n零点也是日期的的分割线，今日が昨日に、明日が今日に... 也许有什么更深的意味，但是我的脑洞已经被累累的一天熨平了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i> 睡睡\n\n♪ おやすみ まだ名前のない 無数の想い\n♪ おやすみ またこんな夜に歌になる日まで",
-    "views": 205,
+    "views": 206,
     "forwards": 1,
     "reply": {
       "id": 5517,
@@ -76103,7 +76103,7 @@
     "id": 5519,
     "date": "2025-05-31T08:14:11",
     "text": "无刺的仙人掌、有刺的仙人掌\n\n<span class=\"spoiler\"><span>还有刺被拔掉了的仙人掌</span></span>",
-    "views": 197,
+    "views": 198,
     "forwards": 0,
     "media_group_id": 13989434013463309,
     "images": [
@@ -76378,8 +76378,8 @@
     "id": 5542,
     "date": "2025-06-03T03:38:06",
     "text": "看谦谦在吐槽程序语言，随性做了两个 tier list，给所有我用过（写过至少一个实际项目）的语言打了分\n\n第一个是我心中的「语言语法设计」排行榜，比如有很多让人费解的远古石坑的语言就会被打低分\n\n第二个是我自己实际使用频率的排行榜... 唉，有那么多好语言但是日常还是总需要用到坏语言就觉得好可惜 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 137,
-    "forwards": 3,
+    "views": 143,
+    "forwards": 4,
     "media_group_id": 13991375092438485,
     "images": [
       {
@@ -76408,7 +76408,7 @@
     "id": 5544,
     "date": "2025-06-03T10:56:06",
     "text": "因为上次登山把穿了两年的旧鞋子穿坏了，今天买了一双新登山鞋！原本还担心在日亚上买不合适会不会比较麻烦什么的，结果试了一下非常合适 qwq\n\n不想每次穿脱鞋都要重新系鞋带就系了一个超松的结，虽然不太好看（x）",
-    "views": 87,
+    "views": 99,
     "forwards": 0,
     "images": [
       {
@@ -76427,7 +76427,7 @@
     "id": 5545,
     "date": "2025-06-03T12:00:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n假装自己坐在外卖电瓶车上",
-    "views": 67,
+    "views": 86,
     "forwards": 0,
     "media_group_id": 13991616346368085,
     "images": [
