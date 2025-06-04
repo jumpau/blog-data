@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2537,
+    "views": 2538,
     "forwards": 29,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5255,
+    "views": 5256,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -76349,7 +76349,7 @@
     "id": 5540,
     "date": "2025-06-02T16:04:21",
     "text": "？？？？？？？？？？\n\n<a href=\"https://chatgpt.com/share/683dcbd5-06cc-8009-9c03-9f234cbe479c\">https://chatgpt.com/share/683dcbd5-06cc-8009-9c03-9f234cbe479c</a>",
-    "views": 187,
+    "views": 188,
     "forwards": 2,
     "images": [
       {
@@ -76378,7 +76378,7 @@
     "id": 5542,
     "date": "2025-06-03T03:38:06",
     "text": "看谦谦在吐槽程序语言，随性做了两个 tier list，给所有我用过（写过至少一个实际项目）的语言打了分\n\n第一个是我心中的「语言语法设计」排行榜，比如有很多让人费解的远古石坑的语言就会被打低分\n\n第二个是我自己实际使用频率的排行榜... 唉，有那么多好语言但是日常还是总需要用到坏语言就觉得好可惜 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 172,
+    "views": 173,
     "forwards": 4,
     "media_group_id": 13991375092438485,
     "images": [
@@ -76408,7 +76408,7 @@
     "id": 5544,
     "date": "2025-06-03T10:56:06",
     "text": "因为上次登山把穿了两年的旧鞋子穿坏了，今天买了一双新登山鞋！原本还担心在日亚上买不合适会不会比较麻烦什么的，结果试了一下非常合适 qwq\n\n不想每次穿脱鞋都要重新系鞋带就系了一个超松的结，虽然不太好看（x）",
-    "views": 152,
+    "views": 153,
     "forwards": 0,
     "images": [
       {
@@ -76427,7 +76427,7 @@
     "id": 5545,
     "date": "2025-06-03T12:00:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n假装自己坐在外卖电瓶车上",
-    "views": 153,
+    "views": 155,
     "forwards": 0,
     "media_group_id": 13991616346368085,
     "images": [
@@ -76457,7 +76457,7 @@
     "id": 5547,
     "date": "2025-06-03T16:25:42",
     "text": "<a href=\"https://zh.m.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6\">无事发生日</a>快乐\n\n发现把社交上的生日设在历史上的今天确实起到了提醒大家不忘记这一天的效果",
-    "views": 160,
+    "views": 162,
     "forwards": 1,
     "images": [
       {
