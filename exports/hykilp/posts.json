@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5256,
+    "views": 5257,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72701,7 +72701,7 @@
     "id": 5266,
     "date": "2025-04-24T00:21:41",
     "text": "然后依然不想回家，正好离 Henry 家比较近就去找他玩，玩了 arcaea 和 osu\n\n从他的 osu 最近游玩里找到了好多当时打太多遍打到过拟合能够背下来的谱，比如 ”(can you) understand me“ 还有 “world.execute(me)”\n\n虽然代码皮肤延迟设备判定都和当初不一样了，但是打到一首熟悉谱面的手感并不会骗人——听着歌、划起笔、敲起键盘，仿佛身边空气的气味和自己的心情一起回到了当时在麻省郊区的小屋，仿佛侧过头还能看到前前任香子兰在左上角围观，像是激活了一张三分钟的时光传送券，带回来了只存在于文字中的回忆...\n\n在回家的地铁上哭了... 好想把这些回忆永远保存下来，可惜每次触发都只会变得越来越模糊，直到完全被现在覆盖 <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 362,
+    "views": 363,
     "forwards": 1,
     "media_group_id": 13963632813696037,
     "images": [
@@ -72879,7 +72879,7 @@
     "id": 5276,
     "date": "2025-04-26T13:30:44",
     "text": "Cosmo... 居然真的闭店了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 743,
+    "views": 744,
     "forwards": 0,
     "reply": {
       "id": 5147,
@@ -72903,14 +72903,14 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1728,
+    "views": 1729,
     "forwards": 51
   },
   {
     "id": 5278,
     "date": "2025-04-26T16:48:46",
     "text": "溯源一下发现这个漏洞是在 clash-verge-service 代码中出现的，从那个删库的原作者 zzzgydi 2022 年的<a href=\"https://github.com/zzzgydi/clash-verge-service/blob/42b42d47c82469f1a5d37c463dd89aaf41ac911c/src/service/web.rs#L58\">第一个提交</a>开始到现在都一直存在...",
-    "views": 1093,
+    "views": 1094,
     "forwards": 11,
     "reply": {
       "id": 5277,
@@ -73036,7 +73036,7 @@
     "id": 5286,
     "date": "2025-04-28T10:11:40",
     "text": "我让聊聊帮忙把房间里的碗洗了，然后聊聊看到了杯子没有洗，因为觉得杯子不是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n...然后我们争论了好久杯子是不是碗\n\n为了一劳永逸证明杯子是碗，我搓了一个脚本，从 gemma 3 模型里掏出了向量化层，把两个词向量化之后计算余弦相似度。相似度数值越接近 1 词意就越相近\n\n然后计算了「杯子」和「碗」的相似度 = 0.29，「猫」和「动物」的相似度 = 0.16，杯子和碗的词意距离比猫和动物还要更近——如果杯子不是碗，猫就不是动物。但是猫肯定是动物，所以杯子也一定是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5442995162114434162.tgs\">☕</i> 证明结束",
-    "views": 903,
+    "views": 904,
     "forwards": 2,
     "images": [
       {
@@ -73055,7 +73055,7 @@
     "id": 5287,
     "date": "2025-04-28T10:23:37",
     "text": "<span class=\"spoiler\"><span>（是玩笑啦，实际上向量相近只是在语言应用中更相关而已，和“词意”并没有什么实际的关联... 比如「快」和「慢」即使是反义词，相似度却有 0.36 这么高，只是因为很有关联而已 qwq 不过还是挺好玩的hhh）</span></span>",
-    "views": 1139,
+    "views": 1140,
     "forwards": 0,
     "reply": {
       "id": 5286,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5755,
+    "views": 5760,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -75243,7 +75243,7 @@
     "id": 5453,
     "date": "2025-05-23T02:14:49",
     "text": "哇 居然已经 30 年了，Java 生日快乐！\n\n<del>感觉 JVM 生态能活到现在完全是靠 Minecraft 和安卓这两个社区...</del>",
-    "views": 409,
+    "views": 410,
     "forwards": 11,
     "images": [
       {
@@ -76133,14 +76133,14 @@
     "id": 5521,
     "date": "2025-05-31T16:50:56",
     "text": "啊 太困了回到家就睡着了。做了很多乱七八糟的梦，刚才迷迷糊糊醒来觉得不是八九点也应该五六点了吧，然后看下手机才刚快两点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n完了作息又乱了",
-    "views": 200,
+    "views": 201,
     "forwards": 0
   },
   {
     "id": 5522,
     "date": "2025-06-01T06:29:12",
     "text": "带着聊聊猫出门了",
-    "views": 210,
+    "views": 213,
     "forwards": 1,
     "images": [
       {
@@ -76159,7 +76159,7 @@
     "id": 5523,
     "date": "2025-06-01T14:49:20",
     "text": "<a href=\"##不寻常的日常\">#不寻常的日常</a>\n1. 还差１円\n2. 鲨鲨轮回：几个月前挂在我背包上的鲨鲨逃跑了，今天在路上捡到了从别人背包上逃跑的鲨鲨\n3. 电车轨道上长了小草\n4. 售卖机的柚子饮料被晒掉色变成粉色还蛮可爱的\n5. 为什么这个警示牌有 3D 图标\n6. 建筑和天空融化在一起\n7. 波奇鱼，把自己埋在沙子里面了",
-    "views": 173,
+    "views": 174,
     "forwards": 1,
     "media_group_id": 13990314886162485,
     "images": [
@@ -76239,7 +76239,7 @@
     "id": 5530,
     "date": "2025-06-01T15:11:07",
     "text": "向山进发！今天和 <a href=\"https://t.me/MizukiAmakawa\">@MizukiAmakawa</a> 和天文还有两个刚认识的朋友去爬了高尾山，好累好累\n\n上去有一半的路程坐了缆车，虽然比以前好很多了但是依然很恐高... 接下来爬到山顶再爬下去走了总共七八公里的路程，不仅腿酸酸，下坡还磨破了两只袜子和一双鞋垫... <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 看来衣服和我一样不喜欢爬山\n\n路上遇到了好多可爱的东西，有带着保暖帽子的雕像、有看上去像是别人摆在山上的手工乒乓球玩偶，然后发现不约而同每人都带了谷子就一起用玩偶合了影。",
-    "views": 177,
+    "views": 178,
     "forwards": 1,
     "media_group_id": 13990325337230133,
     "images": [
@@ -76457,7 +76457,7 @@
     "id": 5547,
     "date": "2025-06-03T16:25:42",
     "text": "<a href=\"https://zh.m.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6\">无事发生日</a>快乐\n\n发现把社交上的生日设在历史上的今天确实起到了提醒大家不忘记这一天的效果",
-    "views": 162,
+    "views": 163,
     "forwards": 1,
     "images": [
       {
