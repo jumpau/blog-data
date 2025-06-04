@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-06-04T16:31:21.920809+00:00</updated>
+  <updated>2025-06-04T18:14:17.575150+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5548</id>
+    <title>小桂桂的回忆录 📒 #5548</title>
+    <updated>2025-06-04T16:56:42+00:00</updated>
+    <content>&lt;p&gt;终末列车坐过站，走了半小时回到家了 &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;不过路上风景也不错，还见到了设计感报表超炫酷的高輪网关车站，也许也是一种幸运吧 qwq&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5548" rel="alternate"/>
+  </entry>
   <entry>
     <id>5547</id>
     <title>小桂桂的回忆录 📒 #5547</title>

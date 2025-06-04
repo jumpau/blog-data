@@ -567,7 +567,7 @@
     "id": 50,
     "date": "2021-09-16T00:03:12",
     "text": "仍然在工作的三个电话亭w",
-    "views": 59,
+    "views": 60,
     "forwards": 0,
     "reply": {
       "id": 38
@@ -589,7 +589,7 @@
     "id": 51,
     "date": "2021-09-16T00:07:10",
     "text": "电箱上的涂鸦w",
-    "views": 57,
+    "views": 58,
     "forwards": 0,
     "reply": {
       "id": 38
@@ -611,7 +611,7 @@
     "id": 52,
     "date": "2021-09-16T00:09:38",
     "text": "钉满订书钉的路牌w（每个钉都是某个人很早很早之前钉下的公告",
-    "views": 66,
+    "views": 67,
     "forwards": 0,
     "reply": {
       "id": 38
@@ -633,7 +633,7 @@
     "id": 53,
     "date": "2021-09-16T03:48:49",
     "text": "不会写影评，随便写写好啦：<a href=\"https://telegra.ph/尚气感想-09-16\">https://telegra.ph/尚气感想-09-16</a>",
-    "views": 72,
+    "views": 73,
     "forwards": 1,
     "reply": {
       "id": 49,
@@ -49251,14 +49251,14 @@
     "id": 3607,
     "date": "2024-04-25T16:40:28",
     "text": "<a href=\"https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/\">The Story of AI Graphics at JetBrains</a>\nAlso: <a href=\"https://cai.jetbrains.com/\">Computational Arts Initiative</a>\n\n看完这篇 Blog 我真的好爱 JetBrains。每一年 IDEA 的启动画面都是精心调制的广义 AI 图形，从以前的随机粒子生成，到 2020 的 CPPN 网络，再到 2023 年的 Stable Diffusion LoRA... 明明只是一个启动画面的一张图，这种没有功能性、甚至很少人会注意到的细节却花了这么多精力探索 qwq\n\n感觉能让大家在这种细节或者说好奇心上花时间的公司好棒，真希望这样的公司能多一些呀...",
-    "views": 139,
+    "views": 140,
     "forwards": 3
   },
   {
     "id": 3608,
     "date": "2024-04-25T17:27:31",
     "text": "好玩 qwq\n\n（<a href=\"https://code2art.jetbrains.com/#509ffabc\">https://code2art.jetbrains.com/#509ffabc</a>",
-    "views": 143,
+    "views": 144,
     "forwards": 2,
     "reply": {
       "id": 3607,
@@ -49311,7 +49311,7 @@
     "id": 3611,
     "date": "2024-04-28T01:01:56",
     "text": "第一次想要在 Twitter 上 publicize 一件事情，感觉自己在学着别人用 Twitter 语气说话，但是似乎学得不是很好呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n看了猪猪和书的建议改了改才感觉更像是会在 Twitter 上看到的风格了。唉这真的好不像我，但是希望这样可以让更多人知道这件事情...\n\n<a href=\"https://twitter.com/Hykilpikonna/status/1784382363855679844\">Link</a>",
-    "views": 255,
+    "views": 256,
     "forwards": 2,
     "images": [
       {
@@ -49330,7 +49330,7 @@
     "id": 3612,
     "date": "2024-04-28T12:31:17",
     "text": "今天某位 MoeDev 过来玩，又吃到了蛋糕，开心开心 qwq\n\n以及她拍键用力觉得太吵我们现场给 adx3 改装了垫片，音量比之前好很多了！",
-    "views": 122,
+    "views": 123,
     "forwards": 0,
     "media_group_id": 13714459822322549,
     "images": [
@@ -49370,14 +49370,14 @@
     "id": 3615,
     "date": "2024-04-29T16:02:31",
     "text": "和多伦多的家说了再见 qwq",
-    "views": 133,
+    "views": 134,
     "forwards": 1
   },
   {
     "id": 3616,
     "date": "2024-04-29T16:04:22",
     "text": "猜猜我要去哪",
-    "views": 141,
+    "views": 142,
     "forwards": 1,
     "media_group_id": 13715253299988973,
     "images": [
@@ -49407,7 +49407,7 @@
     "id": 3618,
     "date": "2024-04-29T17:09:39",
     "text": "分离焦虑.jpg",
-    "views": 141,
+    "views": 142,
     "forwards": 0,
     "images": [
       {
@@ -49426,7 +49426,7 @@
     "id": 3619,
     "date": "2024-04-29T20:12:06",
     "text": "堵飞机",
-    "views": 136,
+    "views": 137,
     "forwards": 1,
     "media_group_id": 13715372215239485,
     "images": [
@@ -49456,7 +49456,7 @@
     "id": 3621,
     "date": "2024-04-30T12:44:31",
     "text": "试着在飞机上写一些 Wactroller v2 控制板的代码，看看我写的这些支离破碎的初始化代码 🌚 没有网络没有 AI 帮忙，不能查用例和文档，只有 IDE 和依赖源码可以参考... 上次这样写代码应该还是在小学打算法比赛的时候。\n\n没有需要网的效率工具我真的好废，不过同时也觉得读依赖源码让我对 TWAI (CAN) 理解得更多了，这种理解也许不是看着样例照猫画虎把项目写出来能学到的 qwq",
-    "views": 116,
+    "views": 117,
     "forwards": 0,
     "images": [
       {
@@ -49475,7 +49475,7 @@
     "id": 3622,
     "date": "2024-04-30T16:00:52",
     "text": "在香港和 qrty 玩得很开心 qwq\n\n坐了天星小轮，船票居然只要 ￥5 哇，比地铁便宜风景还好好，如果当时在西雅图能用这么便宜的价格坐船过河的话我一定会天天坐船上班的（然而当时开车过桥每过一次要收 US$4.5 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n办了一张八达通加入了我的地铁卡收藏 qwq 感觉在这边八达通就像 Suica 一样在哪里都能用诶（而且同样都是 Felica！）如果多伦多的 Presto 也是这样就好了。\n\n坐了 MTR 地铁，感觉除了机场快线很舒服以外其他的地铁站和车厢都和北京的差不多，比例超级误导的地铁地图也是一模一样（？）",
-    "views": 122,
+    "views": 123,
     "forwards": 1,
     "media_group_id": 13715942816462349,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5257,
+    "views": 5261,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -75322,7 +75322,7 @@
     "id": 5459,
     "date": "2025-05-23T10:28:10",
     "text": "发现自己从多伦多飞到东京之后每天都有出门，明明之前是家里蹲类型的，看来真的是多伦多村太无聊了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 253,
+    "views": 254,
     "forwards": 3
   },
   {
@@ -75755,7 +75755,7 @@
   {
     "id": 5494,
     "date": "2025-05-28T03:21:50",
-    "views": 260,
+    "views": 261,
     "forwards": 4,
     "files": [
       {
@@ -75776,7 +75776,7 @@
     "id": 5495,
     "date": "2025-05-28T09:10:19",
     "text": "因为天气好出门散步，看到一只小鸟落在树枝上，背景的窗户变成了小鸟的天然相框 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 215,
+    "views": 216,
     "forwards": 0,
     "media_group_id": 13987387354182557,
     "images": [
@@ -75806,7 +75806,7 @@
     "id": 5497,
     "date": "2025-05-29T11:45:04",
     "text": "现在是工作的第三周，这次的研究项目是想让我用新方法 A 去解决问题 X。但是我觉得 A 不靠谱，想先试试以前用过的旧方法 B，结果 B 真的解决了 X，还差不多是天花板的效率和准确率...\n\n听上去大吉，问题解决了，但是实际上方法 B 太普通了没办法用来发文，结果反而可能要换方向浪费掉了两周 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 212,
+    "views": 213,
     "forwards": 0,
     "media_group_id": 13988152835403037,
     "images": [
@@ -75846,7 +75846,7 @@
     "id": 5500,
     "date": "2025-05-30T07:21:56",
     "text": "东京建筑师到底是多么不喜欢焊接... <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 196,
+    "views": 199,
     "forwards": 2,
     "media_group_id": 13988717735589437,
     "images": [
@@ -75876,7 +75876,7 @@
     "id": 5502,
     "date": "2025-05-30T07:27:39",
     "text": "猜猜我昨天和 <a href=\"https://t.me/MizukiAmakawa\">@MizukiAmakawa</a> 去了哪里 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 首先排除美国\n\n是台場！",
-    "views": 176,
+    "views": 178,
     "forwards": 1,
     "media_group_id": 13988720475874117,
     "images": [
@@ -75956,7 +75956,7 @@
     "id": 5509,
     "date": "2025-05-30T07:43:51",
     "text": "在海边散了步之后从彩虹桥走回家了！走了一个小时左右，拍了很多好看照片，大满足 qwq\n\n可惜手机的镜头在低光线环境不太行，即使手动调 ISO 和快门速度这也是极限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i> 好想买相机呀（买不起，悲）",
-    "views": 184,
+    "views": 186,
     "forwards": 1,
     "media_group_id": 13988728255370421,
     "images": [
@@ -76036,7 +76036,7 @@
     "id": 5516,
     "date": "2025-05-30T12:27:33",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n被推到了少数很喜欢的中文歌\n\n感觉陈娴静的曲子成功把吐字不清的短板变成了一种艺术风格，听起来像是一边梦游在街边飘来飘去一边录下的歌 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>",
-    "views": 196,
+    "views": 198,
     "forwards": 3,
     "files": [
       {
@@ -76058,7 +76058,7 @@
     "id": 5517,
     "date": "2025-05-30T15:37:10",
     "text": "-----",
-    "views": 204,
+    "views": 206,
     "forwards": 1,
     "images": [
       {
@@ -76077,7 +76077,7 @@
     "id": 5518,
     "date": "2025-05-30T16:44:51",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n零，用摩斯电码表达是五个长音，写出来像分割线一样诶\n\n零点也是日期的的分割线，今日が昨日に、明日が今日に... 也许有什么更深的意味，但是我的脑洞已经被累累的一天熨平了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i> 睡睡\n\n♪ おやすみ まだ名前のない 無数の想い\n♪ おやすみ またこんな夜に歌になる日まで",
-    "views": 213,
+    "views": 216,
     "forwards": 1,
     "reply": {
       "id": 5517,
@@ -76103,7 +76103,7 @@
     "id": 5519,
     "date": "2025-05-31T08:14:11",
     "text": "无刺的仙人掌、有刺的仙人掌\n\n<span class=\"spoiler\"><span>还有刺被拔掉了的仙人掌</span></span>",
-    "views": 205,
+    "views": 208,
     "forwards": 0,
     "media_group_id": 13989434013463309,
     "images": [
@@ -76133,14 +76133,14 @@
     "id": 5521,
     "date": "2025-05-31T16:50:56",
     "text": "啊 太困了回到家就睡着了。做了很多乱七八糟的梦，刚才迷迷糊糊醒来觉得不是八九点也应该五六点了吧，然后看下手机才刚快两点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n完了作息又乱了",
-    "views": 201,
+    "views": 205,
     "forwards": 0
   },
   {
     "id": 5522,
     "date": "2025-06-01T06:29:12",
     "text": "带着聊聊猫出门了",
-    "views": 213,
+    "views": 216,
     "forwards": 1,
     "images": [
       {
@@ -76159,7 +76159,7 @@
     "id": 5523,
     "date": "2025-06-01T14:49:20",
     "text": "<a href=\"##不寻常的日常\">#不寻常的日常</a>\n1. 还差１円\n2. 鲨鲨轮回：几个月前挂在我背包上的鲨鲨逃跑了，今天在路上捡到了从别人背包上逃跑的鲨鲨\n3. 电车轨道上长了小草\n4. 售卖机的柚子饮料被晒掉色变成粉色还蛮可爱的\n5. 为什么这个警示牌有 3D 图标\n6. 建筑和天空融化在一起\n7. 波奇鱼，把自己埋在沙子里面了",
-    "views": 174,
+    "views": 178,
     "forwards": 1,
     "media_group_id": 13990314886162485,
     "images": [
@@ -76239,7 +76239,7 @@
     "id": 5530,
     "date": "2025-06-01T15:11:07",
     "text": "向山进发！今天和 <a href=\"https://t.me/MizukiAmakawa\">@MizukiAmakawa</a> 和天文还有两个刚认识的朋友去爬了高尾山，好累好累\n\n上去有一半的路程坐了缆车，虽然比以前好很多了但是依然很恐高... 接下来爬到山顶再爬下去走了总共七八公里的路程，不仅腿酸酸，下坡还磨破了两只袜子和一双鞋垫... <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 看来衣服和我一样不喜欢爬山\n\n路上遇到了好多可爱的东西，有带着保暖帽子的雕像、有看上去像是别人摆在山上的手工乒乓球玩偶，然后发现不约而同每人都带了谷子就一起用玩偶合了影。",
-    "views": 178,
+    "views": 181,
     "forwards": 1,
     "media_group_id": 13990325337230133,
     "images": [
@@ -76349,7 +76349,7 @@
     "id": 5540,
     "date": "2025-06-02T16:04:21",
     "text": "？？？？？？？？？？\n\n<a href=\"https://chatgpt.com/share/683dcbd5-06cc-8009-9c03-9f234cbe479c\">https://chatgpt.com/share/683dcbd5-06cc-8009-9c03-9f234cbe479c</a>",
-    "views": 188,
+    "views": 190,
     "forwards": 2,
     "images": [
       {
@@ -76368,7 +76368,7 @@
     "id": 5541,
     "date": "2025-06-02T16:15:38",
     "text": "汉化：\n一心一意\n一个顶俩",
-    "views": 176,
+    "views": 179,
     "forwards": 0,
     "forwarded_from": {
       "name": "‍‌⁮¶Þ¥¿£️"
@@ -76378,8 +76378,8 @@
     "id": 5542,
     "date": "2025-06-03T03:38:06",
     "text": "看谦谦在吐槽程序语言，随性做了两个 tier list，给所有我用过（写过至少一个实际项目）的语言打了分\n\n第一个是我心中的「语言语法设计」排行榜，比如有很多让人费解的远古石坑的语言就会被打低分\n\n第二个是我自己实际使用频率的排行榜... 唉，有那么多好语言但是日常还是总需要用到坏语言就觉得好可惜 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 173,
-    "forwards": 4,
+    "views": 178,
+    "forwards": 5,
     "media_group_id": 13991375092438485,
     "images": [
       {
@@ -76408,7 +76408,7 @@
     "id": 5544,
     "date": "2025-06-03T10:56:06",
     "text": "因为上次登山把穿了两年的旧鞋子穿坏了，今天买了一双新登山鞋！原本还担心在日亚上买不合适会不会比较麻烦什么的，结果试了一下非常合适 qwq\n\n不想每次穿脱鞋都要重新系鞋带就系了一个超松的结，虽然不太好看（x）",
-    "views": 153,
+    "views": 162,
     "forwards": 0,
     "images": [
       {
@@ -76427,7 +76427,7 @@
     "id": 5545,
     "date": "2025-06-03T12:00:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n假装自己坐在外卖电瓶车上",
-    "views": 155,
+    "views": 164,
     "forwards": 0,
     "media_group_id": 13991616346368085,
     "images": [
@@ -76457,7 +76457,7 @@
     "id": 5547,
     "date": "2025-06-03T16:25:42",
     "text": "<a href=\"https://zh.m.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6\">无事发生日</a>快乐\n\n发现把社交上的生日设在历史上的今天确实起到了提醒大家不忘记这一天的效果",
-    "views": 163,
+    "views": 174,
     "forwards": 1,
     "images": [
       {
@@ -76469,6 +76469,56 @@
         "url": "media/5547.jpg",
         "size": 67947,
         "thumb": "media/5547.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5548,
+    "date": "2025-06-04T16:56:42",
+    "text": "终末列车坐过站，走了半小时回到家了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n不过路上风景也不错，还见到了设计感报表超炫酷的高輪网关车站，也许也是一种幸运吧 qwq",
+    "views": 61,
+    "forwards": 0,
+    "media_group_id": 13992449623337293,
+    "images": [
+      {
+        "width": 1919,
+        "height": 2560,
+        "date": "2025-06-04T16:56:35",
+        "media_type": "photo",
+        "original_name": "photo_2025-06-04_16-56-35.jpg",
+        "url": "media/5548.jpg",
+        "size": 547059,
+        "thumb": "media/5548.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-06-04T16:56:37",
+        "media_type": "photo",
+        "original_name": "photo_2025-06-04_16-56-37.jpg",
+        "url": "media/5549.jpg",
+        "size": 614823,
+        "thumb": "media/5549.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-06-04T16:56:39",
+        "media_type": "photo",
+        "original_name": "photo_2025-06-04_16-56-39.jpg",
+        "url": "media/5550.jpg",
+        "size": 626300,
+        "thumb": "media/5550.jpg_thumb.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1920,
+        "date": "2025-06-04T16:56:42",
+        "media_type": "photo",
+        "original_name": "photo_2025-06-04_16-56-42.jpg",
+        "url": "media/5551.jpg",
+        "size": 1010731,
+        "thumb": "media/5551.jpg_thumb.jpg"
       }
     ]
   }
