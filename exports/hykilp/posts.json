@@ -64978,7 +64978,7 @@
     "id": 4723,
     "date": "2024-12-07T18:42:15",
     "text": "考试当天告诉我 ttc 地铁停了... 然后看了一眼打车价格，原本可能 $20 不到的路程现在要 $50",
-    "views": 128,
+    "views": 129,
     "forwards": 2,
     "media_group_id": 13868775484602197,
     "images": [
@@ -65020,7 +65020,7 @@
     "id": 4726,
     "date": "2024-12-07T22:59:10",
     "text": "考完了，迟到了 40 分钟果然没做完，但是肯定有 70% 了不管啦不管啦\n\n原本是 25 分到的，走了平时走的入口发现门锁了，换了两个入口门都是锁的，绕一大圈绕到正门才进去... 进去就已经 40 分了。到底是哪个天才想的周末考试还把侧门都锁上",
-    "views": 128,
+    "views": 129,
     "forwards": 0,
     "files": [
       {
@@ -65042,7 +65042,7 @@
     "id": 4727,
     "date": "2024-12-07T23:57:05",
     "text": "felis cactus. <i class=\"custom-emoji\" emoji-src=\"emoji/6327897096699512993.webp\">🐱</i>",
-    "views": 134,
+    "views": 135,
     "forwards": 1
   },
   {
@@ -65107,7 +65107,7 @@
     "id": 4732,
     "date": "2024-12-08T22:31:48",
     "text": "真的越来越讨厌 YouTube 这个平台了\n\n说是 \"1080P HD\" 但是看着眼睛好不舒服，画面上全是肉眼可见的压缩失真，为什么呢？下载下来发现居然被 vp9 压到了只有不到 1 mbps 的码率... 相比之下 Twitch 给直播用的 1080p30 码率推荐都是至少 4.5 mbps，明明直播这种实时性更重要的事情还是更需要低码率的",
-    "views": 131,
+    "views": 132,
     "forwards": 0,
     "media_group_id": 13869576869662997,
     "images": [
@@ -65137,7 +65137,7 @@
     "id": 4734,
     "date": "2024-12-09T13:16:31",
     "text": "打视频电话的时候把 iPad 放在腿上会发生什么：",
-    "views": 137,
+    "views": 138,
     "forwards": 3,
     "images": [
       {
@@ -65156,7 +65156,7 @@
     "id": 4735,
     "date": "2024-12-09T15:20:41",
     "text": "是不是把系统用户名改成 \"sandbox\" 就可以绕过大部分的病毒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 162,
+    "views": 163,
     "forwards": 1
   },
   {
@@ -65247,7 +65247,7 @@
     "id": 4743,
     "date": "2024-12-11T05:39:52",
     "text": "发现 btrfs 开全局压缩有奇效\n\n压缩前总共用了 2.82TB，开一下 zstd:3 直接省了 1.06TB 出来",
-    "views": 127,
+    "views": 128,
     "forwards": 0,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5277,
+    "views": 5279,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5767,
+    "views": 5768,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -76530,7 +76530,7 @@
     "id": 5553,
     "date": "2025-06-05T07:12:17",
     "text": "在东京快一个月了，做了一个「东京迷子宾果」\n\n哪些是亲身经历、哪些是都市传说，就由你来判断吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5442664243474211327.tgs\">👀</i>",
-    "views": 139,
+    "views": 141,
     "forwards": 2,
     "images": [
       {
@@ -76549,7 +76549,7 @@
     "id": 5554,
     "date": "2025-06-05T13:58:32",
     "text": "一些最近漏掉的照片\n\n1. 和谦谦在池袋散步，看到了另一栋楼和天空融在一起\n2. 天川家旁边的天空\n3. 去登山的另外四个人的即兴表情包合影\n4. 和谦谦开车去河边散步的夜景",
-    "views": 102,
+    "views": 104,
     "forwards": 0,
     "media_group_id": 13993055297378557,
     "images": [
