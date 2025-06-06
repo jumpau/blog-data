@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-06-06T16:12:54.536453+00:00</updated>
+  <updated>2025-06-06T18:14:29.456342+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5561</id>
+    <title>小桂桂的回忆录 📒 #5561</title>
+    <updated>2025-06-06T17:08:48+00:00</updated>
+    <content>&lt;p&gt;草 等等 突然发现&lt;/p&gt;
+&lt;p&gt;要楽奈（mygo 猫猫的名字）是不是也可以读成「いらない」&lt;i class="custom-emoji" emoji-src="emoji/6323397499981661640.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;...还真能用输入法打出来哇&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;可能猫猫确实什么都いらない&lt;/del&gt; &lt;i class="custom-emoji" emoji-src="emoji/5445226814236533679.tgs"&gt;🧐&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5561" rel="alternate"/>
+  </entry>
   <entry>
     <id>5560</id>
     <title>小桂桂的回忆录 📒 #5560</title>

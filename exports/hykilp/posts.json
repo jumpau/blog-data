@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5283,
+    "views": 5284,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5780,
+    "views": 5781,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73920,7 +73920,7 @@
     "id": 5348,
     "date": "2025-05-10T12:25:56",
     "text": "好像买 CD 的时候不小心用了加拿大银行给我的超稀有两千元钞",
-    "views": 282,
+    "views": 283,
     "forwards": 7,
     "forwarded_from": {
       "name": "Azalea",
@@ -75696,7 +75696,7 @@
     "id": 5491,
     "date": "2025-05-26T10:07:57",
     "text": "每次看到新干线的图标 <i class=\"custom-emoji\" emoji-src=\"emoji/6289796008025003402.webp\">🚄</i> 都觉得像一个胖大叔的肚肚怎么办",
-    "views": 269,
+    "views": 270,
     "forwards": 1,
     "images": [
       {
@@ -75715,7 +75715,7 @@
     "id": 5492,
     "date": "2025-05-26T12:06:15",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n工作的时候被推到的一首歌，因为从歌词里听到了 \"mafuyu\" 注意到了它\n\n...听起来好冷，真的有 mafuyu 会写出的歌的感觉",
-    "views": 256,
+    "views": 257,
     "forwards": 3,
     "files": [
       {
@@ -75737,7 +75737,7 @@
     "id": 5493,
     "date": "2025-05-28T03:20:38",
     "text": "ヤマト快递这个图标真的是生动形象了，大猫猫叼着小猫猫\n\n（虽然有希望它画得更可爱一点",
-    "views": 264,
+    "views": 265,
     "forwards": 4,
     "images": [
       {
@@ -75755,7 +75755,7 @@
   {
     "id": 5494,
     "date": "2025-05-28T03:21:50",
-    "views": 270,
+    "views": 271,
     "forwards": 4,
     "files": [
       {
@@ -75956,7 +75956,7 @@
     "id": 5509,
     "date": "2025-05-30T07:43:51",
     "text": "在海边散了步之后从彩虹桥走回家了！走了一个小时左右，拍了很多好看照片，大满足 qwq\n\n可惜手机的镜头在低光线环境不太行，即使手动调 ISO 和快门速度这也是极限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i> 好想买相机呀（买不起，悲）",
-    "views": 201,
+    "views": 202,
     "forwards": 1,
     "media_group_id": 13988728255370421,
     "images": [
@@ -76133,14 +76133,14 @@
     "id": 5521,
     "date": "2025-05-31T16:50:56",
     "text": "啊 太困了回到家就睡着了。做了很多乱七八糟的梦，刚才迷迷糊糊醒来觉得不是八九点也应该五六点了吧，然后看下手机才刚快两点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n完了作息又乱了",
-    "views": 227,
+    "views": 228,
     "forwards": 0
   },
   {
     "id": 5522,
     "date": "2025-06-01T06:29:12",
     "text": "带着聊聊猫出门了",
-    "views": 244,
+    "views": 245,
     "forwards": 1,
     "images": [
       {
@@ -76159,7 +76159,7 @@
     "id": 5523,
     "date": "2025-06-01T14:49:20",
     "text": "<a href=\"##不寻常的日常\">#不寻常的日常</a>\n1. 还差１円\n2. 鲨鲨轮回：几个月前挂在我背包上的鲨鲨逃跑了，今天在路上捡到了从别人背包上逃跑的鲨鲨\n3. 电车轨道上长了小草\n4. 售卖机的柚子饮料被晒掉色变成粉色还蛮可爱的\n5. 为什么这个警示牌有 3D 图标\n6. 建筑和天空融化在一起\n7. 波奇鱼，把自己埋在沙子里面了",
-    "views": 206,
+    "views": 207,
     "forwards": 1,
     "media_group_id": 13990314886162485,
     "images": [
@@ -76378,7 +76378,7 @@
     "id": 5542,
     "date": "2025-06-03T03:38:06",
     "text": "看谦谦在吐槽程序语言，随性做了两个 tier list，给所有我用过（写过至少一个实际项目）的语言打了分\n\n第一个是我心中的「语言语法设计」排行榜，比如有很多让人费解的远古石坑的语言就会被打低分\n\n第二个是我自己实际使用频率的排行榜... 唉，有那么多好语言但是日常还是总需要用到坏语言就觉得好可惜 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 209,
+    "views": 210,
     "forwards": 6,
     "media_group_id": 13991375092438485,
     "images": [
@@ -76408,7 +76408,7 @@
     "id": 5544,
     "date": "2025-06-03T10:56:06",
     "text": "因为上次登山把穿了两年的旧鞋子穿坏了，今天买了一双新登山鞋！原本还担心在日亚上买不合适会不会比较麻烦什么的，结果试了一下非常合适 qwq\n\n不想每次穿脱鞋都要重新系鞋带就系了一个超松的结，虽然不太好看（x）",
-    "views": 196,
+    "views": 197,
     "forwards": 0,
     "images": [
       {
@@ -76427,7 +76427,7 @@
     "id": 5545,
     "date": "2025-06-03T12:00:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n假装自己坐在外卖电瓶车上",
-    "views": 203,
+    "views": 205,
     "forwards": 0,
     "media_group_id": 13991616346368085,
     "images": [
@@ -76457,7 +76457,7 @@
     "id": 5547,
     "date": "2025-06-03T16:25:42",
     "text": "<a href=\"https://zh.m.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6\">无事发生日</a>快乐\n\n发现把社交上的生日设在历史上的今天确实起到了提醒大家不忘记这一天的效果",
-    "views": 220,
+    "views": 221,
     "forwards": 1,
     "images": [
       {
@@ -76476,7 +76476,7 @@
     "id": 5548,
     "date": "2025-06-04T16:56:42",
     "text": "终末列车坐过站，走了半小时回到家了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n不过路上风景也不错，还见到了设计感报表超炫酷的高輪网关车站，也许也是一种幸运吧 qwq",
-    "views": 187,
+    "views": 188,
     "forwards": 0,
     "media_group_id": 13992449623337293,
     "images": [
@@ -76549,7 +76549,7 @@
     "id": 5554,
     "date": "2025-06-05T13:58:32",
     "text": "一些最近漏掉的照片\n\n1. 和谦谦在池袋散步，看到了另一栋楼和天空融在一起\n2. 天川家旁边的天空\n3. 去登山的另外四个人的即兴表情包合影\n4. 和谦谦开车去河边散步的夜景",
-    "views": 174,
+    "views": 176,
     "forwards": 0,
     "media_group_id": 13993055297378557,
     "images": [
@@ -76599,14 +76599,14 @@
     "id": 5558,
     "date": "2025-06-06T06:22:21",
     "text": "太尴尬了\n\n：我找到了这篇相关的文献，但是我不太相信它能用\n这时候群里另一位正式员工突然出来\n：啊这篇是我写的 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 146,
+    "views": 154,
     "forwards": 0
   },
   {
     "id": 5559,
     "date": "2025-06-06T06:57:49",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n好梦幻的声音，感觉被 ASMR 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n♪ If our story finds an end tonight\n♪ Will you be by my side\n♪ Oh till we say goodbye\n♪ Or should I say good night?",
-    "views": 133,
+    "views": 146,
     "forwards": 0,
     "files": [
       {
@@ -76628,7 +76628,7 @@
     "id": 5560,
     "date": "2025-06-06T11:12:01",
     "text": "不登校\n\n<span class=\"spoiler\"><span>（因为毕业了 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</span></span></i>",
-    "views": 111,
+    "views": 135,
     "forwards": 0,
     "images": [
       {
@@ -76640,6 +76640,28 @@
         "url": "media/5560.jpg",
         "size": 156519,
         "thumb": "media/5560.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5561,
+    "date": "2025-06-06T17:08:48",
+    "text": "草 等等 突然发现\n\n要楽奈（mygo 猫猫的名字）是不是也可以读成「いらない」<i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n...还真能用输入法打出来哇\n\n<del>可能猫猫确实什么都いらない</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
+    "views": 64,
+    "forwards": 0,
+    "files": [
+      {
+        "width": 1440,
+        "height": 1216,
+        "duration": 18,
+        "mime_type": "video/mp4",
+        "supports_streaming": true,
+        "date": "2025-06-06T17:08:48",
+        "media_type": "video_file",
+        "original_name": "video_2025-06-06_17-08-48.mp4",
+        "url": "media/5561.mp4",
+        "size": 3626183,
+        "thumb": "media/5561.mp4_thumb.jpg"
       }
     ]
   }
