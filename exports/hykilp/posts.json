@@ -67971,7 +67971,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1257,
+    "views": 1258,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -67993,7 +67993,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 1059,
+    "views": 1060,
     "forwards": 7,
     "files": [
       {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5768,
+    "views": 5769,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -76140,7 +76140,7 @@
     "id": 5522,
     "date": "2025-06-01T06:29:12",
     "text": "带着聊聊猫出门了",
-    "views": 229,
+    "views": 230,
     "forwards": 1,
     "images": [
       {
@@ -76530,7 +76530,7 @@
     "id": 5553,
     "date": "2025-06-05T07:12:17",
     "text": "在东京快一个月了，做了一个「东京迷子宾果」\n\n哪些是亲身经历、哪些是都市传说，就由你来判断吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5442664243474211327.tgs\">👀</i>",
-    "views": 141,
+    "views": 142,
     "forwards": 2,
     "images": [
       {
@@ -76549,7 +76549,7 @@
     "id": 5554,
     "date": "2025-06-05T13:58:32",
     "text": "一些最近漏掉的照片\n\n1. 和谦谦在池袋散步，看到了另一栋楼和天空融在一起\n2. 天川家旁边的天空\n3. 去登山的另外四个人的即兴表情包合影\n4. 和谦谦开车去河边散步的夜景",
-    "views": 104,
+    "views": 109,
     "forwards": 0,
     "media_group_id": 13993055297378557,
     "images": [
