@@ -62926,7 +62926,7 @@
     "id": 4589,
     "date": "2024-10-26T18:53:27",
     "text": "<a href=\"##LLM\">#LLM</a> 训练了第一个版本的假想书书模型，白嫖了 OpenAI gpt4o-mini 的免费 finetune，语气和格式看起来都完全没问题，但是还是有很多问题...\n\n试了一下让它回一些 linux maintainer 这件事周围的暴论，但是因为缺少 context 似乎没办法从一条推文里面理解发生了什么... <del>毕竟肯定也没有人会猜到 linus 会支持删 maintainer</del> 但是可能需要在输入前面加入一些自动生成或者是手动标注的 context\n\n还有就是数据真的好少... 爬下来一共有 7221 条书书发的回复，但是其中只有 54% 的回复上文是可见的，再过滤掉回复自己用来发长文的操作的话就只剩下 40% 2883 条了。不过好像忘记了推特还有一种回复方式是转贴回复，也许把转帖回复也加进来会多一些",
-    "views": 115,
+    "views": 116,
     "forwards": 0,
     "media_group_id": 13839750457991053,
     "images": [
@@ -62980,21 +62980,21 @@
     "id": 4593,
     "date": "2024-10-27T05:12:41",
     "text": "呜呜 感觉自己永远在一个没有尽头的「想要在系统上装更多东西」>「觉得系统太重了想要重装」的循环里",
-    "views": 122,
+    "views": 123,
     "forwards": 0
   },
   {
     "id": 4594,
     "date": "2024-10-27T16:43:52",
     "text": "我：不知道这个 API 要用 python 还是 ts 还是 kotlin 写\nsyama：用 Unity\n<i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 122,
+    "views": 123,
     "forwards": 0
   },
   {
     "id": 4595,
     "date": "2024-10-27T22:40:43",
     "text": "在 maimai 里面获得了新的旅行伙伴 syama <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n<span class=\"spoiler\"><span>如果在现实中获得 syama 也这么简单就好了</span></span>（不是",
-    "views": 151,
+    "views": 152,
     "forwards": 0,
     "media_group_id": 13840550750729853,
     "images": [
@@ -68363,7 +68363,7 @@
     "id": 4949,
     "date": "2025-02-20T08:24:51",
     "text": "这个模型面数太多了感觉渲染会很吃力... 也没有找到其他好的模型\n\n所以给 syama 下单了几盒杯面，又能 3d 扫描下来做模型又能吃 qwq",
-    "views": 184,
+    "views": 185,
     "forwards": 2,
     "reply": {
       "id": 4947,
@@ -68375,7 +68375,7 @@
     "id": 4950,
     "date": "2025-02-21T08:30:54",
     "text": "今天踩了一个巨大坑\n\n某个神秘 Unity 项目在 PC iOS 端都可以跑，但是在安卓上就闪退... 挂上调试器发现退出前甚至没有丢异常，仔细打断点逐行 debug，也没发现任何不对的地方，然后突然就崩溃了。看了看 logcat 日志发现居然是空指针 segfault??\n\n众所周知在 C# 这种内存安全的字节码语言里是基本不可能写出 segfault 的... 但是 il2cpp 之后出现什么魔法也都不奇怪了\n\n用 <code>ndk-stack</code> 引用调试符号把内存地址转换成调用栈看看，发现调用栈里面我的代码甚至有无条件 catch，但是 cpp 层的空指针没办法被 c# 抓到。再看看不是我的代码，发现报错的地方在 il2cpp 尝试释放一个不存在的指针 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n接下来又 debug 了超级久，越来越觉得不可能是我的问题，然后更新了一下 Unity 版本，发现果然更新了之后问题就消失了 <i class=\"custom-emoji\" emoji-src=\"emoji/6318635837244313060.webp\">😡</i>（然后因为最新版本的 Unity 有其他的兼容性问题，又花了好久进行了一次手动 bisect 找到了最高的没问题的版本...\n\n好灵车啊 <del>如果是 il2rust 是不是就没有这个问题了</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 185,
+    "views": 186,
     "forwards": 1,
     "media_group_id": 13921013237436885,
     "images": [
@@ -71380,7 +71380,7 @@
     "id": 5165,
     "date": "2025-04-08T16:39:49",
     "text": "<a href=\"##AIGC\">#AIGC</a> 昨天在机器上部署了一个 SwarmUI 玩，用 plant milk 画了两张分别是「聊聊抱桂桂猫」和「桂桂抱聊聊猫」，效果好棒！\n\n然后互相设成了锁屏壁纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 203,
+    "views": 204,
     "forwards": 3,
     "media_group_id": 13953043115908261,
     "images": [
@@ -71420,7 +71420,7 @@
     "id": 5168,
     "date": "2025-04-09T00:50:00",
     "text": "图像生成榜上又有新的很不错的开源模型 HiDream I1 了，不过这个模型居然比 Flux1 还重，40GB 显存都跑不起来...\n\n花了一天用了各种办法终于让它能只用 16GB 显存跑起来了！然后打包了一下发到了 pypi 上可以直接 pip 安装了 qwq\n\n（具体是用了 bnb nf4 量化，之后开 sequential offloading 让它在不用的时候把权重切回 cpu，然后文字理解部分它原本用了 llama 3.1 8b 我换成了 gptq 4bit 版本并且用 device map 让其中不需要在显卡上的部分卸载到 cpu 了）\n\n仓库在这里: <a href=\"https://github.com/hykilpikonna/HiDream-I1-nf4\">https://github.com/hykilpikonna/HiDream-I1-nf4</a>",
-    "views": 215,
+    "views": 216,
     "forwards": 2,
     "media_group_id": 13953278404348069,
     "images": [
@@ -76457,7 +76457,7 @@
     "id": 5547,
     "date": "2025-06-03T16:25:42",
     "text": "<a href=\"https://zh.m.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6\">无事发生日</a>快乐\n\n发现把社交上的生日设在历史上的今天确实起到了提醒大家不忘记这一天的效果",
-    "views": 228,
+    "views": 229,
     "forwards": 1,
     "images": [
       {
@@ -76476,7 +76476,7 @@
     "id": 5548,
     "date": "2025-06-04T16:56:42",
     "text": "终末列车坐过站，走了半小时回到家了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n不过路上风景也不错，还见到了设计感报表超炫酷的高輪网关车站，也许也是一种幸运吧 qwq",
-    "views": 194,
+    "views": 195,
     "forwards": 0,
     "media_group_id": 13992449623337293,
     "images": [
@@ -76530,7 +76530,7 @@
     "id": 5553,
     "date": "2025-06-05T07:12:17",
     "text": "在东京快一个月了，做了一个「东京迷子宾果」\n\n哪些是亲身经历、哪些是都市传说，就由你来判断吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5442664243474211327.tgs\">👀</i>",
-    "views": 214,
+    "views": 215,
     "forwards": 4,
     "images": [
       {
@@ -76549,7 +76549,7 @@
     "id": 5554,
     "date": "2025-06-05T13:58:32",
     "text": "一些最近漏掉的照片\n\n1. 和谦谦在池袋散步，看到了另一栋楼和天空融在一起\n2. 天川家旁边的天空\n3. 去登山的另外四个人的即兴表情包合影\n4. 和谦谦开车去河边散步的夜景",
-    "views": 190,
+    "views": 191,
     "forwards": 1,
     "media_group_id": 13993055297378557,
     "images": [
@@ -76599,14 +76599,14 @@
     "id": 5558,
     "date": "2025-06-06T06:22:21",
     "text": "太尴尬了\n\n：我找到了这篇相关的文献，但是我不太相信它能用\n这时候群里另一位正式员工突然出来\n：啊这篇是我写的 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 175,
+    "views": 176,
     "forwards": 0
   },
   {
     "id": 5559,
     "date": "2025-06-06T06:57:49",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n好梦幻的声音，感觉被 ASMR 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n♪ If our story finds an end tonight\n♪ Will you be by my side\n♪ Oh till we say goodbye\n♪ Or should I say good night?",
-    "views": 173,
+    "views": 174,
     "forwards": 0,
     "files": [
       {
@@ -76628,7 +76628,7 @@
     "id": 5560,
     "date": "2025-06-06T11:12:01",
     "text": "不登校\n\n<span class=\"spoiler\"><span>（因为毕业了 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</span></span></i>",
-    "views": 176,
+    "views": 177,
     "forwards": 1,
     "images": [
       {
@@ -76647,7 +76647,7 @@
     "id": 5561,
     "date": "2025-06-06T17:08:48",
     "text": "草 等等 突然发现\n\n要楽奈（mygo 猫猫的名字）是不是也可以读成「いらない」<i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n...还真能用输入法打出来哇\n\n<del>可能猫猫确实什么都いらない</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 169,
+    "views": 170,
     "forwards": 0,
     "files": [
       {
@@ -76669,7 +76669,7 @@
     "id": 5562,
     "date": "2025-06-07T06:08:29",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nチーズうまトマハンバーグ<del>（写作：番茄汉堡芝士意饭）</del>\n\n吃起来没有听上去那么黑暗料理，可能这里面唯一不喜欢的只有生鸡蛋... 来日本一个月了还是无法适应生鸡蛋",
-    "views": 141,
+    "views": 142,
     "forwards": 0,
     "media_group_id": 13994212076573165,
     "images": [
@@ -76699,7 +76699,7 @@
     "id": 5564,
     "date": "2025-06-07T06:41:11",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n喜欢上这个风格了",
-    "views": 137,
+    "views": 138,
     "forwards": 0,
     "reply": {
       "id": 5516,
@@ -76725,7 +76725,7 @@
     "id": 5565,
     "date": "2025-06-07T11:18:59",
     "text": "没想到 第一次被「日本语上手」是在理发店...\n\n去渋谷的 SOLEIL TOKYO 理了发（因为有非常棒的学生优惠！只花了 ￥3300）虽然学生卡忘在家里了，但是说学生卡放在加拿大了拿出照片萌混过关 <i class=\"custom-emoji\" emoji-src=\"emoji/5114340437808645487.webm\">🙁</i>\n\n剪得很好看！<del>问我想要什么发型的时候给看了一个高松灯 cosplay 照片然后其他的就おまかせ了</del>... 即使这样还能剪出满意的样子 Kana 老师好厉害！\n\n（也很有耐心！看我没听懂的时候换成借来词我就听懂了（<del>什么时候日语变成英语啊</del>",
-    "views": 120,
+    "views": 121,
     "forwards": 0,
     "media_group_id": 13994361119445349,
     "images": [
