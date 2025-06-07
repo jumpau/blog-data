@@ -66217,7 +66217,7 @@
     "id": 4807,
     "date": "2024-12-26T17:48:21",
     "text": "刚吐槽完又来一封 \"Dear [Organizer's Name]\"，还不是同一个人发的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 158,
+    "views": 159,
     "forwards": 0,
     "reply": {
       "id": 4806,
@@ -66240,7 +66240,7 @@
     "id": 4808,
     "date": "2024-12-27T06:27:47",
     "text": "花了两天的时间把 AquaDX 的中二代码大规模重构了一遍，把所有 Java boilerplate 去掉之后代码行数短了三倍，还修了些堆了很久的代办\n\n现在段位模式终于可以用了（不再需要手动改数据版本号了）、队名可以在网页上自定义了、B40 可以看了 qwq\n\n之后打算实现匹配联机（希望不会很难写",
-    "views": 152,
+    "views": 153,
     "forwards": 0,
     "media_group_id": 13882246938788557,
     "images": [
@@ -66270,7 +66270,7 @@
     "id": 4810,
     "date": "2024-12-27T08:45:21",
     "text": "哇 Eric 发视频说了之前发现的 EditThisCookies 插件的问题 <a href=\"https://www.youtube.com/watch?v=AZgM_50aqbg\">https://www.youtube.com/watch?v=AZgM_50aqbg</a>",
-    "views": 157,
+    "views": 158,
     "forwards": 1,
     "reply": {
       "id": 4636,
@@ -66282,7 +66282,7 @@
     "id": 4811,
     "date": "2024-12-28T05:24:25",
     "text": "<del>按照这个速度半个月之后就能到 15 了</del>",
-    "views": 153,
+    "views": 154,
     "forwards": 0,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5288,
+    "views": 5289,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -76140,7 +76140,7 @@
     "id": 5522,
     "date": "2025-06-01T06:29:12",
     "text": "带着聊聊猫出门了",
-    "views": 253,
+    "views": 254,
     "forwards": 1,
     "images": [
       {
@@ -76647,7 +76647,7 @@
     "id": 5561,
     "date": "2025-06-06T17:08:48",
     "text": "草 等等 突然发现\n\n要楽奈（mygo 猫猫的名字）是不是也可以读成「いらない」<i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n...还真能用输入法打出来哇\n\n<del>可能猫猫确实什么都いらない</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 166,
+    "views": 167,
     "forwards": 0,
     "files": [
       {
@@ -76669,7 +76669,7 @@
     "id": 5562,
     "date": "2025-06-07T06:08:29",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nチーズうまトマハンバーグ<del>（写作：番茄汉堡芝士意饭）</del>\n\n吃起来没有听上去那么黑暗料理，可能这里面唯一不喜欢的只有生鸡蛋... 来日本一个月了还是无法适应生鸡蛋",
-    "views": 132,
+    "views": 138,
     "forwards": 0,
     "media_group_id": 13994212076573165,
     "images": [
@@ -76699,7 +76699,7 @@
     "id": 5564,
     "date": "2025-06-07T06:41:11",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n喜欢上这个风格了",
-    "views": 128,
+    "views": 134,
     "forwards": 0,
     "reply": {
       "id": 5516,
@@ -76725,7 +76725,7 @@
     "id": 5565,
     "date": "2025-06-07T11:18:59",
     "text": "没想到 第一次被「日本语上手」是在理发店...\n\n去渋谷的 SOLEIL TOKYO 理了发（因为有非常棒的学生优惠！只花了 ￥3300）虽然学生卡忘在家里了，但是说学生卡放在加拿大了拿出照片萌混过关 <i class=\"custom-emoji\" emoji-src=\"emoji/5114340437808645487.webm\">🙁</i>\n\n剪得很好看！<del>问我想要什么发型的时候给看了一个高松灯 cosplay 照片然后其他的就おまかせ了</del>... 即使这样还能剪出满意的样子 Kana 老师好厉害！\n\n（也很有耐心！看我没听懂的时候换成借来词我就听懂了（<del>什么时候日语变成英语啊</del>",
-    "views": 106,
+    "views": 116,
     "forwards": 0,
     "media_group_id": 13994361119445349,
     "images": [
