@@ -42480,7 +42480,7 @@
     "id": 3146,
     "date": "2024-01-05T21:05:03",
     "text": "不喜欢命令行编辑器另一个原因是因为，无论是 vim 还是 nano 都没办法在保存的时候尝试 sudo 保存... 每次都是忘了 sudo 然后在保存的时候才发现没权限写不进去，然后就只能退出重新 sudo 启动编辑一遍再保存了 💢\n\n而 GUI 编辑器无论是 vscode 还是 gnome 自带的都会自动请求权限",
-    "views": 133,
+    "views": 134,
     "forwards": 1,
     "images": [
       {
@@ -42499,7 +42499,7 @@
     "id": 3147,
     "date": "2024-01-06T06:36:23",
     "text": "高中同学来玩，给我带了芒果蛋糕，好吃！开心！<i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 128,
+    "views": 129,
     "forwards": 0,
     "media_group_id": 13636183865706885,
     "files": [
@@ -42534,7 +42534,7 @@
     "id": 3149,
     "date": "2024-01-06T06:42:25",
     "text": "今天的博德之门：在别人族的重要画像上乱涂乱画，然后看有人走过来想要擦掉但是失败了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 120,
+    "views": 121,
     "forwards": 0,
     "reply": {
       "id": 3143,
@@ -66590,14 +66590,14 @@
     "id": 4831,
     "date": "2025-01-03T14:29:20",
     "text": "<a href=\"##梦\">#梦</a> 又是电梯\n\n梦见自己在入住一个旅馆，整个旅馆就是一个大电梯。一楼只有前台和一个超大电梯门，刷一下自己的门卡过一会房间就会移动过来，降落到这个电梯口开门让我进去，然后再上下左右移动回到一个空的格子停车，好奇妙 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n如果真的存在这样的旅店就好了，不过想了想觉得不太可行呢，感觉同时需要上下左右移动支撑重量并且让卫生间工作就很难实现，而且如果要让一个人想要出门的时候不需要移动别人的话也没办法省下空间 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 154,
+    "views": 155,
     "forwards": 0
   },
   {
     "id": 4832,
     "date": "2025-01-03T15:25:20",
     "text": "欣赏一下小桂桂昏睡代码\n\n（超过 1000 直接 NaN",
-    "views": 163,
+    "views": 164,
     "forwards": 0,
     "media_group_id": 13887343362282373,
     "images": [
@@ -66627,7 +66627,7 @@
     "id": 4834,
     "date": "2025-01-03T17:56:19",
     "text": "聊聊：你有 portal2 吗\n我：有呀 怎么啦\n聊聊：我也有 portal2\n我：那我们可以连一个从你的 portal2 portal<span class=\"spoiler\"><span>(v.)</span></span> 到我的 portal2 的 portal <i class=\"custom-emoji\" emoji-src=\"emoji/6291698674242161600.webm\">🏃</i>",
-    "views": 170,
+    "views": 171,
     "forwards": 0
   },
   {
@@ -68138,7 +68138,7 @@
     "id": 4934,
     "date": "2025-02-14T18:00:50",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i> sinmai.ipa 绝赞崩坏中",
-    "views": 1419,
+    "views": 1420,
     "forwards": 9,
     "files": [
       {
@@ -76628,7 +76628,7 @@
     "id": 5560,
     "date": "2025-06-06T11:12:01",
     "text": "不登校\n\n<span class=\"spoiler\"><span>（因为毕业了 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</span></span></i>",
-    "views": 205,
+    "views": 206,
     "forwards": 1,
     "images": [
       {
@@ -76647,7 +76647,7 @@
     "id": 5561,
     "date": "2025-06-06T17:08:48",
     "text": "草 等等 突然发现\n\n要楽奈（mygo 猫猫的名字）是不是也可以读成「いらない」<i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n...还真能用输入法打出来哇\n\n<del>可能猫猫确实什么都いらない</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 201,
+    "views": 202,
     "forwards": 0,
     "files": [
       {
@@ -76669,7 +76669,7 @@
     "id": 5562,
     "date": "2025-06-07T06:08:29",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nチーズうまトマハンバーグ<del>（写作：番茄汉堡芝士意饭）</del>\n\n吃起来没有听上去那么黑暗料理，可能这里面唯一不喜欢的只有生鸡蛋... 来日本一个月了还是无法适应生鸡蛋",
-    "views": 192,
+    "views": 193,
     "forwards": 0,
     "media_group_id": 13994212076573165,
     "images": [
@@ -76699,7 +76699,7 @@
     "id": 5564,
     "date": "2025-06-07T06:41:11",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n喜欢上这个风格了",
-    "views": 192,
+    "views": 193,
     "forwards": 0,
     "reply": {
       "id": 5516,
@@ -76725,7 +76725,7 @@
     "id": 5565,
     "date": "2025-06-07T11:18:59",
     "text": "没想到 第一次被「日本语上手」是在理发店...\n\n去渋谷的 SOLEIL TOKYO 理了发（因为有非常棒的学生优惠！只花了 ￥3300）虽然学生卡忘在家里了，但是说学生卡放在加拿大了拿出照片萌混过关 <i class=\"custom-emoji\" emoji-src=\"emoji/5114340437808645487.webm\">🙁</i>\n\n剪得很好看！<del>问我想要什么发型的时候给看了一个高松灯 cosplay 照片然后其他的就おまかせ了</del>... 即使这样还能剪出满意的样子 Kana 老师好厉害！\n\n（也很有耐心！看我没听懂的时候换成借来词我就听懂了（<del>什么时候日语变成英语啊</del>",
-    "views": 195,
+    "views": 196,
     "forwards": 0,
     "media_group_id": 13994361119445349,
     "images": [
@@ -76868,7 +76868,7 @@
     "id": 5576,
     "date": "2025-06-09T02:38:34",
     "text": "谷歌地图真厉害，在这个机动车都走不过去的地方让我自行车直接横穿... 还好我用了一些 common sense 看懂了地形没有这样走\n\n<a href=\"https://maps.app.goo.gl/48rCMHf99ue8eL3P7\">街景</a>",
-    "views": 154,
+    "views": 155,
     "forwards": 1,
     "media_group_id": 13995493715783581,
     "images": [
@@ -76918,14 +76918,14 @@
     "id": 5580,
     "date": "2025-06-09T15:15:35",
     "text": "没有洗碗机了需要手洗碗才发现，吃完咖喱不马上洗碗的话，咖喱干了就好难洗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 107,
+    "views": 112,
     "forwards": 0
   },
   {
     "id": 5581,
     "date": "2025-06-09T15:29:26",
     "text": "<del>真是非常不方便啊</del>",
-    "views": 98,
+    "views": 106,
     "forwards": 0,
     "images": [
       {
