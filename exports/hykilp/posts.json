@@ -42104,7 +42104,7 @@
     "id": 3120,
     "date": "2023-12-31T07:04:55",
     "text": "啊啊 怎么又过期了 好烦",
-    "views": 133,
+    "views": 134,
     "forwards": 1,
     "images": [
       {
@@ -42838,7 +42838,7 @@
     "id": 3170,
     "date": "2024-01-12T01:52:29",
     "text": "今天玩博得之门丢了几次档... 解决的时候被迷惑到了\n\n第一次打开游戏发现档没了，开了一个新档然后用 Windows 全局搜索发现它放在 Steam 的同步文件夹里了而不是用户文件夹（明明之前也是用 Steam 启动的）重启不开 Steam 直接启动 bg3_dx11.exe 就好了。\n\n第二次打开游戏发现档没了，又开了一个新档然后用 Windows 全局搜索发现它居然在同一个目录的 Debug_Profile_3 下面。之后发现这个游戏判断存档位置的逻辑是，如果后台有 bg3 进程在跑就读 Debug_Profile_{i}，如果没有就读 Public... 然后因为之前开的游戏没有成功退出，留了两个僵尸进程，所以新开的进程检测到有三个游戏开着就读了 Debug_Profile_3 🌚\n\n至少花了一个小时解决这个问题... 后悔没有用主机玩这个游戏了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 110,
+    "views": 111,
     "forwards": 0
   },
   {
@@ -42931,7 +42931,7 @@
     "id": 3178,
     "date": "2024-01-12T22:34:30",
     "text": "哭哭 多么好看的板子被一个天线毁了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>",
-    "views": 91,
+    "views": 92,
     "forwards": 0,
     "images": [
       {
@@ -42950,14 +42950,14 @@
     "id": 3179,
     "date": "2024-01-12T22:59:49",
     "text": "又焊了两排排针... 因为买的时候想省 ¥ 5 所以没有让卖家焊，不知道焊排针的时间值不值得，不过也就当作练习了 qwq",
-    "views": 94,
+    "views": 95,
     "forwards": 0
   },
   {
     "id": 3180,
     "date": "2024-01-12T23:02:31",
     "text": "今天的博德之门：我是一只猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "media_group_id": 13640804408751741,
     "images": [
@@ -42987,7 +42987,7 @@
     "id": 3182,
     "date": "2024-01-13T05:15:55",
     "text": "今天的博德之门：和 Raphael 的魅魔做爱触发了一个 bad ending <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 263,
+    "views": 264,
     "forwards": 2,
     "images": [
       {
@@ -43086,7 +43086,7 @@
     "id": 3188,
     "date": "2024-01-15T01:56:26",
     "text": "今天在 smash 打过了聊聊！",
-    "views": 117,
+    "views": 118,
     "forwards": 0,
     "images": [
       {
@@ -43105,7 +43105,7 @@
     "id": 3189,
     "date": "2024-01-15T02:07:21",
     "text": "（在选择角色的时候）\n聊聊：给你看看这个 DLC 都有什么了不起的联动\n（省略一千字）\n我：<del>那也不是很多嘛，连 nekopara 香子兰都没有</del>",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "reply": {
       "id": 3188,
@@ -43116,14 +43116,14 @@
     "id": 3190,
     "date": "2024-01-15T04:27:12",
     "text": "有十多个邮件要发但是现在只想睡觉...",
-    "views": 106,
+    "views": 107,
     "forwards": 0
   },
   {
     "id": 3191,
     "date": "2024-01-15T06:50:54",
     "text": "发完了三个... 感觉发邮件这种事情好心累，等到回复之前都会好焦虑好不安，会让我睡不着让我做噩梦",
-    "views": 109,
+    "views": 110,
     "forwards": 0,
     "reply": {
       "id": 3190,
@@ -43134,14 +43134,14 @@
     "id": 3192,
     "date": "2024-01-15T07:22:42",
     "text": "好冷好冷好冷！",
-    "views": 100,
+    "views": 101,
     "forwards": 0
   },
   {
     "id": 3193,
     "date": "2024-01-16T07:24:44",
     "text": "今天 PCIe 拆分卡到了，终于把这个四个盘的 raid0 搭出来了！\n\n测了各种不同的文件系统组合之后选择了最快的 xfs over mdadm，读 12GB/s 写 4GB/s 感觉还不错，不知道稳定性和 ecc 能力怎么样。不过无论再怎么灵车，等新的 14TB HDD 到了之后写一个脚本定期把整个盘 rsync 到 HDD 就不灵车了\n\n这个盘大概会用来做高速 NAS，比如项目代码、服务缓存、还有需要编辑视频的时候放源视频什么的（虽然这样的话家里原本很快的 10Gbps 光交换机反而开始成为瓶颈了，无论盘再快从另一台机器上挂载也只能读写 1.25GB/s，不过也够用啦",
-    "views": 108,
+    "views": 109,
     "forwards": 3,
     "media_group_id": 13643119076454173,
     "images": [
@@ -64567,7 +64567,7 @@
     "id": 4695,
     "date": "2024-11-29T04:41:24",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n好浪漫... 高潮段用「ずっど」这两个音拼摩斯电码拼出了一个「I love you」 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n也好聪明，正好是一个长的音节和一个短的音节，听起来完全没有违和\n\n<a href=\"https://www.youtube.com/watch?v=UKZt1vq8bKI\">YouTube MV</a>",
-    "views": 132,
+    "views": 133,
     "forwards": 2,
     "files": [
       {
@@ -65313,7 +65313,7 @@
     "id": 4748,
     "date": "2024-12-12T05:27:42",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n感觉自己非常需要 Kero Kero 的心态，非常需要 take a break <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>\n\n♪ 空を見上げる満月\n♪ 星ってこんなに綺麗なんだ\n♪ こういう時に思うんだ\n♪ 生きてるって不思議\n♪ Life is a race, that's what they say\n♪ So time out, and look around\n♪ 立ち止まると見えてくる\n♪ I see it now (take a break!)",
-    "views": 131,
+    "views": 132,
     "forwards": 2,
     "files": [
       {
@@ -66634,7 +66634,7 @@
     "id": 4835,
     "date": "2025-01-03T19:57:56",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n喜欢很 funky 的曲子 qwq\n\n<a href=\"https://www.youtube.com/watch?v=Nph6Qlmh66c\">Youtube MV</a>",
-    "views": 170,
+    "views": 171,
     "forwards": 0,
     "files": [
       {
@@ -66728,7 +66728,7 @@
     "id": 4840,
     "date": "2025-01-05T02:28:49",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n好震撼 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i> \n\n从快节奏的自责不知所措逐渐失真发狂，又一下子降慢节拍变成浪漫的曲调<span class=\"spoiler\"><span>开始在车后座做爱</span></span>真的震撼",
-    "views": 179,
+    "views": 180,
     "forwards": 3,
     "files": [
       {
@@ -67486,7 +67486,7 @@
     "id": 4891,
     "date": "2025-01-22T15:48:52",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 正義とか常識とかさ，\n♪ 疲れちゃうよね正直ね，\n♪ 秘密基地の中には，\n♪ そんなものはない，\n♪ 約束しようふたりは，\n♪ ずっとこどものままで居よう，\n♪ 誰も傷つかないなら，\n♪ 思い出のままにしよう。\n\n如果能一直做小孩子就好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\nYouTube MV: <a href=\"https://www.youtube.com/watch?v=hL-lijONWFI\">约束</a> | <a href=\"https://www.youtube.com/watch?v=U0bTlwXLUmM\">再会</a>",
-    "views": 312,
+    "views": 313,
     "forwards": 0,
     "media_group_id": 13900487457047493,
     "files": [
@@ -68498,7 +68498,7 @@
     "id": 4958,
     "date": "2025-02-24T10:39:44",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 宇宙の果てに 飛んでみたら\n♪ 私は 眠りに\n\n像是孤独一人漂浮在宇宙尽头、什么都没有也什么都不会发生的无尽虚空，到达一切的终点前半梦半醒地跟着节奏哼着出现在意识边缘的句子\n\n<span class=\"spoiler\"><span>我也好想逃往宇宙的尽头、放下一切在那里好好睡一觉</span></span>",
-    "views": 207,
+    "views": 208,
     "forwards": 0,
     "files": [
       {
@@ -68730,7 +68730,7 @@
     "id": 4977,
     "date": "2025-03-02T15:30:52",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n虽然不是 Sekai 的 25 时，但是也是好浪漫的 25 时 qwq",
-    "views": 202,
+    "views": 203,
     "forwards": 0,
     "files": [
       {
@@ -69696,7 +69696,7 @@
     "id": 5043,
     "date": "2025-03-18T03:22:00",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ 甘い夢溶けて目を瞑って\n♪ 覚めない様に祈っている\n\n♪ 思い浮かぶ何回忘れても\n♪ 残ったままで消えやしない\n♪ 生まれ変わったら消えやしない...\n\n人真的好矛盾，在研究着控制大模型的记忆的同时，明明自己的记忆都还没法控制——有忘记的事情想要回忆起，有记住的事情想要消去，实际上却两边都做不到...\n\n<span class=\"spoiler\"><span>「即使是重生 也无法消去」 吗</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</i>",
-    "views": 244,
+    "views": 245,
     "forwards": 2,
     "files": [
       {
@@ -69756,7 +69756,7 @@
     "id": 5046,
     "date": "2025-03-18T13:50:55",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n听哭了... 好心疼灯灯 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> \n\n♪ 隔てられたガラスは檻じゃなかったよ\n（将我与他人隔开的玻璃并非牢笼）\n♪ 傷つく僕を守ってくれていたのに\n（而是一直在保护伤痕累累的我）\n\n刚走出独自一人的气泡、创造出幸福耀眼的回忆，就要看着它被结束，仿佛只是一场梦... <span class=\"spoiler\"><span>面对着无法挽回的失去，也许更希望自己不曾拥有。这样的话，隔开我与世界的屏障确实在保护着我</span></span>",
-    "views": 215,
+    "views": 216,
     "forwards": 1,
     "files": [
       {
@@ -72743,7 +72743,7 @@
     "id": 5269,
     "date": "2025-04-25T00:53:42",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n节拍好奇妙的一首歌 是什么呢？",
-    "views": 280,
+    "views": 281,
     "forwards": 0,
     "files": [
       {
@@ -73704,7 +73704,7 @@
     "id": 5331,
     "date": "2025-05-09T16:16:30",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n♪ Why do the stars shine so bright in the sky\n♪ If most of the people are sleeping at night",
-    "views": 283,
+    "views": 284,
     "forwards": 1,
     "files": [
       {
@@ -74177,7 +74177,7 @@
     "id": 5370,
     "date": "2025-05-13T15:48:31",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n深夜回家骑着车不知不觉开始哼歌，但是想不起来叫什么，回家找了找发现是苹果女王的「丸の内サディスティック」<i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<del>还好不记得歌词</del>",
-    "views": 279,
+    "views": 280,
     "forwards": 1,
     "files": [
       {
@@ -75715,7 +75715,7 @@
     "id": 5492,
     "date": "2025-05-26T12:06:15",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n工作的时候被推到的一首歌，因为从歌词里听到了 \"mafuyu\" 注意到了它\n\n...听起来好冷，真的有 mafuyu 会写出的歌的感觉",
-    "views": 267,
+    "views": 268,
     "forwards": 3,
     "files": [
       {
@@ -76036,7 +76036,7 @@
     "id": 5516,
     "date": "2025-05-30T12:27:33",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n被推到了少数很喜欢的中文歌\n\n感觉陈娴静的曲子成功把吐字不清的短板变成了一种艺术风格，听起来像是一边梦游在街边飘来飘去一边录下的歌 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>",
-    "views": 234,
+    "views": 235,
     "forwards": 3,
     "files": [
       {
@@ -76077,7 +76077,7 @@
     "id": 5518,
     "date": "2025-05-30T16:44:51",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n零，用摩斯电码表达是五个长音，写出来像分割线一样诶\n\n零点也是日期的的分割线，今日が昨日に、明日が今日に... 也许有什么更深的意味，但是我的脑洞已经被累累的一天熨平了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i> 睡睡\n\n♪ おやすみ まだ名前のない 無数の想い\n♪ おやすみ またこんな夜に歌になる日まで",
-    "views": 244,
+    "views": 245,
     "forwards": 1,
     "reply": {
       "id": 5517,
@@ -76606,7 +76606,7 @@
     "id": 5559,
     "date": "2025-06-06T06:57:49",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n好梦幻的声音，感觉被 ASMR 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n♪ If our story finds an end tonight\n♪ Will you be by my side\n♪ Oh till we say goodbye\n♪ Or should I say good night?",
-    "views": 208,
+    "views": 209,
     "forwards": 0,
     "files": [
       {
@@ -76699,7 +76699,7 @@
     "id": 5564,
     "date": "2025-06-07T06:41:11",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n喜欢上这个风格了",
-    "views": 201,
+    "views": 202,
     "forwards": 0,
     "reply": {
       "id": 5516,
@@ -76925,7 +76925,7 @@
     "id": 5581,
     "date": "2025-06-09T15:29:26",
     "text": "<del>真是非常不方便啊</del>",
-    "views": 168,
+    "views": 169,
     "forwards": 0,
     "images": [
       {
@@ -76944,7 +76944,7 @@
     "id": 5582,
     "date": "2025-06-10T02:45:54",
     "text": "看看日本家电怎么接地 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<del>插头：竖起中指</del>",
-    "views": 153,
+    "views": 154,
     "forwards": 1,
     "images": [
       {
@@ -76963,7 +76963,7 @@
     "id": 5583,
     "date": "2025-06-10T05:13:54",
     "text": "拿到了驾照！虽然不是新人但是也买了一套新人贴纸\n\n感谢谦谦带我去办转驾照的手续，感觉来日本之后好多事情都在麻烦谦谦 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n原本需要出入境记录证明有在驾照的国家停留超过一年，但是加拿大那边申请出入境记录要超级久，所以用学校在校证明代替了 qwq",
-    "views": 143,
+    "views": 145,
     "forwards": 0,
     "images": [
       {
@@ -76982,7 +76982,7 @@
     "id": 5584,
     "date": "2025-06-10T16:19:19",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n伴随留念和幻想一起崩坏的是歌声和旋律",
-    "views": 72,
+    "views": 77,
     "forwards": 1,
     "files": [
       {
