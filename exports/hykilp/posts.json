@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2567,
+    "views": 2568,
     "forwards": 29,
     "images": [
       {
@@ -70729,7 +70729,7 @@
     "id": 5115,
     "date": "2025-04-02T15:11:19",
     "text": "今日热搜",
-    "views": 541,
+    "views": 542,
     "forwards": 6,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5303,
+    "views": 5305,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -76530,7 +76530,7 @@
     "id": 5553,
     "date": "2025-06-05T07:12:17",
     "text": "在东京快一个月了，做了一个「东京迷子宾果」\n\n哪些是亲身经历、哪些是都市传说，就由你来判断吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5442664243474211327.tgs\">👀</i>",
-    "views": 241,
+    "views": 243,
     "forwards": 4,
     "images": [
       {
@@ -76775,7 +76775,7 @@
     "id": 5568,
     "date": "2025-06-08T11:35:44",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##NSFW\">#NSFW</a>\n今天去东京 Pride 看演出，Aya Sato 的舞真的超劲爆 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n看了两遍，中午排练的时候看到了然后正式演出又看一遍\n\n（AV1 编码警告，旧设备没法看的话可以去 <a href=\"https://youtu.be/WPW7oAyKpzs\">YouTube</a> / <a href=\"https://pixeldrain.com/u/b6Kg9Nyi\">无压原画</a>",
-    "views": 175,
+    "views": 176,
     "forwards": 0,
     "files": [
       {
@@ -76798,7 +76798,7 @@
     "id": 5569,
     "date": "2025-06-08T14:56:12",
     "text": "这次 Pride 因为猜到会很热所以只穿了内衣，披上 nina 第二次演唱会的「旁若无人」 披风就出门了（<del>旁若无人的目光确实很凉快！</del>\n\n不想带包但是不能不带现金，灵机一动把钱塞卡套里了，脖子上挂着北里柴三郎的头图莫名好笑\n\n在会场转了一圈，去加拿大的亭子里拿了一个旗子还和志愿者搭了话，发现居然是多伦多大校友，是大三的学妹来日本旅游，好巧 <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>\n\n会场上还有很多大公司，发各种彩虹色的广告周边... 其实不是很喜欢这种氛围，明明 LGBT 是一种对社会常规的挑战，但是感觉这些公司却全都做着很刻板的事情。也许只是因为舆论压力、因为「参加 Pride」成为了新的常规才去参加的吧。觉得豆腐说的有道理，如果风向变了最先退出的应该就是这些公司。\n\n以及游行那边好热闹 <i class=\"custom-emoji\" emoji-src=\"emoji/6114058788224895244.webm\">🏃‍♂</i> 去看 Live 之前去朋友在的台湾队凑了凑热闹。集合之后排队排了一个小时才出会场开始游行... 下次就不进去排队直接在街上等了，等开始游行再直接街上汇合",
-    "views": 163,
+    "views": 164,
     "forwards": 1,
     "media_group_id": 13995156582788461,
     "images": [
@@ -76868,7 +76868,7 @@
     "id": 5576,
     "date": "2025-06-09T02:38:34",
     "text": "谷歌地图真厉害，在这个机动车都走不过去的地方让我自行车直接横穿... 还好我用了一些 common sense 看懂了地形没有这样走\n\n<a href=\"https://maps.app.goo.gl/48rCMHf99ue8eL3P7\">街景</a>",
-    "views": 155,
+    "views": 158,
     "forwards": 1,
     "media_group_id": 13995493715783581,
     "images": [
@@ -76918,14 +76918,14 @@
     "id": 5580,
     "date": "2025-06-09T15:15:35",
     "text": "没有洗碗机了需要手洗碗才发现，吃完咖喱不马上洗碗的话，咖喱干了就好难洗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 112,
+    "views": 118,
     "forwards": 0
   },
   {
     "id": 5581,
     "date": "2025-06-09T15:29:26",
     "text": "<del>真是非常不方便啊</del>",
-    "views": 106,
+    "views": 112,
     "forwards": 0,
     "images": [
       {
