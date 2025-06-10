@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5814,
+    "views": 5815,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -76918,14 +76918,14 @@
     "id": 5580,
     "date": "2025-06-09T15:15:35",
     "text": "没有洗碗机了需要手洗碗才发现，吃完咖喱不马上洗碗的话，咖喱干了就好难洗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 161,
+    "views": 163,
     "forwards": 0
   },
   {
     "id": 5581,
     "date": "2025-06-09T15:29:26",
     "text": "<del>真是非常不方便啊</del>",
-    "views": 158,
+    "views": 160,
     "forwards": 0,
     "images": [
       {
@@ -76944,7 +76944,7 @@
     "id": 5582,
     "date": "2025-06-10T02:45:54",
     "text": "看看日本家电怎么接地 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<del>插头：竖起中指</del>",
-    "views": 135,
+    "views": 138,
     "forwards": 1,
     "images": [
       {
@@ -76963,7 +76963,7 @@
     "id": 5583,
     "date": "2025-06-10T05:13:54",
     "text": "拿到了驾照！虽然不是新人但是也买了一套新人贴纸\n\n感谢谦谦带我去办转驾照的手续，感觉来日本之后好多事情都在麻烦谦谦 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n原本需要出入境记录证明有在驾照的国家停留超过一年，但是加拿大那边申请出入境记录要超级久，所以用学校在校证明代替了 qwq",
-    "views": 110,
+    "views": 118,
     "forwards": 0,
     "images": [
       {
