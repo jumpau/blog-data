@@ -7039,7 +7039,7 @@
     "id": 643,
     "date": "2022-04-04T07:15:00",
     "text": "不过真的好想骂 DSM5（\n\n感觉那些症状的标准都好主观，来自不同文化的人很容易会有完全不同的理解... 而且感觉好多症状是大部分人都会有的，DSM5 定的这个正常与不正常的分界线好随便\n\n...其实有这样的分界线也是因为要平衡开药的利益和副作用，但是那样为什么要让医生决定呢？客人对自己经历过的症状的理解怎样也比几次问答可以传达的信息多。感觉可以把副作用和药效告诉他们，让他们自己知情决定副作用值不值得",
-    "views": 46,
+    "views": 47,
     "forwards": 0,
     "reply": {
       "id": 642,
@@ -7050,7 +7050,7 @@
     "id": 644,
     "date": "2022-04-04T20:19:25",
     "text": "考完了，想继续睡...\n\n...但是还有好多事情要做呜呜，也许直到这周结束都没办法真正休息",
-    "views": 47,
+    "views": 48,
     "forwards": 0,
     "reply": {
       "id": 641,
@@ -7149,7 +7149,7 @@
     "id": 651,
     "date": "2022-04-06T04:31:00",
     "text": "？\n\n<del>人生第一次发现原来我可能不是人类w</del>",
-    "views": 47,
+    "views": 48,
     "forwards": 0,
     "images": [
       {
@@ -7168,7 +7168,7 @@
     "id": 652,
     "date": "2022-04-06T13:35:21",
     "text": "好久没吃「早饭」了hhh",
-    "views": 51,
+    "views": 52,
     "forwards": 0,
     "images": [
       {
@@ -7187,7 +7187,7 @@
     "id": 653,
     "date": "2022-04-06T15:47:53",
     "text": "Numba njit 好好用！\n\n相当于是运行时编译了一个 binary 出来，余弦相似性计算执行速度瞬间提升 226 倍hhhh",
-    "views": 52,
+    "views": 53,
     "forwards": 0,
     "images": [
       {
@@ -7206,7 +7206,7 @@
     "id": 654,
     "date": "2022-04-07T04:07:16",
     "text": "...好用个鬼呀（掀\n\n除了超级简单的函数以外，其他函数都要改超级多东西才能用 Numba 编译...\n\n今天遇到的各种问题：\n1. np.vstack 不支持，所以用原始 for loop 手写了一个轮子\n2. 如果有 n 个可选参数，它必须编译成 n^2 + 1 个不同的 native 函数\n3. 类型推导超迷惑... 图上这个报错说 float64[] 不能转换成 float32[]，但是明明我所有类型连常量都标了 float32 🌚\n\n还想把整个后端的计算都套一遍 Numba... 现在发现翻译一个函数要半小时 😭",
-    "views": 59,
+    "views": 60,
     "forwards": 0,
     "media_group_id": 13194435492083381,
     "images": [
@@ -7240,13 +7240,13 @@
     "id": 656,
     "date": "2022-04-08T02:45:19",
     "text": "结课啦！\n然后下午一下子睡了 5h，睡到头疼hhhh",
-    "views": 64,
+    "views": 65,
     "forwards": 0
   },
   {
     "id": 658,
     "date": "2022-04-08T21:14:04",
-    "views": 68,
+    "views": 69,
     "forwards": 1,
     "forwarded_from": {
       "name": "无聊至极"
@@ -7357,14 +7357,14 @@
     "id": 666,
     "date": "2022-04-10T11:00:44",
     "text": "天亮了！（哭",
-    "views": 80,
+    "views": 81,
     "forwards": 0
   },
   {
     "id": 667,
     "date": "2022-04-11T20:49:14",
     "text": "我居然真的重写了一个分布式计算的轮子...\n\n居然真的做到了差不多是 Linear Scaling！三台服务器总共 GPU 跑分加起来大概是这台的 4.1 倍，运行时间也缩短了 3.7 倍，只有 9.7% 的 overhead",
-    "views": 73,
+    "views": 74,
     "forwards": 0,
     "media_group_id": 13197681236959341,
     "images": [
@@ -7719,7 +7719,7 @@
     "id": 689,
     "date": "2022-04-21T06:45:46",
     "text": "夜宵！庆祝一下把三个 deadline 都肝完了",
-    "views": 52,
+    "views": 53,
     "forwards": 0,
     "images": [
       {
@@ -7738,7 +7738,7 @@
     "id": 690,
     "date": "2022-04-21T06:55:18",
     "text": "说起来，昨天考完数学第一次见到教授真人，站在外面问我们加一个微信群w\n\n我第一反应是... 教授好小！（？\n\n...不过教授真人真的好可爱，无论是声音还是气势，完全不像是刻板印象里教授的样子hhh",
-    "views": 71,
+    "views": 72,
     "forwards": 1,
     "images": [
       {
@@ -27436,7 +27436,7 @@
     "id": 2050,
     "date": "2023-04-14T18:48:44",
     "text": "配好马林巴音色之后第一件事当然是...\n\n那个超经典的 iPhone 铃声！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n<a href=\"##琴\">#琴</a>",
-    "views": 131,
+    "views": 132,
     "forwards": 5,
     "files": [
       {
@@ -33033,7 +33033,7 @@
     "id": 2469,
     "date": "2023-07-31T07:04:37",
     "text": "今天也出现了 AI 行为... 想要把需要计划的日期先打出来，打着打着打出了八月 32 号和 33 号 🌚\n\n不是我怎么打到 33 号才发现不对...",
-    "views": 79,
+    "views": 80,
     "forwards": 1,
     "reply": {
       "id": 2005,
@@ -33056,14 +33056,14 @@
     "id": 2470,
     "date": "2023-08-01T07:41:59",
     "text": "哭 洗完澡贴好新的贴片之后总是会发情，但是又不想让刚洗干净的身体弄脏<span class=\"spoiler\"><span>或者染上海鲜味（？）</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6323605445118264983.webp\">🙈</i> 怎么办怎么办",
-    "views": 79,
+    "views": 80,
     "forwards": 0
   },
   {
     "id": 2471,
     "date": "2023-08-01T16:53:46",
     "text": "呜呜，发现工作的研究被 ffmpeg 坑了，所有双声道音频数据都要重新跑。<i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n事情是这样的：我无聊想听听数据集里面的曲子，发现有些明明是人类作曲音质却异常地差，为什么呢？在调了各种 ffmpeg 参数之后发现，只要加了 -ac 1 把双声道合并成单声道音质就会非常差，可是单声道听起来应该和双声道没区别才对呀？\n\n到处查查发现，-ac 1 降声道其实就是把两个波形平均到一起，这样做本身就很有问题... 假设你有一个音频，左耳是 500Hz 的正弦波，右耳也一样但是平移了半个周期，这样的话双声道人耳听到的还是一个正弦波的声音，但是用 -ac 1 降声道就完全没有声音了。为什么呢？因为上下两个正弦波的平均值是 0，互相抵消了。\n\n现实中用两个麦克风给乐器录音的话，两个声道平均互相干扰也是很常见的情况，所以比起平均值还是直接取单声道会好很多很多... 似乎导师也刚意识到这个坑，总之是浪费了一两个月的算力学到了一个很重要的教训 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 82,
+    "views": 83,
     "forwards": 2,
     "images": [
       {
@@ -33082,14 +33082,14 @@
     "id": 2472,
     "date": "2023-08-02T01:04:16",
     "text": "is it Friday yet?",
-    "views": 76,
+    "views": 77,
     "forwards": 0
   },
   {
     "id": 2473,
     "date": "2023-08-02T08:29:28",
     "text": "发现计划旅行没头绪不知所措的时候，想做的第一件事是先把航班和路程的时间定下来，给旅行加上各种限制...\n\n定好限制反而感觉决定去哪里怎样玩变得没有那么 impossible 了，明明在限制内做出的不一定是最合适的计划... 人真的好矛盾\n\n<del>如果有模型可以让我把想去的地方和时间精力各种因素丢进一个加权图 BFS 一遍找到最合适的计划就好了</del>",
-    "views": 80,
+    "views": 81,
     "forwards": 1,
     "images": [
       {
@@ -33108,7 +33108,7 @@
     "id": 2474,
     "date": "2023-08-02T21:42:26",
     "text": "去年暑假被 numba 折腾，今年继续被 numba 折腾 (╯’ – ‘)╯︵ ┻━┻\n\nnumba 的初衷是想要简单地把 python 函数编译成二进制加快速度，只要加一个 <code>@njit</code> 就好了这么简单，然而实际效果并不是这样。\n\n加上 <code>@njit</code>，然后发现 logger 不支持要换成 print，修了然后发现 atleast_1d 不支持 float16 要换成 float32，修了然后发现 sqrtm 不支持要手动重造轮子，造了然后发现字符串 % 替换不支持需要换成 f-string，换了然后发现同名变量不能用不同精度，改了然后发现 np.diagonal 不支持要重造轮子，造了然后发现 np.allclose 参数要求太多要重造轮子，造了然后给我一个报错消息里面只写了 “float16” 也没有说在哪行... 给几乎所有变量赋值都加了 .astype(float32) 之后终于可以了，然后跟我说 np.eig 产生复数就不能编译？？我真的不知道怎么修了，问问 GPT，GPT 直接说别优化了把 <code>@njit</code> 删了吧 🙃\n\n原本应该是加一个 <code>@njit</code> 就好的事情结果改了一小时放弃了，决定以后再也不碰 numba 了，要优化还是直接 rust 重写吧 <i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i>",
-    "views": 80,
+    "views": 81,
     "forwards": 0,
     "media_group_id": 13528100371661525,
     "images": [
@@ -33143,7 +33143,7 @@
     "id": 2476,
     "date": "2023-08-03T03:52:20",
     "text": "<del>好色哦</del>",
-    "views": 87,
+    "views": 88,
     "forwards": 0,
     "forwarded_from": {
       "name": "生草邻国"
@@ -33165,7 +33165,7 @@
     "id": 2477,
     "date": "2023-08-04T01:49:14",
     "text": "好想变成一团面团 <i class=\"custom-emoji\" emoji-src=\"emoji/6170098297437423351.webm\">🐾</i>",
-    "views": 83,
+    "views": 84,
     "forwards": 0
   },
   {
@@ -33257,7 +33257,7 @@
     "id": 2484,
     "date": "2023-08-07T08:29:12",
     "text": "明天八号是国际猫猫节 <i class=\"custom-emoji\" emoji-src=\"emoji/6327782811914733923.webp\">🥳</i> 给自己和朋友们的头像上画了猫耳朵！尽力模仿了原画的风格，效果大部分还不错，<del>style transfer 机器人就是我</del>（不\n\n黎黎的头像好难，感觉超出能力范围了瞎糊了一个... 原作者用纯色笔刷能打出渐变一样的阴影和高光好厉害。我到现在打的阴影要不然就是简单的一层纯色，要不然就是用喷枪打看起来脏兮兮的渐变。这次尝试了像原作那样打，结果打不好还是换回喷枪了... 效果有点脏兮兮还不是特别搭 <i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</i>\n\n有没有人教教我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 160,
+    "views": 161,
     "forwards": 3,
     "media_group_id": 13531175623170565,
     "images": [
@@ -42480,7 +42480,7 @@
     "id": 3146,
     "date": "2024-01-05T21:05:03",
     "text": "不喜欢命令行编辑器另一个原因是因为，无论是 vim 还是 nano 都没办法在保存的时候尝试 sudo 保存... 每次都是忘了 sudo 然后在保存的时候才发现没权限写不进去，然后就只能退出重新 sudo 启动编辑一遍再保存了 💢\n\n而 GUI 编辑器无论是 vscode 还是 gnome 自带的都会自动请求权限",
-    "views": 134,
+    "views": 135,
     "forwards": 1,
     "images": [
       {
@@ -42499,7 +42499,7 @@
     "id": 3147,
     "date": "2024-01-06T06:36:23",
     "text": "高中同学来玩，给我带了芒果蛋糕，好吃！开心！<i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 129,
+    "views": 130,
     "forwards": 0,
     "media_group_id": 13636183865706885,
     "files": [
@@ -42534,7 +42534,7 @@
     "id": 3149,
     "date": "2024-01-06T06:42:25",
     "text": "今天的博德之门：在别人族的重要画像上乱涂乱画，然后看有人走过来想要擦掉但是失败了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "reply": {
       "id": 3143,
@@ -65247,7 +65247,7 @@
     "id": 4743,
     "date": "2024-12-11T05:39:52",
     "text": "发现 btrfs 开全局压缩有奇效\n\n压缩前总共用了 2.82TB，开一下 zstd:3 直接省了 1.06TB 出来",
-    "views": 129,
+    "views": 130,
     "forwards": 0,
     "images": [
       {
@@ -65266,7 +65266,7 @@
     "id": 4744,
     "date": "2024-12-11T06:49:45",
     "text": "<a href=\"##ADHD\">#ADHD</a> 三次了，解锁了笔记本想不起来要干什么，然后找到了一些事情做，做了一会觉得好困啊睡觉吧，锁定了电脑然后想起来了啊我是因为风扇很吵想给它睡眠来着，然后<del> goto 「解锁了笔记本想不起来要干什么」</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 122,
+    "views": 123,
     "forwards": 0
   },
   {
@@ -65392,7 +65392,7 @@
     "id": 4754,
     "date": "2024-12-13T04:18:02",
     "text": "之前看到了 Asuna 转发的这张 gif，对比每个语言的运行速度... 我就在想，python 慢也不可能这么慢吧？我日常用 python 也没有感觉到它有这么慢啊\n\n然后看了一下他们<a href=\"https://github.com/bddicken/languages/blob/main/loops/py/code.py\">测试用的代码</a>，居然手写了两个循环，总共循环 1e9 次... 那当然慢了，一般人也不会这样写 python 吧 \n(╯‵□′)╯︵┻━┻\n\n直接加一个 numba JIT 就从 75 秒降到了 2.3 秒，再把循环改成 numpy + numba 就降到了 0.8 秒，再改成 pytorch 矩阵操作直接优化到了 0.16 秒，比 rust 还快甚至代码还更短 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 170,
+    "views": 171,
     "forwards": 1,
     "media_group_id": 13872507862081621,
     "files": [
@@ -65428,7 +65428,7 @@
     "id": 4756,
     "date": "2024-12-13T14:51:22",
     "text": "昨晚聊聊给我看这个快发布的叫 Catly 的游戏，我说怎么感觉不太对劲 AI 味好浓... 然后今天看推发现居然真的是 AI 生成的\n\n唉 感觉 AI hype 成功把网络上每个人训练成了 AI 内容识别 bot",
-    "views": 157,
+    "views": 158,
     "forwards": 1,
     "media_group_id": 13872811857317293,
     "images": [
@@ -65550,7 +65550,7 @@
     "id": 4763,
     "date": "2024-12-14T13:10:05",
     "text": "早上八点的阳光照进房间里好好看\n\n出门考试了，是最后一个学期的最后一个考试",
-    "views": 154,
+    "views": 155,
     "forwards": 1,
     "images": [
       {
@@ -65569,14 +65569,14 @@
     "id": 4764,
     "date": "2024-12-15T05:01:05",
     "text": "放假了！毕业了？可能正式毕业还要等到六月，但是确实不用再上课了\n\n虽然虽然完全没有实际毕业期待的那种 relief，想要做和需要做的事情也依然很多，但是至少可以暂时歇歇了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 140,
+    "views": 141,
     "forwards": 0
   },
   {
     "id": 4765,
     "date": "2024-12-16T05:56:07",
     "text": "<a href=\"##谜题\">#谜题</a> 第一次解出 weekly 30*40 的数回，花了 36 min 好难好难 quq",
-    "views": 141,
+    "views": 142,
     "forwards": 0,
     "files": [
       {
@@ -65636,7 +65636,7 @@
     "id": 4768,
     "date": "2024-12-17T10:44:01",
     "text": "写了一个全彩的数回 web 游戏，可以用数回的线条画像素画了！到现在一共设计了四个谜题：\n\n7x7 <a href=\"https://slither.hydev.org/?puzzle=heart\">心心</a>\n16x16 <a href=\"https://slither.hydev.org/?puzzle=blahaj\">鲨鲨</a>\n40x40 魔法猫猫 ( <a href=\"https://slither.hydev.org/?puzzle=meow\">一般</a> | <a href=\"https://slither.hydev.org/?puzzle=meow-hardcore\">硬核</a> )\n\n控制难度比想象中的难好多，其实设计出来的第一个谜题是硬核猫猫，写题的时候觉得这里那里都想删，dfs 能解出来就行了吧... 结果发现自己解不出来 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 还是重新做了（然后好像又太简单了 悲\n\n总之欢迎来玩欢迎反馈喵，也可以用<a href=\"https://slither.hydev.org/?edit=1&size=20\">编辑器</a>设计上传自己的数回哦 qwq <a href=\"##谜题\">#谜题</a>",
-    "views": 148,
+    "views": 149,
     "forwards": 4,
     "reply": {
       "id": 4766,
@@ -66377,7 +66377,7 @@
     "id": 4817,
     "date": "2024-12-30T11:57:32",
     "text": "<a href=\"##ADHD\">#ADHD</a> 边连视频听 menci syama lily 聊天边写代码边煮面，然后忘记自己在煮面了，十分钟过去了，煮出来一坨黏糕 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 153,
+    "views": 154,
     "forwards": 1,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5305,
+    "views": 5306,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5805,
+    "views": 5806,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -76140,7 +76140,7 @@
     "id": 5522,
     "date": "2025-06-01T06:29:12",
     "text": "带着聊聊猫出门了",
-    "views": 277,
+    "views": 278,
     "forwards": 1,
     "images": [
       {
@@ -76599,14 +76599,14 @@
     "id": 5558,
     "date": "2025-06-06T06:22:21",
     "text": "太尴尬了\n\n：我找到了这篇相关的文献，但是我不太相信它能用\n这时候群里另一位正式员工突然出来\n：啊这篇是我写的 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 201,
+    "views": 202,
     "forwards": 0
   },
   {
     "id": 5559,
     "date": "2025-06-06T06:57:49",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n好梦幻的声音，感觉被 ASMR 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n♪ If our story finds an end tonight\n♪ Will you be by my side\n♪ Oh till we say goodbye\n♪ Or should I say good night?",
-    "views": 201,
+    "views": 202,
     "forwards": 0,
     "files": [
       {
@@ -76628,7 +76628,7 @@
     "id": 5560,
     "date": "2025-06-06T11:12:01",
     "text": "不登校\n\n<span class=\"spoiler\"><span>（因为毕业了 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</span></span></i>",
-    "views": 206,
+    "views": 207,
     "forwards": 1,
     "images": [
       {
@@ -76647,7 +76647,7 @@
     "id": 5561,
     "date": "2025-06-06T17:08:48",
     "text": "草 等等 突然发现\n\n要楽奈（mygo 猫猫的名字）是不是也可以读成「いらない」<i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n...还真能用输入法打出来哇\n\n<del>可能猫猫确实什么都いらない</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 202,
+    "views": 203,
     "forwards": 0,
     "files": [
       {
@@ -76669,7 +76669,7 @@
     "id": 5562,
     "date": "2025-06-07T06:08:29",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nチーズうまトマハンバーグ<del>（写作：番茄汉堡芝士意饭）</del>\n\n吃起来没有听上去那么黑暗料理，可能这里面唯一不喜欢的只有生鸡蛋... 来日本一个月了还是无法适应生鸡蛋",
-    "views": 193,
+    "views": 194,
     "forwards": 0,
     "media_group_id": 13994212076573165,
     "images": [
@@ -76699,7 +76699,7 @@
     "id": 5564,
     "date": "2025-06-07T06:41:11",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n喜欢上这个风格了",
-    "views": 193,
+    "views": 194,
     "forwards": 0,
     "reply": {
       "id": 5516,
@@ -76775,7 +76775,7 @@
     "id": 5568,
     "date": "2025-06-08T11:35:44",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##NSFW\">#NSFW</a>\n今天去东京 Pride 看演出，Aya Sato 的舞真的超劲爆 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n看了两遍，中午排练的时候看到了然后正式演出又看一遍\n\n（AV1 编码警告，旧设备没法看的话可以去 <a href=\"https://youtu.be/WPW7oAyKpzs\">YouTube</a> / <a href=\"https://pixeldrain.com/u/b6Kg9Nyi\">无压原画</a>",
-    "views": 176,
+    "views": 177,
     "forwards": 0,
     "files": [
       {
@@ -76798,7 +76798,7 @@
     "id": 5569,
     "date": "2025-06-08T14:56:12",
     "text": "这次 Pride 因为猜到会很热所以只穿了内衣，披上 nina 第二次演唱会的「旁若无人」 披风就出门了（<del>旁若无人的目光确实很凉快！</del>\n\n不想带包但是不能不带现金，灵机一动把钱塞卡套里了，脖子上挂着北里柴三郎的头图莫名好笑\n\n在会场转了一圈，去加拿大的亭子里拿了一个旗子还和志愿者搭了话，发现居然是多伦多大校友，是大三的学妹来日本旅游，好巧 <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>\n\n会场上还有很多大公司，发各种彩虹色的广告周边... 其实不是很喜欢这种氛围，明明 LGBT 是一种对社会常规的挑战，但是感觉这些公司却全都做着很刻板的事情。也许只是因为舆论压力、因为「参加 Pride」成为了新的常规才去参加的吧。觉得豆腐说的有道理，如果风向变了最先退出的应该就是这些公司。\n\n以及游行那边好热闹 <i class=\"custom-emoji\" emoji-src=\"emoji/6114058788224895244.webm\">🏃‍♂</i> 去看 Live 之前去朋友在的台湾队凑了凑热闹。集合之后排队排了一个小时才出会场开始游行... 下次就不进去排队直接在街上等了，等开始游行再直接街上汇合",
-    "views": 164,
+    "views": 165,
     "forwards": 1,
     "media_group_id": 13995156582788461,
     "images": [
@@ -76868,7 +76868,7 @@
     "id": 5576,
     "date": "2025-06-09T02:38:34",
     "text": "谷歌地图真厉害，在这个机动车都走不过去的地方让我自行车直接横穿... 还好我用了一些 common sense 看懂了地形没有这样走\n\n<a href=\"https://maps.app.goo.gl/48rCMHf99ue8eL3P7\">街景</a>",
-    "views": 158,
+    "views": 161,
     "forwards": 1,
     "media_group_id": 13995493715783581,
     "images": [
@@ -76918,14 +76918,14 @@
     "id": 5580,
     "date": "2025-06-09T15:15:35",
     "text": "没有洗碗机了需要手洗碗才发现，吃完咖喱不马上洗碗的话，咖喱干了就好难洗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 118,
+    "views": 126,
     "forwards": 0
   },
   {
     "id": 5581,
     "date": "2025-06-09T15:29:26",
     "text": "<del>真是非常不方便啊</del>",
-    "views": 112,
+    "views": 119,
     "forwards": 0,
     "images": [
       {
