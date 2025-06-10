@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-06-10T04:18:04.256617+00:00</updated>
+  <updated>2025-06-10T06:12:26.262650+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5583</id>
+    <title>小桂桂的回忆录 📒 #5583</title>
+    <updated>2025-06-10T05:13:54+00:00</updated>
+    <content>&lt;p&gt;拿到了驾照！虽然不是新人但是也买了一套新人贴纸&lt;/p&gt;
+&lt;p&gt;感谢谦谦带我去办转驾照的手续，感觉来日本之后好多事情都在麻烦谦谦 &lt;i class="custom-emoji" emoji-src="emoji/6323556186138346934.webp"&gt;😢&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;原本需要出入境记录证明有在驾照的国家停留超过一年，但是加拿大那边申请出入境记录要超级久，所以用学校在校证明代替了 qwq&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5583" rel="alternate"/>
+  </entry>
   <entry>
     <id>5582</id>
     <title>小桂桂的回忆录 📒 #5582</title>
