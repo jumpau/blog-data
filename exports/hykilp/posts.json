@@ -61232,7 +61232,7 @@
     "id": 4468,
     "date": "2024-09-22T06:31:03",
     "text": "开坑\n\n<del>开坑第一件事当然是起一个不会让我两年之后后悔的名字</del>",
-    "views": 129,
+    "views": 130,
     "forwards": 0,
     "reply": {
       "id": 4467,
@@ -61255,14 +61255,14 @@
     "id": 4469,
     "date": "2024-09-22T17:18:21",
     "text": "朋友在多伦多开的机厅快要正式开业了，想哪天去看看 qwq\n\n唉 今天才真正意识到开机厅的人多么有钱，maimai DX 框在这边一直是五位数 USD 价格都很难拿到货，然后他告诉我他们买了两台，第二台还在海上 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n再看看我为了省一两千 USD 自己造 Wacca 框，为了省一千 CAD 运 ADX 框的时候自己找渠道走了海运没走空运... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 130,
+    "views": 131,
     "forwards": 2
   },
   {
     "id": 4470,
     "date": "2024-09-22T23:11:06",
     "text": "去一趟机厅赚了 $172 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（好吧其实并没有赚，只是把他们从我这里订的 Wacca LED 替换板卖给他们了 quq",
-    "views": 124,
+    "views": 125,
     "forwards": 2,
     "media_group_id": 13816373334825989,
     "images": [
@@ -61316,7 +61316,7 @@
     "id": 4474,
     "date": "2024-09-22T23:28:08",
     "text": "他们那家店里面的样子，目前有 Wacca Plus, maimai DX, 中二, DIVA, SDVX, IIDX, 还有一些一般街机比如舰 C\n\n真的好厉害，今年三月的时候他们刚开始准备，居然现在就已经在准备开业了还有这么多劲爆机器... 真好啊，希望他们能回本 quq\n\n今天去的时候就很热闹了，有几个认识的人来玩，还有 discord 上一直觉得很厉害的店员在修路由器装修房间，也认识了一些新朋友 <i class=\"custom-emoji\" emoji-src=\"emoji/5445051141484190513.tgs\">👩‍👧‍👧</i>（不过感觉我认出来的人还是少数，虽然 discord 上都认识但是线下完全猜不出谁是谁——唉感觉是很多群友同时见面难免会遇到的问题",
-    "views": 151,
+    "views": 152,
     "forwards": 0,
     "media_group_id": 13816381504337565,
     "images": [
@@ -61396,7 +61396,7 @@
     "id": 4481,
     "date": "2024-09-24T01:57:52",
     "text": "以前用 VLC 放视频的时候经常不小心按倒 C 键然后画面就会被裁剪到一个特定的长宽比，当时还在想谁会用到这么鸡肋的功能\n\n然后今天遇到了一个用 16:9 设置录 4:3 ppt 的课 🌚",
-    "views": 316,
+    "views": 317,
     "forwards": 2,
     "images": [
       {
@@ -61415,7 +61415,7 @@
     "id": 4482,
     "date": "2024-09-25T05:41:50",
     "text": "定一个小目标，到明年 1 月 1 号之前我不再开新坑了，想要好好把开过没做完的坑填完...",
-    "views": 331,
+    "views": 332,
     "forwards": 0
   },
   {
@@ -61428,7 +61428,7 @@
     "id": 4484,
     "date": "2024-09-25T05:49:15",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n柚子！\n\n<del>长长果味触手</del>",
-    "views": 270,
+    "views": 271,
     "forwards": 1,
     "images": [
       {
@@ -61537,7 +61537,7 @@
     "id": 4491,
     "date": "2024-09-29T07:09:31",
     "text": "<a href=\"##RF\">#RF</a> <a href=\"##TIL\">#TIL</a> 收到了复制小区门卡的委托，扫了一下发现是没见过的 Mifare Plus X 2k/4k (SL1) 卡，和 Classic 1k 不一样的地方是它有 7-byte 的 ID，40 个数据分区。\n\n原本以为这种加强安全性的卡会很难解，试试幸运吧跑一下 <code>mf autopwn</code>，发现 0-15 分区的密钥全都在默认字典里 🌚 即 dump\n\n但是尝试写入新卡的时候发现我这里并没有可以存下 7-bit ID 也没有可以存下 40 个数据分区的卡，不过看到它除了 0-15 分区以外其他分区的密钥都是 FFFFFFFF，群友猜可能它没有用剩下的 24 个分区... 然后朋友回去试了一下把它的 1-15 分区数据写进普通的 Classic 1k 卡里发现居然真的能用 🌚\n\n唉，RF 安全真是巨大的草台",
-    "views": 189,
+    "views": 190,
     "forwards": 0,
     "images": [
       {
@@ -66773,7 +66773,7 @@
     "id": 4842,
     "date": "2025-01-05T13:24:01",
     "text": "用着用着 github 发现仓库设置邀请页面左上角飘着一个搜索图标 🌚\n\n开 devtools 诊断一下发现是 github 那边的 web 人忘记给母元素加 position relative 了所以应该在母元素左上角的搜索图标直接跑到整个窗口左上角 🌚\n\n这个世界真是巨大草台",
-    "views": 240,
+    "views": 241,
     "forwards": 3,
     "images": [
       {
@@ -68839,7 +68839,7 @@
     "id": 4985,
     "date": "2025-03-07T02:19:48",
     "text": "maimai 选歌菜单远处看好像一个脸啊？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 1353,
+    "views": 1354,
     "forwards": 6,
     "media_group_id": 13930511903991437,
     "images": [
@@ -70006,7 +70006,7 @@
     "id": 5066,
     "date": "2025-03-24T14:43:26",
     "text": "奇妙，把 CI 编译机从 12500H 搬到 M2 Mac Mini 上之后，编译时间从 25 分钟缩短到了 14 分钟...\n\n明明纸上这两个 CPU 跑分都差不多的，12500H 多核跑分还更高，不知道为什么实际时间差别这么大",
-    "views": 213,
+    "views": 214,
     "forwards": 2,
     "images": [
       {
@@ -70025,14 +70025,14 @@
     "id": 5067,
     "date": "2025-03-24T16:41:26",
     "text": "呜呜呜 刚才挖冰淇凌动作太大把冰淇凌甩到了地上\n\n...然后聊聊正好在旁边，因为不想浪费冰淇凌把它捡起来用水冲了冲吃掉了？？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i> <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 206,
+    "views": 207,
     "forwards": 0
   },
   {
     "id": 5068,
     "date": "2025-03-25T02:23:54",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a> \n烤猪脚！\n\n好大快肉肉，先用它泡水炖了汤然后拿出来低温烤了两小时。肉肉只花了 $20，三个人吃完还剩一斤肉肉，好划算 qwq",
-    "views": 216,
+    "views": 217,
     "forwards": 4,
     "media_group_id": 13942955476186333,
     "images": [
@@ -70072,7 +70072,7 @@
     "id": 5071,
     "date": "2025-03-25T18:02:46",
     "text": "给 syama 写了一个 WebNFC 读卡器\n\n其实就是没有物理读卡器的时候用来给街机音游刷卡的小工具，原理是写卡号文件然后模拟按回车，没什么技术含量，感觉可能会有人需要就开源啦 qwq\n\n<a href=\"https://github.com/MaigoLabs/AimeWeb\">https://github.com/MaigoLabs/AimeWeb</a>",
-    "views": 188,
+    "views": 189,
     "forwards": 2,
     "images": [
       {
@@ -70091,7 +70091,7 @@
     "id": 5072,
     "date": "2025-03-25T22:41:40",
     "text": "因为 credit 花不完，部署了一个 emu bot <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n<span class=\"spoiler\"><span>居然真的能让 emu 用很开心可爱的语气说出很恐怖的话，</span></span>效果真好 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n这次是完全用 prompting 没有 fine tune 感觉也不错。其实只是 discord 这种文字对话的话，也没必要真的让说话语气像 pjsk 剧情对话一样真实，即使知道它在角色扮演也不影响大家 have fun 的 qwq\n\n（Prompt 在<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/docs/fun/llm.md\">这里</a>）",
-    "views": 202,
+    "views": 203,
     "forwards": 1,
     "reply": {
       "id": 4991,
@@ -70115,7 +70115,7 @@
     "id": 5073,
     "date": "2025-03-26T00:53:09",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n猪脚拉面\n\n用掉了剩下的猪脚... 的一半 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i> $20 能吃三顿也太值了",
-    "views": 184,
+    "views": 185,
     "forwards": 0,
     "media_group_id": 13943603117311221,
     "images": [
@@ -70150,7 +70150,7 @@
     "id": 5075,
     "date": "2025-03-26T04:09:47",
     "text": "chu<span class=\"spoiler\"><span><del>nithm pen</span></span></del>guin\n\nchuguin",
-    "views": 199,
+    "views": 200,
     "forwards": 0,
     "images": [
       {
@@ -70169,7 +70169,7 @@
     "id": 5076,
     "date": "2025-03-26T04:31:29",
     "text": "<a href=\"https://t.me/addstickers/azalea_2022\">表情包</a>加入「chuguin」系列\n\n（我真是无聊至极啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 190,
+    "views": 191,
     "forwards": 0,
     "media_group_id": 13943707912922349,
     "images": [
@@ -70849,7 +70849,7 @@
     "id": 5122,
     "date": "2025-04-05T04:26:43",
     "text": "因为驾照要过期了，约了 G 牌驾考，为此租了一辆车练习考试... 但是又觉得只是练车太浪费了，就临时计划了一次「练车旅行」——有了车就去一些平时的公共交通去不到的地方吧 qwq\n\n今天拿到了车，接上 Henry、豆腐、猫猫球一起去了沙滩。气氛好棒，好久没有这么放松了，什么都不用想不用做只要在湖风中散步就很开心... 如果我有车肯定每天都会来\n\n见到了超大只鹅🦢（身上带着标签，可能是研究样本吗）还拍了很多也许可以捕捉心情的照片",
-    "views": 212,
+    "views": 213,
     "forwards": 0,
     "media_group_id": 13950617626814517,
     "images": [
@@ -71820,7 +71820,7 @@
     "id": 5199,
     "date": "2025-04-14T09:02:07",
     "text": "记得之前朋友和我说ta是靠唱歌学的日语（是麻薯还是蓝夏来着忘记了）所以我打算也试试 qwq\n\n...写写歌词发现果然不会写的中文汉字更多一点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 因为有十年没用纸笔写中文了，需要用中文的地方也只有打字和说话\n\n（不过正好中文也一起炼了",
-    "views": 287,
+    "views": 288,
     "forwards": 2,
     "images": [
       {
@@ -71839,7 +71839,7 @@
     "id": 5200,
     "date": "2025-04-14T10:37:13",
     "text": "...呜 结果不知不觉就又看到日出了还没睡，作息又坏掉了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n不过今天日出好好看",
-    "views": 331,
+    "views": 332,
     "forwards": 0,
     "images": [
       {
@@ -71858,14 +71858,14 @@
     "id": 5202,
     "date": "2025-04-15T02:39:32",
     "text": "这条消息里藏着一道谜题 谁先解出来有蛋糕哦 qwq󠀁󠀵󠁚󠁏󠁱󠀶󠁙󠁥󠁍󠀵󠁌󠁩󠁎󠀵󠁡󠀫󠀵󠀷󠀷󠁹󠁦󠁃󠁶󠁏󠁧󠁧󠁉󠁈󠁺󠁯󠁉󠁇󠁄󠀸󠀶󠁃󠁂󠁲󠀯󠁏󠁧󠁧󠁡󠀷󠁺󠁯󠁉󠁇󠁮󠀸󠀶󠁃󠁂󠁳󠁶󠁏󠁧󠁧󠁡󠁈󠁺󠁯󠁉󠁇󠀰󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁋󠁈󠁺󠁯󠁉󠁃󠁧󠀸󠀶󠁃󠁂󠁭󠁦󠁏󠁧󠁧󠁡󠀯󠁺󠁯󠁉󠁇󠀱󠀸󠀶󠁃󠁁󠁯󠁐󠁏󠁧󠁧󠁡󠁢󠁺󠁯󠁉󠁇󠁶󠀸󠀶󠁃󠁂󠁴󠁦󠁏󠁧󠁧󠁡󠀷󠁺󠁯󠁉󠁇󠁫󠀸󠀶󠁃󠁁󠁯󠁐󠁏󠁧󠁧󠁢󠁔󠁺󠁯󠁉󠁇󠁯󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁇󠁯󠀸󠀶󠁃󠁂󠁱󠁦󠁏󠁧󠁧󠁡󠁔󠁺󠁯󠁉󠁇󠁫󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁡󠀷󠁺󠁯󠁉󠁃󠁧󠀸󠀶󠁃󠁂󠁲󠁦󠁏󠁧󠁧󠁡󠁘󠁺󠁯󠁉󠁇󠁺󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁡󠁈󠁺󠁯󠁉󠁇󠁮󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁃󠀶󠀸󠀶󠁃󠁁󠁳󠀯󠁏󠁧󠁧󠁙󠁪󠁺󠁯󠁉󠁇󠁨󠀸󠀶󠁃󠁂󠁴󠁶󠁏󠁧󠁧󠁡󠁘󠁺󠁯󠁉󠁃󠁧󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁡󠀯󠁺󠁯󠁉󠁇󠁴󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁇󠁪󠀸󠀶󠁃󠁂󠁯󠁦󠁏󠁧󠁧󠁡󠁶󠁺󠁯󠁉󠁇󠁬󠀸󠀶󠁃󠁁󠁯󠁦󠁏󠁧󠁧󠁋󠁄󠁺󠁯󠁉󠁇󠁯󠀸󠀶󠁃󠁂󠁴󠁐󠁏󠁧󠁧󠁢󠁔󠁺󠁯󠁉󠁇󠁷󠀸󠀶󠁃󠁂󠁳󠀯󠁏󠁧󠁧󠁌󠁲󠁺󠁯󠁉󠁃󠁶󠀸󠀶󠁃󠁁󠁲󠀯󠁏󠁧󠁧󠁢󠁔󠁺󠁯󠁉󠁃󠁵󠀸󠀶󠁃󠁂󠁲󠁦󠁏󠁧󠁧󠁡󠁘󠁺󠁯󠁉󠁃󠁶󠀸󠀶󠁃󠁁󠁱󠀯󠁏󠁧󠁧󠁡󠁢󠁺󠁯󠁉󠁇󠁒󠀸󠀶󠁃󠁂󠁰󠁦󠁏󠁧󠁧󠁡󠁪󠁺󠁯󠁉󠁇󠁪󠀸󠀶󠁃󠁂󠁭󠁦󠁏󠁧󠁧󠁡󠁮󠁺󠁯󠁉󠁇󠁉󠀸󠀶󠁃󠁂󠁪󠀯󠁏󠁧󠁧󠁚󠁪󠁺󠁯󠁉󠁇󠁶󠀸󠀶󠁃󠁂󠁵󠁶󠁏󠁧󠁧󠁚󠁮󠁺󠁯󠁉󠁇󠁕󠀸󠀶󠁃󠁂󠁬󠁶󠁏󠁧󠁧󠁡󠁺󠁺󠁯󠁉󠁇󠀯󠁿\n\n(提示: UTF-8",
-    "views": 400,
+    "views": 401,
     "forwards": 7
   },
   {
     "id": 5203,
     "date": "2025-04-15T04:06:03",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n发现牛肉面里面加上辣椒油味道好棒 qwq\n\n（然后把自己辣到了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 353,
+    "views": 354,
     "forwards": 1,
     "images": [
       {
@@ -71884,7 +71884,7 @@
     "id": 5204,
     "date": "2025-04-15T06:12:37",
     "text": "真 · 悬空打印\n\n(<a href=\"##AIGC\">#AIGC</a>)",
-    "views": 292,
+    "views": 293,
     "forwards": 0,
     "images": [
       {
@@ -71973,7 +71973,7 @@
     "id": 5211,
     "date": "2025-04-16T01:08:26",
     "text": "感觉是时候解开谜底了 qwq\n\n<span class=\"spoiler\"><span>是 UTF-8 隐藏字符！󠀁󠁙󠁯󠁵󠀠󠁦󠁯󠁵󠁮󠁤󠀠󠁭󠁥󠀠󠀾󠀠󠀼󠁿\n\nU+E0000~E007F 是一个特定的 \"Tag\" 编码块，对应的是 128 个一般英文 ASCII 字符的隐藏版本，原本的用途是用来给文字加上不显示的标签</span></span>\n\n<span class=\"spoiler\"><span>右键上面那条消息点击复制，然后粘贴进文件里就会发现，即使消息里只有几个字符，实际大小却有 2.1KB\n\n在 ipython 里面读取这个文件或者直接转发给 </span></span><a href=\"https://t.me/RawDataBot\"><span class=\"spoiler\"><span>@RawDataBot</a></span></span><span class=\"spoiler\"><span> 都可以看到隐藏字符。把隐藏字符单独取出来、每个字符减去 0xE0000 转换为普通 ASCII、再去掉开头结尾的垫片就可以看到这串隐藏的 base64 消息啦\n\n解码 base64 之后是同样，显示的只有「哪里不对？」，但是 base64 这么长不可能只有这些。\n\n其实这两段谜题的解法是完全一样的，只不过一般的在线 base64 解码器不会显示隐藏字符，而且这次隐藏字符在结尾换行的后面不在消息中间，复制粘贴很容易忽略掉，所以看很多解出第一步的人卡在这里了 quq （其实只要用一个可以保存输出的 base64 解码工具就可以</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n总共有四个人解出来恭喜喵！不过当然很多人也猜到了，<span class=\"spoiler\"><span>the cake is a lie </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6213122269036680377.webm\">😊</span></span></i>",
-    "views": 290,
+    "views": 291,
     "forwards": 2,
     "media_group_id": 13958125648289765,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5840,
+    "views": 5841,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -76530,7 +76530,7 @@
     "id": 5553,
     "date": "2025-06-05T07:12:17",
     "text": "在东京快一个月了，做了一个「东京迷子宾果」\n\n哪些是亲身经历、哪些是都市传说，就由你来判断吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5442664243474211327.tgs\">👀</i>",
-    "views": 255,
+    "views": 256,
     "forwards": 4,
     "images": [
       {
@@ -76549,7 +76549,7 @@
     "id": 5554,
     "date": "2025-06-05T13:58:32",
     "text": "一些最近漏掉的照片\n\n1. 和谦谦在池袋散步，看到了另一栋楼和天空融在一起\n2. 天川家旁边的天空\n3. 去登山的另外四个人的即兴表情包合影\n4. 和谦谦开车去河边散步的夜景",
-    "views": 223,
+    "views": 224,
     "forwards": 1,
     "media_group_id": 13993055297378557,
     "images": [
@@ -76599,14 +76599,14 @@
     "id": 5558,
     "date": "2025-06-06T06:22:21",
     "text": "太尴尬了\n\n：我找到了这篇相关的文献，但是我不太相信它能用\n这时候群里另一位正式员工突然出来\n：啊这篇是我写的 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 216,
+    "views": 218,
     "forwards": 0
   },
   {
     "id": 5559,
     "date": "2025-06-06T06:57:49",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n好梦幻的声音，感觉被 ASMR 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n♪ If our story finds an end tonight\n♪ Will you be by my side\n♪ Oh till we say goodbye\n♪ Or should I say good night?",
-    "views": 221,
+    "views": 223,
     "forwards": 0,
     "files": [
       {
@@ -76628,7 +76628,7 @@
     "id": 5560,
     "date": "2025-06-06T11:12:01",
     "text": "不登校\n\n<span class=\"spoiler\"><span>（因为毕业了 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</span></span></i>",
-    "views": 230,
+    "views": 231,
     "forwards": 1,
     "images": [
       {
@@ -76647,7 +76647,7 @@
     "id": 5561,
     "date": "2025-06-06T17:08:48",
     "text": "草 等等 突然发现\n\n要楽奈（mygo 猫猫的名字）是不是也可以读成「いらない」<i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n...还真能用输入法打出来哇\n\n<del>可能猫猫确实什么都いらない</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 233,
+    "views": 234,
     "forwards": 0,
     "files": [
       {
@@ -76669,7 +76669,7 @@
     "id": 5562,
     "date": "2025-06-07T06:08:29",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nチーズうまトマハンバーグ<del>（写作：番茄汉堡芝士意饭）</del>\n\n吃起来没有听上去那么黑暗料理，可能这里面唯一不喜欢的只有生鸡蛋... 来日本一个月了还是无法适应生鸡蛋",
-    "views": 233,
+    "views": 234,
     "forwards": 0,
     "media_group_id": 13994212076573165,
     "images": [
@@ -76699,7 +76699,7 @@
     "id": 5564,
     "date": "2025-06-07T06:41:11",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n喜欢上这个风格了",
-    "views": 228,
+    "views": 229,
     "forwards": 0,
     "reply": {
       "id": 5516,
@@ -76725,7 +76725,7 @@
     "id": 5565,
     "date": "2025-06-07T11:18:59",
     "text": "没想到 第一次被「日本语上手」是在理发店...\n\n去渋谷的 SOLEIL TOKYO 理了发（因为有非常棒的学生优惠！只花了 ￥3300）虽然学生卡忘在家里了，但是说学生卡放在加拿大了拿出照片萌混过关 <i class=\"custom-emoji\" emoji-src=\"emoji/5114340437808645487.webm\">🙁</i>\n\n剪得很好看！<del>问我想要什么发型的时候给看了一个高松灯 cosplay 照片然后其他的就おまかせ了</del>... 即使这样还能剪出满意的样子 Kana 老师好厉害！\n\n（也很有耐心！看我没听懂的时候换成借来词我就听懂了（<del>什么时候日语变成英语啊</del>",
-    "views": 242,
+    "views": 243,
     "forwards": 0,
     "media_group_id": 13994361119445349,
     "images": [
@@ -76755,7 +76755,7 @@
     "id": 5567,
     "date": "2025-06-08T01:12:33",
     "text": "\"Frequently bought together\" <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n...明明我只是想买一件真的用来游泳的泳衣，然后发现亚马逊上スク水好像都是情趣向 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 261,
+    "views": 263,
     "forwards": 4,
     "images": [
       {
@@ -76775,7 +76775,7 @@
     "id": 5568,
     "date": "2025-06-08T11:35:44",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##NSFW\">#NSFW</a>\n今天去东京 Pride 看演出，Aya Sato 的舞真的超劲爆 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n看了两遍，中午排练的时候看到了然后正式演出又看一遍\n\n（AV1 编码警告，旧设备没法看的话可以去 <a href=\"https://youtu.be/WPW7oAyKpzs\">YouTube</a> / <a href=\"https://pixeldrain.com/u/b6Kg9Nyi\">无压原画</a>",
-    "views": 225,
+    "views": 227,
     "forwards": 0,
     "files": [
       {
@@ -76798,7 +76798,7 @@
     "id": 5569,
     "date": "2025-06-08T14:56:12",
     "text": "这次 Pride 因为猜到会很热所以只穿了内衣，披上 nina 第二次演唱会的「旁若无人」 披风就出门了（<del>旁若无人的目光确实很凉快！</del>\n\n不想带包但是不能不带现金，灵机一动把钱塞卡套里了，脖子上挂着北里柴三郎的头图莫名好笑\n\n在会场转了一圈，去加拿大的亭子里拿了一个旗子还和志愿者搭了话，发现居然是多伦多大校友，是大三的学妹来日本旅游，好巧 <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>\n\n会场上还有很多大公司，发各种彩虹色的广告周边... 其实不是很喜欢这种氛围，明明 LGBT 是一种对社会常规的挑战，但是感觉这些公司却全都做着很刻板的事情。也许只是因为舆论压力、因为「参加 Pride」成为了新的常规才去参加的吧。觉得豆腐说的有道理，如果风向变了最先退出的应该就是这些公司。\n\n以及游行那边好热闹 <i class=\"custom-emoji\" emoji-src=\"emoji/6114058788224895244.webm\">🏃‍♂</i> 去看 Live 之前去朋友在的台湾队凑了凑热闹。集合之后排队排了一个小时才出会场开始游行... 下次就不进去排队直接在街上等了，等开始游行再直接街上汇合",
-    "views": 203,
+    "views": 205,
     "forwards": 1,
     "media_group_id": 13995156582788461,
     "images": [
@@ -76868,7 +76868,7 @@
     "id": 5576,
     "date": "2025-06-09T02:38:34",
     "text": "谷歌地图真厉害，在这个机动车都走不过去的地方让我自行车直接横穿... 还好我用了一些 common sense 看懂了地形没有这样走\n\n<a href=\"https://maps.app.goo.gl/48rCMHf99ue8eL3P7\">街景</a>",
-    "views": 211,
+    "views": 214,
     "forwards": 1,
     "media_group_id": 13995493715783581,
     "images": [
@@ -76918,14 +76918,14 @@
     "id": 5580,
     "date": "2025-06-09T15:15:35",
     "text": "没有洗碗机了需要手洗碗才发现，吃完咖喱不马上洗碗的话，咖喱干了就好难洗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 195,
+    "views": 197,
     "forwards": 0
   },
   {
     "id": 5581,
     "date": "2025-06-09T15:29:26",
     "text": "<del>真是非常不方便啊</del>",
-    "views": 195,
+    "views": 197,
     "forwards": 0,
     "images": [
       {
@@ -76944,7 +76944,7 @@
     "id": 5582,
     "date": "2025-06-10T02:45:54",
     "text": "看看日本家电怎么接地 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<del>插头：竖起中指</del>",
-    "views": 200,
+    "views": 202,
     "forwards": 1,
     "images": [
       {
@@ -76963,7 +76963,7 @@
     "id": 5583,
     "date": "2025-06-10T05:13:54",
     "text": "拿到了驾照！虽然不是新人但是也买了一套新人贴纸\n\n感谢谦谦带我去办转驾照的手续，感觉来日本之后好多事情都在麻烦谦谦 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n原本需要出入境记录证明有在驾照的国家停留超过一年，但是加拿大那边申请出入境记录要超级久，所以用学校在校证明代替了 qwq",
-    "views": 200,
+    "views": 202,
     "forwards": 0,
     "images": [
       {
@@ -76982,7 +76982,7 @@
     "id": 5584,
     "date": "2025-06-10T16:19:19",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n伴随留念和幻想一起崩坏的是歌声和旋律",
-    "views": 193,
+    "views": 196,
     "forwards": 2,
     "files": [
       {
@@ -77004,7 +77004,7 @@
     "id": 5585,
     "date": "2025-06-11T11:58:20",
     "text": "来日本当过期四年的 JK",
-    "views": 199,
+    "views": 203,
     "forwards": 6,
     "media_group_id": 13997144805043293,
     "images": [
@@ -77040,7 +77040,7 @@
     "id": 5587,
     "date": "2025-06-12T02:50:31",
     "text": "恭喜我们团队又烧了一张 H100...\n\n据他们说之前已经烧了两张了，一直不知道为什么。还好我来的时候搭了一个 influxdb，看一下 log 就知道发生什么了，掉线的时候温度居然烧到了 93°C\n\n众所周知 H100 的极限温度是 87°C... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 138,
+    "views": 143,
     "forwards": 3,
     "media_group_id": 13997573055496437,
     "images": [
