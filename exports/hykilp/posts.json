@@ -43191,7 +43191,7 @@
     "id": 3197,
     "date": "2024-01-17T00:34:04",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n可乐鸡腿！",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "images": [
       {
@@ -43270,7 +43270,7 @@
     "id": 3201,
     "date": "2024-01-18T01:47:35",
     "text": "这个学期算法课要和三个人合作写 latex 作业，但是 overleaf 免费版最多只能两个人合作，所以整理了一下重新搭了一个 overleaf 私服 <a href=\"tex.hydev.org\">tex.hydev.org</a>\n\n搭的时候直接用了 Overleaf Toolkit 的 docker compose，踩了几个坑：\n\n1. 官方的 toolkit 里面 redis 和 mongo 设置了默认的容器名，所以如果有其他的叫 mongo 的容器在跑就会冲突。解决方式是把容器名改成 <code>overleaf-mongo</code> 然后加一行 <code>hostname: mongo</code> 保证内网网络名是一样的\n2. 搭好会发现编译 latex 的时候缺引用包，需要用 <code>docker exec overleaf tlmgr install scheme-full</code> 安装完整 texlive 包\n3. 因为安装 texlive 包会安装在容器里，更新之后就需要重新安装，所以推荐先把 texlive 复制出来 <code>docker cp overleaf:/usr/local/texlive/ ./data/texlive</code> 再映射一个挂载 <code>./data/texlive:/usr/local/texlive/</code>",
-    "views": 102,
+    "views": 103,
     "forwards": 2,
     "media_group_id": 13644339639887861,
     "images": [
@@ -43300,7 +43300,7 @@
     "id": 3203,
     "date": "2024-01-18T05:03:19",
     "text": "Google Workspace 的管理页面比 MS 365 好用太多了",
-    "views": 98,
+    "views": 99,
     "forwards": 0,
     "reply": {
       "id": 3120,
@@ -43311,7 +43311,7 @@
     "id": 3204,
     "date": "2024-01-18T15:13:26",
     "text": "感觉自己密恐还是不太适合 AI 修图... 因为 AI 生成的结果里总是会出现很掉 san 的东西，经常会被生成完的一瞬间 jump scare，以至于之前修图的时候如果不把画布缩放到超级小都不敢点生成\n\n明明修这个图已经是一周前了，躺在床上闭上眼睛还是会时不时闪过掉 san 的碎片然后害怕得睡不着",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "reply": {
       "id": 3164,
@@ -43323,7 +43323,7 @@
     "id": 3205,
     "date": "2024-01-18T18:09:56",
     "text": "<a href=\"##mai\">#mai</a> 第一次打 13 的谱，FC 但是只有 AAA <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n<span class=\"spoiler\"><span>（聊聊意外上镜</span></span>",
-    "views": 102,
+    "views": 103,
     "forwards": 2,
     "files": [
       {
@@ -43346,14 +43346,14 @@
     "id": 3206,
     "date": "2024-01-18T18:45:12",
     "text": "出门了，逐渐变成冰淇淋 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953565629482826.webm\">🧊</i>",
-    "views": 91,
+    "views": 92,
     "forwards": 0
   },
   {
     "id": 3207,
     "date": "2024-01-18T21:25:17",
     "text": "边写作业边和聊聊吃孤独烤肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 97,
+    "views": 98,
     "forwards": 0,
     "images": [
       {
@@ -43372,7 +43372,7 @@
     "id": 3208,
     "date": "2024-01-18T21:55:48",
     "text": "买了几个 dc 接头花了 $8... 好贵",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "images": [
       {
@@ -43472,7 +43472,7 @@
     "id": 3215,
     "date": "2024-01-19T03:53:44",
     "text": "今生最后一片 12.5mg 色谱龙，决定从明天开始就不吃了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170121034994288479.webm\">😝</i>",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "images": [
       {
@@ -43491,14 +43491,14 @@
     "id": 3216,
     "date": "2024-01-19T05:59:51",
     "text": "睡不着睡不着睡不着\n\n可是不能吃褪黑素",
-    "views": 103,
+    "views": 104,
     "forwards": 0
   },
   {
     "id": 3217,
     "date": "2024-01-19T06:15:12",
     "text": "我：快睡着快睡着\n脑子：🎵Don’t stop me now I’m having such a good time🎵\n<a href=\"##戴上耳机\">#戴上耳机</a>",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "files": [
       {
@@ -43520,7 +43520,7 @@
     "id": 3218,
     "date": "2024-01-19T15:10:19",
     "text": "草 洗这个拖鞋会让拖鞋缩小",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "images": [
       {
@@ -44258,7 +44258,7 @@
     "id": 3270,
     "date": "2024-01-30T05:16:33",
     "text": "啊 然后今天导师和我说每篇纸只要有一个人注册 Full Conference 就可以了，然后他已经注册了所以我就可以按非 author 的 $300 学生价注册了...\n\n可是问题是我知道这件事情的时候我也已经注册了 $800 的 Full Conference 了，还不能退款\n(╯’ – ‘)╯︵ ┻━┻",
-    "views": 106,
+    "views": 107,
     "forwards": 0,
     "reply": {
       "id": 3262,
@@ -44269,14 +44269,14 @@
     "id": 3271,
     "date": "2024-01-30T14:54:54",
     "text": "好久没有穿 bra 出门了，今天久违地穿上觉得好紧。<span class=\"spoiler\"><span>感觉有了能 pass 的自信之后就没有那么喜欢用方便换好看或者花时间打扮了</span></span>",
-    "views": 94,
+    "views": 95,
     "forwards": 0
   },
   {
     "id": 3272,
     "date": "2024-01-30T14:57:58",
     "text": "今天的早餐是一个🍎，在路上吃完了原地埋进土里了，会不会长出苹果树苗呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "images": [
       {
@@ -69395,7 +69395,7 @@
     "id": 5023,
     "date": "2025-03-15T08:40:10",
     "text": "因为植树节结束就把频道树封印了，感谢大家参与~\n\n源码和数据推到 Github 上啦，在读我上分发了一些很随意的奖项，<a href=\"https://github.com/hykilpikonna/ChannelTree\">仓库在这里</a> 欢迎参观 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 339,
+    "views": 340,
     "forwards": 7,
     "media_group_id": 13936224081120941,
     "images": [
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2570,
+    "views": 2571,
     "forwards": 29,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5326,
+    "views": 5327,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5843,
+    "views": 5845,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -75243,7 +75243,7 @@
     "id": 5453,
     "date": "2025-05-23T02:14:49",
     "text": "哇 居然已经 30 年了，Java 生日快乐！\n\n<del>感觉 JVM 生态能活到现在完全是靠 Minecraft 和安卓这两个社区...</del>",
-    "views": 444,
+    "views": 445,
     "forwards": 11,
     "images": [
       {
@@ -77040,7 +77040,7 @@
     "id": 5587,
     "date": "2025-06-12T02:50:31",
     "text": "恭喜我们团队又烧了一张 H100...\n\n据他们说之前已经烧了两张了，一直不知道为什么。还好我来的时候搭了一个 influxdb，看一下 log 就知道发生什么了，掉线的时候温度居然烧到了 93°C\n\n众所周知 H100 的极限温度是 87°C... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 153,
+    "views": 155,
     "forwards": 5,
     "media_group_id": 13997573055496437,
     "images": [
