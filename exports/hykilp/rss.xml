@@ -12,7 +12,15 @@
       <link>https://aza.moe/life</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 12 Jun 2025 02:42:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 04:18:26 +0000</lastBuildDate>
+    <item>
+      <title>小桂桂的回忆录 📒 #5587</title>
+      <link>https://aza.moe/life?post=5587</link>
+      <description>&lt;p&gt;恭喜我们团队又烧了一张 H100...&lt;/p&gt;
+&lt;p&gt;据他们说之前已经烧了两张了，一直不知道为什么。还好我来的时候搭了一个 influxdb，看一下 log 就知道发生什么了，掉线的时候温度居然烧到了 93°C&lt;/p&gt;
+&lt;p&gt;众所周知 H100 的极限温度是 87°C... &lt;i class="custom-emoji" emoji-src="emoji/5327839194758783219.webm"&gt;🔥&lt;/i&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">5587</guid>
+    </item>
     <item>
       <title>小桂桂的回忆录 📒 #5585</title>
       <link>https://aza.moe/life?post=5585</link>
