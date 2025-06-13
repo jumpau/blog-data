@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5327,
+    "views": 5329,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72940,7 +72940,7 @@
     "id": 5280,
     "date": "2025-04-27T10:07:17",
     "text": "整理了一下以前所有的乐谱开源出来了 qwq\n\n一个原因是因为 musescore 平台真的太过分，居然下载其他用户上传的谱子要收钱...\n\n另一个原因是，想要让项目文件不会丢失、让自己以后想得起来放在哪里的最好方法就是传到 GitHub 上，让世界帮我备份 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n<a href=\"https://github.com/hykilpikonna/Music\">GitHub 仓库在这里</a>",
-    "views": 641,
+    "views": 642,
     "forwards": 4,
     "images": [
       {
@@ -76944,7 +76944,7 @@
     "id": 5582,
     "date": "2025-06-10T02:45:54",
     "text": "看看日本家电怎么接地 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<del>插头：竖起中指</del>",
-    "views": 204,
+    "views": 205,
     "forwards": 1,
     "images": [
       {
@@ -76963,7 +76963,7 @@
     "id": 5583,
     "date": "2025-06-10T05:13:54",
     "text": "拿到了驾照！虽然不是新人但是也买了一套新人贴纸\n\n感谢谦谦带我去办转驾照的手续，感觉来日本之后好多事情都在麻烦谦谦 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n原本需要出入境记录证明有在驾照的国家停留超过一年，但是加拿大那边申请出入境记录要超级久，所以用学校在校证明代替了 qwq",
-    "views": 206,
+    "views": 207,
     "forwards": 0,
     "images": [
       {
@@ -76982,7 +76982,7 @@
     "id": 5584,
     "date": "2025-06-10T16:19:19",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n伴随留念和幻想一起崩坏的是歌声和旋律",
-    "views": 202,
+    "views": 203,
     "forwards": 2,
     "files": [
       {
@@ -77004,7 +77004,7 @@
     "id": 5585,
     "date": "2025-06-11T11:58:20",
     "text": "来日本当过期四年的 JK",
-    "views": 210,
+    "views": 212,
     "forwards": 6,
     "media_group_id": 13997144805043293,
     "images": [
@@ -77040,7 +77040,7 @@
     "id": 5587,
     "date": "2025-06-12T02:50:31",
     "text": "恭喜我们团队又烧了一张 H100...\n\n据他们说之前已经烧了两张了，一直不知道为什么。还好我来的时候搭了一个 influxdb，看一下 log 就知道发生什么了，掉线的时候温度居然烧到了 93°C\n\n众所周知 H100 的极限温度是 87°C... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 161,
+    "views": 163,
     "forwards": 5,
     "media_group_id": 13997573055496437,
     "images": [
