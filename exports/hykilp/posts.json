@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2571,
+    "views": 2572,
     "forwards": 29,
     "images": [
       {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5845,
+    "views": 5846,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -76140,7 +76140,7 @@
     "id": 5522,
     "date": "2025-06-01T06:29:12",
     "text": "带着聊聊猫出门了",
-    "views": 296,
+    "views": 298,
     "forwards": 1,
     "images": [
       {
@@ -76963,7 +76963,7 @@
     "id": 5583,
     "date": "2025-06-10T05:13:54",
     "text": "拿到了驾照！虽然不是新人但是也买了一套新人贴纸\n\n感谢谦谦带我去办转驾照的手续，感觉来日本之后好多事情都在麻烦谦谦 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n原本需要出入境记录证明有在驾照的国家停留超过一年，但是加拿大那边申请出入境记录要超级久，所以用学校在校证明代替了 qwq",
-    "views": 205,
+    "views": 206,
     "forwards": 0,
     "images": [
       {
@@ -76982,7 +76982,7 @@
     "id": 5584,
     "date": "2025-06-10T16:19:19",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n伴随留念和幻想一起崩坏的是歌声和旋律",
-    "views": 201,
+    "views": 202,
     "forwards": 2,
     "files": [
       {
@@ -77004,7 +77004,7 @@
     "id": 5585,
     "date": "2025-06-11T11:58:20",
     "text": "来日本当过期四年的 JK",
-    "views": 208,
+    "views": 210,
     "forwards": 6,
     "media_group_id": 13997144805043293,
     "images": [
@@ -77040,7 +77040,7 @@
     "id": 5587,
     "date": "2025-06-12T02:50:31",
     "text": "恭喜我们团队又烧了一张 H100...\n\n据他们说之前已经烧了两张了，一直不知道为什么。还好我来的时候搭了一个 influxdb，看一下 log 就知道发生什么了，掉线的时候温度居然烧到了 93°C\n\n众所周知 H100 的极限温度是 87°C... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 157,
+    "views": 160,
     "forwards": 5,
     "media_group_id": 13997573055496437,
     "images": [
