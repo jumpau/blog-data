@@ -45115,8 +45115,7 @@
         "media_type": "sticker",
         "original_name": "sticker.webm",
         "url": "media/3328.webm",
-        "size": 39480,
-        "thumb": "media/3328.webm_thumb.jpg"
+        "size": 39480
       }
     ]
   },
@@ -73066,7 +73065,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5862,
+    "views": 5863,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -76963,7 +76962,7 @@
     "id": 5583,
     "date": "2025-06-10T05:13:54",
     "text": "拿到了驾照！虽然不是新人但是也买了一套新人贴纸\n\n感谢谦谦带我去办转驾照的手续，感觉来日本之后好多事情都在麻烦谦谦 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n原本需要出入境记录证明有在驾照的国家停留超过一年，但是加拿大那边申请出入境记录要超级久，所以用学校在校证明代替了 qwq",
-    "views": 231,
+    "views": 233,
     "forwards": 0,
     "images": [
       {
@@ -76982,7 +76981,7 @@
     "id": 5584,
     "date": "2025-06-10T16:19:19",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n伴随留念和幻想一起崩坏的是歌声和旋律",
-    "views": 217,
+    "views": 218,
     "forwards": 2,
     "files": [
       {
@@ -77070,7 +77069,7 @@
     "id": 5589,
     "date": "2025-06-13T11:39:02",
     "text": "？不要把奇怪的词连在一起啊喂",
-    "views": 154,
+    "views": 158,
     "forwards": 3,
     "images": [
       {
@@ -77089,7 +77088,7 @@
     "id": 5590,
     "date": "2025-06-13T14:14:51",
     "text": "在旅店，墙上有插着一个看上去是有 A 有 C 的充电头，摸黑插了半天 type-c 线没插进去，开灯之后看了一眼，庆幸还好没插进去 <i class=\"custom-emoji\" emoji-src=\"emoji/5469675116705096106.webp\">😇</i>",
-    "views": 134,
+    "views": 139,
     "forwards": 2,
     "images": [
       {
