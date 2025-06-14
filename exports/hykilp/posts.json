@@ -64474,7 +64474,7 @@
     "id": 4689,
     "date": "2024-11-26T09:13:07",
     "text": "让所有的机器都训练上了模型，终于可以安心睡觉了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445397062445178872.tgs\">😓</i>",
-    "views": 136,
+    "views": 137,
     "forwards": 1,
     "reply": {
       "id": 4283,
@@ -64496,7 +64496,7 @@
   {
     "id": 4690,
     "date": "2024-11-26T16:33:25",
-    "views": 145,
+    "views": 146,
     "forwards": 1,
     "images": [
       {
@@ -64515,7 +64515,7 @@
     "id": 4691,
     "date": "2024-11-27T01:08:16",
     "text": "sus is coming <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 159,
+    "views": 160,
     "forwards": 2,
     "images": [
       {
@@ -64534,21 +64534,21 @@
     "id": 4692,
     "date": "2024-11-27T07:14:59",
     "text": "一直不懂为什么一个电脑插两个鼠标不会出现两个光标 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 感觉是很不合理的设计",
-    "views": 150,
+    "views": 151,
     "forwards": 0
   },
   {
     "id": 4693,
     "date": "2024-11-27T12:51:51",
     "text": "如果你有一个无限的 OpenAI 钱包可以免费调 /v1/completion 的话，你会用它做什么呢？<i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>\n\n<span class=\"spoiler\"><span>如果我说我真的有了类似的东西呢</span></span>",
-    "views": 145,
+    "views": 146,
     "forwards": 1
   },
   {
     "id": 4694,
     "date": "2024-11-28T03:48:29",
     "text": "<a href=\"##TIL\">#TIL</a> ssh 居然可以当作 pipe 使用而且不会有很大的 overhead\n\n可以远程 dd 了，好耶",
-    "views": 145,
+    "views": 146,
     "forwards": 1,
     "images": [
       {
@@ -64567,7 +64567,7 @@
     "id": 4695,
     "date": "2024-11-29T04:41:24",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n\n好浪漫... 高潮段用「ずっど」这两个音拼摩斯电码拼出了一个「I love you」 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n也好聪明，正好是一个长的音节和一个短的音节，听起来完全没有违和\n\n<a href=\"https://www.youtube.com/watch?v=UKZt1vq8bKI\">YouTube MV</a>",
-    "views": 133,
+    "views": 134,
     "forwards": 2,
     "files": [
       {
@@ -64589,7 +64589,7 @@
     "id": 4696,
     "date": "2024-11-29T04:46:22",
     "text": "・ー・ 草",
-    "views": 141,
+    "views": 142,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -64612,13 +64612,13 @@
     "id": 4697,
     "date": "2024-11-29T08:10:21",
     "text": "🟥 HyDEV Whisper (<a href=\"whisper.hydev.org\">whisper.hydev.org</a>) 下线一天\n\n原因是需要拿走 GPU 赶作业 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 145,
+    "views": 146,
     "forwards": 0
   },
   {
     "id": 4698,
     "date": "2024-11-29T22:34:08",
-    "views": 139,
+    "views": 140,
     "forwards": 1,
     "files": [
       {
@@ -64643,7 +64643,7 @@
     "id": 4699,
     "date": "2024-11-30T01:00:08",
     "text": "有时候感觉写 research 用的 python 程序遇到的兼容性问题比给 Minecraft 做模组整合包还多\n\n两个大库时不时就会出现不兼容，然后就要单独分两个环境... 我现在一个项目有三个环境了，不同的脚本分别要在不同环境里面跑... <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 149,
+    "views": 150,
     "forwards": 0
   },
   {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5333,
+    "views": 5335,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5863,
+    "views": 5864,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -76669,7 +76669,7 @@
     "id": 5562,
     "date": "2025-06-07T06:08:29",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nチーズうまトマハンバーグ<del>（写作：番茄汉堡芝士意饭）</del>\n\n吃起来没有听上去那么黑暗料理，可能这里面唯一不喜欢的只有生鸡蛋... 来日本一个月了还是无法适应生鸡蛋",
-    "views": 241,
+    "views": 242,
     "forwards": 0,
     "media_group_id": 13994212076573165,
     "images": [
@@ -76699,7 +76699,7 @@
     "id": 5564,
     "date": "2025-06-07T06:41:11",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n喜欢上这个风格了",
-    "views": 235,
+    "views": 236,
     "forwards": 0,
     "reply": {
       "id": 5516,
@@ -76725,7 +76725,7 @@
     "id": 5565,
     "date": "2025-06-07T11:18:59",
     "text": "没想到 第一次被「日本语上手」是在理发店...\n\n去渋谷的 SOLEIL TOKYO 理了发（因为有非常棒的学生优惠！只花了 ￥3300）虽然学生卡忘在家里了，但是说学生卡放在加拿大了拿出照片萌混过关 <i class=\"custom-emoji\" emoji-src=\"emoji/5114340437808645487.webm\">🙁</i>\n\n剪得很好看！<del>问我想要什么发型的时候给看了一个高松灯 cosplay 照片然后其他的就おまかせ了</del>... 即使这样还能剪出满意的样子 Kana 老师好厉害！\n\n（也很有耐心！看我没听懂的时候换成借来词我就听懂了（<del>什么时候日语变成英语啊</del>",
-    "views": 252,
+    "views": 253,
     "forwards": 0,
     "media_group_id": 13994361119445349,
     "images": [
@@ -76755,7 +76755,7 @@
     "id": 5567,
     "date": "2025-06-08T01:12:33",
     "text": "\"Frequently bought together\" <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n...明明我只是想买一件真的用来游泳的泳衣，然后发现亚马逊上スク水好像都是情趣向 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 272,
+    "views": 273,
     "forwards": 4,
     "images": [
       {
@@ -76775,7 +76775,7 @@
     "id": 5568,
     "date": "2025-06-08T11:35:44",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##NSFW\">#NSFW</a>\n今天去东京 Pride 看演出，Aya Sato 的舞真的超劲爆 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n看了两遍，中午排练的时候看到了然后正式演出又看一遍\n\n（AV1 编码警告，旧设备没法看的话可以去 <a href=\"https://youtu.be/WPW7oAyKpzs\">YouTube</a> / <a href=\"https://pixeldrain.com/u/b6Kg9Nyi\">无压原画</a>",
-    "views": 238,
+    "views": 239,
     "forwards": 1,
     "files": [
       {
@@ -76798,7 +76798,7 @@
     "id": 5569,
     "date": "2025-06-08T14:56:12",
     "text": "这次 Pride 因为猜到会很热所以只穿了内衣，披上 nina 第二次演唱会的「旁若无人」 披风就出门了（<del>旁若无人的目光确实很凉快！</del>\n\n不想带包但是不能不带现金，灵机一动把钱塞卡套里了，脖子上挂着北里柴三郎的头图莫名好笑\n\n在会场转了一圈，去加拿大的亭子里拿了一个旗子还和志愿者搭了话，发现居然是多伦多大校友，是大三的学妹来日本旅游，好巧 <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>\n\n会场上还有很多大公司，发各种彩虹色的广告周边... 其实不是很喜欢这种氛围，明明 LGBT 是一种对社会常规的挑战，但是感觉这些公司却全都做着很刻板的事情。也许只是因为舆论压力、因为「参加 Pride」成为了新的常规才去参加的吧。觉得豆腐说的有道理，如果风向变了最先退出的应该就是这些公司。\n\n以及游行那边好热闹 <i class=\"custom-emoji\" emoji-src=\"emoji/6114058788224895244.webm\">🏃‍♂</i> 去看 Live 之前去朋友在的台湾队凑了凑热闹。集合之后排队排了一个小时才出会场开始游行... 下次就不进去排队直接在街上等了，等开始游行再直接街上汇合",
-    "views": 217,
+    "views": 218,
     "forwards": 1,
     "media_group_id": 13995156582788461,
     "images": [
@@ -77040,7 +77040,7 @@
     "id": 5587,
     "date": "2025-06-12T02:50:31",
     "text": "恭喜我们团队又烧了一张 H100...\n\n据他们说之前已经烧了两张了，一直不知道为什么。还好我来的时候搭了一个 influxdb，看一下 log 就知道发生什么了，掉线的时候温度居然烧到了 93°C\n\n众所周知 H100 的极限温度是 87°C... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 198,
+    "views": 199,
     "forwards": 5,
     "media_group_id": 13997573055496437,
     "images": [
@@ -77070,7 +77070,7 @@
     "id": 5589,
     "date": "2025-06-13T11:39:02",
     "text": "？不要把奇怪的词连在一起啊喂",
-    "views": 161,
+    "views": 166,
     "forwards": 3,
     "images": [
       {
@@ -77089,7 +77089,7 @@
     "id": 5590,
     "date": "2025-06-13T14:14:51",
     "text": "在旅店，墙上有插着一个看上去是有 A 有 C 的充电头，摸黑插了半天 type-c 线没插进去，开灯之后看了一眼，庆幸还好没插进去 <i class=\"custom-emoji\" emoji-src=\"emoji/5469675116705096106.webp\">😇</i>",
-    "views": 143,
+    "views": 148,
     "forwards": 2,
     "images": [
       {
