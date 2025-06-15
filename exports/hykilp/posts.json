@@ -69134,7 +69134,7 @@
     "id": 5006,
     "date": "2025-03-08T18:41:28",
     "text": "把花花种起来了，房间香香的 <i class=\"custom-emoji\" emoji-src=\"emoji/6163291628971758736.webp\">😺</i>\n\n女生节快乐哦",
-    "views": 299,
+    "views": 300,
     "forwards": 0,
     "reply": {
       "id": 5000,
@@ -69158,14 +69158,14 @@
     "id": 5007,
     "date": "2025-03-09T04:25:35",
     "text": "哇啊啊啊 去电影院看了高达 GQuX，感觉找到了 FLCL 的正统续作 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 260,
+    "views": 261,
     "forwards": 0
   },
   {
     "id": 5008,
     "date": "2025-03-09T16:40:06",
     "text": "今天最新最热中二 verse 公开漏了，熬夜给 verse 加了 day 1 支持 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n虽然说其实之前一直都有人有 verse 的私有数据，总是能看到别人发截图，也有人过来让我加 verse 的功能... 但是总感觉作为开放开源服务器，给大家拿不到的版本做支持不太好，所以还是等到所有人都能拿到的时候才做支持啦 qwq",
-    "views": 253,
+    "views": 254,
     "forwards": 0,
     "media_group_id": 13932307255524245,
     "images": [
@@ -69280,7 +69280,7 @@
     "id": 5014,
     "date": "2025-03-12T09:47:28",
     "text": "呜呜呜呜呜呜呜",
-    "views": 296,
+    "views": 297,
     "forwards": 0,
     "media_group_id": 13934182788676973,
     "images": [
@@ -69310,14 +69310,14 @@
     "id": 5017,
     "date": "2025-03-12T12:26:54",
     "text": "今天是植树节，想试试和大家一起种一颗 tgcn 频道树 🌳 qwq\n\n这里是小桂桂的回忆录，是树根哦~\n\n如果你也有公开频道，想成为这个频道的树叶的话，就去给 <a href=\"https://t.me/tgtreebot\">@tgtreebot</a> 发送 <code>/leaf hykilp {你的频道名}</code> 吧！ > < <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fhykilp&rhash=d96b84e483dc30\">‎</a>",
-    "views": 727,
+    "views": 728,
     "forwards": 9
   },
   {
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1198,
+    "views": 1199,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5346,
+    "views": 5348,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73573,7 +73573,7 @@
     "id": 5322,
     "date": "2025-05-07T15:40:02",
     "text": "哇 见到了野生的福瑞！",
-    "views": 407,
+    "views": 408,
     "forwards": 2,
     "media_group_id": 13973059219682877,
     "images": [
@@ -73920,7 +73920,7 @@
     "id": 5348,
     "date": "2025-05-10T12:25:56",
     "text": "好像买 CD 的时候不小心用了加拿大银行给我的超稀有两千元钞",
-    "views": 291,
+    "views": 292,
     "forwards": 7,
     "forwarded_from": {
       "name": "Azalea",
@@ -73954,7 +73954,7 @@
     "id": 5350,
     "date": "2025-05-11T05:13:36",
     "text": "好耶 一天过去我现在已经可以不看地图走到地铁站了！",
-    "views": 275,
+    "views": 276,
     "forwards": 1,
     "reply": {
       "id": 5334
@@ -73964,7 +73964,7 @@
     "id": 5351,
     "date": "2025-05-11T13:57:48",
     "text": "今天下午约天文姐姐和 <a href=\"https://t.me/ArakawaHideki\">@ArakawaHideki</a> 和 <a href=\"https://t.me/petergu8022\">@petergu8022</a> 去逛了秋葉原，那里在举行两年一度的神田祭，超热闹！\n\n还一起逛了电子零件市场，感觉小学的回忆里中关村电子城衰落之前最繁华的时候就是这样的...好怀念。\n\n也理解了动画里那些天才工程师小孩子都不是夸大，有这些店在这里的话确实能很方便搓出想要的东西。比如如果我想买微动做街机手台的话，比起淘宝下单等三天送到再退，直接来店里摸实物确认手感真的方便太多太多\n\n然后看到了超大 fufu 合了影，进去买了一只 mafufu（面无表情的表情超可爱！！！\n\n晚上约了谦谦和 <a href=\"https://t.me/MizukiAmakawa\">@MizukiAmakawa</a> 和 <a href=\"https://t.me/Dimensionlez\">@Dimensionlez</a> 也一起过来吃自助烧鸟，听他们六个人聊了一晚上学术和工作的事情感觉日本好可怕 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n（与此同时有一只完熟芒果因为不自量力地喝了鸡尾酒头晕去旁边躺躺了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> <span class=\"spoiler\"><span>小桂桂只有面 <3 个人的时候不会变成完熟芒果</span></span>",
-    "views": 293,
+    "views": 294,
     "forwards": 16,
     "media_group_id": 13975774948467493,
     "images": [
@@ -74074,7 +74074,7 @@
     "id": 5361,
     "date": "2025-05-12T10:29:34",
     "text": "来日本的前一天还在担心觉得自己会孤单没有朋友，结果没过一周就认识了好多朋友！从完熟芒果箱中毕业了",
-    "views": 284,
+    "views": 285,
     "forwards": 2,
     "reply": {
       "id": 5351,
@@ -74086,13 +74086,13 @@
     "id": 5362,
     "date": "2025-05-12T10:44:01",
     "text": "呜呜 实习第一天就被灵车创了\n\n拿到公司电脑 setup 好之后，想要像自己的电脑一样用 yubikey 解锁，安装了 yubikey login 软件，安装完重启之后登录不进去了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n进安全模式或者重置都需要 bitlocker 恢复码，获得恢复码需要在另一个设备上登录，但是公司的 AD 设置不让在个人设备上登录...\n\n和 IT 说了，IT 说也不知道怎么找 bitlocker 恢复码需要 escalate... 寄 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 274,
+    "views": 275,
     "forwards": 0
   },
   {
     "id": 5363,
     "date": "2025-05-12T11:37:58",
-    "views": 285,
+    "views": 286,
     "forwards": 1,
     "images": [
       {
@@ -76457,7 +76457,7 @@
     "id": 5547,
     "date": "2025-06-03T16:25:42",
     "text": "<a href=\"https://zh.m.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6\">无事发生日</a>快乐\n\n发现把社交上的生日设在历史上的今天确实起到了提醒大家不忘记这一天的效果",
-    "views": 266,
+    "views": 267,
     "forwards": 1,
     "images": [
       {
@@ -76476,7 +76476,7 @@
     "id": 5548,
     "date": "2025-06-04T16:56:42",
     "text": "终末列车坐过站，走了半小时回到家了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n不过路上风景也不错，还见到了设计感报表超炫酷的高輪网关车站，也许也是一种幸运吧 qwq",
-    "views": 235,
+    "views": 236,
     "forwards": 0,
     "media_group_id": 13992449623337293,
     "images": [
@@ -76530,7 +76530,7 @@
     "id": 5553,
     "date": "2025-06-05T07:12:17",
     "text": "在东京快一个月了，做了一个「东京迷子宾果」\n\n哪些是亲身经历、哪些是都市传说，就由你来判断吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5442664243474211327.tgs\">👀</i>",
-    "views": 262,
+    "views": 263,
     "forwards": 4,
     "images": [
       {
@@ -76549,7 +76549,7 @@
     "id": 5554,
     "date": "2025-06-05T13:58:32",
     "text": "一些最近漏掉的照片\n\n1. 和谦谦在池袋散步，看到了另一栋楼和天空融在一起\n2. 天川家旁边的天空\n3. 去登山的另外四个人的即兴表情包合影\n4. 和谦谦开车去河边散步的夜景",
-    "views": 229,
+    "views": 230,
     "forwards": 1,
     "media_group_id": 13993055297378557,
     "images": [
@@ -76599,14 +76599,14 @@
     "id": 5558,
     "date": "2025-06-06T06:22:21",
     "text": "太尴尬了\n\n：我找到了这篇相关的文献，但是我不太相信它能用\n这时候群里另一位正式员工突然出来\n：啊这篇是我写的 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 224,
+    "views": 225,
     "forwards": 0
   },
   {
     "id": 5559,
     "date": "2025-06-06T06:57:49",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n好梦幻的声音，感觉被 ASMR 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n♪ If our story finds an end tonight\n♪ Will you be by my side\n♪ Oh till we say goodbye\n♪ Or should I say good night?",
-    "views": 228,
+    "views": 229,
     "forwards": 0,
     "files": [
       {
@@ -76628,7 +76628,7 @@
     "id": 5560,
     "date": "2025-06-06T11:12:01",
     "text": "不登校\n\n<span class=\"spoiler\"><span>（因为毕业了 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</span></span></i>",
-    "views": 236,
+    "views": 237,
     "forwards": 1,
     "images": [
       {
@@ -76647,7 +76647,7 @@
     "id": 5561,
     "date": "2025-06-06T17:08:48",
     "text": "草 等等 突然发现\n\n要楽奈（mygo 猫猫的名字）是不是也可以读成「いらない」<i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n...还真能用输入法打出来哇\n\n<del>可能猫猫确实什么都いらない</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 240,
+    "views": 241,
     "forwards": 0,
     "files": [
       {
@@ -76868,7 +76868,7 @@
     "id": 5576,
     "date": "2025-06-09T02:38:34",
     "text": "谷歌地图真厉害，在这个机动车都走不过去的地方让我自行车直接横穿... 还好我用了一些 common sense 看懂了地形没有这样走\n\n<a href=\"https://maps.app.goo.gl/48rCMHf99ue8eL3P7\">街景</a>",
-    "views": 231,
+    "views": 232,
     "forwards": 1,
     "media_group_id": 13995493715783581,
     "images": [
@@ -76918,14 +76918,14 @@
     "id": 5580,
     "date": "2025-06-09T15:15:35",
     "text": "没有洗碗机了需要手洗碗才发现，吃完咖喱不马上洗碗的话，咖喱干了就好难洗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 237,
+    "views": 238,
     "forwards": 0
   },
   {
     "id": 5581,
     "date": "2025-06-09T15:29:26",
     "text": "<del>真是非常不方便啊</del>",
-    "views": 228,
+    "views": 229,
     "forwards": 0,
     "images": [
       {
@@ -76944,7 +76944,7 @@
     "id": 5582,
     "date": "2025-06-10T02:45:54",
     "text": "看看日本家电怎么接地 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<del>插头：竖起中指</del>",
-    "views": 231,
+    "views": 232,
     "forwards": 1,
     "images": [
       {
@@ -76963,7 +76963,7 @@
     "id": 5583,
     "date": "2025-06-10T05:13:54",
     "text": "拿到了驾照！虽然不是新人但是也买了一套新人贴纸\n\n感谢谦谦带我去办转驾照的手续，感觉来日本之后好多事情都在麻烦谦谦 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n原本需要出入境记录证明有在驾照的国家停留超过一年，但是加拿大那边申请出入境记录要超级久，所以用学校在校证明代替了 qwq",
-    "views": 246,
+    "views": 247,
     "forwards": 0,
     "images": [
       {
@@ -76982,7 +76982,7 @@
     "id": 5584,
     "date": "2025-06-10T16:19:19",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n伴随留念和幻想一起崩坏的是歌声和旋律",
-    "views": 235,
+    "views": 236,
     "forwards": 2,
     "files": [
       {
@@ -77004,7 +77004,7 @@
     "id": 5585,
     "date": "2025-06-11T11:58:20",
     "text": "来日本当过期四年的 JK",
-    "views": 243,
+    "views": 244,
     "forwards": 7,
     "media_group_id": 13997144805043293,
     "images": [
@@ -77040,7 +77040,7 @@
     "id": 5587,
     "date": "2025-06-12T02:50:31",
     "text": "恭喜我们团队又烧了一张 H100...\n\n据他们说之前已经烧了两张了，一直不知道为什么。还好我来的时候搭了一个 influxdb，看一下 log 就知道发生什么了，掉线的时候温度居然烧到了 93°C\n\n众所周知 H100 的极限温度是 87°C... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 212,
+    "views": 213,
     "forwards": 5,
     "media_group_id": 13997573055496437,
     "images": [
@@ -77070,7 +77070,7 @@
     "id": 5589,
     "date": "2025-06-13T11:39:02",
     "text": "？不要把奇怪的词连在一起啊喂",
-    "views": 198,
+    "views": 199,
     "forwards": 3,
     "images": [
       {
@@ -77089,7 +77089,7 @@
     "id": 5590,
     "date": "2025-06-13T14:14:51",
     "text": "在旅店，墙上有插着一个看上去是有 A 有 C 的充电头，摸黑插了半天 type-c 线没插进去，开灯之后看了一眼，庆幸还好没插进去 <i class=\"custom-emoji\" emoji-src=\"emoji/5469675116705096106.webp\">😇</i>",
-    "views": 187,
+    "views": 188,
     "forwards": 2,
     "images": [
       {
@@ -77107,7 +77107,7 @@
   {
     "id": 5591,
     "date": "2025-06-14T11:14:21",
-    "views": 151,
+    "views": 152,
     "forwards": 0,
     "files": [
       {
@@ -77129,7 +77129,7 @@
     "id": 5592,
     "date": "2025-06-14T12:30:05",
     "text": "和海边的猫猫聊天\n\n第一次用喵喵语和本地母语猫聊天，虽然我有很重的地球人口音，但是对方居然听懂了耶！开心，我喵喵语本当上手 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（AV1 编码警告，旧设备没法看的话可以去 <a href=\"https://youtu.be/ZSFM4JiXlM4\">YouTube</a> / <a href=\"https://pixeldrain.com/u/hDCWSXDV\">无压原画</a>",
-    "views": 149,
+    "views": 150,
     "forwards": 2,
     "files": [
       {
@@ -77152,7 +77152,7 @@
     "id": 5593,
     "date": "2025-06-14T14:23:34",
     "text": "在冲绳！",
-    "views": 128,
+    "views": 129,
     "forwards": 3,
     "media_group_id": 13999288118518437,
     "images": [
