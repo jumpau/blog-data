@@ -55643,7 +55643,7 @@
     "id": 4080,
     "date": "2024-06-30T18:14:45",
     "text": "咦？",
-    "views": 124,
+    "views": 125,
     "forwards": 0,
     "media_group_id": 13758170287463165,
     "images": [
@@ -55721,7 +55721,7 @@
     "id": 4085,
     "date": "2024-07-01T16:33:25",
     "text": "湿度 100% <i class=\"custom-emoji\" emoji-src=\"emoji/6323168646944261206.webp\">🐈</i>\n\n<span class=\"spoiler\"><span>我在空气中游泳</span></span>\n\n在外面走着走着衣服湿了，不是因为热出汗，纯粹只是飘游的的水气贴在衣服上凝缩回水了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 124,
+    "views": 125,
     "forwards": 0,
     "media_group_id": 13758812847491621,
     "images": [
@@ -55807,7 +55807,7 @@
     "id": 4091,
     "date": "2024-07-02T19:32:08",
     "text": "刚才在想日语的事情，然后想要喝水，边起身边想着: みず（mizu，水）... mizuki? みずき... 水木？mizuki 确实也可以写作水木诶，不过这个名字怎么这么眼熟？从哪里来的来着？查查好了\n\n然后发现是小时候父亲电脑上经常打开的水木清华 bbs <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>\n\n脑回路乱弹",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "forwarded_from": {
       "name": "废纸篓"
@@ -55829,7 +55829,7 @@
     "id": 4092,
     "date": "2024-07-03T11:22:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\nJust be friends <i class=\"custom-emoji\" emoji-src=\"emoji/6323595626823025961.webp\">🥰</i>",
-    "views": 129,
+    "views": 130,
     "forwards": 1,
     "files": [
       {
@@ -55851,7 +55851,7 @@
     "id": 4093,
     "date": "2024-07-04T09:37:13",
     "text": "因为市场上买不到正品 PL2303 串口板就自己画了一个买元件自己焊了\n\n第一次焊 0805 贴片大小的元件，不过焊几个就熟练了，感谢群友 yangff 超耐心教教 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 124,
+    "views": 125,
     "forwards": 0,
     "media_group_id": 13760686667457349,
     "images": [
@@ -55918,7 +55918,7 @@
     "id": 4099,
     "date": "2024-07-05T15:48:35",
     "text": "拍到了睡着的蝴蝶 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "media_group_id": 13761556124439541,
     "images": [
@@ -55958,7 +55958,7 @@
     "id": 4102,
     "date": "2024-07-05T17:24:36",
     "text": "折千纸鹤",
-    "views": 122,
+    "views": 123,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -55981,7 +55981,7 @@
     "id": 4103,
     "date": "2024-07-06T19:20:37",
     "text": "发一些最近可能有趣的照片",
-    "views": 108,
+    "views": 109,
     "forwards": 1,
     "media_group_id": 13762349096239221,
     "images": [
@@ -67971,7 +67971,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1272,
+    "views": 1273,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5343,
+    "views": 5346,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1744,
+    "views": 1745,
     "forwards": 51
   },
   {
@@ -75737,7 +75737,7 @@
     "id": 5493,
     "date": "2025-05-28T03:20:38",
     "text": "ヤマト快递这个图标真的是生动形象了，大猫猫叼着小猫猫\n\n（虽然有希望它画得更可爱一点",
-    "views": 282,
+    "views": 283,
     "forwards": 4,
     "images": [
       {
@@ -75755,7 +75755,7 @@
   {
     "id": 5494,
     "date": "2025-05-28T03:21:50",
-    "views": 289,
+    "views": 290,
     "forwards": 4,
     "files": [
       {
@@ -76725,7 +76725,7 @@
     "id": 5565,
     "date": "2025-06-07T11:18:59",
     "text": "没想到 第一次被「日本语上手」是在理发店...\n\n去渋谷的 SOLEIL TOKYO 理了发（因为有非常棒的学生优惠！只花了 ￥3300）虽然学生卡忘在家里了，但是说学生卡放在加拿大了拿出照片萌混过关 <i class=\"custom-emoji\" emoji-src=\"emoji/5114340437808645487.webm\">🙁</i>\n\n剪得很好看！<del>问我想要什么发型的时候给看了一个高松灯 cosplay 照片然后其他的就おまかせ了</del>... 即使这样还能剪出满意的样子 Kana 老师好厉害！\n\n（也很有耐心！看我没听懂的时候换成借来词我就听懂了（<del>什么时候日语变成英语啊</del>",
-    "views": 260,
+    "views": 261,
     "forwards": 0,
     "media_group_id": 13994361119445349,
     "images": [
@@ -76755,7 +76755,7 @@
     "id": 5567,
     "date": "2025-06-08T01:12:33",
     "text": "\"Frequently bought together\" <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n...明明我只是想买一件真的用来游泳的泳衣，然后发现亚马逊上スク水好像都是情趣向 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 280,
+    "views": 281,
     "forwards": 4,
     "images": [
       {
@@ -77107,7 +77107,7 @@
   {
     "id": 5591,
     "date": "2025-06-14T11:14:21",
-    "views": 150,
+    "views": 151,
     "forwards": 0,
     "files": [
       {
@@ -77129,7 +77129,7 @@
     "id": 5592,
     "date": "2025-06-14T12:30:05",
     "text": "和海边的猫猫聊天\n\n第一次用喵喵语和本地母语猫聊天，虽然我有很重的地球人口音，但是对方居然听懂了耶！开心，我喵喵语本当上手 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（AV1 编码警告，旧设备没法看的话可以去 <a href=\"https://youtu.be/ZSFM4JiXlM4\">YouTube</a> / <a href=\"https://pixeldrain.com/u/hDCWSXDV\">无压原画</a>",
-    "views": 148,
+    "views": 149,
     "forwards": 2,
     "files": [
       {
@@ -77152,7 +77152,7 @@
     "id": 5593,
     "date": "2025-06-14T14:23:34",
     "text": "在冲绳！",
-    "views": 126,
+    "views": 128,
     "forwards": 3,
     "media_group_id": 13999288118518437,
     "images": [
