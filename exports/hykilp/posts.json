@@ -71336,7 +71336,7 @@
     "id": 5161,
     "date": "2025-04-07T19:12:40",
     "text": "笑死 昨天离开公园的时候看旁边阿姨把饮料放在车顶上忘记拿下来就开走了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> 不太聪明喵",
-    "views": 220,
+    "views": 221,
     "forwards": 0,
     "media_group_id": 13952425286038053,
     "images": [
@@ -71366,21 +71366,21 @@
     "id": 5163,
     "date": "2025-04-08T04:43:46",
     "text": "说起来 这次一起旅行的人都看了少女乐队，所以开车的时候就放少女乐队吧，然后差不多把大家看过的所有都放了一遍：MyGO, Crychic, Ave Mujica, トゲトゲ, 結束バンド, K-On, μ's（草\n\n...虽然都是少女乐队但是曲风都好不一样！感觉我最喜欢的还是 K-On",
-    "views": 214,
+    "views": 215,
     "forwards": 1
   },
   {
     "id": 5164,
     "date": "2025-04-08T09:43:40",
     "text": "<a href=\"##TIL\">#TIL</a> 本地跑了一些 txt2img 模型才发现，原来 flux1 和刚公开的 hidream i1 画不出 explicit nsfw 不是因为在线平台生成后有过滤，而是训练集里就没有... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 没见过就画不出来，<span class=\"spoiler\"><span>就像 virgin 画师画不好相反性别的○○一样</span></span>",
-    "views": 216,
+    "views": 217,
     "forwards": 0
   },
   {
     "id": 5165,
     "date": "2025-04-08T16:39:49",
     "text": "<a href=\"##AIGC\">#AIGC</a> 昨天在机器上部署了一个 SwarmUI 玩，用 plant milk 画了两张分别是「聊聊抱桂桂猫」和「桂桂抱聊聊猫」，效果好棒！\n\n然后互相设成了锁屏壁纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 205,
+    "views": 206,
     "forwards": 3,
     "media_group_id": 13953043115908261,
     "images": [
@@ -71420,7 +71420,7 @@
     "id": 5168,
     "date": "2025-04-09T00:50:00",
     "text": "图像生成榜上又有新的很不错的开源模型 HiDream I1 了，不过这个模型居然比 Flux1 还重，40GB 显存都跑不起来...\n\n花了一天用了各种办法终于让它能只用 16GB 显存跑起来了！然后打包了一下发到了 pypi 上可以直接 pip 安装了 qwq\n\n（具体是用了 bnb nf4 量化，之后开 sequential offloading 让它在不用的时候把权重切回 cpu，然后文字理解部分它原本用了 llama 3.1 8b 我换成了 gptq 4bit 版本并且用 device map 让其中不需要在显卡上的部分卸载到 cpu 了）\n\n仓库在这里: <a href=\"https://github.com/hykilpikonna/HiDream-I1-nf4\">https://github.com/hykilpikonna/HiDream-I1-nf4</a>",
-    "views": 216,
+    "views": 217,
     "forwards": 2,
     "media_group_id": 13953278404348069,
     "images": [
@@ -77070,7 +77070,7 @@
     "id": 5589,
     "date": "2025-06-13T11:39:02",
     "text": "？不要把奇怪的词连在一起啊喂",
-    "views": 199,
+    "views": 200,
     "forwards": 3,
     "images": [
       {
@@ -77152,7 +77152,7 @@
     "id": 5593,
     "date": "2025-06-14T14:23:34",
     "text": "在冲绳！",
-    "views": 132,
+    "views": 133,
     "forwards": 3,
     "media_group_id": 13999288118518437,
     "images": [
