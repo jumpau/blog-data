@@ -61593,7 +61593,7 @@
     "id": 4495,
     "date": "2024-10-02T05:14:24",
     "text": "今天计网课上讲了 BGP (边界网关协议)，感觉学到了很不得了的东西 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n在层级网络的最顶端，运营商和国家级别的自治系统「AS」之间，也和我们自己家里的路由器交换机一样用了平等的分布式共识机制，互相通过 BGP 按照复杂的规则交换路径表，花上几个小时来聚合到共识的最短路径\n\n但是和路由器交换机不同的是，它非常的不自动，反而每个 AS 都会专门雇人配置很复杂的 BGP 规则，为什么这样呢？并不是因为技术上不能，而是因为人类的不完美... 在这个网络上的，有时候互相是竞争对手，有时候是客户和供应者，有时候是国家，有时候是国家立场的黑客...\n\n每个 AS 都在白嫖和被白嫖、信任和谎言之间微调规则，真的是一种好不完美的美 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 153,
+    "views": 154,
     "forwards": 0,
     "images": [
       {
@@ -61760,7 +61760,7 @@
     "id": 4505,
     "date": "2024-10-03T15:33:18",
     "text": "四个 A4500 好耶 qwq\n\n原来 UofT 有这么好的计算资源，我在这里四年了居然直到昨天才知道这个 GPU 集群存在...",
-    "views": 148,
+    "views": 149,
     "forwards": 1,
     "images": [
       {
@@ -61779,7 +61779,7 @@
     "id": 4506,
     "date": "2024-10-04T21:41:52",
     "text": "不是很懂安卓模拟器的生态...\n\n想在模拟器上跑 pjsk，但是 pjsk 预构建只有 arm64 v8a 架构，但是基本上所有安卓模拟器都是 x86_64 架构... 试了谷歌自家的 Google Play Games beta 模拟器和 WSA 报错架构不匹配，试了 Genymotion 也只能模拟 arm32 不能模拟 arm64，又试了 AVD 虽然可以装但是似乎检测到了模拟器就自己退出了\n\n有点想试试闭源大头比如 BlueStack 或者 GameLoop，但是因为洁癖问题特别不想装这些，感觉装上会把整个系统弄脏... 算了还是放下洁癖试试好了，查了查似乎 LDPlayer 没有那么多负面评价，试试发现居然可以用 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n明明也是 x86_64 架构，却能同时兼容 arm32, arm64... 这是怎么做到的？奇妙",
-    "views": 148,
+    "views": 149,
     "forwards": 0,
     "media_group_id": 13824624901279685,
     "images": [
@@ -61930,7 +61930,7 @@
     "id": 4515,
     "date": "2024-10-08T01:32:20",
     "text": "♫ I'm a shooting star, leaping through the sky like a tiger ♫\n♫ Defying the laws of gravity ♫\n♫ I'm a racing car, passing by like Lady Godiva ♫\n♫ I'm gonna go, go, go, there's no stopping me ♫",
-    "views": 140,
+    "views": 141,
     "forwards": 0,
     "images": [
       {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5876,
+    "views": 5877,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -75243,7 +75243,7 @@
     "id": 5453,
     "date": "2025-05-23T02:14:49",
     "text": "哇 居然已经 30 年了，Java 生日快乐！\n\n<del>感觉 JVM 生态能活到现在完全是靠 Minecraft 和安卓这两个社区...</del>",
-    "views": 447,
+    "views": 448,
     "forwards": 11,
     "images": [
       {
@@ -77040,7 +77040,7 @@
     "id": 5587,
     "date": "2025-06-12T02:50:31",
     "text": "恭喜我们团队又烧了一张 H100...\n\n据他们说之前已经烧了两张了，一直不知道为什么。还好我来的时候搭了一个 influxdb，看一下 log 就知道发生什么了，掉线的时候温度居然烧到了 93°C\n\n众所周知 H100 的极限温度是 87°C... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 217,
+    "views": 218,
     "forwards": 5,
     "media_group_id": 13997573055496437,
     "images": [
