@@ -567,7 +567,7 @@
     "id": 50,
     "date": "2021-09-16T00:03:12",
     "text": "仍然在工作的三个电话亭w",
-    "views": 61,
+    "views": 62,
     "forwards": 0,
     "reply": {
       "id": 38
@@ -69310,7 +69310,7 @@
     "id": 5017,
     "date": "2025-03-12T12:26:54",
     "text": "今天是植树节，想试试和大家一起种一颗 tgcn 频道树 🌳 qwq\n\n这里是小桂桂的回忆录，是树根哦~\n\n如果你也有公开频道，想成为这个频道的树叶的话，就去给 <a href=\"https://t.me/tgtreebot\">@tgtreebot</a> 发送 <code>/leaf hykilp {你的频道名}</code> 吧！ > < <a href=\"https://t.me/iv?url=https%3A%2F%2Ftree.aza.moe%2Fc%2Fhykilp&rhash=d96b84e483dc30\">‎</a>",
-    "views": 728,
+    "views": 729,
     "forwards": 9
   },
   {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5360,
+    "views": 5361,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72910,7 +72910,7 @@
     "id": 5278,
     "date": "2025-04-26T16:48:46",
     "text": "溯源一下发现这个漏洞是在 clash-verge-service 代码中出现的，从那个删库的原作者 zzzgydi 2022 年的<a href=\"https://github.com/zzzgydi/clash-verge-service/blob/42b42d47c82469f1a5d37c463dd89aaf41ac911c/src/service/web.rs#L58\">第一个提交</a>开始到现在都一直存在...",
-    "views": 1098,
+    "views": 1099,
     "forwards": 11,
     "reply": {
       "id": 5277,
@@ -76669,7 +76669,7 @@
     "id": 5562,
     "date": "2025-06-07T06:08:29",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nチーズうまトマハンバーグ<del>（写作：番茄汉堡芝士意饭）</del>\n\n吃起来没有听上去那么黑暗料理，可能这里面唯一不喜欢的只有生鸡蛋... 来日本一个月了还是无法适应生鸡蛋",
-    "views": 248,
+    "views": 249,
     "forwards": 0,
     "media_group_id": 13994212076573165,
     "images": [
@@ -76798,7 +76798,7 @@
     "id": 5569,
     "date": "2025-06-08T14:56:12",
     "text": "这次 Pride 因为猜到会很热所以只穿了内衣，披上 nina 第二次演唱会的「旁若无人」 披风就出门了（<del>旁若无人的目光确实很凉快！</del>\n\n不想带包但是不能不带现金，灵机一动把钱塞卡套里了，脖子上挂着北里柴三郎的头图莫名好笑\n\n在会场转了一圈，去加拿大的亭子里拿了一个旗子还和志愿者搭了话，发现居然是多伦多大校友，是大三的学妹来日本旅游，好巧 <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>\n\n会场上还有很多大公司，发各种彩虹色的广告周边... 其实不是很喜欢这种氛围，明明 LGBT 是一种对社会常规的挑战，但是感觉这些公司却全都做着很刻板的事情。也许只是因为舆论压力、因为「参加 Pride」成为了新的常规才去参加的吧。觉得豆腐说的有道理，如果风向变了最先退出的应该就是这些公司。\n\n以及游行那边好热闹 <i class=\"custom-emoji\" emoji-src=\"emoji/6114058788224895244.webm\">🏃‍♂</i> 去看 Live 之前去朋友在的台湾队凑了凑热闹。集合之后排队排了一个小时才出会场开始游行... 下次就不进去排队直接在街上等了，等开始游行再直接街上汇合",
-    "views": 226,
+    "views": 227,
     "forwards": 1,
     "media_group_id": 13995156582788461,
     "images": [
@@ -76868,7 +76868,7 @@
     "id": 5576,
     "date": "2025-06-09T02:38:34",
     "text": "谷歌地图真厉害，在这个机动车都走不过去的地方让我自行车直接横穿... 还好我用了一些 common sense 看懂了地形没有这样走\n\n<a href=\"https://maps.app.goo.gl/48rCMHf99ue8eL3P7\">街景</a>",
-    "views": 236,
+    "views": 238,
     "forwards": 1,
     "media_group_id": 13995493715783581,
     "images": [
@@ -76918,14 +76918,14 @@
     "id": 5580,
     "date": "2025-06-09T15:15:35",
     "text": "没有洗碗机了需要手洗碗才发现，吃完咖喱不马上洗碗的话，咖喱干了就好难洗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 246,
+    "views": 249,
     "forwards": 0
   },
   {
     "id": 5581,
     "date": "2025-06-09T15:29:26",
     "text": "<del>真是非常不方便啊</del>",
-    "views": 236,
+    "views": 239,
     "forwards": 0,
     "images": [
       {
@@ -76944,7 +76944,7 @@
     "id": 5582,
     "date": "2025-06-10T02:45:54",
     "text": "看看日本家电怎么接地 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<del>插头：竖起中指</del>",
-    "views": 235,
+    "views": 239,
     "forwards": 1,
     "images": [
       {
@@ -76963,7 +76963,7 @@
     "id": 5583,
     "date": "2025-06-10T05:13:54",
     "text": "拿到了驾照！虽然不是新人但是也买了一套新人贴纸\n\n感谢谦谦带我去办转驾照的手续，感觉来日本之后好多事情都在麻烦谦谦 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n原本需要出入境记录证明有在驾照的国家停留超过一年，但是加拿大那边申请出入境记录要超级久，所以用学校在校证明代替了 qwq",
-    "views": 255,
+    "views": 256,
     "forwards": 0,
     "images": [
       {
@@ -76982,7 +76982,7 @@
     "id": 5584,
     "date": "2025-06-10T16:19:19",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n伴随留念和幻想一起崩坏的是歌声和旋律",
-    "views": 244,
+    "views": 245,
     "forwards": 2,
     "files": [
       {
@@ -77004,7 +77004,7 @@
     "id": 5585,
     "date": "2025-06-11T11:58:20",
     "text": "来日本当过期四年的 JK",
-    "views": 253,
+    "views": 255,
     "forwards": 7,
     "media_group_id": 13997144805043293,
     "images": [
@@ -77040,7 +77040,7 @@
     "id": 5587,
     "date": "2025-06-12T02:50:31",
     "text": "恭喜我们团队又烧了一张 H100...\n\n据他们说之前已经烧了两张了，一直不知道为什么。还好我来的时候搭了一个 influxdb，看一下 log 就知道发生什么了，掉线的时候温度居然烧到了 93°C\n\n众所周知 H100 的极限温度是 87°C... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 249,
+    "views": 257,
     "forwards": 5,
     "media_group_id": 13997573055496437,
     "images": [
@@ -77070,7 +77070,7 @@
     "id": 5589,
     "date": "2025-06-13T11:39:02",
     "text": "？不要把奇怪的词连在一起啊喂",
-    "views": 215,
+    "views": 218,
     "forwards": 3,
     "images": [
       {
@@ -77089,7 +77089,7 @@
     "id": 5590,
     "date": "2025-06-13T14:14:51",
     "text": "在旅店，墙上有插着一个看上去是有 A 有 C 的充电头，摸黑插了半天 type-c 线没插进去，开灯之后看了一眼，庆幸还好没插进去 <i class=\"custom-emoji\" emoji-src=\"emoji/5469675116705096106.webp\">😇</i>",
-    "views": 207,
+    "views": 211,
     "forwards": 2,
     "images": [
       {
@@ -77107,7 +77107,7 @@
   {
     "id": 5591,
     "date": "2025-06-14T11:14:21",
-    "views": 174,
+    "views": 177,
     "forwards": 0,
     "files": [
       {
@@ -77129,7 +77129,7 @@
     "id": 5592,
     "date": "2025-06-14T12:30:05",
     "text": "和海边的猫猫聊天\n\n第一次用喵喵语和本地母语猫聊天，虽然我有很重的地球人口音，但是对方居然听懂了耶！开心，我喵喵语本当上手 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（AV1 编码警告，旧设备没法看的话可以去 <a href=\"https://youtu.be/ZSFM4JiXlM4\">YouTube</a> / <a href=\"https://pixeldrain.com/u/hDCWSXDV\">无压原画</a>",
-    "views": 180,
+    "views": 185,
     "forwards": 2,
     "files": [
       {
@@ -77152,7 +77152,7 @@
     "id": 5593,
     "date": "2025-06-14T14:23:34",
     "text": "在冲绳！",
-    "views": 171,
+    "views": 177,
     "forwards": 3,
     "media_group_id": 13999288118518437,
     "images": [
@@ -77232,8 +77232,8 @@
     "id": 5600,
     "date": "2025-06-16T16:36:07",
     "text": "我下海了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（物理）\n我晒伤了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>\n\n虽然抹了防晒但是是外面穿着 T 恤的时候，所以 T 恤盖住但是泳衣没盖住的地方就晒黑了... 不太聪明喵。\n\n不过大海好棒！躺在沙滩旁边的水里，感受温和的海浪打到身上好舒服。不过也不小心喝到了盐... <del>大海是不是某种星球规模的咸口海鲜汤</del>",
-    "views": 112,
-    "forwards": 0,
+    "views": 139,
+    "forwards": 1,
     "media_group_id": 14000734141051621,
     "images": [
       {
@@ -77308,5 +77308,12 @@
         "thumb": "media/5606.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 5607,
+    "date": "2025-06-17T02:09:54",
+    "text": "需要整理出前几天旅行的照片补上旅行日记，想法和感受之类的记录下来才能不忘记... 不过我累累还要工作，不知道什么时候能整理完 <i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>",
+    "views": 50,
+    "forwards": 0
   }
 ]
