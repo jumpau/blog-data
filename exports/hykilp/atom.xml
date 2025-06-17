@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-06-17T14:13:12.324690+00:00</updated>
+  <updated>2025-06-17T16:14:26.837719+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5608</id>
+    <title>小桂桂的回忆录 📒 #5608</title>
+    <updated>2025-06-17T15:52:18+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##冲绳"&gt;#冲绳&lt;/a&gt;
+首先去了琉球グラス村，是去过的第三个玻璃艺术馆了，前两个是西雅图的 Chihuly 和上海的玻璃博物馆。感觉这三个地方画风都很不一样。琉球这里感觉更商业化一些——Chihuly 是个人作品的花园、上海的是博物馆的话，这里就是手作工坊吧。&lt;/p&gt;
+&lt;p&gt;老师傅很多很棒的作品摆在店里，即是展品又是有钱人真的可以买走的商品，旁边还能看到他们在熔炉前面手工制作玻璃的完整过程，看起来好有意思我也好想试试 &lt;i class="custom-emoji" emoji-src="emoji/6170139473288890346.webm"&gt;🤩&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5608" rel="alternate"/>
+  </entry>
   <entry>
     <id>5607</id>
     <title>小桂桂的回忆录 📒 #5607</title>
