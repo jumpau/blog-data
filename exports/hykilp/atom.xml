@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-06-18T08:15:23.896035+00:00</updated>
+  <updated>2025-06-18T10:15:41.580541+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5626</id>
+    <title>小桂桂的回忆录 📒 #5626</title>
+    <updated>2025-06-18T09:11:04+00:00</updated>
+    <content>&lt;p&gt;&lt;i class="custom-emoji" emoji-src="emoji/5406709143799085132.webp"&gt;🌸&lt;/i&gt;🙅‍♀️&lt;/p&gt;
+&lt;p&gt;&lt;span class="spoiler"&gt;&lt;span&gt;好吧众所周知切手（きって）是邮票&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5626" rel="alternate"/>
+  </entry>
   <entry>
     <id>5619</id>
     <title>小桂桂的回忆录 📒 #5619</title>
