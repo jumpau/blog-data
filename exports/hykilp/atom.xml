@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-06-18T12:12:39.716509+00:00</updated>
+  <updated>2025-06-18T14:14:22.146044+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5632</id>
+    <title>小桂桂的回忆录 📒 #5632</title>
+    <updated>2025-06-18T12:16:19+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##冲绳"&gt;#冲绳&lt;/a&gt;
+第五站是水族馆，和东京池袋的 sunshine 水族馆相比的话，感觉这边更严肃？太注重科学反而没有艺术的空间了&lt;/p&gt;
+&lt;p&gt;这边确实有更多物种、更多科普和最新最热的研究成果，比如给鲨鲨的人工子宫（&lt;del&gt;什么时候能给人类实装啊&lt;/del&gt;）但是展示的鱼缸布局都比较死板比较公式化... sunshine 那边有很多这里没有的会让我第一眼就觉得「哇 好漂亮」的展示，比如那个用海月水母摆出来的像星空一样的全视野大屏幕「海月空感」、还有飞在天上的企鹅&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5632" rel="alternate"/>
+  </entry>
   <entry>
     <id>5628</id>
     <title>小桂桂的回忆录 📒 #5628</title>
