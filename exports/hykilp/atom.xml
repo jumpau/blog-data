@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-06-18T16:13:04.836504+00:00</updated>
+  <updated>2025-06-18T18:14:14.584936+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5639</id>
+    <title>小桂桂的回忆录 📒 #5639</title>
+    <updated>2025-06-18T17:18:00+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##冲绳"&gt;#冲绳&lt;/a&gt;
+一天的行程结束之后天气转晴了，去人不太多的岛上看了日落 🌇&lt;/p&gt;
+&lt;p&gt;然后又开了一个小时车，开到了一个无人森林山路中间的休息区，是一个车子熄火之后就完全没有其他光源的地方... 熄火之后抬起头真的看到了星空！首先是从车窗探出头，之后拿出了野餐垫躺在地上看，星空配上附近树林里虫虫和小动物的白噪音好清静，好想就在这里睡过去 &lt;i class="custom-emoji" emoji-src="emoji/5445342095453725432.tgs"&gt;😴&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;拿出 Stellarium 对照找到了一些星座，还用手机延迟摄影拍了些照片。手机拍出来噪点好多，好想买相机呀。&lt;/p&gt;
+&lt;p&gt;可惜如果真的在这里睡着的话可能会被毒蛇吃掉，所以还是回家了。原路回去总共 60km 左右，不过因为路上几乎没有车所以一个小时就到家了 &lt;i class="custom-emoji" emoji-src="emoji/6291698674242161600.webm"&gt;🏃&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5639" rel="alternate"/>
+  </entry>
   <entry>
     <id>5632</id>
     <title>小桂桂的回忆录 📒 #5632</title>
