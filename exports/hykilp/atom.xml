@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-06-18T10:15:41.580541+00:00</updated>
+  <updated>2025-06-18T12:12:39.716509+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5628</id>
+    <title>小桂桂的回忆录 📒 #5628</title>
+    <updated>2025-06-18T12:08:08+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##冲绳"&gt;#冲绳&lt;/a&gt;
+第四站是美国&lt;span class="spoiler"&gt;&lt;span&gt;...村，一点都不美国&lt;/span&gt;&lt;/span&gt;。但是至少看到了烟花和猫猫，听到了路边本地民谣演出，吃了也许很异端但是很好吃的分解塔可拌饭，味道有点像芝士肉沫意饭（之前发过照片了）&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5628" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>5627</id>
+    <title>小桂桂的回忆录 📒 #5627</title>
+    <updated>2025-06-18T11:19:22+00:00</updated>
+    <content>&lt;p&gt;好想知道 如果让自己一直跟着看到的第一个箭头（离眼睛直线距离最近的箭头）走，直到看到下一个箭头或者走到一个看不到箭头的地方的话，会走到哪里&lt;/p&gt;
+&lt;p&gt;还好想知道 如果从世界上每一个箭头开始走，最终停在哪里的次数最多
+&lt;a href="##好奇心害死猫"&gt;#好奇心害死猫&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5627" rel="alternate"/>
+  </entry>
   <entry>
     <id>5626</id>
     <title>小桂桂的回忆录 📒 #5626</title>
