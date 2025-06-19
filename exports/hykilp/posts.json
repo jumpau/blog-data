@@ -68660,7 +68660,7 @@
     "id": 4971,
     "date": "2025-03-01T03:12:36",
     "text": "一个月没出门摸草了，今天出门去和光量子和珂朵莉约了饭 qwq 还有 daylily 和琉璃来远程拼桌（？）\n\n果然出门就开心很多，以后还是要多出门摸摸草 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 410,
+    "views": 411,
     "forwards": 6,
     "media_group_id": 13926390054616325,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5892,
+    "views": 5894,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -76868,7 +76868,7 @@
     "id": 5576,
     "date": "2025-06-09T02:38:34",
     "text": "谷歌地图真厉害，在这个机动车都走不过去的地方让我自行车直接横穿... 还好我用了一些 common sense 看懂了地形没有这样走\n\n<a href=\"https://maps.app.goo.gl/48rCMHf99ue8eL3P7\">街景</a>",
-    "views": 242,
+    "views": 243,
     "forwards": 1,
     "media_group_id": 13995493715783581,
     "images": [
@@ -76918,7 +76918,7 @@
     "id": 5580,
     "date": "2025-06-09T15:15:35",
     "text": "没有洗碗机了需要手洗碗才发现，吃完咖喱不马上洗碗的话，咖喱干了就好难洗 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 255,
+    "views": 256,
     "forwards": 0
   },
   {
@@ -77691,7 +77691,7 @@
     "id": 5639,
     "date": "2025-06-18T17:18:00",
     "text": "<a href=\"##冲绳\">#冲绳</a>\n一天的行程结束之后天气转晴了，去人不太多的岛上看了日落 🌇\n\n然后又开了一个小时车，开到了一个无人森林山路中间的休息区，是一个车子熄火之后就完全没有其他光源的地方... 熄火之后抬起头真的看到了星空！首先是从车窗探出头，之后拿出了野餐垫躺在地上看，星空配上附近树林里虫虫和小动物的白噪音好清静，好想就在这里睡过去 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n拿出 Stellarium 对照找到了一些星座，还用手机延迟摄影拍了些照片。手机拍出来噪点好多，好想买相机呀。\n\n可惜如果真的在这里睡着的话可能会被毒蛇吃掉，所以还是回家了。原路回去总共 60km 左右，不过因为路上几乎没有车所以一个小时就到家了 <i class=\"custom-emoji\" emoji-src=\"emoji/6291698674242161600.webm\">🏃</i>",
-    "views": 88,
+    "views": 89,
     "forwards": 1,
     "media_group_id": 14002136643894573,
     "images": [
