@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-06-20T00:17:32.664442+00:00</updated>
+  <updated>2025-06-20T02:44:07.632228+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5657</id>
+    <title>小桂桂的回忆录 📒 #5657</title>
+    <updated>2025-06-20T01:11:47+00:00</updated>
+    <content>&lt;p&gt;昨晚路过了一个在发光的 VLC，还在想现在的 VLC 已经这么厉害了吗什么的，还在想电源在哪里，然后转头一看发现只是正好罩住了地上的灯（草） &lt;i class="custom-emoji" emoji-src="emoji/5445226814236533679.tgs"&gt;🧐&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5657" rel="alternate"/>
+  </entry>
   <entry>
     <id>5656</id>
     <title>小桂桂的回忆录 📒 #5656</title>
