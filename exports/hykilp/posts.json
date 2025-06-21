@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2597,
+    "views": 2598,
     "forwards": 29,
     "images": [
       {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5913,
+    "views": 5915,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -77929,7 +77929,7 @@
   {
     "id": 5659,
     "date": "2025-06-21T06:10:09",
-    "views": 135,
+    "views": 138,
     "forwards": 0,
     "images": [
       {
@@ -77948,7 +77948,7 @@
     "id": 5660,
     "date": "2025-06-21T10:04:12",
     "text": "蚊子和我比心心 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 113,
+    "views": 122,
     "forwards": 0,
     "images": [
       {
@@ -77968,7 +77968,7 @@
     "id": 5661,
     "date": "2025-06-21T14:57:59",
     "text": "「 川 」",
-    "views": 80,
+    "views": 91,
     "forwards": 0,
     "images": [
       {
