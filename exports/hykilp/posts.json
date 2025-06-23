@@ -39470,7 +39470,7 @@
     "id": 2936,
     "date": "2023-11-25T05:07:19",
     "text": "好耶！今天豆腐来玩，和豆腐一起给这个读卡器写了固件和驱动，现在可以刷 presto 登游戏了！<i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n*支持任何 nfc 卡哦，不是 felica 的话会被转换成 felica 格式 qwq",
-    "views": 152,
+    "views": 153,
     "forwards": 1,
     "files": [
       {
@@ -41672,7 +41672,7 @@
     "id": 3086,
     "date": "2023-12-28T04:55:50",
     "text": "+ maimai DX！\n\n它真的好大好重！送到的时候是一个大卡车开过来司机专门打电话联系我了，送上楼还被公寓物业骂了说需要申请货物电梯，然后三个人一起才把它搬上来拼好（感谢 Celestium 帮忙 qwq\n\n用了一段时间把软件调好啦，感谢蓝夏的魔改！现在还缺读卡器和自起脚本，私服似乎也已经兼容了 1.40 的样子（虽然没有做修改，可能是这两个版本之间 API 本身就没有改动吧）\n\n总之明天再继续折腾了，睡睡 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 235,
+    "views": 236,
     "forwards": 3,
     "media_group_id": 13629914800119629,
     "images": [
@@ -46058,7 +46058,7 @@
     "id": 3388,
     "date": "2024-02-22T18:10:43",
     "text": "感觉日语片假名真的是谜语\n\n刚才看了半天「コナステ」没想明白这是什么，然后查一查才发现是 \"Konami Amusement Game Station\" 的缩写（？？？）四个字母分别是 Konami 的 コ Ko, ナ na 和 Station 的 ス S, テ te.........\n\n什么密码学 (╯’ – ‘)╯︵ ┻━┻",
-    "views": 92,
+    "views": 93,
     "forwards": 1
   },
   {
@@ -46178,7 +46178,7 @@
     "id": 3396,
     "date": "2024-02-23T23:19:29",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n又是一首 maimai 里面的曲子，听这首真的感觉像是机器人在说话，即使没有歌词也像是能听到贝斯在唱 「Round round, spinning around」 quq",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "files": [
       {
@@ -46200,14 +46200,14 @@
     "id": 3397,
     "date": "2024-02-23T23:49:29",
     "text": "<del>为什么听东方的曲子会让我想玩 maimai 而不是想玩东方</del>",
-    "views": 85,
+    "views": 86,
     "forwards": 0
   },
   {
     "id": 3398,
     "date": "2024-02-24T02:24:22",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nMe: mom can we have 双层麦香鱼?\nMom: we have 双层麦香鱼 at home!\n双层麦香鱼 at home:",
-    "views": 104,
+    "views": 105,
     "forwards": 0,
     "images": [
       {
@@ -46226,7 +46226,7 @@
     "id": 3399,
     "date": "2024-02-24T04:47:31",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n♫ 楽しい歌歌いましょ\n♫ 楽しい歌歌いましょ\n♫ 嫌なことは忘れて\n\n欢乐 qwq",
-    "views": 109,
+    "views": 110,
     "forwards": 0,
     "files": [
       {
@@ -46327,7 +46327,7 @@
     "id": 3406,
     "date": "2024-02-26T06:08:45",
     "text": "今天把 <a href=\"##AquaNet\">#AquaNet</a> 后端的请求验证写好啦！\n\n因为官方的游戏客户端给用户提交数据的时候并没有做登录验证也没有做机器验证，所以在这之前只要暴露了你的卡号别人就可以随便发请求改你的数据。\n\n今天做的请求验证实现方式是，机器 PowerOn 的时候验证 Keychip ID，给每个人的游戏返回一个独特的随机 URL 比如 `/gs/{token}/mai2/endpoint`，这样就可以不用担心熊孩子发的恶意请求追踪不到了！\n\n（不过还需要想办法解决 MITM 的问题... 毕竟街机用的是没加密的 HTTP 80 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "images": [
       {
@@ -46346,7 +46346,7 @@
     "id": 3407,
     "date": "2024-02-26T08:55:01",
     "text": "<del>好想喝鲸鱼奶（？）</del>",
-    "views": 94,
+    "views": 95,
     "forwards": 0
   },
   {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2599,
+    "views": 2600,
     "forwards": 29,
     "images": [
       {
