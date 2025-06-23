@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-06-23T14:14:08.106677+00:00</updated>
+  <updated>2025-06-23T16:13:54.715090+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5682</id>
+    <title>小桂桂的回忆录 📒 #5682</title>
+    <updated>2025-06-23T15:10:53+00:00</updated>
+    <content>&lt;p&gt;在京东还去了漫画博物馆，看了「&lt;a href="https://kyotomm.jp/ee/mangaculture_in_japan_and_taiwan/"&gt;台湾の少年と日本の少年～巡り合うマンガ文化の百年～&lt;/a&gt;」特别展&lt;/p&gt;
+&lt;p&gt;布展真的和内容搭配得很巧妙——第一章是一个大房间讲述日本和台湾漫画共同的起源，第二章物理分出来两个房间讲分别的发展，左侧是台湾的蔡焜霖、右侧是日本的手塚治虫... 最后再合并到一个房间讲共同的后续。&lt;/p&gt;
+&lt;p&gt;了解到了很多台湾漫画的历史，很难想象台湾也有过漫画要像教科书一样备案审查、被审查员要求改名字改题材、杂志像毒品一样需要暗中交易的时代... 不过不久之后审查机制就废除了&lt;/p&gt;
+&lt;p&gt;&lt;span class="spoiler"&gt;&lt;span&gt;唉 什么时候中国也像台湾一样废除审查就好了，果然这才是中国没有好看漫画的根本原因吗&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5682" rel="alternate"/>
+  </entry>
   <entry>
     <id>5672</id>
     <title>小桂桂的回忆录 📒 #5672</title>
