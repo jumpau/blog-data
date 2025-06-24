@@ -64878,21 +64878,21 @@
     "id": 4715,
     "date": "2024-12-04T03:21:22",
     "text": "Linux 日常：运行一个程序，发现它打开了 xemacs，想退出\n:wq 没有用\n^q 没有用\n^x ^d ^c ^\\ 都没有用\n然后开了一个新的 shell 开任务管理器把它杀了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 143,
+    "views": 144,
     "forwards": 1
   },
   {
     "id": 4716,
     "date": "2024-12-04T17:24:47",
     "text": "呜呜 给 Syama 安利 Davinci Resolve，然后她那边启动会闪退，为什么呢？明明都是 7840HS，都是 Windows 11...\n\n然后发现关掉 clash TUN 就好了，开了就闪退？？然后我这边试了也是，开 TUN 还是 TAP 都不行... 呜呜\n\n好奇怪，Clash TUN 不行，Cloudflare Warp 也不行，但是 Mullvad 和 tailscale exit node 都没问题，是不是只有 IP 层代理会有这个问题\n\n临时解决办法是把 Davinci Control Panel 删掉（<a href=\"https://www.reddit.com/r/davinciresolve/comments/1bx17wy/cloudflare_crash_on_startup_fixed_by_removing/\">来源</a>）",
-    "views": 140,
+    "views": 141,
     "forwards": 0
   },
   {
     "id": 4717,
     "date": "2024-12-05T00:47:50",
     "text": "感觉人群的共识机制不太聪明喵\n\n红灯，甚至还在过车的那种，一个人突然开始过马路，有人估计是没看路跟着这个人开始走，过一会越来越多的人跟着走，最后变成了所有人一起闯红灯过马路 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>",
-    "views": 122,
+    "views": 123,
     "forwards": 0,
     "images": [
       {
@@ -67971,7 +67971,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1276,
+    "views": 1277,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -67993,7 +67993,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 1072,
+    "views": 1073,
     "forwards": 7,
     "files": [
       {
@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1217,
+    "views": 1218,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -72411,7 +72411,7 @@
     "id": 5243,
     "date": "2025-04-21T05:37:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n<del>芒果寿司</del> 🍣\n\n感谢 Jamie 送了蛋糕，发现这次中超的蛋糕甜味正好呢，北美超市的蛋糕都太甜了",
-    "views": 226,
+    "views": 227,
     "forwards": 0,
     "media_group_id": 13961710904473125,
     "images": [
@@ -72441,7 +72441,7 @@
     "id": 5245,
     "date": "2025-04-21T06:35:30",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炒饭！\n\n原本打算做午餐肉炒卷心菜 + 米饭，但是热锅烧油炒葱炒肉之后发现菜发霉了，不过正好这些食材也可以用来做炒饭所以就做了炒饭 qwq",
-    "views": 234,
+    "views": 235,
     "forwards": 0,
     "images": [
       {
@@ -72460,7 +72460,7 @@
     "id": 5246,
     "date": "2025-04-22T01:29:22",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nfish and... chips?",
-    "views": 233,
+    "views": 234,
     "forwards": 1,
     "images": [
       {
@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1757,
+    "views": 1759,
     "forwards": 51
   },
   {
@@ -77801,7 +77801,7 @@
     "id": 5649,
     "date": "2025-06-19T16:24:35",
     "text": "<a href=\"##冲绳\">#冲绳</a>\n最后去了琉球村，见到了这里本地人传统的生活气氛。所有房间都是可以进去的，也有房间可以看到工作人员坐在里面忙着自己的事情，比如织衣服、练琴、做点心什么的。\n\n气氛好不错，感觉有一种大家都像是一家人一样的亲切感。日本本来就很安全的话，这里的房间不需要关门锁门或者用围栏围起来也是挺不错的。\n\n穿着 nina「不登校」的衣服被村里几个路过的工作人员看到评价很好笑（可惜他们好像没有看过 GBC 呢）",
-    "views": 175,
+    "views": 176,
     "forwards": 0,
     "media_group_id": 14002802201995597,
     "images": [
@@ -77881,7 +77881,7 @@
     "id": 5656,
     "date": "2025-06-19T16:25:47",
     "text": "<a href=\"##冲绳\">#冲绳</a> <a href=\"##戴上耳机\">#戴上耳机</a>\n在琉球村还看了很有活力的本地演出，有演奏不同气氛的歌曲和舞蹈\n\n演出里第三首歌让大家跟着歌声一起跳舞，说她喊 せーのっ「ゆいゆいゆい、ゆいゆいゆい、ゆいまーる！」的时候我们要左挥手、右挥手、头顶圈圈，然后喊 これがおきなわ「ゆい！」的时候要向上举拳。\n\n感觉，完全就是现实版本的节奏天国，跳着跳着感觉判定星都出来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6114111843955902957.webm\">✨</i>\n\n好想做一个这样的 VR 体感版节奏天国",
-    "views": 209,
+    "views": 210,
     "forwards": 1,
     "files": [
       {
@@ -77900,7 +77900,7 @@
     "id": 5657,
     "date": "2025-06-20T01:11:47",
     "text": "昨晚路过了一个在发光的 VLC，还在想现在的 VLC 已经这么厉害了吗什么的，还在想电源在哪里，然后转头一看发现只是正好罩住了地上的灯（草） <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 228,
+    "views": 230,
     "forwards": 2,
     "media_group_id": 14003055260382381,
     "images": [
@@ -77929,7 +77929,7 @@
   {
     "id": 5659,
     "date": "2025-06-21T06:10:09",
-    "views": 171,
+    "views": 172,
     "forwards": 0,
     "images": [
       {
@@ -77948,7 +77948,7 @@
     "id": 5660,
     "date": "2025-06-21T10:04:12",
     "text": "蚊子和我比心心 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 161,
+    "views": 162,
     "forwards": 0,
     "images": [
       {
@@ -77968,7 +77968,7 @@
     "id": 5661,
     "date": "2025-06-21T14:57:59",
     "text": "「 川 」",
-    "views": 157,
+    "views": 158,
     "forwards": 0,
     "images": [
       {
@@ -77987,7 +77987,7 @@
     "id": 5662,
     "date": "2025-06-23T07:12:02",
     "text": "上周是我的生日，周末 Menci 过来玩，坐上新干线去了京东！试了一次完全无计划说走就走的旅行，和住在京东的白猫 <a href=\"https://t.me/omiashi\">@omiashi</a> 一起玩\n\n首先去了伏見稲荷大社，虽然在之前的<a href=\"https://t.me/azaneko/5221\">摄影模拟器游戏</a>里面已经见过了，但是真的来到这里还是好震撼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n<del>摄影模拟器里真的是 1:1 还原吗？为什么感觉游戏里走一会就到山顶了，现实中走了超级久也才刚到四分之一的休息点</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n以及摸到了猫！给人建的大鸟居后面还有一个给猫建的小鸟居，好可爱\n\n以及发现这边的景色一直在改变——路过了很多令和七年也就是今年建的鸟居，可能千本鸟居每年都会变得更长。会不会哪一天整座山会放不下大家捐的鸟居呢",
-    "views": 131,
+    "views": 132,
     "forwards": 1,
     "media_group_id": 14005301781691181,
     "images": [
@@ -78207,7 +78207,7 @@
     "id": 5682,
     "date": "2025-06-23T15:10:53",
     "text": "在京东还去了漫画博物馆，看了「<a href=\"https://kyotomm.jp/ee/mangaculture_in_japan_and_taiwan/\">台湾の少年と日本の少年～巡り合うマンガ文化の百年～</a>」特别展\n\n布展真的和内容搭配得很巧妙——第一章是一个大房间讲述日本和台湾漫画共同的起源，第二章物理分出来两个房间讲分别的发展，左侧是台湾的蔡焜霖、右侧是日本的手塚治虫... 最后再合并到一个房间讲共同的后续。\n\n了解到了很多台湾漫画的历史，很难想象台湾也有过漫画要像教科书一样备案审查、被审查员要求改名字改题材、杂志像毒品一样需要暗中交易的时代... 不过不久之后审查机制就废除了\n\n<span class=\"spoiler\"><span>唉 什么时候中国也像台湾一样废除审查就好了，果然这才是中国没有好看漫画的根本原因吗</span></span>",
-    "views": 123,
+    "views": 124,
     "forwards": 1,
     "media_group_id": 14005531625371613,
     "images": [
@@ -78267,14 +78267,14 @@
     "id": 5687,
     "date": "2025-06-24T03:34:08",
     "text": "想要无限暖暖私服 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 110,
+    "views": 115,
     "forwards": 0
   },
   {
     "id": 5688,
     "date": "2025-06-24T04:46:24",
     "text": "<a href=\"##摘下耳机\">#摘下耳机</a>\n昨晚去渋谷的时候买了这首歌的<a href=\"https://harumakigohan.com/ftr/\">初回限定盘</a>\n\n这个包装真的... 拆开包装的过程需要物理把封面上的这两位分开 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 巧妙得让我心痛\n\n<span class=\"spoiler\"><span>所以又多了一个理由不拆开包装</span></span>",
-    "views": 90,
+    "views": 95,
     "forwards": 0,
     "media_group_id": 14005923078412709,
     "images": [
