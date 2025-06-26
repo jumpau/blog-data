@@ -48613,7 +48613,7 @@
     "id": 3561,
     "date": "2024-04-07T06:27:43",
     "text": "长出根了，一盆新的绿萝诞生了！（但是新的绿萝同时也是旧的 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 114,
+    "views": 115,
     "forwards": 0,
     "media_group_id": 13699770106005029,
     "images": [
@@ -48648,7 +48648,7 @@
     "id": 3563,
     "date": "2024-04-07T07:57:55",
     "text": "土豆草莓（？）",
-    "views": 137,
+    "views": 138,
     "forwards": 1,
     "images": [
       {
@@ -48700,7 +48700,7 @@
     "id": 3567,
     "date": "2024-04-08T19:12:21",
     "text": "是一个用手机对着太阳拍的傻瓜",
-    "views": 123,
+    "views": 124,
     "forwards": 0,
     "files": [
       {
@@ -48722,7 +48722,7 @@
     "id": 3568,
     "date": "2024-04-08T19:33:19",
     "text": "好看！",
-    "views": 126,
+    "views": 127,
     "forwards": 0,
     "media_group_id": 13700838399361029,
     "images": [
@@ -48752,7 +48752,7 @@
     "id": 3570,
     "date": "2024-04-08T19:56:45",
     "text": "和前任和现任和前任的现任一起去了！好热闹好开心",
-    "views": 123,
+    "views": 124,
     "forwards": 0,
     "media_group_id": 13700849643192773,
     "images": [
@@ -68575,21 +68575,21 @@
     "id": 4964,
     "date": "2025-02-25T23:57:41",
     "text": "KanadeDX 正式发布了！是 maimaiDX 移动端移植版\n\n欢迎来玩 <a href=\"https://kdx.nightcord.com.de\">https://kdx.nightcord.com.de</a> <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 344,
+    "views": 345,
     "forwards": 11
   },
   {
     "id": 4965,
     "date": "2025-02-26T03:29:56",
     "text": "聊聊去超市买了三次香菜都没买对，今天一起去的时候让聊聊帮忙拿香菜（因为太远了我走不动）然后聊聊给我拿了 curly parsley <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 233,
+    "views": 234,
     "forwards": 0
   },
   {
     "id": 4966,
     "date": "2025-02-26T11:56:44",
     "text": "因为 Quest 3 也是安卓，试了一下在 VR 里面装 KanadeDX，还真的能带得动\n\n<a href=\"https://www.youtube.com/watch?v=o6VLNAwER2E\">https://www.youtube.com/watch?v=o6VLNAwER2E</a>\n\n虽然手指追踪不是很行，因为是原生安卓应用不是 VR 应用所以只有食指的触摸可以被识别到，真的变成多拉A梦了\n\n（打 Lv9 红谱打了一个 AAA <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 237,
+    "views": 238,
     "forwards": 1,
     "reply": {
       "id": 4964,
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5400,
+    "views": 5401,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -78309,7 +78309,7 @@
     "id": 5690,
     "date": "2025-06-24T13:17:36",
     "text": "周日从京东回到东京之后和 menci 和谦谦开车再次去了江ノ島！\n\n这次也被吹成了强风大背头，因为强风的原因岩屋旁边下海的道路被封印了... 不过至少这次时间充足，看到了很多上次来没看到的风景 qwq\n\n站在悬崖上看着海浪打到岩石上溅出的水花好治愈！迎面而来的强风仿佛让整座岛变成了我的泰坦尼克，展开双臂感觉像是在飞一样 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>\n\n可惜岩屋排队的人太多了就没有进去，看看风景拍拍照片就往回走了",
-    "views": 134,
+    "views": 135,
     "forwards": 2,
     "media_group_id": 14006168449757829,
     "images": [
@@ -78571,7 +78571,7 @@
     "id": 5712,
     "date": "2025-06-26T07:15:36",
     "text": "啊 好像有很重要的事情忘记写了。去宇治的时候吃到了巨量抹茶粉的抹茶芭菲！超好吃！我已经完全是楽奈了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n互相交换了一两口各自点的甜点，这里的抹茶芭菲还是年轮蛋糕还是冰淇淋都超好吃！\n\n不过抹茶本茶超苦... 原本以为在冲绳吃的炒苦瓜已经够苦了，居然还有比它更苦的东西存在 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 是叶公好茶了... 感觉抹茶还是适合作为原料放在甜品里呢",
-    "views": 123,
+    "views": 126,
     "forwards": 0,
     "media_group_id": 14007377093947061,
     "images": [
@@ -78626,7 +78626,7 @@
     "id": 5716,
     "date": "2025-06-26T07:43:43",
     "text": "还有些 <a href=\"##不寻常的日常\">#不寻常的日常</a>\n1. 「不要乱丢猫狗」的牌子暗示着曾经有人在岛上乱丢过猫狗\n2. 路过了一瓶小螃蟹 🦀 看上去是被丢下了，没有食物好可怜。不过不知道是不是被临时放在这里的也没敢拿走。现在回想起来觉得应该把它们带到海蟑螂幼崽聚集的地方给它们喂食\n3. 「むずかしい」\n4. 这个比例看上去小孩子马上就要被老鹰叼走了\n5. 死掉的蝴蝶，<span class=\"spoiler\"><span>也好好看</span></span>\n6. 猫抓虫虫\n7. 曾经是去海边的楼梯的地方，楼梯被台风刮走了。<span class=\"spoiler\"><span>想到世界某处会唐突多出一段楼梯就忍不住笑（对不起）</span></span>\n8. 「山」字真的有一个小山\n9. 白猫：踩踩<span class=\"spoiler\"><span>乌龟的头</span></span>\n10. \"You must          and       is appropriate \\______/\"（实际上是红色全都掉色了）",
-    "views": 119,
+    "views": 123,
     "forwards": 0,
     "media_group_id": 14007390590485333,
     "images": [
@@ -78736,7 +78736,7 @@
     "id": 5726,
     "date": "2025-06-26T15:52:25",
     "text": "原来 MrBeast 和野兽先辈不是同一个人吗",
-    "views": 108,
-    "forwards": 5
+    "views": 123,
+    "forwards": 6
   }
 ]
