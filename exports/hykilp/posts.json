@@ -67971,7 +67971,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1277,
+    "views": 1278,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -67993,7 +67993,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 1074,
+    "views": 1075,
     "forwards": 7,
     "files": [
       {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5947,
+    "views": 5948,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -76944,7 +76944,7 @@
     "id": 5582,
     "date": "2025-06-10T02:45:54",
     "text": "看看日本家电怎么接地 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<del>插头：竖起中指</del>",
-    "views": 261,
+    "views": 262,
     "forwards": 1,
     "images": [
       {
@@ -77040,7 +77040,7 @@
     "id": 5587,
     "date": "2025-06-12T02:50:31",
     "text": "恭喜我们团队又烧了一张 H100...\n\n据他们说之前已经烧了两张了，一直不知道为什么。还好我来的时候搭了一个 influxdb，看一下 log 就知道发生什么了，掉线的时候温度居然烧到了 93°C\n\n众所周知 H100 的极限温度是 87°C... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 291,
+    "views": 292,
     "forwards": 5,
     "media_group_id": 13997573055496437,
     "images": [
@@ -77968,7 +77968,7 @@
     "id": 5661,
     "date": "2025-06-21T14:57:59",
     "text": "「 川 」",
-    "views": 177,
+    "views": 178,
     "forwards": 0,
     "images": [
       {
@@ -77987,7 +77987,7 @@
     "id": 5662,
     "date": "2025-06-23T07:12:02",
     "text": "上周是我的生日，周末 Menci 过来玩，坐上新干线去了京东！试了一次完全无计划说走就走的旅行，和住在京东的白猫 <a href=\"https://t.me/omiashi\">@omiashi</a> 一起玩\n\n首先去了伏見稲荷大社，虽然在之前的<a href=\"https://t.me/azaneko/5221\">摄影模拟器游戏</a>里面已经见过了，但是真的来到这里还是好震撼 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n<del>摄影模拟器里真的是 1:1 还原吗？为什么感觉游戏里走一会就到山顶了，现实中走了超级久也才刚到四分之一的休息点</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n以及摸到了猫！给人建的大鸟居后面还有一个给猫建的小鸟居，好可爱\n\n以及发现这边的景色一直在改变——路过了很多令和七年也就是今年建的鸟居，可能千本鸟居每年都会变得更长。会不会哪一天整座山会放不下大家捐的鸟居呢",
-    "views": 157,
+    "views": 159,
     "forwards": 1,
     "media_group_id": 14005301781691181,
     "images": [
@@ -78552,7 +78552,7 @@
     "id": 5711,
     "date": "2025-06-25T05:34:31",
     "text": "\"If you plan on forgetting your password\" <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 160,
+    "views": 161,
     "forwards": 3,
     "images": [
       {
@@ -78571,7 +78571,7 @@
     "id": 5712,
     "date": "2025-06-26T07:15:36",
     "text": "啊 好像有很重要的事情忘记写了。去宇治的时候吃到了巨量抹茶粉的抹茶芭菲！超好吃！我已经完全是楽奈了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n互相交换了一两口各自点的甜点，这里的抹茶芭菲还是年轮蛋糕还是冰淇淋都超好吃！\n\n不过抹茶本茶超苦... 原本以为在冲绳吃的炒苦瓜已经够苦了，居然还有比它更苦的东西存在 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 是叶公好茶了... 感觉抹茶还是适合作为原料放在甜品里呢",
-    "views": 138,
+    "views": 139,
     "forwards": 0,
     "media_group_id": 14007377093947061,
     "images": [
@@ -78626,7 +78626,7 @@
     "id": 5716,
     "date": "2025-06-26T07:43:43",
     "text": "还有些 <a href=\"##不寻常的日常\">#不寻常的日常</a>\n1. 「不要乱丢猫狗」的牌子暗示着曾经有人在岛上乱丢过猫狗\n2. 路过了一瓶小螃蟹 🦀 看上去是被丢下了，没有食物好可怜。不过不知道是不是被临时放在这里的也没敢拿走。现在回想起来觉得应该把它们带到海蟑螂幼崽聚集的地方给它们喂食\n3. 「むずかしい」\n4. 这个比例看上去小孩子马上就要被老鹰叼走了\n5. 死掉的蝴蝶，<span class=\"spoiler\"><span>也好好看</span></span>\n6. 猫抓虫虫\n7. 曾经是去海边的楼梯的地方，楼梯被台风刮走了。<span class=\"spoiler\"><span>想到世界某处会唐突多出一段楼梯就忍不住笑（对不起）</span></span>\n8. 「山」字真的有一个小山\n9. 白猫：踩踩<span class=\"spoiler\"><span>乌龟的头</span></span>\n10. \"You must          and       is appropriate \\______/\"（实际上是红色全都掉色了）",
-    "views": 141,
+    "views": 143,
     "forwards": 0,
     "media_group_id": 14007390590485333,
     "images": [
@@ -78736,7 +78736,7 @@
     "id": 5726,
     "date": "2025-06-26T15:52:25",
     "text": "原来 MrBeast 和野兽先辈不是同一个人吗",
-    "views": 181,
+    "views": 183,
     "forwards": 8
   }
 ]
