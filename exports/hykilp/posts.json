@@ -68660,7 +68660,7 @@
     "id": 4971,
     "date": "2025-03-01T03:12:36",
     "text": "一个月没出门摸草了，今天出门去和光量子和珂朵莉约了饭 qwq 还有 daylily 和琉璃来远程拼桌（？）\n\n果然出门就开心很多，以后还是要多出门摸摸草 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 414,
+    "views": 415,
     "forwards": 6,
     "media_group_id": 13926390054616325,
     "images": [
@@ -72731,7 +72731,7 @@
     "id": 5268,
     "date": "2025-04-24T05:41:29",
     "text": "发现手术之后对疼痛耐受确实更强了，昨天拆机的时候不小心把食指划出血，但是完全没有感觉到痛\n\n如果是以前的话肯定这一两天都不会用这根手指了... 我握笔姿势的坏习惯最初就是因为某次大拇指受伤了不敢用它所以换了姿势 quq",
-    "views": 314,
+    "views": 315,
     "forwards": 1,
     "reply": {
       "id": 5254,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5949,
+    "views": 5951,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73100,7 +73100,7 @@
     "id": 5290,
     "date": "2025-04-30T10:35:18",
     "text": "\"U盘\"",
-    "views": 514,
+    "views": 515,
     "forwards": 0,
     "images": [
       {
@@ -76140,7 +76140,7 @@
     "id": 5522,
     "date": "2025-06-01T06:29:12",
     "text": "带着聊聊猫出门了",
-    "views": 331,
+    "views": 332,
     "forwards": 1,
     "images": [
       {
@@ -78552,7 +78552,7 @@
     "id": 5711,
     "date": "2025-06-25T05:34:31",
     "text": "\"If you plan on forgetting your password\" <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 166,
+    "views": 167,
     "forwards": 3,
     "images": [
       {
@@ -78571,7 +78571,7 @@
     "id": 5712,
     "date": "2025-06-26T07:15:36",
     "text": "啊 好像有很重要的事情忘记写了。去宇治的时候吃到了巨量抹茶粉的抹茶芭菲！超好吃！我已经完全是楽奈了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n互相交换了一两口各自点的甜点，这里的抹茶芭菲还是年轮蛋糕还是冰淇淋都超好吃！\n\n不过抹茶本茶超苦... 原本以为在冲绳吃的炒苦瓜已经够苦了，居然还有比它更苦的东西存在 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 是叶公好茶了... 感觉抹茶还是适合作为原料放在甜品里呢",
-    "views": 151,
+    "views": 153,
     "forwards": 0,
     "media_group_id": 14007377093947061,
     "images": [
@@ -78626,7 +78626,7 @@
     "id": 5716,
     "date": "2025-06-26T07:43:43",
     "text": "还有些 <a href=\"##不寻常的日常\">#不寻常的日常</a>\n1. 「不要乱丢猫狗」的牌子暗示着曾经有人在岛上乱丢过猫狗\n2. 路过了一瓶小螃蟹 🦀 看上去是被丢下了，没有食物好可怜。不过不知道是不是被临时放在这里的也没敢拿走。现在回想起来觉得应该把它们带到海蟑螂幼崽聚集的地方给它们喂食\n3. 「むずかしい」\n4. 这个比例看上去小孩子马上就要被老鹰叼走了\n5. 死掉的蝴蝶，<span class=\"spoiler\"><span>也好好看</span></span>\n6. 猫抓虫虫\n7. 曾经是去海边的楼梯的地方，楼梯被台风刮走了。<span class=\"spoiler\"><span>想到世界某处会唐突多出一段楼梯就忍不住笑（对不起）</span></span>\n8. 「山」字真的有一个小山\n9. 白猫：踩踩<span class=\"spoiler\"><span>乌龟的头</span></span>\n10. \"You must          and       is appropriate \\______/\"（实际上是红色全都掉色了）",
-    "views": 156,
+    "views": 158,
     "forwards": 0,
     "media_group_id": 14007390590485333,
     "images": [
@@ -78736,14 +78736,14 @@
     "id": 5726,
     "date": "2025-06-26T15:52:25",
     "text": "原来 MrBeast 和野兽先辈不是同一个人吗",
-    "views": 218,
+    "views": 221,
     "forwards": 9
   },
   {
     "id": 5727,
     "date": "2025-06-27T06:19:48",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 112,
+    "views": 119,
     "forwards": 0,
     "images": [
       {
@@ -78762,7 +78762,7 @@
     "id": 5728,
     "date": "2025-06-27T10:49:53",
     "text": "扭蛋大成功！一次就抽到了想要的（JP￥500",
-    "views": 78,
+    "views": 94,
     "forwards": 1,
     "media_group_id": 14008171148651357,
     "images": [
@@ -78792,7 +78792,7 @@
     "id": 5730,
     "date": "2025-06-27T11:29:48",
     "text": "谁想到的地狱营销... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 60,
+    "views": 84,
     "forwards": 0,
     "images": [
       {
