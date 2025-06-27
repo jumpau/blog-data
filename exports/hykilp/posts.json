@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5946,
+    "views": 5947,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -78626,7 +78626,7 @@
     "id": 5716,
     "date": "2025-06-26T07:43:43",
     "text": "还有些 <a href=\"##不寻常的日常\">#不寻常的日常</a>\n1. 「不要乱丢猫狗」的牌子暗示着曾经有人在岛上乱丢过猫狗\n2. 路过了一瓶小螃蟹 🦀 看上去是被丢下了，没有食物好可怜。不过不知道是不是被临时放在这里的也没敢拿走。现在回想起来觉得应该把它们带到海蟑螂幼崽聚集的地方给它们喂食\n3. 「むずかしい」\n4. 这个比例看上去小孩子马上就要被老鹰叼走了\n5. 死掉的蝴蝶，<span class=\"spoiler\"><span>也好好看</span></span>\n6. 猫抓虫虫\n7. 曾经是去海边的楼梯的地方，楼梯被台风刮走了。<span class=\"spoiler\"><span>想到世界某处会唐突多出一段楼梯就忍不住笑（对不起）</span></span>\n8. 「山」字真的有一个小山\n9. 白猫：踩踩<span class=\"spoiler\"><span>乌龟的头</span></span>\n10. \"You must          and       is appropriate \\______/\"（实际上是红色全都掉色了）",
-    "views": 140,
+    "views": 141,
     "forwards": 0,
     "media_group_id": 14007390590485333,
     "images": [
@@ -78736,7 +78736,7 @@
     "id": 5726,
     "date": "2025-06-26T15:52:25",
     "text": "原来 MrBeast 和野兽先辈不是同一个人吗",
-    "views": 177,
+    "views": 181,
     "forwards": 8
   }
 ]
