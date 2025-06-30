@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5956,
+    "views": 5957,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73320,7 +73320,7 @@
     "id": 5306,
     "date": "2025-05-04T02:09:28",
     "text": "<a href=\"##TIL\">#TIL</a> 我居然写了七八年前端，今天才知道原来 <code><div/></code> 和 <code><div></div></code> 是不一样的...\n\n其实应该说，在原生 HTML 里这两个不一样，但是在 Svelte 里面是一样的。原生会直接忽略掉 <code>/></code> 变成一个只有开没有关的 div，但是 Svelte 会像上面那样把它按照 XML 解析成开了之后马上关上\n\n...所以今天的另一个 <a href=\"##TIL\">#TIL</a> 是 Svelte 的 HTML 语法居然和原生不一样，即使区别很微妙而且大部分人不会注意到，但是也有被震撼",
-    "views": 438,
+    "views": 446,
     "forwards": 5,
     "images": [
       {
@@ -73339,7 +73339,7 @@
     "id": 5307,
     "date": "2025-05-04T20:46:08",
     "text": "发现自己体力好差...\n\n今天想去附近的一家餐厅，打车 $8 好贵，走路 18 分钟又觉得太慢了，所以决定试试骑车去。手术之前骑 15km 都没什么的话，现在骑 1.5km 也不会有事的吧\n\n刚开始还好，但是快到的时候下车突然头晕想吐感觉要晕过去了，和刚手术完缺血的时候脑缺氧的感觉一样... 原地坐了一会才勉强能推着车继续走\n\n明明已经过了四个月了... 什么时候体力才能恢复呢 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 369,
+    "views": 370,
     "forwards": 1,
     "media_group_id": 13971132545872317,
     "images": [
@@ -78207,7 +78207,7 @@
     "id": 5682,
     "date": "2025-06-23T15:10:53",
     "text": "在京东还去了漫画博物馆，看了「<a href=\"https://kyotomm.jp/ee/mangaculture_in_japan_and_taiwan/\">台湾の少年と日本の少年～巡り合うマンガ文化の百年～</a>」特别展\n\n布展真的和内容搭配得很巧妙——第一章是一个大房间讲述日本和台湾漫画共同的起源，第二章物理分出来两个房间讲分别的发展，左侧是台湾的蔡焜霖、右侧是日本的手塚治虫... 最后再合并到一个房间讲共同的后续。\n\n了解到了很多台湾漫画的历史，很难想象台湾也有过漫画要像教科书一样备案审查、被审查员要求改名字改题材、杂志像毒品一样需要暗中交易的时代... 不过不久之后审查机制就废除了\n\n<span class=\"spoiler\"><span>唉 什么时候中国也像台湾一样废除审查就好了，果然这才是中国没有好看漫画的根本原因吗</span></span>",
-    "views": 164,
+    "views": 165,
     "forwards": 1,
     "media_group_id": 14005531625371613,
     "images": [
@@ -79025,14 +79025,14 @@
     "id": 5750,
     "date": "2025-06-29T03:50:15",
     "text": "...回到家之后在 25.5h 的时间里总共睡了 22h，我真能睡 <i class=\"custom-emoji\" emoji-src=\"emoji/5470101637022358666.webp\">😵</i><i class=\"custom-emoji\" emoji-src=\"emoji/5469635259408587569.webp\">🙃</i><i class=\"custom-emoji\" emoji-src=\"emoji/5470023348358488780.webp\">😵</i><i class=\"custom-emoji\" emoji-src=\"emoji/5469815716754497752.webp\">😶</i>",
-    "views": 135,
+    "views": 136,
     "forwards": 0
   },
   {
     "id": 5751,
     "date": "2025-06-29T14:31:12",
     "text": "见到了 Hanako 和 k<span class=\"spoiler\"><span>s</span></span>y<span class=\"spoiler\"><span>x</span></span>\n\n一起去了某 happy sugar life 十周年活动，想起来我第一次看这部番的时候是和前前任子兰看的，当时真的有投入感情进去也真的有被结局伤害到...\n\n还去了某百合 lgbt bar，有一整墙百合漫画，可惜改成只有中午可以借漫画读了。以及因为是二维码点餐所以不知道大家都点了什么... 饮料上来发现居然只有我点了酒，感觉有被背叛 <i class=\"custom-emoji\" emoji-src=\"emoji/6170121034994288479.webm\">😝</i>",
-    "views": 111,
+    "views": 113,
     "forwards": 0,
     "media_group_id": 14009659780263989,
     "images": [
