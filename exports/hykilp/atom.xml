@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-06-30T18:13:05.141641+00:00</updated>
+  <updated>2025-06-30T20:17:32.157701+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5756</id>
+    <title>小桂桂的回忆录 📒 #5756</title>
+    <updated>2025-06-30T19:46:21+00:00</updated>
+    <content>&lt;p&gt;下单了我的第一台相机&lt;/p&gt;
+&lt;p&gt;两年前想要买相机的时候觉得相机太重了大概率会吃灰... 所以当时买了一个摄影还不错的手机 Mi 11 Ultra，主要因为有全能的三个焦段和背屏预览，也是当时少数有等效 120mm 长焦和大传感器的手机，但是最近感觉经常碰到手机的瓶颈...&lt;/p&gt;
+&lt;p&gt;比如因为实际焦距短没有背景模糊，之前&lt;a href="https://t.me/azaneko/5671"&gt;千本鸟居前面拍 menci&lt;/a&gt; 的时候背景模糊其实是后期手动用 AI 加上的... 首先不好看，其次看边缘一眼就能看出破绽 &lt;i class="custom-emoji" emoji-src="emoji/6323556186138346934.webp"&gt;😢&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;又或者是&lt;a href="https://t.me/azaneko/5641"&gt;拍星空的时候&lt;/a&gt;即使低 ISO 长曝光也有奇怪噪点。旁边マモルさん用最新最热 iPhone 16 Pro 长曝光还出现了奇怪色块的问题，所以感觉并不是换一个拍照更好的手机可以解决的...&lt;/p&gt;
+&lt;p&gt;不过作为第一款相机，比起画质还是更想要不太贵、不太重、焦距万能，所以选择了 APSC 的索尼 a6700 和大变焦头 Tamron 18-300mm F/3.5-6.3 &lt;i class="custom-emoji" emoji-src="emoji/5445226814236533679.tgs"&gt;🧐&lt;/i&gt; &lt;/p&gt;
+&lt;p&gt;...虽然知道作为变焦头锐度会差光圈也小，但是打算尝试了不同的构图看看自己最喜欢哪个焦距怎样拍再买一个画质更好的定焦头 qwq&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5756" rel="alternate"/>
+  </entry>
   <entry>
     <id>5751</id>
     <title>小桂桂的回忆录 📒 #5751</title>
