@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-07-01T10:15:02.807886+00:00</updated>
+  <updated>2025-07-01T12:14:12.984932+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5760</id>
+    <title>小桂桂的回忆录 📒 #5760</title>
+    <updated>2025-07-01T11:54:21+00:00</updated>
+    <content>&lt;p&gt;小孩子真厉害&lt;/p&gt;
+&lt;p&gt;在电车上有座位空出来了，但是旁边还有一个老奶奶
+我：（给旁边老奶奶打手势让她坐）
+她：没事没事你坐吧
+我：没事没事你坐吧
+然后一个小孩子从我们中间穿过来直接坐下 &lt;i class="custom-emoji" emoji-src="emoji/6334454888990248922.webp"&gt;🏆&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5760" rel="alternate"/>
+  </entry>
   <entry>
     <id>5759</id>
     <title>小桂桂的回忆录 📒 #5759</title>
