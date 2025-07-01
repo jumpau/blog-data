@@ -33257,7 +33257,7 @@
     "id": 2484,
     "date": "2023-08-07T08:29:12",
     "text": "明天八号是国际猫猫节 <i class=\"custom-emoji\" emoji-src=\"emoji/6327782811914733923.webp\">🥳</i> 给自己和朋友们的头像上画了猫耳朵！尽力模仿了原画的风格，效果大部分还不错，<del>style transfer 机器人就是我</del>（不\n\n黎黎的头像好难，感觉超出能力范围了瞎糊了一个... 原作者用纯色笔刷能打出渐变一样的阴影和高光好厉害。我到现在打的阴影要不然就是简单的一层纯色，要不然就是用喷枪打看起来脏兮兮的渐变。这次尝试了像原作那样打，结果打不好还是换回喷枪了... 效果有点脏兮兮还不是特别搭 <i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</i>\n\n有没有人教教我 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 162,
+    "views": 163,
     "forwards": 3,
     "media_group_id": 13531175623170565,
     "images": [
@@ -73290,7 +73290,7 @@
     "id": 5304,
     "date": "2025-05-02T21:46:41",
     "text": "第一次用 libvirt + virsh + kvm，好好用！居然打一个指令之后就直接能访问 TTY shell 了\n\n意识到之前在 linux 服务器上远程桌面然后用 VMware Workstation 跑虚拟机好蠢 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 447,
+    "views": 448,
     "forwards": 3,
     "media_group_id": 13969779211072469,
     "images": [
@@ -73678,7 +73678,7 @@
     "id": 5329,
     "date": "2025-05-09T14:35:30",
     "text": "日本网络栈好厉害，住进公寓连上 wifi 零配置就直接 dhcp 拿到了独立公网 ipv6... 据说是纯 v6 + 代理 v4 的模式\n\n与此同时，加拿大 bell 还完全不通 v6... 刚住进来在路由器设置里戳戳戳发现 WAN 上既没有 NAT 也没有 pppoe 才意识到 v6 时代已经不需要这些了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 285,
+    "views": 286,
     "forwards": 3
   },
   {
@@ -79139,7 +79139,7 @@
     "id": 5760,
     "date": "2025-07-01T11:54:21",
     "text": "小孩子真厉害\n\n在电车上有座位空出来了，但是旁边还有一个老奶奶\n我：（给旁边老奶奶打手势让她坐）\n她：没事没事你坐吧\n我：没事没事你坐吧\n然后一个小孩子从我们中间穿过来直接坐下 <i class=\"custom-emoji\" emoji-src=\"emoji/6334454888990248922.webp\">🏆</i>",
-    "views": 108,
+    "views": 111,
     "forwards": 0
   }
 ]
