@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-06-30T22:14:24.293754+00:00</updated>
+  <updated>2025-07-01T00:17:50.789966+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5759</id>
+    <title>小桂桂的回忆录 📒 #5759</title>
+    <updated>2025-06-30T22:17:55+00:00</updated>
+    <content>&lt;p&gt;思考&lt;/p&gt;
+&lt;p&gt;看到国内充电宝被安检扣的事情寻思，是不是可以做一个「交换充电宝」网页 app：过安检之前把充电宝存到寄存箱里提交到网页上，然后如果在飞行期间匹配到了目的地那边提交了类似的充电宝的人，就互相交换寄存箱取件码，这样下飞机之后就可以互相取出对方的充电宝用了&lt;/p&gt;
+&lt;p&gt;如果怕交换到更差的产品的话，也许可以提交的时候加上匹配要求的选项，比如说必须是同样容量/同样快充标准什么的&lt;/p&gt;
+&lt;p&gt;人多的话说不定可以任意人数交换，只要每个人的出发地和目的地能形成一个环 &lt;i class="custom-emoji" emoji-src="emoji/5114340437808645487.webm"&gt;🙁&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5759" rel="alternate"/>
+  </entry>
   <entry>
     <id>5756</id>
     <title>小桂桂的回忆录 📒 #5756</title>
