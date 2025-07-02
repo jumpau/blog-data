@@ -66377,7 +66377,7 @@
     "id": 4817,
     "date": "2024-12-30T11:57:32",
     "text": "<a href=\"##ADHD\">#ADHD</a> 边连视频听 menci syama lily 聊天边写代码边煮面，然后忘记自己在煮面了，十分钟过去了，煮出来一坨黏糕 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 154,
+    "views": 155,
     "forwards": 1,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5414,
+    "views": 5415,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72411,7 +72411,7 @@
     "id": 5243,
     "date": "2025-04-21T05:37:43",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n<del>芒果寿司</del> 🍣\n\n感谢 Jamie 送了蛋糕，发现这次中超的蛋糕甜味正好呢，北美超市的蛋糕都太甜了",
-    "views": 231,
+    "views": 232,
     "forwards": 0,
     "media_group_id": 13961710904473125,
     "images": [
@@ -72559,7 +72559,7 @@
     "id": 5254,
     "date": "2025-04-23T08:26:35",
     "text": "看来并不是所有光猫都这么容易破解...\n\n刚才在尝试用同样的方法破解 Bell GigaHub，拆开了机器、用示波器找到了 TTL 引脚的焊盘、焊上了线、打开了 UART 终端，然后发现虽然可以从这里看到它系统的输出，但是没办法输入指令，在 UBoot 阶段尝试中断也没有用... <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n因为家里跑的服务全都依赖这个路由器所以暂时放弃接回去了，下次买一台二手试试直接读写闪存好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 224,
+    "views": 225,
     "forwards": 1,
     "media_group_id": 13963174362310541,
     "images": [
@@ -72641,7 +72641,7 @@
     "id": 5261,
     "date": "2025-04-23T23:24:17",
     "text": "今天进城本来只是买东西交一下货，但是天气很好不太想回去，就在城里慢悠悠转来转去 qwq\n\n转进了一家批发商，似乎可以买到中餐馆常用的大面碗和打包盒，好奇妙，如果不是马上要离开了的话大概会买两个很好看的面碗回去",
-    "views": 239,
+    "views": 240,
     "forwards": 0,
     "media_group_id": 13963605258959221,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5964,
+    "views": 5965,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -79139,7 +79139,7 @@
     "id": 5760,
     "date": "2025-07-01T11:54:21",
     "text": "小孩子真厉害\n\n在电车上有座位空出来了，但是旁边还有一个老奶奶\n我：（给旁边老奶奶打手势让她坐）\n她：没事没事你坐吧\n我：没事没事你坐吧\n然后一个小孩子从我们中间穿过来直接坐下 <i class=\"custom-emoji\" emoji-src=\"emoji/6334454888990248922.webp\">🏆</i>",
-    "views": 123,
+    "views": 125,
     "forwards": 0
   }
 ]
