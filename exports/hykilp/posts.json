@@ -55958,7 +55958,7 @@
     "id": 4102,
     "date": "2024-07-05T17:24:36",
     "text": "折千纸鹤",
-    "views": 128,
+    "views": 129,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -56074,7 +56074,7 @@
     "id": 4111,
     "date": "2024-07-08T14:24:46",
     "text": "syama 精神状态 be like...",
-    "views": 110,
+    "views": 111,
     "forwards": 0,
     "images": [
       {
@@ -56094,7 +56094,7 @@
     "id": 4112,
     "date": "2024-07-08T23:07:46",
     "text": "人生第一次训练大语言模型 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 109,
+    "views": 110,
     "forwards": 0,
     "images": [
       {
@@ -56113,7 +56113,7 @@
     "id": 4113,
     "date": "2024-07-09T09:47:13",
     "text": "训练了一天 Qwen2-7B pretrain lora 之后似乎可以和 pjsk 的大家说话了！\n\n（虽然还有很多要优化，但是可行性通过了 quq",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "media_group_id": 13764147471161677,
     "images": [
@@ -56209,7 +56209,7 @@
     "id": 4120,
     "date": "2024-07-11T05:31:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\nAdo 的声线好疯！转粉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 103,
+    "views": 104,
     "forwards": 0,
     "files": [
       {
@@ -56231,7 +56231,7 @@
     "id": 4121,
     "date": "2024-07-11T07:14:30",
     "text": "给 maimai 手台买了一个漫步者 C2X 音响，它自带的功放 EQ 真的有大问题...\n\n拆开功放发现是 TDA7303 EQ + TDA7379 的廉价方案，感觉救不了，重新配了一个 DIY 功放\n\n这次用了两片 TPA3116D2 的方案，一片 50W * 2 给左右双声道，另一片 100W 单声道给低音炮，配了一个 24V 8A 电源，效果真的立竿见影\n\n今天给它画了一个壳子 3D 打印出来了，看起来也还不错呢 qwq",
-    "views": 99,
+    "views": 100,
     "forwards": 1,
     "media_group_id": 13765456567346213,
     "images": [
@@ -72940,7 +72940,7 @@
     "id": 5280,
     "date": "2025-04-27T10:07:17",
     "text": "整理了一下以前所有的乐谱开源出来了 qwq\n\n一个原因是因为 musescore 平台真的太过分，居然下载其他用户上传的谱子要收钱...\n\n另一个原因是，想要让项目文件不会丢失、让自己以后想得起来放在哪里的最好方法就是传到 GitHub 上，让世界帮我备份 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n<a href=\"https://github.com/hykilpikonna/Music\">GitHub 仓库在这里</a>",
-    "views": 652,
+    "views": 653,
     "forwards": 4,
     "images": [
       {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5962,
+    "views": 5963,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -76944,7 +76944,7 @@
     "id": 5582,
     "date": "2025-06-10T02:45:54",
     "text": "看看日本家电怎么接地 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<del>插头：竖起中指</del>",
-    "views": 268,
+    "views": 269,
     "forwards": 1,
     "images": [
       {
@@ -78736,14 +78736,14 @@
     "id": 5726,
     "date": "2025-06-26T15:52:25",
     "text": "原来 MrBeast 和野兽先辈不是同一个人吗",
-    "views": 268,
+    "views": 269,
     "forwards": 9
   },
   {
     "id": 5727,
     "date": "2025-06-27T06:19:48",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6170452310116797089.webm\">🌧</i>",
-    "views": 185,
+    "views": 186,
     "forwards": 0,
     "images": [
       {
@@ -78762,7 +78762,7 @@
     "id": 5728,
     "date": "2025-06-27T10:49:53",
     "text": "扭蛋大成功！一次就抽到了想要的（JP￥500",
-    "views": 187,
+    "views": 188,
     "forwards": 1,
     "media_group_id": 14008171148651357,
     "images": [
@@ -78792,7 +78792,7 @@
     "id": 5730,
     "date": "2025-06-27T11:29:48",
     "text": "谁想到的地狱营销... <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 180,
+    "views": 181,
     "forwards": 0,
     "images": [
       {
@@ -79132,14 +79132,14 @@
     "id": 5759,
     "date": "2025-06-30T22:17:55",
     "text": "思考\n\n看到国内充电宝被安检扣的事情寻思，是不是可以做一个「交换充电宝」网页 app：过安检之前把充电宝存到寄存箱里提交到网页上，然后如果在飞行期间匹配到了目的地那边提交了类似的充电宝的人，就互相交换寄存箱取件码，这样下飞机之后就可以互相取出对方的充电宝用了\n\n如果怕交换到更差的产品的话，也许可以提交的时候加上匹配要求的选项，比如说必须是同样容量/同样快充标准什么的\n\n人多的话说不定可以任意人数交换，只要每个人的出发地和目的地能形成一个环 <i class=\"custom-emoji\" emoji-src=\"emoji/5114340437808645487.webm\">🙁</i>",
-    "views": 157,
+    "views": 158,
     "forwards": 1
   },
   {
     "id": 5760,
     "date": "2025-07-01T11:54:21",
     "text": "小孩子真厉害\n\n在电车上有座位空出来了，但是旁边还有一个老奶奶\n我：（给旁边老奶奶打手势让她坐）\n她：没事没事你坐吧\n我：没事没事你坐吧\n然后一个小孩子从我们中间穿过来直接坐下 <i class=\"custom-emoji\" emoji-src=\"emoji/6334454888990248922.webp\">🏆</i>",
-    "views": 114,
+    "views": 117,
     "forwards": 0
   }
 ]
