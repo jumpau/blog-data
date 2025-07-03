@@ -16006,7 +16006,7 @@
     "id": 1268,
     "date": "2022-09-26T04:53:36",
     "text": "还没学到泊松分布，尝试用二项分布和一个无线趋近零的时间间隔估算概率居然真的算对了！\n\n数学好神奇",
-    "views": 58,
+    "views": 59,
     "forwards": 0,
     "images": [
       {
@@ -16025,7 +16025,7 @@
     "id": 1270,
     "date": "2022-09-26T15:21:59",
     "text": "？？",
-    "views": 57,
+    "views": 58,
     "forwards": 0,
     "media_group_id": 13313645755796797,
     "images": [
@@ -16055,7 +16055,7 @@
     "id": 1271,
     "date": "2022-09-26T21:59:57",
     "text": "打印了一个装卡的架子贴在门口了，以后出门就不会忘记带公交卡啦 qwq",
-    "views": 56,
+    "views": 57,
     "forwards": 0,
     "images": [
       {
@@ -16074,7 +16074,7 @@
     "id": 1272,
     "date": "2022-09-27T01:10:09",
     "text": "今天聊聊课上无聊做了一道 Leetcode，所以我也去看了一下这道题。题目让我写算法把 k 个排好序的链表合并成一个排好序的大链表\n\n我：先把所有链表转成数组，合并，调用 python 自带的排序函数，再转回链表\n\n...然后这个答案居然速度超过了 98% 的 python 提交？？？ 🌚\n\n嘛也合理，毕竟 python 自带的排序是 C 实现的，调用 native 二进制，当然会比用 python 写的最优算法快 🌚",
-    "views": 65,
+    "views": 66,
     "forwards": 1,
     "media_group_id": 13313928076129885,
     "images": [
@@ -16104,7 +16104,7 @@
     "id": 1274,
     "date": "2022-09-27T15:12:22",
     "text": "读了一下 Java 11 到 19 的新功能\n\n...怎么感觉 Java 四年加的功能还没有 Kotlin 一个月加的多 🌚",
-    "views": 67,
+    "views": 68,
     "forwards": 0,
     "images": [
       {
@@ -75174,7 +75174,7 @@
     "id": 5448,
     "date": "2025-05-21T14:32:33",
     "text": "来发明一下中文片假名，就用台湾注音吧\n\nFallback: ㄈㄡㄅㄟㄎ <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n“万一运营商断网了可以ㄈㄡㄅㄟㄎ到流量”",
-    "views": 351,
+    "views": 352,
     "forwards": 3,
     "images": [
       {
@@ -78267,14 +78267,14 @@
     "id": 5687,
     "date": "2025-06-24T03:34:08",
     "text": "想要无限暖暖私服 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 178,
+    "views": 179,
     "forwards": 0
   },
   {
     "id": 5688,
     "date": "2025-06-24T04:46:24",
     "text": "<a href=\"##摘下耳机\">#摘下耳机</a>\n昨晚去渋谷的时候买了这首歌的<a href=\"https://harumakigohan.com/ftr/\">初回限定盘</a>\n\n这个包装真的... 拆开包装的过程需要物理把封面上的这两位分开 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 巧妙得让我心痛\n\n<span class=\"spoiler\"><span>所以又多了一个理由不拆开包装</span></span>",
-    "views": 175,
+    "views": 176,
     "forwards": 0,
     "media_group_id": 14005923078412709,
     "images": [
@@ -78309,7 +78309,7 @@
     "id": 5690,
     "date": "2025-06-24T13:17:36",
     "text": "周日从京东回到东京之后和 menci 和谦谦开车再次去了江ノ島！\n\n这次也被吹成了强风大背头，因为强风的原因岩屋旁边下海的道路被封印了... 不过至少这次时间充足，看到了很多上次来没看到的风景 qwq\n\n站在悬崖上看着海浪打到岩石上溅出的水花好治愈！迎面而来的强风仿佛让整座岛变成了我的泰坦尼克，展开双臂感觉像是在飞一样 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>\n\n可惜岩屋排队的人太多了就没有进去，看看风景拍拍照片就往回走了",
-    "views": 165,
+    "views": 166,
     "forwards": 2,
     "media_group_id": 14006168449757829,
     "images": [
@@ -78419,7 +78419,7 @@
     "id": 5700,
     "date": "2025-06-24T13:37:23",
     "text": "原本以为楼梯被封印住就下不去海边了，但是找到了一条奇妙小路走下去摸到了海\n\n首先走了大鸟居前大交叉点右边一条没有多少人的小路，路中间遇到了一扇写着「西浦灵园」的栅栏，里面是墓地。到那里的时候栅栏正好没有关上，看起来是下坡路就走走看好了，结果还真的从这里走到了海边 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 真是好幸运\n\n回去的路上拍到了超好看的日落！人生照片有了 <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n还看到了超大蜗牛，不过拍照的时候被蚊子吸了三口，有点后悔停下来拍它 <i class=\"custom-emoji\" emoji-src=\"emoji/6170293817233638918.webm\">😐</i>\n\n总之巨大满足！果然去人多的旅游景点还是应该走些大家少走的路 qwq",
-    "views": 189,
+    "views": 190,
     "forwards": 2,
     "media_group_id": 14006177944243765,
     "images": [
@@ -78571,7 +78571,7 @@
     "id": 5712,
     "date": "2025-06-26T07:15:36",
     "text": "啊 好像有很重要的事情忘记写了。去宇治的时候吃到了巨量抹茶粉的抹茶芭菲！超好吃！我已经完全是楽奈了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n互相交换了一两口各自点的甜点，这里的抹茶芭菲还是年轮蛋糕还是冰淇淋都超好吃！\n\n不过抹茶本茶超苦... 原本以为在冲绳吃的炒苦瓜已经够苦了，居然还有比它更苦的东西存在 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 是叶公好茶了... 感觉抹茶还是适合作为原料放在甜品里呢",
-    "views": 191,
+    "views": 192,
     "forwards": 0,
     "media_group_id": 14007377093947061,
     "images": [
@@ -79025,14 +79025,14 @@
     "id": 5750,
     "date": "2025-06-29T03:50:15",
     "text": "...回到家之后在 25.5h 的时间里总共睡了 22h，我真能睡 <i class=\"custom-emoji\" emoji-src=\"emoji/5470101637022358666.webp\">😵</i><i class=\"custom-emoji\" emoji-src=\"emoji/5469635259408587569.webp\">🙃</i><i class=\"custom-emoji\" emoji-src=\"emoji/5470023348358488780.webp\">😵</i><i class=\"custom-emoji\" emoji-src=\"emoji/5469815716754497752.webp\">😶</i>",
-    "views": 185,
+    "views": 186,
     "forwards": 0
   },
   {
     "id": 5751,
     "date": "2025-06-29T14:31:12",
     "text": "见到了 Hanako 和 k<span class=\"spoiler\"><span>s</span></span>y<span class=\"spoiler\"><span>x</span></span>\n\n一起去了某 happy sugar life 十周年活动，想起来我第一次看这部番的时候是和前前任子兰看的，当时真的有投入感情进去也真的有被结局伤害到...\n\n还去了某百合 lgbt bar，有一整墙百合漫画，可惜改成只有中午可以借漫画读了。以及因为是二维码点餐所以不知道大家都点了什么... 饮料上来发现居然只有我点了酒，感觉有被背叛 <i class=\"custom-emoji\" emoji-src=\"emoji/6170121034994288479.webm\">😝</i>",
-    "views": 169,
+    "views": 171,
     "forwards": 0,
     "media_group_id": 14009659780263989,
     "images": [
@@ -79092,7 +79092,7 @@
     "id": 5756,
     "date": "2025-06-30T19:46:21",
     "text": "下单了我的第一台相机\n\n两年前想要买相机的时候觉得相机太重了大概率会吃灰... 所以当时买了一个摄影还不错的手机 Mi 11 Ultra，主要因为有全能的三个焦段和背屏预览，也是当时少数有等效 120mm 长焦和大传感器的手机，但是最近感觉经常碰到手机的瓶颈...\n\n比如因为实际焦距短没有背景模糊，之前<a href=\"https://t.me/azaneko/5671\">千本鸟居前面拍 menci</a> 的时候背景模糊其实是后期手动用 AI 加上的... 首先不好看，其次看边缘一眼就能看出破绽 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n又或者是<a href=\"https://t.me/azaneko/5641\">拍星空的时候</a>即使低 ISO 长曝光也有奇怪噪点。旁边マモルさん用最新最热 iPhone 16 Pro 长曝光还出现了奇怪色块的问题，所以感觉并不是换一个拍照更好的手机可以解决的...\n\n不过作为第一款相机，比起画质还是更想要不太贵、不太重、焦距万能，所以选择了 APSC 的索尼 a6700 和大变焦头 Tamron 18-300mm F/3.5-6.3 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> \n\n...虽然知道作为变焦头锐度会差光圈也小，但是打算尝试了不同的构图看看自己最喜欢哪个焦距怎样拍再买一个画质更好的定焦头 qwq",
-    "views": 163,
+    "views": 165,
     "forwards": 2,
     "media_group_id": 14010502253458053,
     "images": [
@@ -79132,21 +79132,21 @@
     "id": 5759,
     "date": "2025-06-30T22:17:55",
     "text": "思考\n\n看到国内充电宝被安检扣的事情寻思，是不是可以做一个「交换充电宝」网页 app：过安检之前把充电宝存到寄存箱里提交到网页上，然后如果在飞行期间匹配到了目的地那边提交了类似的充电宝的人，就互相交换寄存箱取件码，这样下飞机之后就可以互相取出对方的充电宝用了\n\n如果怕交换到更差的产品的话，也许可以提交的时候加上匹配要求的选项，比如说必须是同样容量/同样快充标准什么的\n\n人多的话说不定可以任意人数交换，只要每个人的出发地和目的地能形成一个环 <i class=\"custom-emoji\" emoji-src=\"emoji/5114340437808645487.webm\">🙁</i>",
-    "views": 179,
+    "views": 181,
     "forwards": 1
   },
   {
     "id": 5760,
     "date": "2025-07-01T11:54:21",
     "text": "小孩子真厉害\n\n在电车上有座位空出来了，但是旁边还有一个老奶奶\n我：（给旁边老奶奶打手势让她坐）\n她：没事没事你坐吧\n我：没事没事你坐吧\n然后一个小孩子从我们中间穿过来直接坐下 <i class=\"custom-emoji\" emoji-src=\"emoji/6334454888990248922.webp\">🏆</i>",
-    "views": 159,
+    "views": 163,
     "forwards": 0
   },
   {
     "id": 5761,
     "date": "2025-07-03T09:35:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n♪ Don't you tell me that it wasn't meant to be\n♪ Call it quits, call it destiny\n♪ Just because it won't come easily\n♪ Doesn't mean we shouldn't try\n<i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 101,
+    "views": 120,
     "forwards": 1,
     "files": [
       {
@@ -79168,7 +79168,7 @@
     "id": 5762,
     "date": "2025-07-03T12:57:48",
     "text": "买酒精汽水没有被查 ID 才真的感受到自己又长大了一岁",
-    "views": 77,
+    "views": 101,
     "forwards": 0,
     "images": [
       {
