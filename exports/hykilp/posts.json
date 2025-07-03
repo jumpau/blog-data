@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5969,
+    "views": 5971,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -78552,7 +78552,7 @@
     "id": 5711,
     "date": "2025-06-25T05:34:31",
     "text": "\"If you plan on forgetting your password\" <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 210,
+    "views": 211,
     "forwards": 3,
     "images": [
       {
@@ -79139,14 +79139,14 @@
     "id": 5760,
     "date": "2025-07-01T11:54:21",
     "text": "小孩子真厉害\n\n在电车上有座位空出来了，但是旁边还有一个老奶奶\n我：（给旁边老奶奶打手势让她坐）\n她：没事没事你坐吧\n我：没事没事你坐吧\n然后一个小孩子从我们中间穿过来直接坐下 <i class=\"custom-emoji\" emoji-src=\"emoji/6334454888990248922.webp\">🏆</i>",
-    "views": 164,
+    "views": 165,
     "forwards": 0
   },
   {
     "id": 5761,
     "date": "2025-07-03T09:35:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n♪ Don't you tell me that it wasn't meant to be\n♪ Call it quits, call it destiny\n♪ Just because it won't come easily\n♪ Doesn't mean we shouldn't try\n<i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 127,
+    "views": 131,
     "forwards": 1,
     "files": [
       {
@@ -79168,7 +79168,7 @@
     "id": 5762,
     "date": "2025-07-03T12:57:48",
     "text": "买酒精汽水没有被查 ID 才真的感受到自己又长大了一岁",
-    "views": 112,
+    "views": 116,
     "forwards": 0,
     "images": [
       {
