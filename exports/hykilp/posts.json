@@ -70830,7 +70830,7 @@
     "id": 5121,
     "date": "2025-04-04T13:32:11",
     "text": "今天早上醒过来发现服务器网页宕了，为什么呢？赶紧起床看看\n\n起床很快发现问题是 DDNS 没有更新，为什么没有更新呢？明明 cloudflare-ddns 在跑\n\n...用 py-spy 看了一眼它在干什么，发现它卡在了 SSL 握手，居然没有任何的超时重试机制，从 3 月 26 日一直卡到现在 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n换成 ddns-go 了，果然这种需要稳定性的东西不应该用灵车 python",
-    "views": 245,
+    "views": 246,
     "forwards": 1,
     "images": [
       {
@@ -79132,21 +79132,21 @@
     "id": 5759,
     "date": "2025-06-30T22:17:55",
     "text": "思考\n\n看到国内充电宝被安检扣的事情寻思，是不是可以做一个「交换充电宝」网页 app：过安检之前把充电宝存到寄存箱里提交到网页上，然后如果在飞行期间匹配到了目的地那边提交了类似的充电宝的人，就互相交换寄存箱取件码，这样下飞机之后就可以互相取出对方的充电宝用了\n\n如果怕交换到更差的产品的话，也许可以提交的时候加上匹配要求的选项，比如说必须是同样容量/同样快充标准什么的\n\n人多的话说不定可以任意人数交换，只要每个人的出发地和目的地能形成一个环 <i class=\"custom-emoji\" emoji-src=\"emoji/5114340437808645487.webm\">🙁</i>",
-    "views": 189,
+    "views": 190,
     "forwards": 1
   },
   {
     "id": 5760,
     "date": "2025-07-01T11:54:21",
     "text": "小孩子真厉害\n\n在电车上有座位空出来了，但是旁边还有一个老奶奶\n我：（给旁边老奶奶打手势让她坐）\n她：没事没事你坐吧\n我：没事没事你坐吧\n然后一个小孩子从我们中间穿过来直接坐下 <i class=\"custom-emoji\" emoji-src=\"emoji/6334454888990248922.webp\">🏆</i>",
-    "views": 172,
+    "views": 173,
     "forwards": 0
   },
   {
     "id": 5761,
     "date": "2025-07-03T09:35:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n♪ Don't you tell me that it wasn't meant to be\n♪ Call it quits, call it destiny\n♪ Just because it won't come easily\n♪ Doesn't mean we shouldn't try\n<i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 144,
+    "views": 145,
     "forwards": 1,
     "files": [
       {
@@ -79168,7 +79168,7 @@
     "id": 5762,
     "date": "2025-07-03T12:57:48",
     "text": "买酒精汽水没有被查 ID 才真的感受到自己又长大了一岁",
-    "views": 134,
+    "views": 136,
     "forwards": 0,
     "images": [
       {
