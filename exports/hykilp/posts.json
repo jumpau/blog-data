@@ -26168,7 +26168,7 @@
     "id": 1960,
     "date": "2023-03-20T08:29:55",
     "text": "刚才提交完 PCB 写了一半邮件半睡半梦游地累瘫在床上，和聊聊开玩笑说没力气动了你拖我过去刷牙吧，然后聊聊真的答应了！被一路公主抱过去了！！啊啊第一次被公主抱，不知道是哪里戳到我了一样，头顶一直在冒小爱心（x）好想在脑海里让这个感觉无限回放...\n\n然后聊聊试了帮我刷牙，好痒好痒差点把牙膏吞进去了呜。明明自己刷同样的位置不会觉得痒的，人的感官真的好奇怪",
-    "views": 236,
+    "views": 237,
     "forwards": 4
   },
   {
@@ -55643,7 +55643,7 @@
     "id": 4080,
     "date": "2024-06-30T18:14:45",
     "text": "咦？",
-    "views": 128,
+    "views": 129,
     "forwards": 0,
     "media_group_id": 13758170287463165,
     "images": [
@@ -55807,7 +55807,7 @@
     "id": 4091,
     "date": "2024-07-02T19:32:08",
     "text": "刚才在想日语的事情，然后想要喝水，边起身边想着: みず（mizu，水）... mizuki? みずき... 水木？mizuki 确实也可以写作水木诶，不过这个名字怎么这么眼熟？从哪里来的来着？查查好了\n\n然后发现是小时候父亲电脑上经常打开的水木清华 bbs <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>\n\n脑回路乱弹",
-    "views": 128,
+    "views": 129,
     "forwards": 0,
     "forwarded_from": {
       "name": "废纸篓"
@@ -55829,7 +55829,7 @@
     "id": 4092,
     "date": "2024-07-03T11:22:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\nJust be friends <i class=\"custom-emoji\" emoji-src=\"emoji/6323595626823025961.webp\">🥰</i>",
-    "views": 136,
+    "views": 137,
     "forwards": 1,
     "files": [
       {
@@ -55851,7 +55851,7 @@
     "id": 4093,
     "date": "2024-07-04T09:37:13",
     "text": "因为市场上买不到正品 PL2303 串口板就自己画了一个买元件自己焊了\n\n第一次焊 0805 贴片大小的元件，不过焊几个就熟练了，感谢群友 yangff 超耐心教教 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>",
-    "views": 130,
+    "views": 131,
     "forwards": 0,
     "media_group_id": 13760686667457349,
     "images": [
@@ -55958,7 +55958,7 @@
     "id": 4102,
     "date": "2024-07-05T17:24:36",
     "text": "折千纸鹤",
-    "views": 130,
+    "views": 131,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -55981,7 +55981,7 @@
     "id": 4103,
     "date": "2024-07-06T19:20:37",
     "text": "发一些最近可能有趣的照片",
-    "views": 114,
+    "views": 115,
     "forwards": 1,
     "media_group_id": 13762349096239221,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5974,
+    "views": 5976,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -75243,7 +75243,7 @@
     "id": 5453,
     "date": "2025-05-23T02:14:49",
     "text": "哇 居然已经 30 年了，Java 生日快乐！\n\n<del>感觉 JVM 生态能活到现在完全是靠 Minecraft 和安卓这两个社区...</del>",
-    "views": 472,
+    "views": 475,
     "forwards": 11,
     "images": [
       {
@@ -78915,7 +78915,7 @@
     "id": 5740,
     "date": "2025-06-28T01:30:45",
     "text": "之后去旁边的无料场所用便携燃气锅烤了肉。虽然没带帐篷，不过只是野餐露营也好棒！<i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>\n\n头顶上老鹰飞过去的时候好害怕，感觉下一秒锅里的食物就要被叼走了（虽然我也不介意毕竟食材买多了）\n\n（其实原本想去露营场烤肉的，但是露营场七点半才开门太晚了。以及肉肉买了三人份的，可惜某人原本说想去但是咕咕了，结果我和半喵只吃掉了一份半，浪费掉了剩下的一份半）\n\n以及以为最近这里人会多，但是实际上和我同样在这片无料场地的只有两个人，搭好帐篷之后都去划船了 quq\n\n之后急忙收拾了一下赶回家啦，因为租车用的「夜间折扣」最晚 9:00 所以晚一分钟就要多交一倍的价格... 不过最后勉强赶上啦，8:57 还车了",
-    "views": 178,
+    "views": 179,
     "forwards": 0,
     "media_group_id": 14008593961664293,
     "images": [
@@ -79025,14 +79025,14 @@
     "id": 5750,
     "date": "2025-06-29T03:50:15",
     "text": "...回到家之后在 25.5h 的时间里总共睡了 22h，我真能睡 <i class=\"custom-emoji\" emoji-src=\"emoji/5470101637022358666.webp\">😵</i><i class=\"custom-emoji\" emoji-src=\"emoji/5469635259408587569.webp\">🙃</i><i class=\"custom-emoji\" emoji-src=\"emoji/5470023348358488780.webp\">😵</i><i class=\"custom-emoji\" emoji-src=\"emoji/5469815716754497752.webp\">😶</i>",
-    "views": 194,
+    "views": 195,
     "forwards": 0
   },
   {
     "id": 5751,
     "date": "2025-06-29T14:31:12",
     "text": "见到了 Hanako 和 k<span class=\"spoiler\"><span>s</span></span>y<span class=\"spoiler\"><span>x</span></span>\n\n一起去了某 happy sugar life 十周年活动，想起来我第一次看这部番的时候是和前前任子兰看的，当时真的有投入感情进去也真的有被结局伤害到...\n\n还去了某百合 lgbt bar，有一整墙百合漫画，可惜改成只有中午可以借漫画读了。以及因为是二维码点餐所以不知道大家都点了什么... 饮料上来发现居然只有我点了酒，感觉有被背叛 <i class=\"custom-emoji\" emoji-src=\"emoji/6170121034994288479.webm\">😝</i>",
-    "views": 177,
+    "views": 178,
     "forwards": 0,
     "media_group_id": 14009659780263989,
     "images": [
@@ -79092,7 +79092,7 @@
     "id": 5756,
     "date": "2025-06-30T19:46:21",
     "text": "下单了我的第一台相机\n\n两年前想要买相机的时候觉得相机太重了大概率会吃灰... 所以当时买了一个摄影还不错的手机 Mi 11 Ultra，主要因为有全能的三个焦段和背屏预览，也是当时少数有等效 120mm 长焦和大传感器的手机，但是最近感觉经常碰到手机的瓶颈...\n\n比如因为实际焦距短没有背景模糊，之前<a href=\"https://t.me/azaneko/5671\">千本鸟居前面拍 menci</a> 的时候背景模糊其实是后期手动用 AI 加上的... 首先不好看，其次看边缘一眼就能看出破绽 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>\n\n又或者是<a href=\"https://t.me/azaneko/5641\">拍星空的时候</a>即使低 ISO 长曝光也有奇怪噪点。旁边マモルさん用最新最热 iPhone 16 Pro 长曝光还出现了奇怪色块的问题，所以感觉并不是换一个拍照更好的手机可以解决的...\n\n不过作为第一款相机，比起画质还是更想要不太贵、不太重、焦距万能，所以选择了 APSC 的索尼 a6700 和大变焦头 Tamron 18-300mm F/3.5-6.3 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i> \n\n...虽然知道作为变焦头锐度会差光圈也小，但是打算尝试了不同的构图看看自己最喜欢哪个焦距怎样拍再买一个画质更好的定焦头 qwq",
-    "views": 172,
+    "views": 174,
     "forwards": 2,
     "media_group_id": 14010502253458053,
     "images": [
@@ -79132,21 +79132,21 @@
     "id": 5759,
     "date": "2025-06-30T22:17:55",
     "text": "思考\n\n看到国内充电宝被安检扣的事情寻思，是不是可以做一个「交换充电宝」网页 app：过安检之前把充电宝存到寄存箱里提交到网页上，然后如果在飞行期间匹配到了目的地那边提交了类似的充电宝的人，就互相交换寄存箱取件码，这样下飞机之后就可以互相取出对方的充电宝用了\n\n如果怕交换到更差的产品的话，也许可以提交的时候加上匹配要求的选项，比如说必须是同样容量/同样快充标准什么的\n\n人多的话说不定可以任意人数交换，只要每个人的出发地和目的地能形成一个环 <i class=\"custom-emoji\" emoji-src=\"emoji/5114340437808645487.webm\">🙁</i>",
-    "views": 190,
+    "views": 193,
     "forwards": 1
   },
   {
     "id": 5760,
     "date": "2025-07-01T11:54:21",
     "text": "小孩子真厉害\n\n在电车上有座位空出来了，但是旁边还有一个老奶奶\n我：（给旁边老奶奶打手势让她坐）\n她：没事没事你坐吧\n我：没事没事你坐吧\n然后一个小孩子从我们中间穿过来直接坐下 <i class=\"custom-emoji\" emoji-src=\"emoji/6334454888990248922.webp\">🏆</i>",
-    "views": 174,
+    "views": 176,
     "forwards": 0
   },
   {
     "id": 5761,
     "date": "2025-07-03T09:35:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n♪ Don't you tell me that it wasn't meant to be\n♪ Call it quits, call it destiny\n♪ Just because it won't come easily\n♪ Doesn't mean we shouldn't try\n<i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 145,
+    "views": 147,
     "forwards": 1,
     "files": [
       {
@@ -79168,7 +79168,7 @@
     "id": 5762,
     "date": "2025-07-03T12:57:48",
     "text": "买酒精汽水没有被查 ID 才真的感受到自己又长大了一岁",
-    "views": 136,
+    "views": 139,
     "forwards": 0,
     "images": [
       {
