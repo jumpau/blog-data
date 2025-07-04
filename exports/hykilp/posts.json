@@ -35717,7 +35717,7 @@
     "id": 2674,
     "date": "2023-09-19T23:25:28",
     "text": "翻页踏板！\n\n把新室友猪猪的琴架起来了，加了一个专门用来显示谱子的屏幕和树莓派小电脑。然后做了一个踩一下会让屏幕向下滚动的踏板，再也不用担心弹着琴没有手翻谱子了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "media_group_id": 13561327431663349,
     "files": [
@@ -35762,14 +35762,14 @@
     "id": 2677,
     "date": "2023-09-20T05:30:09",
     "text": "和聊聊学日语。\n\n例句：いろいろ欲しいです\n<del>我：意思是“想要色色”吗？</del>",
-    "views": 94,
+    "views": 95,
     "forwards": 0
   },
   {
     "id": 2678,
     "date": "2023-09-20T13:39:37",
     "text": "Counter protest 居然这么多人，<del>有点心疼皇后火花的草地</del>",
-    "views": 90,
+    "views": 91,
     "forwards": 1,
     "images": [
       {
@@ -35788,7 +35788,7 @@
     "id": 2679,
     "date": "2023-09-20T15:21:44",
     "text": "<del>养成反刻板好习惯</del>",
-    "views": 98,
+    "views": 99,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -35811,7 +35811,7 @@
     "id": 2680,
     "date": "2023-09-21T21:20:47",
     "text": "今天去 Victoria 年度旧书市场的收益 qwq",
-    "views": 98,
+    "views": 99,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -35834,7 +35834,7 @@
     "id": 2681,
     "date": "2023-09-22T03:41:02",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n炸薯条！炒芹菜！",
-    "views": 107,
+    "views": 108,
     "forwards": 1,
     "media_group_id": 13562832499629085,
     "images": [
@@ -36723,7 +36723,7 @@
     "id": 2739,
     "date": "2023-10-08T21:17:13",
     "text": "收好线才发现下意识用了某<span class=\"spoiler\"><span>《绳缚本事》</span></span>教的收绳手法 🌚",
-    "views": 108,
+    "views": 109,
     "forwards": 1,
     "images": [
       {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2628,
+    "views": 2630,
     "forwards": 29,
     "images": [
       {
@@ -70699,7 +70699,7 @@
     "id": 5113,
     "date": "2025-04-02T07:37:42",
     "text": "Discord 愚人节摸草小游戏好玩喵",
-    "views": 271,
+    "views": 272,
     "forwards": 0,
     "images": [
       {
@@ -70718,7 +70718,7 @@
     "id": 5114,
     "date": "2025-04-02T07:48:08",
     "text": "这个网页做得好安全，从弹窗里打开 devtools 完全找不到游戏的 js 代码... 脚本似乎是通过弹窗加载之后回调给主窗口然后主窗口注入进来的，奇妙\n\n弹窗里无论断点打在哪里都没办法暂停进 js 源码，因为这个窗口里没有源码，主窗口里有源码但是又没办法通过断点很方便地找到调用的地方... 这样反调试好聪明\n\n最后找到了存档位置（是 localStorage.ClickerGameStore）然后通过改存档通关了 qwq <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（以及发现 discord 客户端居然把 localStorage 全局变量删掉了... 确实能防止其他脚本读到 localStorage，私货好多啊",
-    "views": 278,
+    "views": 279,
     "forwards": 2,
     "reply": {
       "id": 5113,
@@ -70729,7 +70729,7 @@
     "id": 5115,
     "date": "2025-04-02T15:11:19",
     "text": "今日热搜",
-    "views": 552,
+    "views": 553,
     "forwards": 6,
     "images": [
       {
@@ -70748,7 +70748,7 @@
     "id": 5116,
     "date": "2025-04-03T22:30:25",
     "text": "北美的浪费真是越来越离谱了\n\n今天邮箱里收到了一本广告<em>书</em>，一本 905 页的，1.3kg 重的书，每页都是全彩广告...",
-    "views": 248,
+    "views": 249,
     "forwards": 3,
     "media_group_id": 13949755399931837,
     "images": [
@@ -70788,7 +70788,7 @@
     "id": 5119,
     "date": "2025-04-04T05:17:38",
     "text": "好奇妙 bug，开模糊输入之后同时可以正确输入和模糊输入的时候它会先 match 错误的模糊输入",
-    "views": 240,
+    "views": 241,
     "forwards": 0,
     "files": [
       {
@@ -70810,7 +70810,7 @@
     "id": 5120,
     "date": "2025-04-04T06:14:53",
     "text": "今天去看了 Minecraft 电影，总之是有些失望。写了影评，<a href=\"https://aza.moe/blog?post=2025-04-04-Minecraft-Movie\">链接在这里</a>感兴趣的话可以去读读（剧透警告）",
-    "views": 260,
+    "views": 261,
     "forwards": 3,
     "images": [
       {
@@ -70830,7 +70830,7 @@
     "id": 5121,
     "date": "2025-04-04T13:32:11",
     "text": "今天早上醒过来发现服务器网页宕了，为什么呢？赶紧起床看看\n\n起床很快发现问题是 DDNS 没有更新，为什么没有更新呢？明明 cloudflare-ddns 在跑\n\n...用 py-spy 看了一眼它在干什么，发现它卡在了 SSL 握手，居然没有任何的超时重试机制，从 3 月 26 日一直卡到现在 <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n\n换成 ddns-go 了，果然这种需要稳定性的东西不应该用灵车 python",
-    "views": 246,
+    "views": 247,
     "forwards": 1,
     "images": [
       {
@@ -70849,7 +70849,7 @@
     "id": 5122,
     "date": "2025-04-05T04:26:43",
     "text": "因为驾照要过期了，约了 G 牌驾考，为此租了一辆车练习考试... 但是又觉得只是练车太浪费了，就临时计划了一次「练车旅行」——有了车就去一些平时的公共交通去不到的地方吧 qwq\n\n今天拿到了车，接上 Henry、豆腐、猫猫球一起去了沙滩。气氛好棒，好久没有这么放松了，什么都不用想不用做只要在湖风中散步就很开心... 如果我有车肯定每天都会来\n\n见到了超大只鹅🦢（身上带着标签，可能是研究样本吗）还拍了很多也许可以捕捉心情的照片",
-    "views": 219,
+    "views": 220,
     "forwards": 0,
     "media_group_id": 13950617626814517,
     "images": [
@@ -70929,7 +70929,7 @@
     "id": 5129,
     "date": "2025-04-05T04:41:26",
     "text": "还看到了一个很独特的海鸥，长着斑点，拍下来了它在一群海鸥中心向反方向看的样子简直帅爆 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i> 回家把照片做了一下高亮模糊感觉好棒\n\n以及在一片枯树枝中间看到了一根长了亮蓝色的果子的叶子，走进点发现是谁把假花放上去了，被骗了喵（不过谁放的创意不错 quq",
-    "views": 227,
+    "views": 228,
     "forwards": 1,
     "media_group_id": 13950624695747709,
     "images": [
@@ -70959,7 +70959,7 @@
     "id": 5131,
     "date": "2025-04-06T01:35:56",
     "text": "<del>什么时候能让 gen ai 给我生成一杯能喝的饮料和一只能摸的猫</del>",
-    "views": 208,
+    "views": 209,
     "forwards": 0,
     "media_group_id": 13951226849011181,
     "images": [
@@ -70989,7 +70989,7 @@
     "id": 5133,
     "date": "2025-04-06T01:53:22",
     "text": "今天去了猫咖，之后去吃了拉面\n\n猫猫好，感觉看着睡觉的猫猫自己也困困了，好想藏在车里睡一觉（如果车可以一键遮住所有窗户就好了）\n\n不过这里人太多了有点吵，下次不选这么人气的地方了 quq",
-    "views": 198,
+    "views": 199,
     "forwards": 0,
     "media_group_id": 13951235220642453,
     "images": [
@@ -71089,7 +71089,7 @@
     "id": 5142,
     "date": "2025-04-07T02:41:41",
     "text": "<a href=\"##adhd\">#adhd</a> <a href=\"##戴上耳机\">#戴上耳机</a> 在高速上没有开车的两只手和一只脚在干什么 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n（当然这段是回家之后录的",
-    "views": 201,
+    "views": 202,
     "forwards": 0,
     "files": [
       {
@@ -71112,7 +71112,7 @@
     "id": 5143,
     "date": "2025-04-07T04:36:12",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n又敲了敲各种地方发现这也许可以当作一个完整的架子鼓哇，敲点不那么简单的 quq\n\n（曲子是 Cavetown 的 <em>Sweet Tooth</em>，记得两年前超喜欢这首，在西雅图实习的闲时去 Guitar Center 白嫖钢琴弹的时候弹累了去那边的鼓上练过这段，居然现在还没有忘记 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 211,
+    "views": 212,
     "forwards": 1,
     "reply": {
       "id": 5142,
@@ -71139,14 +71139,14 @@
     "id": 5144,
     "date": "2025-04-07T06:53:42",
     "text": "聊聊：所以刚才你说对不起是对不起什么？\n我：诶我有说嘛？（忘了）\n聊聊：有啊\n我：思考... 那就是对不起床的猫猫说晚安 <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 208,
+    "views": 209,
     "forwards": 0
   },
   {
     "id": 5145,
     "date": "2025-04-07T15:02:37",
     "text": "驾考考完啦，过了！（差一点点就没过 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n考场前面一条超宽敞大路上面写了一个限速 30kmh 就好莫名其妙\n\n然后考官：“虽然这里写了 30 但是你还是开 40 吧, keep up with local traffic” 🌚",
-    "views": 207,
+    "views": 208,
     "forwards": 1,
     "media_group_id": 13952305263086333,
     "images": [
@@ -71176,7 +71176,7 @@
     "id": 5147,
     "date": "2025-04-07T18:38:56",
     "text": "考完看离还车的时间还有三小时，就绕远去了一趟 Cosmo，原本想去敲敲鼓，但是发现 Cosmo 这么大的店居然一套架好的鼓都没有，和两年前来这里相比像是要倒闭了一样...\n\n还是绕回来去 Just Drums 了，感谢店员让我乱敲 quq\n\n（然后敲爽了忘了看时间，还车晚了半小时 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 还好租车店的店员好心没多扣钱",
-    "views": 198,
+    "views": 199,
     "forwards": 0,
     "media_group_id": 13952409091788829,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5422,
+    "views": 5423,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5973,
+    "views": 5974,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -79139,7 +79139,7 @@
     "id": 5760,
     "date": "2025-07-01T11:54:21",
     "text": "小孩子真厉害\n\n在电车上有座位空出来了，但是旁边还有一个老奶奶\n我：（给旁边老奶奶打手势让她坐）\n她：没事没事你坐吧\n我：没事没事你坐吧\n然后一个小孩子从我们中间穿过来直接坐下 <i class=\"custom-emoji\" emoji-src=\"emoji/6334454888990248922.webp\">🏆</i>",
-    "views": 173,
+    "views": 174,
     "forwards": 0
   },
   {
