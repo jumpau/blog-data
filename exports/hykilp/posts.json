@@ -69064,7 +69064,7 @@
     "id": 5000,
     "date": "2025-03-08T16:44:43",
     "text": "今天出门去了超市，买到了劲爆半价奶茶、买到了最后两盒平时都缺货的鸡皮、还被送了一捆花花，好开心 qwq",
-    "views": 195,
+    "views": 196,
     "forwards": 0,
     "media_group_id": 13931618270673901,
     "images": [
@@ -69165,7 +69165,7 @@
     "id": 5008,
     "date": "2025-03-09T16:40:06",
     "text": "今天最新最热中二 verse 公开漏了，熬夜给 verse 加了 day 1 支持 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n虽然说其实之前一直都有人有 verse 的私有数据，总是能看到别人发截图，也有人过来让我加 verse 的功能... 但是总感觉作为开放开源服务器，给大家拿不到的版本做支持不太好，所以还是等到所有人都能拿到的时候才做支持啦 qwq",
-    "views": 255,
+    "views": 256,
     "forwards": 0,
     "media_group_id": 13932307255524245,
     "images": [
@@ -69195,7 +69195,7 @@
     "id": 5010,
     "date": "2025-03-10T01:58:09",
     "text": "呜呜呜呜呜 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 263,
+    "views": 264,
     "forwards": 0,
     "reply": {
       "id": 5006,
@@ -69218,7 +69218,7 @@
     "id": 5011,
     "date": "2025-03-10T14:41:15",
     "text": "发现自己 Arch 上有好多没用到的包，所以写了一个 <a href=\"https://github.com/hykilpikonna/zshrc/blob/master/scripts/bin/pacman-clean-unused.py\">python 脚本</a> 列出所有没用的包然后一个个问我要不要删\n\n总共删掉了 239 个包清出来 1.7GB，其中包含七个版本的 electron... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 236,
+    "views": 237,
     "forwards": 2,
     "images": [
       {
@@ -69237,7 +69237,7 @@
     "id": 5012,
     "date": "2025-03-11T04:50:09",
     "text": "好讨厌 Meta...\n\n今天拿起来 Quest 3 发现系统自动更新了，更新之后没办法打开第三方输入法了，打开微信输入法还会直接让系统卡死自动重启... 系统自带的输入法还不支持中文，不知道怎么办\n\n以及 UI 也被大改了... 主观觉得新 UI 的这个渐变像是十年前流行的设计",
-    "views": 282,
+    "views": 283,
     "forwards": 1,
     "reply": {
       "id": 4849,
@@ -69261,7 +69261,7 @@
     "id": 5013,
     "date": "2025-03-11T14:37:48",
     "text": "有一瞬间以为自己被 prompt inject 了",
-    "views": 405,
+    "views": 406,
     "forwards": 3,
     "images": [
       {
@@ -69339,7 +69339,7 @@
   {
     "id": 5019,
     "date": "2025-03-13T04:43:20",
-    "views": 286,
+    "views": 287,
     "forwards": 3,
     "images": [
       {
@@ -69358,7 +69358,7 @@
     "id": 5020,
     "date": "2025-03-13T05:32:56",
     "text": "至少 AquaDX 在用的这套 JVM 老框架没有在 Hello world 吞吐量上输给 Bun JS...",
-    "views": 296,
+    "views": 297,
     "forwards": 0,
     "media_group_id": 13934751814323477,
     "images": [
@@ -69388,14 +69388,14 @@
     "id": 5022,
     "date": "2025-03-14T18:48:15",
     "text": "syama: 最近一个节日是什么，要不要加一些节日彩蛋\n我: 清明节 🌚",
-    "views": 235,
+    "views": 236,
     "forwards": 0
   },
   {
     "id": 5023,
     "date": "2025-03-15T08:40:10",
     "text": "因为植树节结束就把频道树封印了，感谢大家参与~\n\n源码和数据推到 Github 上啦，在读我上分发了一些很随意的奖项，<a href=\"https://github.com/hykilpikonna/ChannelTree\">仓库在这里</a> 欢迎参观 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 343,
+    "views": 344,
     "forwards": 7,
     "media_group_id": 13936224081120941,
     "images": [
@@ -70072,7 +70072,7 @@
     "id": 5071,
     "date": "2025-03-25T18:02:46",
     "text": "给 syama 写了一个 WebNFC 读卡器\n\n其实就是没有物理读卡器的时候用来给街机音游刷卡的小工具，原理是写卡号文件然后模拟按回车，没什么技术含量，感觉可能会有人需要就开源啦 qwq\n\n<a href=\"https://github.com/MaigoLabs/AimeWeb\">https://github.com/MaigoLabs/AimeWeb</a>",
-    "views": 193,
+    "views": 194,
     "forwards": 2,
     "images": [
       {
@@ -79146,7 +79146,7 @@
     "id": 5761,
     "date": "2025-07-03T09:35:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n♪ Don't you tell me that it wasn't meant to be\n♪ Call it quits, call it destiny\n♪ Just because it won't come easily\n♪ Doesn't mean we shouldn't try\n<i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 152,
+    "views": 153,
     "forwards": 1,
     "files": [
       {
@@ -79168,7 +79168,7 @@
     "id": 5762,
     "date": "2025-07-03T12:57:48",
     "text": "买酒精汽水没有被查 ID 才真的感受到自己又长大了一岁",
-    "views": 144,
+    "views": 146,
     "forwards": 0,
     "images": [
       {
