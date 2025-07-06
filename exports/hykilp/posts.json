@@ -48506,7 +48506,7 @@
     "id": 3555,
     "date": "2024-04-04T06:21:15",
     "text": "回レ回レ回レ回レ回レ回レ回レ回レ回レ！",
-    "views": 137,
+    "views": 138,
     "forwards": 2,
     "files": [
       {
@@ -48529,7 +48529,7 @@
     "id": 3556,
     "date": "2024-04-05T04:38:31",
     "text": "花了一整天剪辑了一下加入了搭机器的过程，发了一个视频 qwq\n\n剪视频好累... 剪中间那一段三十秒的 montage 花了我四个小时呜呜 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i> \n\n这里是链接：<a href=\"https://www.bilibili.com/video/BV14q421P75y\">Bilibili</a> | <a href=\"https://youtu.be/BRELSBJqWQM\">YouTube</a>",
-    "views": 108,
+    "views": 109,
     "forwards": 0,
     "reply": {
       "id": 3555,
@@ -50006,7 +50006,7 @@
     "id": 3664,
     "date": "2024-05-03T14:27:39",
     "text": "想起来小时候买饮料之后最期待的就是拧开瓶盖放过去看看有没有再来一瓶 quq",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "images": [
       {
@@ -50025,7 +50025,7 @@
     "id": 3665,
     "date": "2024-05-03T14:31:43",
     "text": "去苏州见到了一直很想见的朋友！吃到了一直很想吃的萨莉亚！qwq\n\n（出门穿了裙子结果在火车上觉得太冷还是换上了裤子 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "media_group_id": 13717973627802101,
     "images": [
@@ -50065,7 +50065,7 @@
     "id": 3668,
     "date": "2024-05-03T18:20:46",
     "text": "cpu-z 真的是很好的取暖工具，之前上飞机穿少了插上电源开上 cpu-z 抱着笔记本睡香香，今天也是 qwq\n\n不过有时候会太烫也不会停下来，需要花些时间调被子调到通风正好的状态。<del>在想能不能写一个软件，接一个外接的温度传感器来根据温度自动调节 cpu 热度目标</del>",
-    "views": 100,
+    "views": 101,
     "forwards": 0,
     "images": [
       {
@@ -62866,7 +62866,7 @@
     "id": 4585,
     "date": "2024-10-25T23:41:17",
     "text": "发现可以让 ipython 自动导入常用的库 qwq\n\n<a href=\"https://github.com/hykilpikonna/zshrc/blob/master/config-sync/ipython_init.py\">ipython_init</a> > <code>~/.ipython/profile_default/startup</code>",
-    "views": 120,
+    "views": 121,
     "forwards": 0,
     "files": [
       {
@@ -62889,14 +62889,14 @@
     "id": 4586,
     "date": "2024-10-26T05:41:16",
     "text": "室友问我用外部软件编辑 Blender 贴图的时候怎样自动化保存更新，帮忙让 llm 搓了几行 AutoHotKey 脚本自动按导出回车左箭头回车... 然后她觉得好厉害发了一个<a href=\"https://www.bilibili.com/video/av113371953235485\">教程视频</a>还把我 @ 出来了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>\n\n...在技美眼里自动按几个按钮的脚本原来是很难做甚至值得发一个视频的事情吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 123,
+    "views": 124,
     "forwards": 2
   },
   {
     "id": 4587,
     "date": "2024-10-26T05:48:51",
     "text": "<span class=\"spoiler\"><span>感觉如果是我发视频肯定要社恐很长时间写好所有要说的话然后录的时候念错一大堆重新录然后花几个小时剪辑到听不出来重新录了才发出去，但是看她二十分钟一遍录完再听一遍打些码就发了我反而觉得这才好厉害</span></span>",
-    "views": 121,
+    "views": 122,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5426,
+    "views": 5428,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5979,
+    "views": 5981,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -73216,7 +73216,7 @@
     "id": 5299,
     "date": "2025-05-02T01:36:24",
     "text": "我: 很热闹\nrime: 很热，不好 <i class=\"custom-emoji\" emoji-src=\"emoji/4981125610442064673.webp\">😇</i>",
-    "views": 488,
+    "views": 489,
     "forwards": 1,
     "images": [
       {
@@ -79146,7 +79146,7 @@
     "id": 5761,
     "date": "2025-07-03T09:35:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n♪ Don't you tell me that it wasn't meant to be\n♪ Call it quits, call it destiny\n♪ Just because it won't come easily\n♪ Doesn't mean we shouldn't try\n<i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 168,
+    "views": 169,
     "forwards": 1,
     "files": [
       {
@@ -79168,7 +79168,7 @@
     "id": 5762,
     "date": "2025-07-03T12:57:48",
     "text": "买酒精汽水没有被查 ID 才真的感受到自己又长大了一岁",
-    "views": 163,
+    "views": 164,
     "forwards": 0,
     "images": [
       {
