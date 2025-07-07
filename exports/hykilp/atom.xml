@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-07-07T16:13:09.621038+00:00</updated>
+  <updated>2025-07-07T18:16:25.054555+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5801</id>
+    <title>小桂桂的回忆录 📒 #5801</title>
+    <updated>2025-07-07T17:58:33+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##戴上耳机"&gt;#戴上耳机&lt;/a&gt;
+同样是从音游里遇到的很喜欢的澤野弘之的曲子还有 ninelie，最初听到的版本是 REDSHiFT 的 remix&lt;/p&gt;
+&lt;p&gt;...但是它对应的动画「甲铁城的卡巴内瑞」也同样很不行 &lt;i class="custom-emoji" emoji-src="emoji/6323582802050680516.webp"&gt;🛌&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5801" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>5798</id>
+    <title>小桂桂的回忆录 📒 #5798</title>
+    <updated>2025-07-07T17:11:19+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##戴上耳机"&gt;#戴上耳机&lt;/a&gt;
+被网易云随机到了很久以前在某音游里遇到的这首，查查来源发现是泽野弘之的曲子，同样很喜欢的还有 aLIEz 和 Cage &lt;NTv&gt;&lt;/p&gt;
+&lt;p&gt;然后查了一下这三首曲子对应的动画，分别是「终结的炽天使」和「ALDNOAH.ZERO」和「高达 NT」... 🌚&lt;/p&gt;
+&lt;p&gt;...这么好的曲子给这三部动画真的太可惜了&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5798" rel="alternate"/>
+  </entry>
   <entry>
     <id>5788</id>
     <title>小桂桂的回忆录 📒 #5788</title>
