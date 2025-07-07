@@ -20295,14 +20295,14 @@
     "id": 1560,
     "date": "2022-12-04T00:27:37",
     "text": "<a href=\"##又一梦\">#又一梦</a>\n小睡一会做了一个奇怪的梦，梦里的世界有一个宗教叫充气床垫教，可以随时召唤出充气床垫、把床垫当作蹦床跳得越来越高、还能让床垫飘起来。然后我和聊聊在 Costco 的大停车场中心召唤了一个超大床垫，飘在天上午休、跳蹦床跳得特别高然后从天上飞下来抱聊聊、玩尝试跳出去让聊聊用床垫把我接住的小游戏 qwq",
-    "views": 94,
+    "views": 95,
     "forwards": 1
   },
   {
     "id": 1562,
     "date": "2022-12-04T07:58:34",
     "text": "把聊聊的めるアイコン画完了！完善了一下细节\n\n来一张 Telegram 合影 qwq",
-    "views": 149,
+    "views": 150,
     "forwards": 2,
     "media_group_id": 13361125712599693,
     "images": [
@@ -20336,7 +20336,7 @@
     "id": 1564,
     "date": "2022-12-04T08:20:19",
     "text": "现在可以在めるアイコン的展示站上和前任和现任一起合影了hhhh\n\n<a href=\"https://scrapbox.io/meruicon/\">https://scrapbox.io/meruicon/</a>",
-    "views": 88,
+    "views": 89,
     "forwards": 0,
     "reply": {
       "id": 103,
@@ -35268,7 +35268,7 @@
     "id": 2642,
     "date": "2023-09-09T18:29:15",
     "text": "结婚了！<i class=\"custom-emoji\" emoji-src=\"emoji/6323595626823025961.webp\">🥰</i>\n\n在梦想小木屋旅店，穿上了很适合小木屋的 lolita，分别邀请了我的前任和聊聊的前任做证婚人，戴上去年七夕做的折纸戒指 qwq",
-    "views": 156,
+    "views": 158,
     "forwards": 8,
     "media_group_id": 13554273244968861,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5990,
+    "views": 5991,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -75737,7 +75737,7 @@
     "id": 5493,
     "date": "2025-05-28T03:20:38",
     "text": "ヤマト快递这个图标真的是生动形象了，大猫猫叼着小猫猫\n\n（虽然有希望它画得更可爱一点",
-    "views": 297,
+    "views": 298,
     "forwards": 6,
     "images": [
       {
@@ -75755,7 +75755,7 @@
   {
     "id": 5494,
     "date": "2025-05-28T03:21:50",
-    "views": 304,
+    "views": 305,
     "forwards": 6,
     "files": [
       {
@@ -75776,7 +75776,7 @@
     "id": 5495,
     "date": "2025-05-28T09:10:19",
     "text": "因为天气好出门散步，看到一只小鸟落在树枝上，背景的窗户变成了小鸟的天然相框 <i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 257,
+    "views": 258,
     "forwards": 0,
     "media_group_id": 13987387354182557,
     "images": [
@@ -75806,7 +75806,7 @@
     "id": 5497,
     "date": "2025-05-29T11:45:04",
     "text": "现在是工作的第三周，这次的研究项目是想让我用新方法 A 去解决问题 X。但是我觉得 A 不靠谱，想先试试以前用过的旧方法 B，结果 B 真的解决了 X，还差不多是天花板的效率和准确率...\n\n听上去大吉，问题解决了，但是实际上方法 B 太普通了没办法用来发文，结果反而可能要换方向浪费掉了两周 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 255,
+    "views": 256,
     "forwards": 0,
     "media_group_id": 13988152835403037,
     "images": [
@@ -75846,7 +75846,7 @@
     "id": 5500,
     "date": "2025-05-30T07:21:56",
     "text": "东京建筑师到底是多么不喜欢焊接... <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 242,
+    "views": 243,
     "forwards": 2,
     "media_group_id": 13988717735589437,
     "images": [
@@ -75876,7 +75876,7 @@
     "id": 5502,
     "date": "2025-05-30T07:27:39",
     "text": "猜猜我昨天和 <a href=\"https://t.me/MizukiAmakawa\">@MizukiAmakawa</a> 去了哪里 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> 首先排除美国\n\n是台場！",
-    "views": 221,
+    "views": 222,
     "forwards": 1,
     "media_group_id": 13988720475874117,
     "images": [
@@ -75956,7 +75956,7 @@
     "id": 5509,
     "date": "2025-05-30T07:43:51",
     "text": "在海边散了步之后从彩虹桥走回家了！走了一个小时左右，拍了很多好看照片，大满足 qwq\n\n可惜手机的镜头在低光线环境不太行，即使手动调 ISO 和快门速度这也是极限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i> 好想买相机呀（买不起，悲）",
-    "views": 241,
+    "views": 242,
     "forwards": 1,
     "media_group_id": 13988728255370421,
     "images": [
@@ -76036,7 +76036,7 @@
     "id": 5516,
     "date": "2025-05-30T12:27:33",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n被推到了少数很喜欢的中文歌\n\n感觉陈娴静的曲子成功把吐字不清的短板变成了一种艺术风格，听起来像是一边梦游在街边飘来飘去一边录下的歌 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>",
-    "views": 255,
+    "views": 256,
     "forwards": 3,
     "files": [
       {
@@ -76058,7 +76058,7 @@
     "id": 5517,
     "date": "2025-05-30T15:37:10",
     "text": "-----",
-    "views": 263,
+    "views": 264,
     "forwards": 1,
     "images": [
       {
@@ -76077,7 +76077,7 @@
     "id": 5518,
     "date": "2025-05-30T16:44:51",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n零，用摩斯电码表达是五个长音，写出来像分割线一样诶\n\n零点也是日期的的分割线，今日が昨日に、明日が今日に... 也许有什么更深的意味，但是我的脑洞已经被累累的一天熨平了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i> 睡睡\n\n♪ おやすみ まだ名前のない 無数の想い\n♪ おやすみ またこんな夜に歌になる日まで",
-    "views": 269,
+    "views": 270,
     "forwards": 1,
     "reply": {
       "id": 5517,
@@ -76103,7 +76103,7 @@
     "id": 5519,
     "date": "2025-05-31T08:14:11",
     "text": "无刺的仙人掌、有刺的仙人掌\n\n<span class=\"spoiler\"><span>还有刺被拔掉了的仙人掌</span></span>",
-    "views": 267,
+    "views": 268,
     "forwards": 0,
     "media_group_id": 13989434013463309,
     "images": [
@@ -76133,14 +76133,14 @@
     "id": 5521,
     "date": "2025-05-31T16:50:56",
     "text": "啊 太困了回到家就睡着了。做了很多乱七八糟的梦，刚才迷迷糊糊醒来觉得不是八九点也应该五六点了吧，然后看下手机才刚快两点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n完了作息又乱了",
-    "views": 272,
+    "views": 273,
     "forwards": 0
   },
   {
     "id": 5522,
     "date": "2025-06-01T06:29:12",
     "text": "带着聊聊猫出门了",
-    "views": 340,
+    "views": 341,
     "forwards": 1,
     "images": [
       {
@@ -78811,7 +78811,7 @@
     "id": 5731,
     "date": "2025-06-28T01:12:31",
     "text": "因为昨晚看到下周连续下一周雨，只有今天早上是晴天，所以决定进行一场说走就走的旅行，随便计划了一下凌晨一点租共享汽车去富士山旁边看日出 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n凌晨零点出发，和半喵一起去了「摇曳露营」一切开始的圣地「浩庵キャンプ場」边上，爬山爬到了「中の倉峠」观望台拍到了好棒的照片！（虽然爬山好累 T-T）",
-    "views": 202,
+    "views": 203,
     "forwards": 2,
     "media_group_id": 14008585209950397,
     "images": [
@@ -79132,21 +79132,21 @@
     "id": 5759,
     "date": "2025-06-30T22:17:55",
     "text": "思考\n\n看到国内充电宝被安检扣的事情寻思，是不是可以做一个「交换充电宝」网页 app：过安检之前把充电宝存到寄存箱里提交到网页上，然后如果在飞行期间匹配到了目的地那边提交了类似的充电宝的人，就互相交换寄存箱取件码，这样下飞机之后就可以互相取出对方的充电宝用了\n\n如果怕交换到更差的产品的话，也许可以提交的时候加上匹配要求的选项，比如说必须是同样容量/同样快充标准什么的\n\n人多的话说不定可以任意人数交换，只要每个人的出发地和目的地能形成一个环 <i class=\"custom-emoji\" emoji-src=\"emoji/5114340437808645487.webm\">🙁</i>",
-    "views": 253,
+    "views": 255,
     "forwards": 1
   },
   {
     "id": 5760,
     "date": "2025-07-01T11:54:21",
     "text": "小孩子真厉害\n\n在电车上有座位空出来了，但是旁边还有一个老奶奶\n我：（给旁边老奶奶打手势让她坐）\n她：没事没事你坐吧\n我：没事没事你坐吧\n然后一个小孩子从我们中间穿过来直接坐下 <i class=\"custom-emoji\" emoji-src=\"emoji/6334454888990248922.webp\">🏆</i>",
-    "views": 242,
+    "views": 245,
     "forwards": 1
   },
   {
     "id": 5761,
     "date": "2025-07-03T09:35:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n♪ Don't you tell me that it wasn't meant to be\n♪ Call it quits, call it destiny\n♪ Just because it won't come easily\n♪ Doesn't mean we shouldn't try\n<i class=\"custom-emoji\" emoji-src=\"emoji/5442781809614004995.tgs\">🥺</i>",
-    "views": 234,
+    "views": 239,
     "forwards": 1,
     "files": [
       {
@@ -79168,7 +79168,7 @@
     "id": 5762,
     "date": "2025-07-03T12:57:48",
     "text": "买酒精汽水没有被查 ID 才真的感受到自己又长大了一岁",
-    "views": 250,
+    "views": 254,
     "forwards": 0,
     "images": [
       {
@@ -79187,7 +79187,7 @@
     "id": 5763,
     "date": "2025-07-07T08:09:47",
     "text": "赛博拨号",
-    "views": 99,
+    "views": 106,
     "forwards": 0,
     "images": [
       {
@@ -79206,7 +79206,7 @@
     "id": 5764,
     "date": "2025-07-07T08:34:48",
     "text": "周末和谦谦和新的朋友泉野咲 <a href=\"https://t.me/qyjtcsm\">@qyjtcsm</a> 和小魏 <a href=\"https://t.me/Mcxiaowei\">@Mcxiaowei</a> 一起去了伊豆！\n\n是两天的即兴旅行，周五晚上六点决定要去之后马上租车订旅店计划行程然后第二天早上就出发了 qwq\n\n不过因为前几天刚看完摇曳露营第二季，计划做着做着就变成了圣地巡旅（？）<del>不过 tbf 好像伊豆也没几个景点是没有在摇曳露营里出现过</del>\n\n第一站是出逢い岬 & 御浜岬公園 qwq",
-    "views": 82,
+    "views": 87,
     "forwards": 1,
     "media_group_id": 14015018305103805,
     "images": [
@@ -79296,7 +79296,7 @@
     "id": 5772,
     "date": "2025-07-07T08:47:18",
     "text": "第二站是黄金崎，动画里第一天好像是在这里露营来着，可惜我们因为临时计划没有足够的装备所以这次没有露营 quq\n\n下次一定！<i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>",
-    "views": 72,
+    "views": 76,
     "forwards": 2,
     "media_group_id": 14015024310902757,
     "images": [
@@ -79386,7 +79386,7 @@
     "id": 5780,
     "date": "2025-07-07T09:09:28",
     "text": "下一站是露天温泉！温和的海风吹过来好舒服~\n\n原本计划的时候以为会有很多人，还做了有人的情况的备用计划，但是到了那里发现除了管理员的车以外只有我们一辆车 qwq 直接包场\n\n<span class=\"spoiler\"><span>其实一直都好想在日本泡温泉，但是作为 trans 一直不敢泡，虽然是术后也还是会害怕给别人添麻烦。这次总算是实现了这个梦 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323595626823025961.webp\">🥰</span></span></i> \n\n<del>以及狗姐怎么转职温泉管理员了</del>",
-    "views": 73,
+    "views": 79,
     "forwards": 0,
     "media_group_id": 14015034946353749,
     "images": [
@@ -79476,7 +79476,7 @@
     "id": 5788,
     "date": "2025-07-07T10:03:54",
     "text": "下一站是旁边的堂ヶ島，从相机里的照片数量看来可能是那天最好看的地方\n\n做计划的时候看天气预报是晴天想在这里看日落，但是没预料到会有这么大雾，雾大到 MSN 天气上显示了一个「雾霾」... <del>真的是我第一次在北京以外的地方看到天气预报显示「雾霾」</del>\n\n不过山上雾蒙蒙的也挺好看的（<span class=\"spoiler\"><span>雾蒙痴如是说</span></span>\n\n以及计划的时候原本想等退潮去旁边的三四郎岛上看看，然后查了一下发现这两天即使是潮位最低的时候也太高了没法上岛... 要等到几天之后才可以，好可惜。\n\n就在想，因为气候变化每年潮位都在涨的话，会不会哪年开始这里就不再有机会走路上岛了呢...",
-    "views": 58,
+    "views": 70,
     "forwards": 1,
     "media_group_id": 14015061076671533,
     "images": [
