@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-07-08T08:15:08.443401+00:00</updated>
+  <updated>2025-07-08T10:15:30.043458+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5843</id>
+    <title>小桂桂的回忆录 📒 #5843</title>
+    <updated>2025-07-08T08:24:36+00:00</updated>
+    <content>&lt;p&gt;然后是伊豆蜜柑🍊中心！&lt;/p&gt;
+&lt;p&gt;喝到了超新鲜蜜柑汁，尝到了并没有听起来那么黑暗料理的芥末冰淇淋，买了些摇曳露营周边，还买到了老师同款蜜柑酒（原本还犹豫了一下要不要买，然后看到是甜的立即下单）&lt;/p&gt;
+&lt;p&gt;坐下来喝果汁的时候翻了翻留言本，さほ画的撫子好可爱！&lt;/p&gt;
+&lt;p&gt;以及我是大笨猫，谦谦开车的时候我为了抓拍把相机切到了快门优先，设了快门速度 1/4000，结果下车进室内忘记切回来... 导致拍的照片自动选了 ISO 25600 巨大噪点 &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt; &lt;a href="##ADHD"&gt;#ADHD&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5843" rel="alternate"/>
+  </entry>
   <entry>
     <id>5835</id>
     <title>小桂桂的回忆录 📒 #5835</title>
