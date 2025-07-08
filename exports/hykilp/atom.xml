@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-07-08T14:13:50.879738+00:00</updated>
+  <updated>2025-07-08T16:15:02.708255+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5851</id>
+    <title>小桂桂的回忆录 📒 #5851</title>
+    <updated>2025-07-08T14:24:06+00:00</updated>
+    <content>&lt;p&gt;为了深夜工作的时候不饿买了方便豚汁，然后发现豚汁和味噌汤一样喝下去只会让我更饿 &lt;i class="custom-emoji" emoji-src="emoji/6323556186138346934.webp"&gt;😢&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5851" rel="alternate"/>
+  </entry>
   <entry>
     <id>5843</id>
     <title>小桂桂的回忆录 📒 #5843</title>
