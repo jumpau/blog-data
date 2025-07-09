@@ -70628,7 +70628,7 @@
     "id": 5109,
     "date": "2025-03-31T16:56:23",
     "text": "给 AquaDX 加了舞萌 day1 PRiSM+ 支持和中二 Verse+ 支持，现在全都可以绿网了，enjoy! <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>",
-    "views": 295,
+    "views": 296,
     "forwards": 1,
     "media_group_id": 13947521470139469,
     "images": [
@@ -70788,7 +70788,7 @@
     "id": 5119,
     "date": "2025-04-04T05:17:38",
     "text": "好奇妙 bug，开模糊输入之后同时可以正确输入和模糊输入的时候它会先 match 错误的模糊输入",
-    "views": 241,
+    "views": 242,
     "forwards": 0,
     "files": [
       {
@@ -70810,7 +70810,7 @@
     "id": 5120,
     "date": "2025-04-04T06:14:53",
     "text": "今天去看了 Minecraft 电影，总之是有些失望。写了影评，<a href=\"https://aza.moe/blog?post=2025-04-04-Minecraft-Movie\">链接在这里</a>感兴趣的话可以去读读（剧透警告）",
-    "views": 261,
+    "views": 262,
     "forwards": 3,
     "images": [
       {
@@ -70929,7 +70929,7 @@
     "id": 5129,
     "date": "2025-04-05T04:41:26",
     "text": "还看到了一个很独特的海鸥，长着斑点，拍下来了它在一群海鸥中心向反方向看的样子简直帅爆 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i> 回家把照片做了一下高亮模糊感觉好棒\n\n以及在一片枯树枝中间看到了一根长了亮蓝色的果子的叶子，走进点发现是谁把假花放上去了，被骗了喵（不过谁放的创意不错 quq",
-    "views": 228,
+    "views": 229,
     "forwards": 1,
     "media_group_id": 13950624695747709,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5435,
+    "views": 5436,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 5996,
+    "views": 5997,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -79644,7 +79644,7 @@
     "id": 5802,
     "date": "2025-07-08T05:45:17",
     "text": "喜欢桃桃 everything！🍑\n\n桃桃布丁\n桃桃茶\n<span class=\"spoiler\"><span>桃桃姐</span></span>",
-    "views": 116,
+    "views": 117,
     "forwards": 1,
     "images": [
       {
@@ -79663,7 +79663,7 @@
     "id": 5803,
     "date": "2025-07-08T06:28:55",
     "text": "继续整理周末的照片 qwq\n\n第一天去的最后一个地方是雲見海岸，其实原本没有计划去这里但是因为有多余的时间就去了，结果这个时候雾已经大到太阳都看不见了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>\n\n然后吃了台湾拉面就去民宿啦，选了一家很传统的日式小房子，四个人的话刚好还不算贵。第一次在和室的畳垫子上睡布団诶，气氛好棒！\n\n也好舒服！麻棉被子质感好不错，躺下就不想起来了。想起来高中的时候因为不想花钱买床就只买了一个床垫睡在地板上，也差不多呢，比起在床上睡更喜欢在地板上睡的感觉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i>\n\n因为前一天超兴奋吃褪黑素都没睡着，今天试了试 Lemborexant，确实很有效马上就睡着了，不过第二天早上起来晕糊糊退房之后已经到下一站才想起来信用卡落在房间里了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 房东超配合帮忙送回来了，不过也因为折返浪费了些时间让接下来的计划比较赶...",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "media_group_id": 14015649086891165,
     "images": [
@@ -79743,7 +79743,7 @@
     "id": 5810,
     "date": "2025-07-08T07:02:28",
     "text": "下一站去了白濱神社和下田，鸟居放在哪里都好好看！⛩ 真的是好风景密码\n\n原本想在这里泡泡免费足汤，可惜因为赶时间只能在这里看看就走啦",
-    "views": 89,
+    "views": 91,
     "forwards": 0,
     "media_group_id": 14015665189903085,
     "images": [
@@ -79843,7 +79843,7 @@
     "id": 5819,
     "date": "2025-07-08T07:20:06",
     "text": "以及在下田去吃了这家 Ra-maru 「下田汉堡」\n\n是鱼汉堡诶，而且是真正的鱼而不是麦香鱼那种预制鱼，好好吃！猫猫大满足！",
-    "views": 80,
+    "views": 82,
     "forwards": 0,
     "media_group_id": 14015673653820421,
     "images": [
@@ -79933,7 +79933,7 @@
     "id": 5827,
     "date": "2025-07-08T07:44:46",
     "text": "下一站是爪木崎灯塔\n\n在海边大家都理所当然地在「露营禁止区域」的牌子边上搭了帐篷 🌚\n\n（我觉得是好的，反而县级别的禁止露营才好离谱 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n这里蜘蛛网真的好离谱，在栗子树丛的叶子上像棉布或者单层抽纸一样基本上没有空隙... 感觉厚得完全可以把我的手包住。不过也好，这里没有飞虫也要感谢蜘蛛~",
-    "views": 81,
+    "views": 82,
     "forwards": 0,
     "media_group_id": 14015685488656917,
     "images": [
@@ -80023,7 +80023,7 @@
     "id": 5835,
     "date": "2025-07-08T08:03:14",
     "text": "下一站是龍宮窟\n\n咲说洞这里像 Windows 10 默认壁纸一样，还真有点像，不过 Windows 那张是在新西兰怀唐伊海滩拍的啦，所以并不是 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 101,
+    "views": 102,
     "forwards": 0,
     "media_group_id": 14015694352845069,
     "images": [
@@ -80113,7 +80113,7 @@
     "id": 5843,
     "date": "2025-07-08T08:24:36",
     "text": "然后是伊豆蜜柑🍊中心！\n\n喝到了超新鲜蜜柑汁，尝到了并没有听起来那么黑暗料理的芥末冰淇淋，买了些摇曳露营周边，还买到了老师同款蜜柑酒（原本还犹豫了一下要不要买，然后看到是甜的立即下单）\n\n坐下来喝果汁的时候翻了翻留言本，さほ画的撫子好可爱！\n\n以及我是大笨猫，谦谦开车的时候我为了抓拍把相机切到了快门优先，设了快门速度 1/4000，结果下车进室内忘记切回来... 导致拍的照片自动选了 ISO 25600 巨大噪点 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> <a href=\"##ADHD\">#ADHD</a>",
-    "views": 114,
+    "views": 117,
     "forwards": 1,
     "media_group_id": 14015704608724997,
     "images": [
@@ -80203,7 +80203,7 @@
     "id": 5851,
     "date": "2025-07-08T14:24:06",
     "text": "为了深夜工作的时候不饿买了方便豚汁，然后发现豚汁和味噌汤一样喝下去只会让我更饿 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 102,
+    "views": 105,
     "forwards": 0
   }
 ]
