@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-07-09T12:14:38.883059+00:00</updated>
+  <updated>2025-07-09T14:14:48.919332+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5861</id>
+    <title>小桂桂的回忆录 📒 #5861</title>
+    <updated>2025-07-09T14:05:05+00:00</updated>
+    <content>&lt;p&gt;以及尝试了些也许不寻常的构图，感觉重新拍一遍所有人都拍过的视角是不是有点无聊&lt;/p&gt;
+&lt;p&gt;&lt;span class="spoiler"&gt;&lt;span&gt;...其实买相机前后想了很久为什么要买相机拍照片之类的事情，毕竟在网上很容易就能找到其他摄影师在同一个地方用更贵更好的设备在各种角度天气构图拍的好看照片。我还没有找到很好的答案... 一部分是为了保存回忆吧，但是那样的话手机或者随身 360° 相机更合适。不过暂时的话，至少拍到自己视角中的好看照片很开心，所以我还会继续探索摄影&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5861" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>5852</id>
+    <title>小桂桂的回忆录 📒 #5852</title>
+    <updated>2025-07-09T14:03:32+00:00</updated>
+    <content>&lt;p&gt;继续整理照片 &lt;i class="custom-emoji" emoji-src="emoji/6170075684434610033.webm"&gt;⌨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;在伊豆的倒数第二站&lt;del&gt;不是 Windows XP 壁纸&lt;/del&gt; 是大室山！到那里的时候离关门只剩 15 分钟了，所以赶快做缆车上去拍了照片，并没有沿着山走一圈就下来了 qwq（感觉恐高在逐渐被治好）&lt;/p&gt;
+&lt;p&gt;整座巨大的山都是整整齐齐的一片绿草，没有树也没有突出的石头感觉好反常，从天上看像抹茶布丁一样&lt;/p&gt;
+&lt;p&gt;不过也因为时间比较晚看到了一些奇妙事情，比如纪念写真相机被裹起来像是要被拐走一样，还有用缆车送下山的空玻璃瓶和纸箱&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5852" rel="alternate"/>
+  </entry>
   <entry>
     <id>5851</id>
     <title>小桂桂的回忆录 📒 #5851</title>
