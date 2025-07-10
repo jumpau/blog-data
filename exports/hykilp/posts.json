@@ -69218,7 +69218,7 @@
     "id": 5011,
     "date": "2025-03-10T14:41:15",
     "text": "发现自己 Arch 上有好多没用到的包，所以写了一个 <a href=\"https://github.com/hykilpikonna/zshrc/blob/master/scripts/bin/pacman-clean-unused.py\">python 脚本</a> 列出所有没用的包然后一个个问我要不要删\n\n总共删掉了 239 个包清出来 1.7GB，其中包含七个版本的 electron... <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 237,
+    "views": 238,
     "forwards": 2,
     "images": [
       {
@@ -69429,7 +69429,7 @@
     "id": 5025,
     "date": "2025-03-15T21:07:10",
     "text": "检查了一下自己 systemd 上暴露在外网的网络服务，发现好多服务都没有做好安全措施...\n\n比如 iperf3 和 rathole 官方文档里的服务文件居然会用 root 启动... 真的好自信，这样的话万一有漏洞黑客就能拿到整个系统的最高权限了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n给这两个仓库开了 PR 加了正确的安全措施，比如加了自动最小权限账号运行、禁止提权、禁止读取其他进程的 tmp 缓存之类的，这样即使黑客黑进来也只能给这一个服务捣乱了",
-    "views": 222,
+    "views": 223,
     "forwards": 2,
     "images": [
       {
@@ -80412,7 +80412,7 @@
     "id": 5870,
     "date": "2025-07-09T18:38:17",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\nねえ、また来ようね <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 107,
+    "views": 108,
     "forwards": 0,
     "files": [
       {
@@ -80434,7 +80434,7 @@
     "id": 5871,
     "date": "2025-07-10T15:13:57",
     "text": "原来之前去伊豆的时候 msn 天气上显示的「雾霾」真的是 pm2.5 的雾霾，原因是附近有火山在冒烟... 好可怕",
-    "views": 75,
+    "views": 76,
     "forwards": 0,
     "reply": {
       "id": 5788,
