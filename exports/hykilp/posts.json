@@ -67993,7 +67993,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 1077,
+    "views": 1078,
     "forwards": 7,
     "files": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5440,
+    "views": 5441,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6002,
+    "views": 6003,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -80310,7 +80310,7 @@
     "id": 5861,
     "date": "2025-07-09T14:05:05",
     "text": "以及尝试了些也许不寻常的构图，感觉重新拍一遍所有人都拍过的视角是不是有点无聊\n\n<span class=\"spoiler\"><span>...其实买相机前后想了很久为什么要买相机拍照片之类的事情，毕竟在网上很容易就能找到其他摄影师在同一个地方用更贵更好的设备在各种角度天气构图拍的好看照片。我还没有找到很好的答案... 一部分是为了保存回忆吧，但是那样的话手机或者随身 360° 相机更合适。不过暂时的话，至少拍到自己视角中的好看照片很开心，所以我还会继续探索摄影</span></span>",
-    "views": 105,
+    "views": 106,
     "forwards": 1,
     "reply": {
       "id": 5852,
@@ -80322,7 +80322,7 @@
     "id": 5862,
     "date": "2025-07-09T14:51:46",
     "text": "最后一站去了稲取細野高原和三筋山\n\n虽然三筋山风景不错但是感觉这里是唯一一个我不推荐别人去的地方... 首先路很窄很破，遇到对向车的时候需要一辆车倒回上一个交换点让路。其次是动画里开车上山的路不让走车了，原本走路 15 分钟到山顶变成了 45 分钟。以及这段路真的很多咬人飞虫，没带防虫装备还穿了短袖挺可怕的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170293817233638918.webm\">😐</i>\n\n走了半路折返吃饭回家啦，在饭店旁边拍到昏睡猫猫大满足！晚上九点找了三家饭店才找到一家开门的，第一家被包场，第二家在一般营业时间的一个小时前就闭店了，乡下店长好休闲 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n这样伊豆旅行就完结啦！跟随着摇曳露营动画的脚步走遍了伊豆很开心。<span class=\"spoiler\"><span>把咲和小魏和谦谦送回家之后，一个人开车回家的路上还有些寂寞... 动画里志摩凛自己摩托回家的时候也是同样的感觉吧，没想到以这种方式重现了感受，心情也在圣地巡礼</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 94,
+    "views": 95,
     "forwards": 1,
     "media_group_id": 14016581650994245,
     "images": [
@@ -80412,7 +80412,7 @@
     "id": 5870,
     "date": "2025-07-09T18:38:17",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\nねえ、また来ようね <i class=\"custom-emoji\" emoji-src=\"emoji/5445083289314401705.tgs\">🪟</i>",
-    "views": 76,
+    "views": 78,
     "forwards": 0,
     "files": [
       {
