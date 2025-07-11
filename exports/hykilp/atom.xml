@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-07-11T16:15:44.071150+00:00</updated>
+  <updated>2025-07-11T18:16:57.289877+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5878</id>
+    <title>小桂桂的回忆录 📒 #5878</title>
+    <updated>2025-07-11T17:40:56+00:00</updated>
+    <content>&lt;p&gt;快选举了，看看日本都有哪些派对 &lt;i class="custom-emoji" emoji-src="emoji/6170075684434610033.webm"&gt;⌨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;保守主义...
+自由主义...
+进步主义...
+社会主义...
+反对电视许可费主义 &lt;i class="custom-emoji" emoji-src="emoji/5445226814236533679.tgs"&gt;🧐&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5878" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>5876</id>
+    <title>小桂桂的回忆录 📒 #5876</title>
+    <updated>2025-07-11T17:19:00+00:00</updated>
+    <content>&lt;p&gt;去看了新电影《超人》，不是很喜欢... 觉得自己有被预告片欺骗，所以很认真地写了影评（剧透警告）&lt;/p&gt;
+&lt;p&gt;原文链接在&lt;a href="https://aza.moe/blog?post=2025-07-12-%E8%B6%85%E4%BA%BA"&gt;这里&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;（update: 在三岁小孩聊聊的软磨硬泡下决定把评分提升到 3/5 颗星）&lt;/del&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5876" rel="alternate"/>
+  </entry>
   <entry>
     <id>5875</id>
     <title>小桂桂的回忆录 📒 #5875</title>
