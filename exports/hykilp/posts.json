@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2645,
+    "views": 2646,
     "forwards": 29,
     "images": [
       {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6013,
+    "views": 6014,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -79644,7 +79644,7 @@
     "id": 5802,
     "date": "2025-07-08T05:45:17",
     "text": "喜欢桃桃 everything！🍑\n\n桃桃布丁\n桃桃茶\n<span class=\"spoiler\"><span>桃桃姐</span></span>",
-    "views": 142,
+    "views": 143,
     "forwards": 1,
     "images": [
       {
@@ -79663,7 +79663,7 @@
     "id": 5803,
     "date": "2025-07-08T06:28:55",
     "text": "继续整理周末的照片 qwq\n\n第一天去的最后一个地方是雲見海岸，其实原本没有计划去这里但是因为有多余的时间就去了，结果这个时候雾已经大到太阳都看不见了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>\n\n然后吃了台湾拉面就去民宿啦，选了一家很传统的日式小房子，四个人的话刚好还不算贵。第一次在和室的畳垫子上睡布団诶，气氛好棒！\n\n也好舒服！麻棉被子质感好不错，躺下就不想起来了。想起来高中的时候因为不想花钱买床就只买了一个床垫睡在地板上，也差不多呢，比起在床上睡更喜欢在地板上睡的感觉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323364467388188938.webp\">😴</i>\n\n因为前一天超兴奋吃褪黑素都没睡着，今天试了试 Lemborexant，确实很有效马上就睡着了，不过第二天早上起来晕糊糊退房之后已经到下一站才想起来信用卡落在房间里了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 房东超配合帮忙送回来了，不过也因为折返浪费了些时间让接下来的计划比较赶...",
-    "views": 128,
+    "views": 129,
     "forwards": 0,
     "media_group_id": 14015649086891165,
     "images": [
@@ -80458,7 +80458,7 @@
     "id": 5872,
     "date": "2025-07-11T04:57:28",
     "text": "草... 搜索说明书下载，搜到的是一个 PDF 下载页面，下载下来 PDF 发现它里面是一个在线说明书的链接 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 128,
+    "views": 129,
     "forwards": 1,
     "media_group_id": 14017678789611669,
     "images": [
@@ -80488,7 +80488,7 @@
     "id": 5874,
     "date": "2025-07-11T07:02:12",
     "text": "传送门",
-    "views": 123,
+    "views": 124,
     "forwards": 0,
     "images": [
       {
@@ -80507,7 +80507,7 @@
     "id": 5875,
     "date": "2025-07-11T07:05:46",
     "text": "门的后面是另一个平行世界",
-    "views": 123,
+    "views": 124,
     "forwards": 1,
     "files": [
       {
@@ -80529,7 +80529,7 @@
     "id": 5876,
     "date": "2025-07-11T17:19:00",
     "text": "去看了新电影《超人》，不是很喜欢... 觉得自己有被预告片欺骗，所以很认真地写了影评（剧透警告）\n\n原文链接在<a href=\"https://aza.moe/blog?post=2025-07-12-%E8%B6%85%E4%BA%BA\">这里</a>\n\n<del>（update: 在三岁小孩聊聊的软磨硬泡下决定把评分提升到 3/5 颗星）</del>",
-    "views": 110,
+    "views": 112,
     "forwards": 0,
     "media_group_id": 14018034721548197,
     "images": [
@@ -80561,7 +80561,7 @@
     "id": 5878,
     "date": "2025-07-11T17:40:56",
     "text": "快选举了，看看日本都有哪些派对 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n保守主义...\n自由主义...\n进步主义...\n社会主义...\n反对电视许可费主义 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 108,
+    "views": 110,
     "forwards": 1,
     "images": [
       {
@@ -80580,7 +80580,7 @@
     "id": 5879,
     "date": "2025-07-11T18:31:37",
     "text": "今天和聊聊的朋友清水鏡去台場看到了等身高达，好炫酷！以及贴在机身上的贴纸好奇妙\n\n晚上吃了文字焼き和お好み焼き！虽然墨鱼墨文字焼拍不出食欲所以并没有给它拍照片，但是确实很好吃 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 98,
+    "views": 100,
     "forwards": 1,
     "media_group_id": 14018069581839973,
     "images": [
