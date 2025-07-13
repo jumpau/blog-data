@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-07-13T18:15:16.309428+00:00</updated>
+  <updated>2025-07-13T20:15:47.661740+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5894</id>
+    <title>小桂桂的回忆录 📒 #5894</title>
+    <updated>2025-07-13T19:33:56+00:00</updated>
+    <content>&lt;p&gt;不知道从什么时候开始谷歌地图不显示评论和照片了&lt;/p&gt;
+&lt;p&gt;今天查了一下，居然是某种地区锁，双卡手机把设置里的「默认呼叫号码」改成非中国的卡就没问题了...&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;怕中国人靠发照片评论到处放原神地标吗&lt;/del&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5894" rel="alternate"/>
+  </entry>
   <entry>
     <id>5893</id>
     <title>小桂桂的回忆录 📒 #5893</title>
