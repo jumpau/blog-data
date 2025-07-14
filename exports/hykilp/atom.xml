@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-07-14T14:12:12.266575+00:00</updated>
+  <updated>2025-07-14T16:15:23.347311+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5902</id>
+    <title>小桂桂的回忆录 📒 #5902</title>
+    <updated>2025-07-14T14:53:25+00:00</updated>
+    <content>&lt;p&gt;终于把手机 MIUI 上的 Android Auto 修好了！之前一直不能用&lt;/p&gt;
+&lt;p&gt;首先是卸载掉之前手动装的 Auto，然后安装 Magisk 模块 &lt;a href="https://github.com/AndroPlus-org/magisk-module-miui-cn2global"&gt;miui-cn2global&lt;/a&gt; (v15) 用来解锁一些谷歌地区锁和 &lt;a href="https://github.com/AndroPlus-org/magisk-module-androidauto"&gt;androidauto&lt;/a&gt; 模块，重启之后 play 更新 Auto 应用就好啦&lt;/p&gt;
+&lt;p&gt;以及，因为网易云没有给 Auto 做适配所以之前一直是用 Telegram 做音乐播放器，但是今天发现八年前&lt;a href="https://xdaforums.com/t/app-5-1-alpha-anyautoaudio-use-any-audio-app-in-auto.3607916/"&gt;某 XDA 帖子&lt;/a&gt;发了一个应用 &lt;a href="https://drive.google.com/file/d/10g76cf8f8T14Shb_25DEGSaV88g-rXEK"&gt;Any Auto Audio&lt;/a&gt; 可以给任何适配了安卓 API 的音乐软件做 Auto 适配，因为链接已经失效了找了好久才找到，不过装上试试发现居然隔了八年没维护还依然工作！安卓向下兼容真好啊&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5902" rel="alternate"/>
+  </entry>
   <entry>
     <id>5895</id>
     <title>小桂桂的回忆录 📒 #5895</title>
