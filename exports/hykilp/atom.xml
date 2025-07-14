@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-07-14T06:14:42.138605+00:00</updated>
+  <updated>2025-07-14T08:14:17.621988+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5895</id>
+    <title>小桂桂的回忆录 📒 #5895</title>
+    <updated>2025-07-14T06:45:37+00:00</updated>
+    <content>&lt;p&gt;周日进行了一些烤肉和日间露营！总共来了八个人，变成了群友见面会吗&lt;/p&gt;
+&lt;p&gt;第一次露营/烧烤踩了好多坑：
+1. 碳真的很难烧！两个小时过去了还没完全烧起来
+2. 一罐燃气瓶真的很多，我怕不够用带了六罐，结果半罐都没用完
+3. 夏天中午露天烧烤真的很热... 感觉头晕有点要中暑去帐篷里躺了一会。下次还是深夜烤肉好了
+4. 原本说每人至少要买自己吃的食材，结果每个人都买多了，然后就剩了很多食材吃不完
+5. 第一次搭帐篷，很简单，像撑伞一样一下子就搭好了。不过收起来好难，三个人花了好大力气才收好...&lt;/p&gt;
+&lt;p&gt;总之希望下次能少踩一些坑 quq&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5895" rel="alternate"/>
+  </entry>
   <entry>
     <id>5894</id>
     <title>小桂桂的回忆录 📒 #5894</title>
