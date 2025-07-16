@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-07-16T14:14:54.745365+00:00</updated>
+  <updated>2025-07-16T16:13:46.870726+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5915</id>
+    <title>小桂桂的回忆录 📒 #5915</title>
+    <updated>2025-07-16T15:29:01+00:00</updated>
+    <content>&lt;p&gt;被下国际象棋的朋友推荐了 King of the Bridge 这款游戏！直播玩玩 qwq&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://youtube.com/live/Lwz5Qq1VaH0"&gt;https://youtube.com/live/Lwz5Qq1VaH0&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5915" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>5914</id>
+    <title>小桂桂的回忆录 📒 #5914</title>
+    <updated>2025-07-16T15:28:43+00:00</updated>
+    <content>&lt;p&gt;Video chat started&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5914" rel="alternate"/>
+  </entry>
   <entry>
     <id>5913</id>
     <title>小桂桂的回忆录 📒 #5913</title>
