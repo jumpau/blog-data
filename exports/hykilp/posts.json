@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5475,
+    "views": 5477,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -80763,7 +80763,7 @@
     "id": 5894,
     "date": "2025-07-13T19:33:56",
     "text": "不知道从什么时候开始谷歌地图不显示评论和照片了\n\n今天查了一下，居然是某种地区锁，双卡手机把设置里的「默认呼叫号码」改成非中国的卡就没问题了...\n\n<del>怕中国人靠发照片评论到处放原神地标吗</del>",
-    "views": 183,
+    "views": 184,
     "forwards": 2
   },
   {
@@ -80939,7 +80939,7 @@
     "id": 5908,
     "date": "2025-07-15T14:48:43",
     "text": "第一次经历地震",
-    "views": 165,
+    "views": 166,
     "forwards": 0
   },
   {
@@ -81032,7 +81032,7 @@
     "id": 5913,
     "date": "2025-07-16T11:25:49",
     "text": "开香槟",
-    "views": 164,
+    "views": 165,
     "forwards": 0,
     "images": [
       {
@@ -81057,7 +81057,7 @@
     "id": 5915,
     "date": "2025-07-16T15:29:01",
     "text": "被下国际象棋的朋友推荐了 King of the Bridge 这款游戏！直播玩玩 qwq\n\n<a href=\"https://youtube.com/live/Lwz5Qq1VaH0\">https://youtube.com/live/Lwz5Qq1VaH0</a>",
-    "views": 149,
+    "views": 150,
     "forwards": 0
   },
   {
@@ -81070,7 +81070,7 @@
     "id": 5917,
     "date": "2025-07-16T17:07:13",
     "text": "直播一个小时打通了！回放在<a href=\"https://youtube.com/live/Lwz5Qq1VaH0\">这里</a>\n\n这个游戏规则改得好过分！感觉也许国际象棋新手反而会玩得更好？感觉所有一般国际象棋上的定式都不通用了，所以反而按照肌肉记忆下棋会很吃瘪 quq（<span class=\"spoiler\"><span>所以我能这么快通关反而说明我国际象棋打得很菜吗</span></span>\n\n以及想出这么邪门的作弊和反击规则作者是恶魔吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 不熟悉新的规则的时候对方乱走我都不知道是不是作弊，但是我作弊就 100% 会被抓到好不公平哇...\n\n第一周目对方作弊的时候利用反击很快就赢了，但是是坏结局。第二周目尝试不作弊赢棋真的好难好难，毕竟对方作弊的时候你发现了也没办法撤回去... 不过最后对面犯够多蠢让我赢了 qwq（感觉如果对面 AI 更聪明一点的话不反击完全就是不可能赢的\n\n<del>什么时候有 pvp 模式啊</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 142,
+    "views": 143,
     "forwards": 0,
     "media_group_id": 14021485066316709,
     "images": [
@@ -81104,7 +81104,7 @@
     "id": 5920,
     "date": "2025-07-17T03:41:01",
     "text": "速通！\n\n（居然正常通关 + 速通之后依然没有超过两小时退款期限）",
-    "views": 130,
+    "views": 133,
     "forwards": 0,
     "media_group_id": 14021789291254117,
     "files": [
@@ -81140,7 +81140,7 @@
     "id": 5922,
     "date": "2025-07-17T14:58:27",
     "text": "\"Japanized western restaurant\"",
-    "views": 103,
+    "views": 110,
     "forwards": 1,
     "images": [
       {
@@ -81158,7 +81158,7 @@
   {
     "id": 5923,
     "date": "2025-07-17T16:54:36",
-    "views": 119,
+    "views": 131,
     "forwards": 3,
     "files": [
       {
@@ -81216,7 +81216,7 @@
             "data": "OQ=="
           }
         ],
-        "total_voter_count": 73,
+        "total_voter_count": 80,
         "is_closed": false,
         "is_anonymous": true,
         "type": "REGULAR",
