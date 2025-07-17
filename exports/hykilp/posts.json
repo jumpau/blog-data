@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1227,
+    "views": 1228,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5462,
+    "views": 5463,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1788,
+    "views": 1789,
     "forwards": 51
   },
   {
@@ -79187,7 +79187,7 @@
     "id": 5763,
     "date": "2025-07-07T08:09:47",
     "text": "赛博拨号",
-    "views": 189,
+    "views": 190,
     "forwards": 0,
     "images": [
       {
@@ -79206,7 +79206,7 @@
     "id": 5764,
     "date": "2025-07-07T08:34:48",
     "text": "周末和谦谦和新的朋友泉野咲 <a href=\"https://t.me/izmnchan\">@izmnchan</a> 和小魏 <a href=\"https://t.me/Mcxiaowei\">@Mcxiaowei</a> 一起去了伊豆！\n\n是两天的即兴旅行，周五晚上六点决定要去之后马上租车订旅店计划行程然后第二天早上就出发了 qwq\n\n不过因为前几天刚看完摇曳露营第二季，计划做着做着就变成了圣地巡旅（？）<del>不过 tbf 好像伊豆也没几个景点是没有在摇曳露营里出现过</del>\n\n第一站是出逢い岬 & 御浜岬公園 qwq",
-    "views": 216,
+    "views": 217,
     "forwards": 4,
     "media_group_id": 14015018305103805,
     "images": [
@@ -79296,7 +79296,7 @@
     "id": 5772,
     "date": "2025-07-07T08:47:18",
     "text": "第二站是黄金崎，动画里第一天好像是在这里露营来着，可惜我们因为临时计划没有足够的装备所以这次没有露营 quq\n\n下次一定！<i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i>",
-    "views": 161,
+    "views": 162,
     "forwards": 2,
     "media_group_id": 14015024310902757,
     "images": [
@@ -80763,14 +80763,14 @@
     "id": 5894,
     "date": "2025-07-13T19:33:56",
     "text": "不知道从什么时候开始谷歌地图不显示评论和照片了\n\n今天查了一下，居然是某种地区锁，双卡手机把设置里的「默认呼叫号码」改成非中国的卡就没问题了...\n\n<del>怕中国人靠发照片评论到处放原神地标吗</del>",
-    "views": 175,
+    "views": 176,
     "forwards": 2
   },
   {
     "id": 5895,
     "date": "2025-07-14T06:45:37",
     "text": "周日进行了一些烤肉和日间露营！总共来了八个人，变成了群友见面会吗\n\n第一次露营/烧烤踩了好多坑：\n1. 碳真的很难烧！两个小时过去了还没完全烧起来\n2. 一罐燃气瓶真的很多，我怕不够用带了六罐，结果半罐都没用完\n3. 夏天中午露天烧烤真的很热... 感觉头晕有点要中暑去帐篷里躺了一会。下次还是深夜烤肉好了\n4. 原本说每人至少要买自己吃的食材，结果每个人都买多了，然后就剩了很多食材吃不完\n5. 第一次搭帐篷，很简单，像撑伞一样一下子就搭好了。不过收起来好难，三个人花了好大力气才收好...\n\n总之希望下次能少踩一些坑 quq",
-    "views": 155,
+    "views": 156,
     "forwards": 2,
     "media_group_id": 14019804296208941,
     "images": [
@@ -80850,7 +80850,7 @@
     "id": 5902,
     "date": "2025-07-14T14:53:25",
     "text": "终于把手机 MIUI 上的 Android Auto 修好了！之前一直不能用\n\n首先是卸载掉之前手动装的 Auto，然后安装 Magisk 模块 <a href=\"https://github.com/AndroPlus-org/magisk-module-miui-cn2global\">miui-cn2global</a> (v15) 用来解锁一些谷歌地区锁和 <a href=\"https://github.com/AndroPlus-org/magisk-module-androidauto\">androidauto</a> 模块，重启之后 play 更新 Auto 应用就好啦\n\n以及，因为网易云没有给 Auto 做适配所以之前一直是用 Telegram 做音乐播放器，但是今天发现八年前<a href=\"https://xdaforums.com/t/app-5-1-alpha-anyautoaudio-use-any-audio-app-in-auto.3607916/\">某 XDA 帖子</a>发了一个应用 <a href=\"https://drive.google.com/file/d/10g76cf8f8T14Shb_25DEGSaV88g-rXEK\">Any Auto Audio</a> 可以给任何适配了安卓 API 的音乐软件做 Auto 适配，因为链接已经失效了找了好久才找到，不过装上试试发现居然隔了八年没维护还依然工作！安卓向下兼容真好啊",
-    "views": 157,
+    "views": 160,
     "forwards": 1,
     "media_group_id": 14020038444239989,
     "images": [
@@ -80880,7 +80880,7 @@
     "id": 5904,
     "date": "2025-07-15T04:15:41",
     "text": "从中国买的新滤镜送到了！但是有点翻车\n\n买了这些：\n* UV 用来防紫外、防镜片落灰或者刮伤\n* CPL 用来去除玻璃/水面上的光反射、过滤掉电子设备屏幕的光\n* ND1000 用来降低进入镜头的光量，用来白天拍长曝光\n\n原本打算一直挂着 UV，需要的时候把其他的叠到 UV 上面... 但是发现并不是很行，因为滤镜太厚了，同时叠了两个的时候广角的角上会有黑边...\n\n不太知道怎么办... 裁剪的话本来就很小的 APSC 画幅就更窄了。每次先摘下 UV 再拧其他的滤镜的话对镜头也不太好，不知道镜头上的螺纹寿命能换多少次滤镜 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 158,
+    "views": 160,
     "forwards": 0,
     "media_group_id": 14020423530192701,
     "images": [
@@ -80920,7 +80920,7 @@
     "id": 5907,
     "date": "2025-07-15T10:17:36",
     "text": "猫猫文件 🐈",
-    "views": 164,
+    "views": 166,
     "forwards": 0,
     "images": [
       {
@@ -80939,14 +80939,14 @@
     "id": 5908,
     "date": "2025-07-15T14:48:43",
     "text": "第一次经历地震",
-    "views": 160,
+    "views": 162,
     "forwards": 0
   },
   {
     "id": 5909,
     "date": "2025-07-15T14:57:45",
     "text": "震度4, 完全完全没感觉... 大家说地震了我才知道地震了的程度 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 161,
+    "views": 163,
     "forwards": 0,
     "reply": {
       "id": 5908,
@@ -80969,7 +80969,7 @@
     "id": 5910,
     "date": "2025-07-15T16:21:21",
     "text": "今天要把数据挪到新的计算集群上，但是这个集群已经快没空间了，210TB 的全闪被用到只剩 4.3TB... 还有机器人天天在群里报警提醒大家删东西\n\n所以我不太想把 400GB 的数据加进去，但是导师说也没办法啊你需要写的话只能写进去了 🌚\n\n感觉我已经能预见到存储挤满整个服务器爆炸的那一天了",
-    "views": 165,
+    "views": 167,
     "forwards": 0,
     "images": [
       {
@@ -80988,7 +80988,7 @@
     "id": 5911,
     "date": "2025-07-16T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n♪ 月火水木金働いた\n♪ ダメでも毎日頑張るしかなくて\n♪ だけど金曜日が\n♪ 終われば大丈夫\n♪ 週末は僕のヒーローに\n♪ 会いに行く\n\n<span class=\"spoiler\"><span>醒醒，今天刚周三 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</span></span></i>",
-    "views": 148,
+    "views": 152,
     "forwards": 0,
     "files": [
       {
@@ -81010,7 +81010,7 @@
     "id": 5912,
     "date": "2025-07-16T07:24:59",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n给自己的狗狗写情歌也太浪漫了 <i class=\"custom-emoji\" emoji-src=\"emoji/5326044950696042137.webm\">🥰</i>",
-    "views": 151,
+    "views": 156,
     "forwards": 0,
     "files": [
       {
@@ -81032,7 +81032,7 @@
     "id": 5913,
     "date": "2025-07-16T11:25:49",
     "text": "开香槟",
-    "views": 143,
+    "views": 149,
     "forwards": 0,
     "images": [
       {
@@ -81057,7 +81057,7 @@
     "id": 5915,
     "date": "2025-07-16T15:29:01",
     "text": "被下国际象棋的朋友推荐了 King of the Bridge 这款游戏！直播玩玩 qwq\n\n<a href=\"https://youtube.com/live/Lwz5Qq1VaH0\">https://youtube.com/live/Lwz5Qq1VaH0</a>",
-    "views": 116,
+    "views": 125,
     "forwards": 0
   },
   {
@@ -81070,7 +81070,7 @@
     "id": 5917,
     "date": "2025-07-16T17:07:13",
     "text": "直播一个小时打通了！回放在<a href=\"https://youtube.com/live/Lwz5Qq1VaH0\">这里</a>\n\n这个游戏规则改得好过分！感觉也许国际象棋新手反而会玩得更好？感觉所有一般国际象棋上的定式都不通用了，所以反而按照肌肉记忆下棋会很吃瘪 quq（<span class=\"spoiler\"><span>所以我能这么快通关反而说明我国际象棋打得很菜吗</span></span>\n\n以及想出这么邪门的作弊和反击规则作者是恶魔吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 不熟悉新的规则的时候对方乱走我都不知道是不是作弊，但是我作弊就 100% 会被抓到好不公平哇...\n\n第一周目对方作弊的时候利用反击很快就赢了，但是是坏结局。第二周目尝试不作弊赢棋真的好难好难，毕竟对方作弊的时候你发现了也没办法撤回去... 不过最后对面犯够多蠢让我赢了 qwq（感觉如果对面 AI 更聪明一点的话不反击完全就是不可能赢的\n\n<del>什么时候有 pvp 模式啊</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 80,
+    "views": 96,
     "forwards": 0,
     "media_group_id": 14021485066316709,
     "images": [
