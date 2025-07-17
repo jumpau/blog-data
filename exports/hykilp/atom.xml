@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-07-17T02:51:21.193498+00:00</updated>
+  <updated>2025-07-17T04:26:43.046895+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5920</id>
+    <title>小桂桂的回忆录 📒 #5920</title>
+    <updated>2025-07-17T03:41:01+00:00</updated>
+    <content>&lt;p&gt;速通！&lt;/p&gt;
+&lt;p&gt;（居然正常通关 + 速通之后依然没有超过两小时退款期限）&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5920" rel="alternate"/>
+  </entry>
   <entry>
     <id>5917</id>
     <title>小桂桂的回忆录 📒 #5917</title>
