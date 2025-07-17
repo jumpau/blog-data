@@ -27797,7 +27797,7 @@
     "id": 2074,
     "date": "2023-04-21T04:33:41",
     "text": "做了一对电子太鼓槌！\n\n昨晚想试试用琴键一样的触发方式给鼓槌加上传感器，这样不需要鼓就可以玩太鼓达人了，<del>还可以用来玩一些奇怪的 play</del>。今天做出来啦，响应好准，虽然左咔右咚还是有点难适应\n\n调固件的时候还学到了些信号过滤的技巧，现在连打也不会吞音了！明天给琴的固件也加上这些优化好啦。<a href=\"https://github.com/hykilpikonna/OpenHardware/tree/main/TaikoStick\">源码在这里</a>",
-    "views": 125,
+    "views": 126,
     "forwards": 0,
     "media_group_id": 13456412975432421,
     "files": [
@@ -27833,7 +27833,7 @@
     "id": 2076,
     "date": "2023-04-21T09:44:43",
     "text": "<a href=\"##nsfw\">#nsfw</a> <a href=\"##sp\">#sp</a>\n用电子太鼓槌玩了一些奇怪的 play ///\n\n<span class=\"spoiler\"><span>疼疼 不过好喜欢怎么回事 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323605445118264983.webp\">🙈</span></span></i><span class=\"spoiler\"><span>\n\n大概是回忆录里的第一条 nsfw，犹豫了好久决定公开发出来啦。想起之前看到推特翻译转发的</span></span><a href=\"https://t.me/twitter_translate/15550\"><span class=\"spoiler\"><span>这篇推文</a></span></span><span class=\"spoiler\"><span>，决定不再掩盖自己奇怪的一面了，想让这些同样真实的回忆也能一起堆在这里长出小花 qwq\n\n</span></span>...结果聊聊还是没办法习惯左咚右咔，开了红蓝不分 mod，<del>聊聊菜菜</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6323321925737121667.webp\">🤪</i>",
-    "views": 163,
+    "views": 164,
     "forwards": 4,
     "files": [
       {
@@ -27856,7 +27856,7 @@
     "id": 2077,
     "date": "2023-04-24T06:49:03",
     "text": "今天试了下在朋友群里的赛博自习室复习数学，效果很不错，发现直播着屏幕真的会让自己少一些分心。以及发现看不进去的时候只是睡 20 分钟就能清醒很多哇，虽然一个人大概不敢这样睡吧，我肯定会梦游把闹钟敲掉继续睡的 <i class=\"custom-emoji\" emoji-src=\"emoji/5469634808437021491.webp\">😴</i>\n\n之前落下的差不多都学完了，明早再背背公式就去考试啦。好讨厌不给公式的考试，记忆不好超吃亏呜呜 ;-;",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "images": [
       {
@@ -61507,7 +61507,7 @@
     "id": 4489,
     "date": "2024-09-29T05:10:34",
     "text": "<a href=\"##RF\">#RF</a> 关于我今天不小心刷砖了一张 Mifare 卡又救回来了的这件事：\n\n众所周知 Mifare 卡的序列号或者 ID 是生产出厂的时候写入进分区 0 里面，之后就变成了只读的信息。但是我们常说的 CUID 卡 (又名 Mifare Classic DirectWrite Gen2) 支持一些让程序覆盖 0 分区的魔法指令，这样复制卡的时候就可以作为白卡覆盖序列号了，让新卡和旧卡数据完全一样 <i class=\"custom-emoji\" emoji-src=\"emoji/5443042995165209696.tgs\">🧙‍♂</i>\n \n...然后今天我发现它覆盖 0 分区的时候没有任何验证，既没有验证 0 分区数据合不合理，也没有防止溢出... 然后蠢蠢桂桂把 7-byte ID 的 mifare 4k 数据写到这张 4-byte ID 卡里让它变砖了，无论是手机还是 pm3 都读不到 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n...原本以为没救了去 rf 群里感叹一下，然后群友说其实是有救的，pm3 可以 <code>--force</code> 强行重写 0 分区 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 好耶，得救了",
-    "views": 150,
+    "views": 151,
     "forwards": 1,
     "media_group_id": 13820693072131581,
     "images": [
@@ -61652,7 +61652,7 @@
     "id": 4499,
     "date": "2024-10-03T08:38:42",
     "text": "...前几天刚抱怨完 311 作业长，这三天写 485 计算语言学的作业花了 19 小时 <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>\n\n不过这 19 个小时感觉很充实！做了一个完整的能用的自然语言依赖树识别模型，应该是我第一次自己用 pytorch 定义模型，也是第一次用 pytorch 写能并行的一般最小生成树算法... 学到了很多 quq（感觉和以前写过的所有算法都好不一样\n\n感觉 pytorch 像魔法，只是把每层定义出来，再定义一个目标的 loss，然后调用一下 backward、step 它就自己把模型训练好了... 写完了训练完了还完全不懂底层逻辑，<del>感觉也不需要懂了</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n唉 同样是讲机器学习的课，之前的 311 讲一堆 ML 模型背后的数学和概率论信息论证明就觉得好枯燥，果然我还是不适合理论呢 <i class=\"custom-emoji\" emoji-src=\"emoji/5442664243474211327.tgs\">👀</i> <del>果然我还是喜欢做念念咒语喂些数据就完事了的赛博炼金术士</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5443161132535653267.tgs\">🧙‍♂</i>",
-    "views": 137,
+    "views": 138,
     "forwards": 0,
     "media_group_id": 13823557776268837,
     "images": [
@@ -61687,7 +61687,7 @@
     "id": 4501,
     "date": "2024-10-03T08:59:34",
     "text": "以及第一次用到了 einsum！\n\neinsum 也是好奇妙的东西，只要把每个维度都命名出来，写上输入写上输出，einops 就会自动把它算好 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 再也不用担心不知道不同维度尺寸的矩阵应该怎样乘怎样加了",
-    "views": 130,
+    "views": 131,
     "forwards": 0,
     "reply": {
       "id": 4499,
@@ -61711,7 +61711,7 @@
     "id": 4502,
     "date": "2024-10-03T09:40:11",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n聊聊做的炒巴鲨鱼盖饭！<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 好吃喵\n\n发现自己忙的时候聊聊帮忙做了好多乱七八糟的事情... 反而感觉我最近没有帮到聊聊什么忙，好自责",
-    "views": 132,
+    "views": 133,
     "forwards": 1,
     "images": [
       {
@@ -61730,7 +61730,7 @@
     "id": 4503,
     "date": "2024-10-03T15:00:18",
     "text": "<del>暴论：真的觉得 conda/mamba 是最好用的 linux 包管理器</del>\n\n看学校机器上有免费 GPU 嘴馋了 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i> 但是没有 root 权限不能用系统包管理器 apt 安装应用怎么办呢？\n\n大一的时候做过一次像安卓 termux 一样在用户层 proot 进 arch rootfs 的操作，还做过把一般 pacman 包管理器放到用户目录然后脚本 patchelf 的操作，当时确实成功了，但是现在感觉重新架起那些框架都太麻烦。\n\n查了查别的解决方案，flatpak 可以用户权限安装应用但是装 flatpak 本身要管理员，其他的比如 nix 还有 linuxbrew 也一样... 但是 mamba 不需要，直接用户权限就能装 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 而且 conda-forge 里面有很多一般通过 linux 应用，那就用它吧\n\n直接一个 curl | bash 装完就能用，好棒，原来我一直以来梦寐以求的跨 OS 跨 distro 包管理器就在身边 <i class=\"custom-emoji\" emoji-src=\"emoji/6170412886611986173.webm\">❗</i>",
-    "views": 145,
+    "views": 146,
     "forwards": 0,
     "images": [
       {
@@ -61749,7 +61749,7 @@
     "id": 4504,
     "date": "2024-10-03T15:05:36",
     "text": "翻倒当时开坑 「UPM」 (universal/userland package manager) 的截图\n\n可惜这个坑也没有填完就丢掉了...",
-    "views": 143,
+    "views": 144,
     "forwards": 0,
     "reply": {
       "id": 1778,
@@ -61760,7 +61760,7 @@
     "id": 4505,
     "date": "2024-10-03T15:33:18",
     "text": "四个 A4500 好耶 qwq\n\n原来 UofT 有这么好的计算资源，我在这里四年了居然直到昨天才知道这个 GPU 集群存在...",
-    "views": 149,
+    "views": 150,
     "forwards": 1,
     "images": [
       {
@@ -61930,7 +61930,7 @@
     "id": 4515,
     "date": "2024-10-08T01:32:20",
     "text": "♫ I'm a shooting star, leaping through the sky like a tiger ♫\n♫ Defying the laws of gravity ♫\n♫ I'm a racing car, passing by like Lady Godiva ♫\n♫ I'm gonna go, go, go, there's no stopping me ♫",
-    "views": 141,
+    "views": 142,
     "forwards": 0,
     "images": [
       {
@@ -67964,14 +67964,14 @@
     "id": 4922,
     "date": "2025-02-10T19:56:36",
     "text": "真的觉得开源社区有时候有点过分了，总是有人认为维护者的贡献都是理所应当...\n\n仔细想想，在开源社区里做项目这么久之后，我也会这样对待自己了——会因为别人遇到的 bug 自责，会觉得我有责任需要给别人解决问题，然后把自己累坏 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n也许这就是为什么我只喜欢做，不喜欢发布项目也不喜欢长期维护一个项目吧，因为从发布的那一刻起，我的代办就会被别人的问题和功能请求塞满，不能只顾及自己的想法了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n<span class=\"spoiler\"><span>也许需要一些 care free 的维护理念、需要对别人说「想要的话去自己研究自己改代码」的勇气，也许这样才能把所有的时间分给自己的想法</span></span>",
-    "views": 233,
+    "views": 234,
     "forwards": 1
   },
   {
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1284,
+    "views": 1285,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -68095,7 +68095,7 @@
     "id": 4932,
     "date": "2025-02-13T07:00:30",
     "text": "呜呜 差点被钓鱼了\n\n想要登录 Google Slides，搜索之后点了我觉得是官方网页的第三个结果，也是 <code>google.com</code> 域名... 点进去才发现不对怎么这么丑啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n拖大窗口仔细看才发现是 Google Sites... 任何人都可以创建自己的网页发布到 <code>sites.google.com</code> 的路径下，所以虽然是谷歌官方的域名，这个网页其实是第三方的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 发到群里甚至某谷歌员工第一眼都没看出什么不对\n\n仔细看了一下，还好这个页面上的登录链接是谷歌官方的，作者并没有钓谷歌账号，只钓走了广告费... <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 236,
+    "views": 237,
     "forwards": 2,
     "images": [
       {
@@ -68113,7 +68113,7 @@
   {
     "id": 4933,
     "date": "2025-02-14T07:43:52",
-    "views": 227,
+    "views": 228,
     "forwards": 0,
     "files": [
       {
@@ -68138,7 +68138,7 @@
     "id": 4934,
     "date": "2025-02-14T18:00:50",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i> sinmai.ipa 绝赞崩坏中",
-    "views": 1436,
+    "views": 1437,
     "forwards": 9,
     "files": [
       {
@@ -68159,7 +68159,7 @@
   {
     "id": 4935,
     "date": "2025-02-14T21:16:56",
-    "views": 229,
+    "views": 230,
     "forwards": 0,
     "images": [
       {
@@ -68178,13 +68178,13 @@
     "id": 4936,
     "date": "2025-02-15T04:46:21",
     "text": "买了一个新域名 <a href=\"https://maigo.dev/\">maigo.dev</a> ，开了一个新的 GitHub Org，打算把今后和朋友一起做的新项目放在这里 qwq\n\n<span class=\"spoiler\"><span>（实际上是因为最近发生了一些很心痛的矛盾导致 AquaDX 现在的开发团队大概要散了，服务器也要拆分开了... 所以建起 MaigoLabs 大概是想建一个和新的朋友、以及被矛盾伤害到和现在的团队不兼容的朋友重新开始的地方吧，就像动画里的 MyGO 乐队那样 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</span></span></i>",
-    "views": 215,
+    "views": 216,
     "forwards": 0
   },
   {
     "id": 4937,
     "date": "2025-02-15T08:13:39",
-    "views": 208,
+    "views": 209,
     "forwards": 0,
     "files": [
       {
@@ -68209,14 +68209,14 @@
     "id": 4938,
     "date": "2025-02-17T09:28:42",
     "text": "聊聊今天去了她一个微博网友的生日派对，大暴风雪天机厅都停业了，然后居然来了 30 个人，大部分都是聊聊不认识的... 好震撼，还好我没去 quq\n\n这就是社牛吗... 我可能约饭有大于五个人就会过载 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>\n\n不过不太懂，为什么生日派对要邀请这么多不是很熟的人聚在一起，明明她和聊聊在那之前也有一年多没联系了，而且上次联系也是约饭 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i> 感觉如果是我也许只会想要邀请特别熟的人吧",
-    "views": 204,
+    "views": 205,
     "forwards": 1
   },
   {
     "id": 4939,
     "date": "2025-02-17T17:49:07",
     "text": "想重启聊聊的 iOS 18 的苹果手机，长按电源键发现叫不出关机菜单，就问聊聊“怎么重启呀？”\n\n...结果长按电源键反而叫出了 siri，被 siri 听到了，问我要不要重启，我说好，然后它重启了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 184,
+    "views": 185,
     "forwards": 2,
     "images": [
       {
@@ -68333,7 +68333,7 @@
     "id": 4947,
     "date": "2025-02-20T08:06:39",
     "text": "我和 syama 在找合味道杯面模型 🍜 找到了一个\n\nsyama: 这里有多少个面？\n我: ？<i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\nsyama: 卧槽 63 万个面\n我: ？哦是在说 mesh 三角数量 🌚",
-    "views": 207,
+    "views": 208,
     "forwards": 2,
     "media_group_id": 13920310398395053,
     "images": [
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5469,
+    "views": 5470,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -77450,7 +77450,7 @@
     "id": 5619,
     "date": "2025-06-17T16:29:08",
     "text": "<a href=\"##冲绳\">#冲绳</a>\n第三站是玉泉洞，似乎就是石灰岩上面有水的时候水带着石头渗下来形成的一个个鍾乳石刺。看到石头长在作为观光设施的地板和把手上、看到不知道多久之前被丢在池子里的水瓶也变成了雕像，就在想，会不会再过几百年这个洞就把自己填起来了 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n没有看到 Minecraft 新版本那种长满绿色植物很漂亮的洞穴，但是用猫脑想想，毕竟要有光才能长绿色植物，所以这里唯一的植物是人工的光旁边长出的青苔好像也挺有道理",
-    "views": 217,
+    "views": 218,
     "forwards": 1,
     "media_group_id": 14001421984625493,
     "images": [
@@ -77530,7 +77530,7 @@
     "id": 5626,
     "date": "2025-06-18T09:11:04",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5406709143799085132.webp\">🌸</i>🙅‍♀️\n\n<span class=\"spoiler\"><span>好吧众所周知切手（きって）是邮票</span></span>",
-    "views": 228,
+    "views": 229,
     "forwards": 0,
     "images": [
       {
@@ -77549,14 +77549,14 @@
     "id": 5627,
     "date": "2025-06-18T11:19:22",
     "text": "好想知道 如果让自己一直跟着看到的第一个箭头（离眼睛直线距离最近的箭头）走，直到看到下一个箭头或者走到一个看不到箭头的地方的话，会走到哪里\n\n还好想知道 如果从世界上每一个箭头开始走，最终停在哪里的次数最多\n<a href=\"##好奇心害死猫\">#好奇心害死猫</a>",
-    "views": 217,
+    "views": 218,
     "forwards": 1
   },
   {
     "id": 5628,
     "date": "2025-06-18T12:08:08",
     "text": "<a href=\"##冲绳\">#冲绳</a>\n第四站是美国<span class=\"spoiler\"><span>...村，一点都不美国</span></span>。但是至少看到了烟花和猫猫，听到了路边本地民谣演出，吃了也许很异端但是很好吃的分解塔可拌饭，味道有点像芝士肉沫意饭（之前发过照片了）",
-    "views": 217,
+    "views": 218,
     "forwards": 1,
     "media_group_id": 14001987906286413,
     "images": [
@@ -77611,7 +77611,7 @@
     "id": 5632,
     "date": "2025-06-18T12:16:19",
     "text": "<a href=\"##冲绳\">#冲绳</a>\n第五站是水族馆，和东京池袋的 sunshine 水族馆相比的话，感觉这边更严肃？太注重科学反而没有艺术的空间了\n\n这边确实有更多物种、更多科普和最新最热的研究成果，比如给鲨鲨的人工子宫（<del>什么时候能给人类实装啊</del>）但是展示的鱼缸布局都比较死板比较公式化... sunshine 那边有很多这里没有的会让我第一眼就觉得「哇 好漂亮」的展示，比如那个用海月水母摆出来的像星空一样的全视野大屏幕「海月空感」、还有飞在天上的企鹅",
-    "views": 221,
+    "views": 222,
     "forwards": 0,
     "media_group_id": 14001991837586333,
     "images": [
@@ -77691,7 +77691,7 @@
     "id": 5639,
     "date": "2025-06-18T17:18:00",
     "text": "<a href=\"##冲绳\">#冲绳</a>\n一天的行程结束之后天气转晴了，去人不太多的岛上看了日落 🌇\n\n然后又开了一个小时车，开到了一个无人森林山路中间的休息区，是一个车子熄火之后就完全没有其他光源的地方... 熄火之后抬起头真的看到了星空！首先是从车窗探出头，之后拿出了野餐垫躺在地上看，星空配上附近树林里虫虫和小动物的白噪音好清静，好想就在这里睡过去 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>\n\n拿出 Stellarium 对照找到了一些星座，还用手机延迟摄影拍了些照片。手机拍出来噪点好多，好想买相机呀。\n\n可惜如果真的在这里睡着的话可能会被毒蛇吃掉，所以还是回家了。原路回去总共 60km 左右，不过因为路上几乎没有车所以一个小时就到家了 <i class=\"custom-emoji\" emoji-src=\"emoji/6291698674242161600.webm\">🏃</i>",
-    "views": 215,
+    "views": 216,
     "forwards": 1,
     "media_group_id": 14002136643894573,
     "images": [
@@ -78274,7 +78274,7 @@
     "id": 5688,
     "date": "2025-06-24T04:46:24",
     "text": "<a href=\"##摘下耳机\">#摘下耳机</a>\n昨晚去渋谷的时候买了这首歌的<a href=\"https://harumakigohan.com/ftr/\">初回限定盘</a>\n\n这个包装真的... 拆开包装的过程需要物理把封面上的这两位分开 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i> 巧妙得让我心痛\n\n<span class=\"spoiler\"><span>所以又多了一个理由不拆开包装</span></span>",
-    "views": 195,
+    "views": 196,
     "forwards": 0,
     "media_group_id": 14005923078412709,
     "images": [
@@ -80488,7 +80488,7 @@
     "id": 5874,
     "date": "2025-07-11T07:02:12",
     "text": "传送门",
-    "views": 155,
+    "views": 156,
     "forwards": 0,
     "images": [
       {
@@ -80507,7 +80507,7 @@
     "id": 5875,
     "date": "2025-07-11T07:05:46",
     "text": "门的后面是另一个平行世界",
-    "views": 158,
+    "views": 159,
     "forwards": 1,
     "files": [
       {
@@ -80529,7 +80529,7 @@
     "id": 5876,
     "date": "2025-07-11T17:19:00",
     "text": "去看了新电影《超人》，不是很喜欢... 觉得自己有被预告片欺骗，所以很认真地写了影评（剧透警告）\n\n原文链接在<a href=\"https://aza.moe/blog?post=2025-07-12-%E8%B6%85%E4%BA%BA\">这里</a>\n\n<del>（update: 在三岁小孩聊聊的软磨硬泡下决定把评分提升到 3/5 颗星）</del>",
-    "views": 157,
+    "views": 158,
     "forwards": 0,
     "media_group_id": 14018034721548197,
     "images": [
@@ -80561,7 +80561,7 @@
     "id": 5878,
     "date": "2025-07-11T17:40:56",
     "text": "快选举了，看看日本都有哪些派对 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n保守主义...\n自由主义...\n进步主义...\n社会主义...\n反对电视许可费主义 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 162,
+    "views": 163,
     "forwards": 1,
     "images": [
       {
@@ -80580,7 +80580,7 @@
     "id": 5879,
     "date": "2025-07-11T18:31:37",
     "text": "今天和聊聊的朋友清水鏡去台場看到了等身高达，好炫酷！以及贴在机身上的贴纸好奇妙\n\n晚上吃了文字焼き和お好み焼き！虽然墨鱼墨文字焼拍不出食欲所以并没有给它拍照片，但是确实很好吃 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 163,
+    "views": 164,
     "forwards": 1,
     "media_group_id": 14018069581839973,
     "images": [
@@ -80660,14 +80660,14 @@
     "id": 5886,
     "date": "2025-07-12T15:06:47",
     "text": "看了一集鹿乃子发现不太能对上电波的只有我吗 ;-;",
-    "views": 155,
+    "views": 156,
     "forwards": 0
   },
   {
     "id": 5887,
     "date": "2025-07-12T15:43:10",
     "text": "今天和マモルさん去看了索尼吹奏乐团的定期演奏会，是第一次现场看音乐会，好棒 qwq\n\n虽然是吹奏音乐会，但是感觉我的注意力一直在左边和后面的打击乐器上（xx）\n\n发现了一些奇妙事情，比如有一首名叫「嵐」的曲子中有风声音效，但是居然连这个风声都是物理的——图二最右边箭头那个位置红色的是一个转起来会根据转速发出不同强度风声的乐器 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n还有观察到了打击乐器那边颤音琴手有一段在用琴弓拉颤音琴（颤音琴一般是和马林巴琴/木琴差不多的靠敲击发出声音的乐器）感觉到迷惑问了 llm 才知道真的有这种操作 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i> 好奇妙\n\n不过现在好像理解了乐团的魅力，仔细看每个人的话好像每个人都并没有演奏很难的谱子，比如地鼓和镲和四件鼓居然是三个不同的人来演奏... 但是简单的音轨合起来就好好听\n\n在想，会不会也许把我两年前写的马林巴琴谱子拆分成更多更小的音轨就不会因为太难弹不下来了呢... quq",
-    "views": 160,
+    "views": 161,
     "forwards": 1,
     "media_group_id": 14018679923602213,
     "images": [
@@ -80717,7 +80717,7 @@
     "id": 5892,
     "date": "2025-07-12T16:02:34",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n这次音乐会里最喜欢的两首是「<a href=\"https://www.youtube.com/watch?v=VtCrQQFWyaw\">波を越えてはるかに</a>」和「<a href=\"https://www.youtube.com/watch?v=TI9Voa4dYqs\">海の歌</a>」\n\n（因为禁止录音所以找了 YT 上其他乐团的演奏录音 qwq）",
-    "views": 180,
+    "views": 181,
     "forwards": 0,
     "media_group_id": 14018689234450061,
     "files": [
@@ -80756,14 +80756,14 @@
     "id": 5893,
     "date": "2025-07-13T01:22:42",
     "text": "八月7号~11号去北海道有人一起吗 qwq",
-    "views": 180,
+    "views": 181,
     "forwards": 1
   },
   {
     "id": 5894,
     "date": "2025-07-13T19:33:56",
     "text": "不知道从什么时候开始谷歌地图不显示评论和照片了\n\n今天查了一下，居然是某种地区锁，双卡手机把设置里的「默认呼叫号码」改成非中国的卡就没问题了...\n\n<del>怕中国人靠发照片评论到处放原神地标吗</del>",
-    "views": 179,
+    "views": 181,
     "forwards": 2
   },
   {
@@ -80850,7 +80850,7 @@
     "id": 5902,
     "date": "2025-07-14T14:53:25",
     "text": "终于把手机 MIUI 上的 Android Auto 修好了！之前一直不能用\n\n首先是卸载掉之前手动装的 Auto，然后安装 Magisk 模块 <a href=\"https://github.com/AndroPlus-org/magisk-module-miui-cn2global\">miui-cn2global</a> (v15) 用来解锁一些谷歌地区锁和 <a href=\"https://github.com/AndroPlus-org/magisk-module-androidauto\">androidauto</a> 模块，重启之后 play 更新 Auto 应用就好啦\n\n以及，因为网易云没有给 Auto 做适配所以之前一直是用 Telegram 做音乐播放器，但是今天发现八年前<a href=\"https://xdaforums.com/t/app-5-1-alpha-anyautoaudio-use-any-audio-app-in-auto.3607916/\">某 XDA 帖子</a>发了一个应用 <a href=\"https://drive.google.com/file/d/10g76cf8f8T14Shb_25DEGSaV88g-rXEK\">Any Auto Audio</a> 可以给任何适配了安卓 API 的音乐软件做 Auto 适配，因为链接已经失效了找了好久才找到，不过装上试试发现居然隔了八年没维护还依然工作！安卓向下兼容真好啊",
-    "views": 160,
+    "views": 161,
     "forwards": 1,
     "media_group_id": 14020038444239989,
     "images": [
@@ -80920,7 +80920,7 @@
     "id": 5907,
     "date": "2025-07-15T10:17:36",
     "text": "猫猫文件 🐈",
-    "views": 167,
+    "views": 168,
     "forwards": 0,
     "images": [
       {
@@ -80939,14 +80939,14 @@
     "id": 5908,
     "date": "2025-07-15T14:48:43",
     "text": "第一次经历地震",
-    "views": 162,
+    "views": 163,
     "forwards": 0
   },
   {
     "id": 5909,
     "date": "2025-07-15T14:57:45",
     "text": "震度4, 完全完全没感觉... 大家说地震了我才知道地震了的程度 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 163,
+    "views": 164,
     "forwards": 0,
     "reply": {
       "id": 5908,
@@ -80969,7 +80969,7 @@
     "id": 5910,
     "date": "2025-07-15T16:21:21",
     "text": "今天要把数据挪到新的计算集群上，但是这个集群已经快没空间了，210TB 的全闪被用到只剩 4.3TB... 还有机器人天天在群里报警提醒大家删东西\n\n所以我不太想把 400GB 的数据加进去，但是导师说也没办法啊你需要写的话只能写进去了 🌚\n\n感觉我已经能预见到存储挤满整个服务器爆炸的那一天了",
-    "views": 167,
+    "views": 168,
     "forwards": 0,
     "images": [
       {
@@ -80988,7 +80988,7 @@
     "id": 5911,
     "date": "2025-07-16T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n♪ 月火水木金働いた\n♪ ダメでも毎日頑張るしかなくて\n♪ だけど金曜日が\n♪ 終われば大丈夫\n♪ 週末は僕のヒーローに\n♪ 会いに行く\n\n<span class=\"spoiler\"><span>醒醒，今天刚周三 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</span></span></i>",
-    "views": 152,
+    "views": 157,
     "forwards": 0,
     "files": [
       {
@@ -81010,7 +81010,7 @@
     "id": 5912,
     "date": "2025-07-16T07:24:59",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n给自己的狗狗写情歌也太浪漫了 <i class=\"custom-emoji\" emoji-src=\"emoji/5326044950696042137.webm\">🥰</i>",
-    "views": 157,
+    "views": 161,
     "forwards": 0,
     "files": [
       {
@@ -81032,7 +81032,7 @@
     "id": 5913,
     "date": "2025-07-16T11:25:49",
     "text": "开香槟",
-    "views": 151,
+    "views": 158,
     "forwards": 0,
     "images": [
       {
@@ -81057,7 +81057,7 @@
     "id": 5915,
     "date": "2025-07-16T15:29:01",
     "text": "被下国际象棋的朋友推荐了 King of the Bridge 这款游戏！直播玩玩 qwq\n\n<a href=\"https://youtube.com/live/Lwz5Qq1VaH0\">https://youtube.com/live/Lwz5Qq1VaH0</a>",
-    "views": 135,
+    "views": 139,
     "forwards": 0
   },
   {
@@ -81070,7 +81070,7 @@
     "id": 5917,
     "date": "2025-07-16T17:07:13",
     "text": "直播一个小时打通了！回放在<a href=\"https://youtube.com/live/Lwz5Qq1VaH0\">这里</a>\n\n这个游戏规则改得好过分！感觉也许国际象棋新手反而会玩得更好？感觉所有一般国际象棋上的定式都不通用了，所以反而按照肌肉记忆下棋会很吃瘪 quq（<span class=\"spoiler\"><span>所以我能这么快通关反而说明我国际象棋打得很菜吗</span></span>\n\n以及想出这么邪门的作弊和反击规则作者是恶魔吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 不熟悉新的规则的时候对方乱走我都不知道是不是作弊，但是我作弊就 100% 会被抓到好不公平哇...\n\n第一周目对方作弊的时候利用反击很快就赢了，但是是坏结局。第二周目尝试不作弊赢棋真的好难好难，毕竟对方作弊的时候你发现了也没办法撤回去... 不过最后对面犯够多蠢让我赢了 qwq（感觉如果对面 AI 更聪明一点的话不反击完全就是不可能赢的\n\n<del>什么时候有 pvp 模式啊</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 112,
+    "views": 118,
     "forwards": 0,
     "media_group_id": 14021485066316709,
     "images": [
@@ -81104,7 +81104,7 @@
     "id": 5920,
     "date": "2025-07-17T03:41:01",
     "text": "速通！\n\n（居然正常通关 + 速通之后依然没有超过两小时退款期限）",
-    "views": 48,
+    "views": 69,
     "forwards": 0,
     "media_group_id": 14021789291254117,
     "files": [
