@@ -68839,7 +68839,7 @@
     "id": 4985,
     "date": "2025-03-07T02:19:48",
     "text": "maimai 选歌菜单远处看好像一个脸啊？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 1374,
+    "views": 1375,
     "forwards": 6,
     "media_group_id": 13930511903991437,
     "images": [
@@ -81140,7 +81140,7 @@
     "id": 5922,
     "date": "2025-07-17T14:58:27",
     "text": "\"Japanized western restaurant\"",
-    "views": 155,
+    "views": 156,
     "forwards": 1,
     "images": [
       {
@@ -81158,7 +81158,7 @@
   {
     "id": 5923,
     "date": "2025-07-17T16:54:36",
-    "views": 250,
+    "views": 254,
     "forwards": 3,
     "files": [
       {
@@ -81216,7 +81216,7 @@
             "data": "OQ=="
           }
         ],
-        "total_voter_count": 126,
+        "total_voter_count": 129,
         "is_closed": false,
         "is_anonymous": true,
         "type": "REGULAR",
@@ -81229,7 +81229,7 @@
     "id": 5924,
     "date": "2025-07-18T01:57:19",
     "text": "（其实发这个 poll 是因为我用的 nekogram 最近的更新有强迫症宝具 bug，总是会在没有未读的时候显示 1 未读... 降级就没有了，但是降级会损坏数据库，不知道怎么办 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 105,
+    "views": 109,
     "forwards": 1,
     "reply": {
       "id": 5923
