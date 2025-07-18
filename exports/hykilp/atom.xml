@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-07-18T00:14:41.584282+00:00</updated>
+  <updated>2025-07-18T02:51:45.392184+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5924</id>
+    <title>小桂桂的回忆录 📒 #5924</title>
+    <updated>2025-07-18T01:57:19+00:00</updated>
+    <content>&lt;p&gt;（其实发这个 poll 是因为我用的 nekogram 最近的更新有强迫症宝具 bug，总是会在没有未读的时候显示 1 未读... 降级就没有了，但是降级会损坏数据库，不知道怎么办 &lt;i class="custom-emoji" emoji-src="emoji/5444876709977398781.tgs"&gt;😸&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5924" rel="alternate"/>
+  </entry>
   <entry>
     <id>5923</id>
     <title>小桂桂的回忆录 📒 #5923</title>
