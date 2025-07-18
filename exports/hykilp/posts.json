@@ -68296,7 +68296,7 @@
     "id": 4944,
     "date": "2025-02-19T20:22:20",
     "text": "谷歌搜索似乎把 Edge 浏览器的官方下载页面从搜索结果里过滤掉了... 好讨厌，明明 Bing 都没有这样过滤 Chrome 的下载页面",
-    "views": 281,
+    "views": 282,
     "forwards": 2,
     "media_group_id": 13919972321026757,
     "images": [
@@ -69395,7 +69395,7 @@
     "id": 5023,
     "date": "2025-03-15T08:40:10",
     "text": "因为植树节结束就把频道树封印了，感谢大家参与~\n\n源码和数据推到 Github 上啦，在读我上分发了一些很随意的奖项，<a href=\"https://github.com/hykilpikonna/ChannelTree\">仓库在这里</a> 欢迎参观 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 344,
+    "views": 345,
     "forwards": 7,
     "media_group_id": 13936224081120941,
     "images": [
@@ -70091,7 +70091,7 @@
     "id": 5072,
     "date": "2025-03-25T22:41:40",
     "text": "因为 credit 花不完，部署了一个 emu bot <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n<span class=\"spoiler\"><span>居然真的能让 emu 用很开心可爱的语气说出很恐怖的话，</span></span>效果真好 <i class=\"custom-emoji\" emoji-src=\"emoji/6332329339740231429.webp\">🤗</i>\n\n这次是完全用 prompting 没有 fine tune 感觉也不错。其实只是 discord 这种文字对话的话，也没必要真的让说话语气像 pjsk 剧情对话一样真实，即使知道它在角色扮演也不影响大家 have fun 的 qwq\n\n（Prompt 在<a href=\"https://github.com/MewoLab/AquaDX/blob/v1-dev/docs/fun/llm.md\">这里</a>）",
-    "views": 207,
+    "views": 208,
     "forwards": 1,
     "reply": {
       "id": 4991,
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5480,
+    "views": 5483,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1791,
+    "views": 1792,
     "forwards": 51
   },
   {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6033,
+    "views": 6036,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -80507,7 +80507,7 @@
     "id": 5875,
     "date": "2025-07-11T07:05:46",
     "text": "门的后面是另一个平行世界",
-    "views": 162,
+    "views": 163,
     "forwards": 1,
     "files": [
       {
@@ -80529,7 +80529,7 @@
     "id": 5876,
     "date": "2025-07-11T17:19:00",
     "text": "去看了新电影《超人》，不是很喜欢... 觉得自己有被预告片欺骗，所以很认真地写了影评（剧透警告）\n\n原文链接在<a href=\"https://aza.moe/blog?post=2025-07-12-%E8%B6%85%E4%BA%BA\">这里</a>\n\n<del>（update: 在三岁小孩聊聊的软磨硬泡下决定把评分提升到 3/5 颗星）</del>",
-    "views": 160,
+    "views": 161,
     "forwards": 0,
     "media_group_id": 14018034721548197,
     "images": [
@@ -80561,7 +80561,7 @@
     "id": 5878,
     "date": "2025-07-11T17:40:56",
     "text": "快选举了，看看日本都有哪些派对 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n保守主义...\n自由主义...\n进步主义...\n社会主义...\n反对电视许可费主义 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 167,
+    "views": 169,
     "forwards": 1,
     "images": [
       {
@@ -80580,7 +80580,7 @@
     "id": 5879,
     "date": "2025-07-11T18:31:37",
     "text": "今天和聊聊的朋友清水鏡去台場看到了等身高达，好炫酷！以及贴在机身上的贴纸好奇妙\n\n晚上吃了文字焼き和お好み焼き！虽然墨鱼墨文字焼拍不出食欲所以并没有给它拍照片，但是确实很好吃 <i class=\"custom-emoji\" emoji-src=\"emoji/5442752530821948343.tgs\">🤤</i>",
-    "views": 168,
+    "views": 170,
     "forwards": 1,
     "media_group_id": 14018069581839973,
     "images": [
@@ -80660,14 +80660,14 @@
     "id": 5886,
     "date": "2025-07-12T15:06:47",
     "text": "看了一集鹿乃子发现不太能对上电波的只有我吗 ;-;",
-    "views": 160,
+    "views": 161,
     "forwards": 0
   },
   {
     "id": 5887,
     "date": "2025-07-12T15:43:10",
     "text": "今天和マモルさん去看了索尼吹奏乐团的定期演奏会，是第一次现场看音乐会，好棒 qwq\n\n虽然是吹奏音乐会，但是感觉我的注意力一直在左边和后面的打击乐器上（xx）\n\n发现了一些奇妙事情，比如有一首名叫「嵐」的曲子中有风声音效，但是居然连这个风声都是物理的——图二最右边箭头那个位置红色的是一个转起来会根据转速发出不同强度风声的乐器 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n还有观察到了打击乐器那边颤音琴手有一段在用琴弓拉颤音琴（颤音琴一般是和马林巴琴/木琴差不多的靠敲击发出声音的乐器）感觉到迷惑问了 llm 才知道真的有这种操作 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i> 好奇妙\n\n不过现在好像理解了乐团的魅力，仔细看每个人的话好像每个人都并没有演奏很难的谱子，比如地鼓和镲和四件鼓居然是三个不同的人来演奏... 但是简单的音轨合起来就好好听\n\n在想，会不会也许把我两年前写的马林巴琴谱子拆分成更多更小的音轨就不会因为太难弹不下来了呢... quq",
-    "views": 164,
+    "views": 165,
     "forwards": 1,
     "media_group_id": 14018679923602213,
     "images": [
@@ -80717,7 +80717,7 @@
     "id": 5892,
     "date": "2025-07-12T16:02:34",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n这次音乐会里最喜欢的两首是「<a href=\"https://www.youtube.com/watch?v=VtCrQQFWyaw\">波を越えてはるかに</a>」和「<a href=\"https://www.youtube.com/watch?v=TI9Voa4dYqs\">海の歌</a>」\n\n（因为禁止录音所以找了 YT 上其他乐团的演奏录音 qwq）",
-    "views": 189,
+    "views": 191,
     "forwards": 0,
     "media_group_id": 14018689234450061,
     "files": [
@@ -80756,21 +80756,21 @@
     "id": 5893,
     "date": "2025-07-13T01:22:42",
     "text": "八月7号~11号去北海道有人一起吗 qwq",
-    "views": 186,
+    "views": 187,
     "forwards": 1
   },
   {
     "id": 5894,
     "date": "2025-07-13T19:33:56",
     "text": "不知道从什么时候开始谷歌地图不显示评论和照片了\n\n今天查了一下，居然是某种地区锁，双卡手机把设置里的「默认呼叫号码」改成非中国的卡就没问题了...\n\n<del>怕中国人靠发照片评论到处放原神地标吗</del>",
-    "views": 186,
+    "views": 187,
     "forwards": 2
   },
   {
     "id": 5895,
     "date": "2025-07-14T06:45:37",
     "text": "周日进行了一些烤肉和日间露营！总共来了八个人，变成了群友见面会吗\n\n第一次露营/烧烤踩了好多坑：\n1. 碳真的很难烧！两个小时过去了还没完全烧起来\n2. 一罐燃气瓶真的很多，我怕不够用带了六罐，结果半罐都没用完\n3. 夏天中午露天烧烤真的很热... 感觉头晕有点要中暑去帐篷里躺了一会。下次还是深夜烤肉好了\n4. 原本说每人至少要买自己吃的食材，结果每个人都买多了，然后就剩了很多食材吃不完\n5. 第一次搭帐篷，很简单，像撑伞一样一下子就搭好了。不过收起来好难，三个人花了好大力气才收好...\n\n总之希望下次能少踩一些坑 quq",
-    "views": 165,
+    "views": 166,
     "forwards": 2,
     "media_group_id": 14019804296208941,
     "images": [
@@ -80850,7 +80850,7 @@
     "id": 5902,
     "date": "2025-07-14T14:53:25",
     "text": "终于把手机 MIUI 上的 Android Auto 修好了！之前一直不能用\n\n首先是卸载掉之前手动装的 Auto，然后安装 Magisk 模块 <a href=\"https://github.com/AndroPlus-org/magisk-module-miui-cn2global\">miui-cn2global</a> (v15) 用来解锁一些谷歌地区锁和 <a href=\"https://github.com/AndroPlus-org/magisk-module-androidauto\">androidauto</a> 模块，重启之后 play 更新 Auto 应用就好啦\n\n以及，因为网易云没有给 Auto 做适配所以之前一直是用 Telegram 做音乐播放器，但是今天发现八年前<a href=\"https://xdaforums.com/t/app-5-1-alpha-anyautoaudio-use-any-audio-app-in-auto.3607916/\">某 XDA 帖子</a>发了一个应用 <a href=\"https://drive.google.com/file/d/10g76cf8f8T14Shb_25DEGSaV88g-rXEK\">Any Auto Audio</a> 可以给任何适配了安卓 API 的音乐软件做 Auto 适配，因为链接已经失效了找了好久才找到，不过装上试试发现居然隔了八年没维护还依然工作！安卓向下兼容真好啊",
-    "views": 169,
+    "views": 170,
     "forwards": 1,
     "media_group_id": 14020038444239989,
     "images": [
@@ -80880,7 +80880,7 @@
     "id": 5904,
     "date": "2025-07-15T04:15:41",
     "text": "从中国买的新滤镜送到了！但是有点翻车\n\n买了这些：\n* UV 用来防紫外、防镜片落灰或者刮伤\n* CPL 用来去除玻璃/水面上的光反射、过滤掉电子设备屏幕的光\n* ND1000 用来降低进入镜头的光量，用来白天拍长曝光\n\n原本打算一直挂着 UV，需要的时候把其他的叠到 UV 上面... 但是发现并不是很行，因为滤镜太厚了，同时叠了两个的时候广角的角上会有黑边...\n\n不太知道怎么办... 裁剪的话本来就很小的 APSC 画幅就更窄了。每次先摘下 UV 再拧其他的滤镜的话对镜头也不太好，不知道镜头上的螺纹寿命能换多少次滤镜 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 170,
+    "views": 171,
     "forwards": 0,
     "media_group_id": 14020423530192701,
     "images": [
@@ -80920,7 +80920,7 @@
     "id": 5907,
     "date": "2025-07-15T10:17:36",
     "text": "猫猫文件 🐈",
-    "views": 177,
+    "views": 181,
     "forwards": 0,
     "images": [
       {
@@ -80939,14 +80939,14 @@
     "id": 5908,
     "date": "2025-07-15T14:48:43",
     "text": "第一次经历地震",
-    "views": 170,
+    "views": 172,
     "forwards": 0
   },
   {
     "id": 5909,
     "date": "2025-07-15T14:57:45",
     "text": "震度4, 完全完全没感觉... 大家说地震了我才知道地震了的程度 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 173,
+    "views": 174,
     "forwards": 0,
     "reply": {
       "id": 5908,
@@ -80969,7 +80969,7 @@
     "id": 5910,
     "date": "2025-07-15T16:21:21",
     "text": "今天要把数据挪到新的计算集群上，但是这个集群已经快没空间了，210TB 的全闪被用到只剩 4.3TB... 还有机器人天天在群里报警提醒大家删东西\n\n所以我不太想把 400GB 的数据加进去，但是导师说也没办法啊你需要写的话只能写进去了 🌚\n\n感觉我已经能预见到存储挤满整个服务器爆炸的那一天了",
-    "views": 180,
+    "views": 183,
     "forwards": 0,
     "images": [
       {
@@ -80988,7 +80988,7 @@
     "id": 5911,
     "date": "2025-07-16T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n♪ 月火水木金働いた\n♪ ダメでも毎日頑張るしかなくて\n♪ だけど金曜日が\n♪ 終われば大丈夫\n♪ 週末は僕のヒーローに\n♪ 会いに行く\n\n<span class=\"spoiler\"><span>醒醒，今天刚周三 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</span></span></i>",
-    "views": 172,
+    "views": 173,
     "forwards": 0,
     "files": [
       {
@@ -81010,7 +81010,7 @@
     "id": 5912,
     "date": "2025-07-16T07:24:59",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n给自己的狗狗写情歌也太浪漫了 <i class=\"custom-emoji\" emoji-src=\"emoji/5326044950696042137.webm\">🥰</i>",
-    "views": 174,
+    "views": 177,
     "forwards": 0,
     "files": [
       {
@@ -81032,7 +81032,7 @@
     "id": 5913,
     "date": "2025-07-16T11:25:49",
     "text": "开香槟",
-    "views": 174,
+    "views": 176,
     "forwards": 0,
     "images": [
       {
@@ -81057,7 +81057,7 @@
     "id": 5915,
     "date": "2025-07-16T15:29:01",
     "text": "被下国际象棋的朋友推荐了 King of the Bridge 这款游戏！直播玩玩 qwq\n\n<a href=\"https://youtube.com/live/Lwz5Qq1VaH0\">https://youtube.com/live/Lwz5Qq1VaH0</a>",
-    "views": 164,
+    "views": 167,
     "forwards": 0
   },
   {
@@ -81070,7 +81070,7 @@
     "id": 5917,
     "date": "2025-07-16T17:07:13",
     "text": "直播一个小时打通了！回放在<a href=\"https://youtube.com/live/Lwz5Qq1VaH0\">这里</a>\n\n这个游戏规则改得好过分！感觉也许国际象棋新手反而会玩得更好？感觉所有一般国际象棋上的定式都不通用了，所以反而按照肌肉记忆下棋会很吃瘪 quq（<span class=\"spoiler\"><span>所以我能这么快通关反而说明我国际象棋打得很菜吗</span></span>\n\n以及想出这么邪门的作弊和反击规则作者是恶魔吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 不熟悉新的规则的时候对方乱走我都不知道是不是作弊，但是我作弊就 100% 会被抓到好不公平哇...\n\n第一周目对方作弊的时候利用反击很快就赢了，但是是坏结局。第二周目尝试不作弊赢棋真的好难好难，毕竟对方作弊的时候你发现了也没办法撤回去... 不过最后对面犯够多蠢让我赢了 qwq（感觉如果对面 AI 更聪明一点的话不反击完全就是不可能赢的\n\n<del>什么时候有 pvp 模式啊</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 160,
+    "views": 163,
     "forwards": 0,
     "media_group_id": 14021485066316709,
     "images": [
@@ -81104,7 +81104,7 @@
     "id": 5920,
     "date": "2025-07-17T03:41:01",
     "text": "速通！\n\n（居然正常通关 + 速通之后依然没有超过两小时退款期限）",
-    "views": 161,
+    "views": 166,
     "forwards": 0,
     "media_group_id": 14021789291254117,
     "files": [
@@ -81140,7 +81140,7 @@
     "id": 5922,
     "date": "2025-07-17T14:58:27",
     "text": "\"Japanized western restaurant\"",
-    "views": 157,
+    "views": 162,
     "forwards": 1,
     "images": [
       {
@@ -81158,7 +81158,7 @@
   {
     "id": 5923,
     "date": "2025-07-17T16:54:36",
-    "views": 257,
+    "views": 264,
     "forwards": 3,
     "files": [
       {
@@ -81216,7 +81216,7 @@
             "data": "OQ=="
           }
         ],
-        "total_voter_count": 131,
+        "total_voter_count": 135,
         "is_closed": false,
         "is_anonymous": true,
         "type": "REGULAR",
@@ -81229,7 +81229,7 @@
     "id": 5924,
     "date": "2025-07-18T01:57:19",
     "text": "（其实发这个 poll 是因为我用的 nekogram 最近的更新有强迫症宝具 bug，总是会在没有未读的时候显示 1 未读... 降级就没有了，但是降级会损坏数据库，不知道怎么办 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 115,
+    "views": 130,
     "forwards": 1,
     "reply": {
       "id": 5923
@@ -81244,6 +81244,55 @@
         "url": "media/5924.jpg",
         "size": 102169,
         "thumb": "media/5924.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5925,
+    "date": "2025-07-18T17:50:27",
+    "text": "自己还是个小孩的一百个迹象：\n\n每次每次每次每次旅行前一天晚上都睡不好，即使吃了平时会让我迷糊一整天的安眠药都没救 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
+    "views": 43,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1440,
+        "height": 1324,
+        "date": "2025-07-18T17:50:26",
+        "media_type": "photo",
+        "original_name": "photo_2025-07-18_17-50-26.jpg",
+        "url": "media/5925.jpg",
+        "size": 236550,
+        "thumb": "media/5925.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5927,
+    "date": "2025-07-18T18:03:00",
+    "text": "通往未来的圣地巡礼",
+    "views": 32,
+    "forwards": 1,
+    "media_group_id": 14022894242547901,
+    "images": [
+      {
+        "width": 1440,
+        "height": 2318,
+        "date": "2025-07-18T18:02:59",
+        "media_type": "photo",
+        "original_name": "photo_2025-07-18_18-02-59.jpg",
+        "url": "media/5926.jpg",
+        "size": 368792,
+        "thumb": "media/5926.jpg_thumb.jpg"
+      },
+      {
+        "width": 1939,
+        "height": 2560,
+        "date": "2025-07-18T18:02:59",
+        "media_type": "photo",
+        "original_name": "photo_2025-07-18_18-02-59.jpg",
+        "url": "media/5927.jpg",
+        "size": 795855,
+        "thumb": "media/5927.jpg_thumb.jpg"
       }
     ]
   }
