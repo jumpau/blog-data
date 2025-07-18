@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5478,
+    "views": 5479,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -80203,14 +80203,14 @@
     "id": 5851,
     "date": "2025-07-08T14:24:06",
     "text": "为了深夜工作的时候不饿买了方便豚汁，然后发现豚汁和味噌汤一样喝下去只会让我更饿 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 172,
+    "views": 173,
     "forwards": 0
   },
   {
     "id": 5852,
     "date": "2025-07-09T14:03:32",
     "text": "继续整理照片 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n在伊豆的倒数第二站<del>不是 Windows XP 壁纸</del> 是大室山！到那里的时候离关门只剩 15 分钟了，所以赶快做缆车上去拍了照片，并没有沿着山走一圈就下来了 qwq（感觉恐高在逐渐被治好）\n\n整座巨大的山都是整整齐齐的一片绿草，没有树也没有突出的石头感觉好反常，从天上看像抹茶布丁一样\n\n不过也因为时间比较晚看到了一些奇妙事情，比如纪念写真相机被裹起来像是要被拐走一样，还有用缆车送下山的空玻璃瓶和纸箱",
-    "views": 153,
+    "views": 154,
     "forwards": 1,
     "media_group_id": 14016558496186205,
     "images": [
@@ -81104,7 +81104,7 @@
     "id": 5920,
     "date": "2025-07-17T03:41:01",
     "text": "速通！\n\n（居然正常通关 + 速通之后依然没有超过两小时退款期限）",
-    "views": 154,
+    "views": 155,
     "forwards": 0,
     "media_group_id": 14021789291254117,
     "files": [
@@ -81140,7 +81140,7 @@
     "id": 5922,
     "date": "2025-07-17T14:58:27",
     "text": "\"Japanized western restaurant\"",
-    "views": 146,
+    "views": 148,
     "forwards": 1,
     "images": [
       {
@@ -81158,7 +81158,7 @@
   {
     "id": 5923,
     "date": "2025-07-17T16:54:36",
-    "views": 231,
+    "views": 239,
     "forwards": 3,
     "files": [
       {
@@ -81216,7 +81216,7 @@
             "data": "OQ=="
           }
         ],
-        "total_voter_count": 119,
+        "total_voter_count": 123,
         "is_closed": false,
         "is_anonymous": true,
         "type": "REGULAR",
@@ -81229,7 +81229,7 @@
     "id": 5924,
     "date": "2025-07-18T01:57:19",
     "text": "（其实发这个 poll 是因为我用的 nekogram 最近的更新有强迫症宝具 bug，总是会在没有未读的时候显示 1 未读... 降级就没有了，但是降级会损坏数据库，不知道怎么办 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 84,
+    "views": 93,
     "forwards": 1,
     "reply": {
       "id": 5923
