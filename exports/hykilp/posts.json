@@ -55751,7 +55751,7 @@
     "id": 4087,
     "date": "2024-07-02T05:51:18",
     "text": "所以网络贷款 + 无抵押 + 先交钱 这三个条件在什么情况下会同时成立 <i class=\"custom-emoji\" emoji-src=\"emoji/6330064332902107450.webp\">🤔</i>\n\n<span class=\"spoiler\"><span>“你要借 1000 啊？我们这里没有押金哦，利率 3%，你先还我 1030 我就借你 1000”</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6330232034195147291.webp\">😇</i>",
-    "views": 122,
+    "views": 123,
     "forwards": 0,
     "images": [
       {
@@ -55770,14 +55770,14 @@
     "id": 4088,
     "date": "2024-07-02T07:25:12",
     "text": "syama：水母是蘑菇吗",
-    "views": 113,
+    "views": 114,
     "forwards": 0
   },
   {
     "id": 4089,
     "date": "2024-07-02T15:20:07",
     "text": "草 今天 blk 来这里玩，看到这个音量旋钮比较好奇就拔下来插上电脑看了看，发现这个 USB 设备名叫 SayoDevice 🌚\n\n我：Sayo?? 是我认识的那个做 osu bot 做 osu 键盘的 Sayo 吗？\n\n然后 syama 看了一下购买记录，还真的是 🌚 世界真小",
-    "views": 126,
+    "views": 127,
     "forwards": 0,
     "media_group_id": 13759468856259397,
     "images": [
@@ -56667,7 +56667,7 @@
     "id": 4155,
     "date": "2024-07-16T09:49:41",
     "text": "GPT4 还是 4o 都答错了的问题我的 LoRA 瑞希答对了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 不愧是瑞希",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "media_group_id": 13768987049704909,
     "images": [
@@ -58294,7 +58294,7 @@
     "id": 4270,
     "date": "2024-08-01T16:56:34",
     "text": "收拾家里的各种东西\n\n桂桂：这个是 mai 机的主板盒子…这个里是 GPU 服务器的东西…然后这个盒子放各种电源线…\n我：啊我有标签打印机，我来打标签贴上去\n桂桂：啊早知道就不用写上了\n……\n桂桂：这个标签…有一种我被 RIIR 了的感觉（",
-    "views": 131,
+    "views": 132,
     "forwards": 0,
     "forwarded_from": {
       "name": "Memory Archive ✨"
@@ -58316,7 +58316,7 @@
     "id": 4271,
     "date": "2024-08-02T08:09:45",
     "text": "一只桂桂 ￥115.3",
-    "views": 156,
+    "views": 157,
     "forwards": 1,
     "images": [
       {
@@ -58335,7 +58335,7 @@
     "id": 4272,
     "date": "2024-08-02T16:01:41",
     "text": "时间过得好快，一转眼就已经在这里三个月了，到了要告别的时间... 和 Menci 收拾了一下房间和行李，拉上 syama 一起吃了一顿午饭就匆匆忙忙地出发了。\n\n好不舍... 下次来这里会是什么时候呢？这里会变成什么样子呢？",
-    "views": 145,
+    "views": 146,
     "forwards": 1,
     "media_group_id": 13780916009305461,
     "images": [
@@ -58447,7 +58447,7 @@
     "id": 4280,
     "date": "2024-08-04T20:25:34",
     "text": "回到加拿大的家发现家变成了盒盒... 整理起来还好麻烦 ;-;\n\n<span class=\"spoiler\"><span>一想到明年三月还要搬走就不想把所有东西都摆出来了...</span></span>",
-    "views": 157,
+    "views": 158,
     "forwards": 0,
     "images": [
       {
@@ -58466,7 +58466,7 @@
     "id": 4281,
     "date": "2024-08-05T03:55:00",
     "text": "debug 了半天为什么 arch 输出没有声音，看了文档还问了群友...\n\n然后发现只是声音太小了 🌚",
-    "views": 152,
+    "views": 153,
     "forwards": 0,
     "images": [
       {
@@ -68424,7 +68424,7 @@
     "id": 4953,
     "date": "2025-02-22T03:57:20",
     "text": "可惜太贵了",
-    "views": 280,
+    "views": 281,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6032,
+    "views": 6033,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -76140,7 +76140,7 @@
     "id": 5522,
     "date": "2025-06-01T06:29:12",
     "text": "带着聊聊猫出门了",
-    "views": 349,
+    "views": 350,
     "forwards": 1,
     "images": [
       {
@@ -81158,7 +81158,7 @@
   {
     "id": 5923,
     "date": "2025-07-17T16:54:36",
-    "views": 254,
+    "views": 255,
     "forwards": 3,
     "files": [
       {
@@ -81229,7 +81229,7 @@
     "id": 5924,
     "date": "2025-07-18T01:57:19",
     "text": "（其实发这个 poll 是因为我用的 nekogram 最近的更新有强迫症宝具 bug，总是会在没有未读的时候显示 1 未读... 降级就没有了，但是降级会损坏数据库，不知道怎么办 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 109,
+    "views": 113,
     "forwards": 1,
     "reply": {
       "id": 5923
