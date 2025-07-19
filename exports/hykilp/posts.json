@@ -70729,7 +70729,7 @@
     "id": 5115,
     "date": "2025-04-02T15:11:19",
     "text": "今日热搜",
-    "views": 555,
+    "views": 556,
     "forwards": 6,
     "images": [
       {
@@ -73573,7 +73573,7 @@
     "id": 5322,
     "date": "2025-05-07T15:40:02",
     "text": "哇 见到了野生的福瑞！",
-    "views": 421,
+    "views": 422,
     "forwards": 2,
     "media_group_id": 13973059219682877,
     "images": [
@@ -80763,14 +80763,14 @@
     "id": 5894,
     "date": "2025-07-13T19:33:56",
     "text": "不知道从什么时候开始谷歌地图不显示评论和照片了\n\n今天查了一下，居然是某种地区锁，双卡手机把设置里的「默认呼叫号码」改成非中国的卡就没问题了...\n\n<del>怕中国人靠发照片评论到处放原神地标吗</del>",
-    "views": 190,
+    "views": 191,
     "forwards": 2
   },
   {
     "id": 5895,
     "date": "2025-07-14T06:45:37",
     "text": "周日进行了一些烤肉和日间露营！总共来了八个人，变成了群友见面会吗\n\n第一次露营/烧烤踩了好多坑：\n1. 碳真的很难烧！两个小时过去了还没完全烧起来\n2. 一罐燃气瓶真的很多，我怕不够用带了六罐，结果半罐都没用完\n3. 夏天中午露天烧烤真的很热... 感觉头晕有点要中暑去帐篷里躺了一会。下次还是深夜烤肉好了\n4. 原本说每人至少要买自己吃的食材，结果每个人都买多了，然后就剩了很多食材吃不完\n5. 第一次搭帐篷，很简单，像撑伞一样一下子就搭好了。不过收起来好难，三个人花了好大力气才收好...\n\n总之希望下次能少踩一些坑 quq",
-    "views": 172,
+    "views": 173,
     "forwards": 2,
     "media_group_id": 14019804296208941,
     "images": [
@@ -80850,7 +80850,7 @@
     "id": 5902,
     "date": "2025-07-14T14:53:25",
     "text": "终于把手机 MIUI 上的 Android Auto 修好了！之前一直不能用\n\n首先是卸载掉之前手动装的 Auto，然后安装 Magisk 模块 <a href=\"https://github.com/AndroPlus-org/magisk-module-miui-cn2global\">miui-cn2global</a> (v15) 用来解锁一些谷歌地区锁和 <a href=\"https://github.com/AndroPlus-org/magisk-module-androidauto\">androidauto</a> 模块，重启之后 play 更新 Auto 应用就好啦\n\n以及，因为网易云没有给 Auto 做适配所以之前一直是用 Telegram 做音乐播放器，但是今天发现八年前<a href=\"https://xdaforums.com/t/app-5-1-alpha-anyautoaudio-use-any-audio-app-in-auto.3607916/\">某 XDA 帖子</a>发了一个应用 <a href=\"https://drive.google.com/file/d/10g76cf8f8T14Shb_25DEGSaV88g-rXEK\">Any Auto Audio</a> 可以给任何适配了安卓 API 的音乐软件做 Auto 适配，因为链接已经失效了找了好久才找到，不过装上试试发现居然隔了八年没维护还依然工作！安卓向下兼容真好啊",
-    "views": 182,
+    "views": 184,
     "forwards": 2,
     "media_group_id": 14020038444239989,
     "images": [
@@ -80880,7 +80880,7 @@
     "id": 5904,
     "date": "2025-07-15T04:15:41",
     "text": "从中国买的新滤镜送到了！但是有点翻车\n\n买了这些：\n* UV 用来防紫外、防镜片落灰或者刮伤\n* CPL 用来去除玻璃/水面上的光反射、过滤掉电子设备屏幕的光\n* ND1000 用来降低进入镜头的光量，用来白天拍长曝光\n\n原本打算一直挂着 UV，需要的时候把其他的叠到 UV 上面... 但是发现并不是很行，因为滤镜太厚了，同时叠了两个的时候广角的角上会有黑边...\n\n不太知道怎么办... 裁剪的话本来就很小的 APSC 画幅就更窄了。每次先摘下 UV 再拧其他的滤镜的话对镜头也不太好，不知道镜头上的螺纹寿命能换多少次滤镜 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 182,
+    "views": 184,
     "forwards": 0,
     "media_group_id": 14020423530192701,
     "images": [
@@ -80920,7 +80920,7 @@
     "id": 5907,
     "date": "2025-07-15T10:17:36",
     "text": "猫猫文件 🐈",
-    "views": 191,
+    "views": 192,
     "forwards": 0,
     "images": [
       {
@@ -80969,7 +80969,7 @@
     "id": 5910,
     "date": "2025-07-15T16:21:21",
     "text": "今天要把数据挪到新的计算集群上，但是这个集群已经快没空间了，210TB 的全闪被用到只剩 4.3TB... 还有机器人天天在群里报警提醒大家删东西\n\n所以我不太想把 400GB 的数据加进去，但是导师说也没办法啊你需要写的话只能写进去了 🌚\n\n感觉我已经能预见到存储挤满整个服务器爆炸的那一天了",
-    "views": 194,
+    "views": 195,
     "forwards": 0,
     "images": [
       {
@@ -80988,7 +80988,7 @@
     "id": 5911,
     "date": "2025-07-16T06:35:07",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n♪ 月火水木金働いた\n♪ ダメでも毎日頑張るしかなくて\n♪ だけど金曜日が\n♪ 終われば大丈夫\n♪ 週末は僕のヒーローに\n♪ 会いに行く\n\n<span class=\"spoiler\"><span>醒醒，今天刚周三 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</span></span></i>",
-    "views": 179,
+    "views": 180,
     "forwards": 0,
     "files": [
       {
@@ -81010,7 +81010,7 @@
     "id": 5912,
     "date": "2025-07-16T07:24:59",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n给自己的狗狗写情歌也太浪漫了 <i class=\"custom-emoji\" emoji-src=\"emoji/5326044950696042137.webm\">🥰</i>",
-    "views": 184,
+    "views": 185,
     "forwards": 0,
     "files": [
       {
@@ -81032,7 +81032,7 @@
     "id": 5913,
     "date": "2025-07-16T11:25:49",
     "text": "开香槟",
-    "views": 182,
+    "views": 183,
     "forwards": 0,
     "images": [
       {
@@ -81140,7 +81140,7 @@
     "id": 5922,
     "date": "2025-07-17T14:58:27",
     "text": "\"Japanized western restaurant\"",
-    "views": 175,
+    "views": 176,
     "forwards": 1,
     "images": [
       {
@@ -81158,7 +81158,7 @@
   {
     "id": 5923,
     "date": "2025-07-17T16:54:36",
-    "views": 287,
+    "views": 288,
     "forwards": 3,
     "files": [
       {
@@ -81229,7 +81229,7 @@
     "id": 5924,
     "date": "2025-07-18T01:57:19",
     "text": "（其实发这个 poll 是因为我用的 nekogram 最近的更新有强迫症宝具 bug，总是会在没有未读的时候显示 1 未读... 降级就没有了，但是降级会损坏数据库，不知道怎么办 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 167,
+    "views": 169,
     "forwards": 1,
     "reply": {
       "id": 5923
@@ -81251,7 +81251,7 @@
     "id": 5925,
     "date": "2025-07-18T17:50:27",
     "text": "自己还是个小孩的一百个迹象：\n\n每次每次每次每次旅行前一天晚上都睡不好，即使吃了平时会让我迷糊一整天的安眠药都没救 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 141,
+    "views": 144,
     "forwards": 0,
     "images": [
       {
@@ -81270,7 +81270,7 @@
     "id": 5927,
     "date": "2025-07-18T18:03:00",
     "text": "通往未来的圣地巡礼",
-    "views": 136,
+    "views": 139,
     "forwards": 1,
     "media_group_id": 14022894242547901,
     "images": [
@@ -81300,7 +81300,7 @@
     "id": 5928,
     "date": "2025-07-19T01:38:48",
     "text": "前几天花了好多时间准备 Android auto，然后今天发现租的车上根本没有支持 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n因为 Times 没车了所以从 2525 上租了一辆 Aqua，我以为肯定是这三四年的吧... 结果租到了一辆 Aqua 2016 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n总里程 137551 km... 真的是我今生第一次见六位数里程的车，这要怎么开 16 小时啊\n\n没有 Android auto，没有自动巡航，甚至连能给手机充电的 USB 口都没有，刹车还会发出奇怪声音。下次再也不在 2525 租车了",
-    "views": 105,
+    "views": 112,
     "forwards": 1,
     "media_group_id": 14023113027725101,
     "images": [
