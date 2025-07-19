@@ -67945,7 +67945,7 @@
     "id": 4921,
     "date": "2025-02-10T10:43:16",
     "text": "发现 emoji / sticker 也不是很跨语言通用，有些文字梗还是会丢失在翻译中...\n\n比如一些表情包里会有螃蟹 <i class=\"custom-emoji\" emoji-src=\"emoji/5233220730220461818.webp\">🎃</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i> 因为在中文日文里都是很常用的表达。中文人会理解为「谢谢」，日文人会理解为「たしかに / 确实」，而其他语言的人可能就觉得是一个物理螃蟹，<del>以及 rust 人可能会理解为 \"rust\"</del>",
-    "views": 310,
+    "views": 311,
     "forwards": 3,
     "images": [
       {
@@ -67964,14 +67964,14 @@
     "id": 4922,
     "date": "2025-02-10T19:56:36",
     "text": "真的觉得开源社区有时候有点过分了，总是有人认为维护者的贡献都是理所应当...\n\n仔细想想，在开源社区里做项目这么久之后，我也会这样对待自己了——会因为别人遇到的 bug 自责，会觉得我有责任需要给别人解决问题，然后把自己累坏 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n也许这就是为什么我只喜欢做，不喜欢发布项目也不喜欢长期维护一个项目吧，因为从发布的那一刻起，我的代办就会被别人的问题和功能请求塞满，不能只顾及自己的想法了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n<span class=\"spoiler\"><span>也许需要一些 care free 的维护理念、需要对别人说「想要的话去自己研究自己改代码」的勇气，也许这样才能把所有的时间分给自己的想法</span></span>",
-    "views": 234,
+    "views": 235,
     "forwards": 1
   },
   {
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1288,
+    "views": 1290,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -67993,7 +67993,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 1083,
+    "views": 1086,
     "forwards": 7,
     "files": [
       {
@@ -68018,7 +68018,7 @@
     "id": 4926,
     "date": "2025-02-11T12:08:52",
     "text": "syama: \"cappie\" 是儿化音英语吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 205,
+    "views": 206,
     "forwards": 0
   },
   {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5486,
+    "views": 5487,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6038,
+    "views": 6048,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -75696,7 +75696,7 @@
     "id": 5491,
     "date": "2025-05-26T10:07:57",
     "text": "每次看到新干线的图标 <i class=\"custom-emoji\" emoji-src=\"emoji/6289796008025003402.webp\">🚄</i> 都觉得像一个胖大叔的肚肚怎么办",
-    "views": 301,
+    "views": 302,
     "forwards": 1,
     "images": [
       {
@@ -77549,7 +77549,7 @@
     "id": 5627,
     "date": "2025-06-18T11:19:22",
     "text": "好想知道 如果让自己一直跟着看到的第一个箭头（离眼睛直线距离最近的箭头）走，直到看到下一个箭头或者走到一个看不到箭头的地方的话，会走到哪里\n\n还好想知道 如果从世界上每一个箭头开始走，最终停在哪里的次数最多\n<a href=\"##好奇心害死猫\">#好奇心害死猫</a>",
-    "views": 218,
+    "views": 219,
     "forwards": 1
   },
   {
@@ -81251,7 +81251,7 @@
     "id": 5925,
     "date": "2025-07-18T17:50:27",
     "text": "自己还是个小孩的一百个迹象：\n\n每次每次每次每次旅行前一天晚上都睡不好，即使吃了平时会让我迷糊一整天的安眠药都没救 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 145,
+    "views": 146,
     "forwards": 0,
     "images": [
       {
@@ -81270,7 +81270,7 @@
     "id": 5927,
     "date": "2025-07-18T18:03:00",
     "text": "通往未来的圣地巡礼",
-    "views": 141,
+    "views": 142,
     "forwards": 1,
     "media_group_id": 14022894242547901,
     "images": [
@@ -81300,7 +81300,7 @@
     "id": 5928,
     "date": "2025-07-19T01:38:48",
     "text": "前几天花了好多时间准备 Android auto，然后今天发现租的车上根本没有支持 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n因为 Times 没车了所以从 2525 上租了一辆 Aqua，我以为肯定是这三四年的吧... 结果租到了一辆 Aqua 2016 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n总里程 137551 km... 真的是我今生第一次见六位数里程的车，这要怎么开 16 小时啊\n\n没有 Android auto，没有自动巡航，甚至连能给手机充电的 USB 口都没有，刹车还会发出奇怪声音。下次再也不在 2525 租车了",
-    "views": 114,
+    "views": 116,
     "forwards": 1,
     "media_group_id": 14023113027725101,
     "images": [
