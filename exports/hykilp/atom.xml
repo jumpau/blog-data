@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-07-19T00:16:59.346858+00:00</updated>
+  <updated>2025-07-19T02:45:55.275361+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5928</id>
+    <title>小桂桂的回忆录 📒 #5928</title>
+    <updated>2025-07-19T01:38:48+00:00</updated>
+    <content>&lt;p&gt;前几天花了好多时间准备 Android auto，然后今天发现租的车上根本没有支持 &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;因为 Times 没车了所以从 2525 上租了一辆 Aqua，我以为肯定是这三四年的吧... 结果租到了一辆 Aqua 2016 &lt;i class="custom-emoji" emoji-src="emoji/6320856404055820121.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;总里程 137551 km... 真的是我今生第一次见六位数里程的车，这要怎么开 16 小时啊&lt;/p&gt;
+&lt;p&gt;没有 Android auto，没有自动巡航，甚至连能给手机充电的 USB 口都没有，刹车还会发出奇怪声音。下次再也不在 2525 租车了&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5928" rel="alternate"/>
+  </entry>
   <entry>
     <id>5927</id>
     <title>小桂桂的回忆录 📒 #5927</title>
