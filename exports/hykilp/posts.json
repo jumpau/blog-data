@@ -72903,7 +72903,7 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1794,
+    "views": 1795,
     "forwards": 51
   },
   {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6055,
+    "views": 6056,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -77070,7 +77070,7 @@
     "id": 5589,
     "date": "2025-06-13T11:39:02",
     "text": "？不要把奇怪的词连在一起啊喂",
-    "views": 283,
+    "views": 284,
     "forwards": 3,
     "images": [
       {
@@ -77089,7 +77089,7 @@
     "id": 5590,
     "date": "2025-06-13T14:14:51",
     "text": "在旅店，墙上有插着一个看上去是有 A 有 C 的充电头，摸黑插了半天 type-c 线没插进去，开灯之后看了一眼，庆幸还好没插进去 <i class=\"custom-emoji\" emoji-src=\"emoji/5469675116705096106.webp\">😇</i>",
-    "views": 288,
+    "views": 289,
     "forwards": 2,
     "images": [
       {
@@ -77107,7 +77107,7 @@
   {
     "id": 5591,
     "date": "2025-06-14T11:14:21",
-    "views": 271,
+    "views": 272,
     "forwards": 0,
     "files": [
       {
@@ -81158,7 +81158,7 @@
   {
     "id": 5923,
     "date": "2025-07-17T16:54:36",
-    "views": 293,
+    "views": 294,
     "forwards": 3,
     "files": [
       {
@@ -81300,7 +81300,7 @@
     "id": 5928,
     "date": "2025-07-19T01:38:48",
     "text": "前几天花了好多时间准备 Android auto，然后今天发现租的车上根本没有支持 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n因为 Times 没车了所以从 2525 上租了一辆 Aqua，我以为肯定是这三四年的吧... 结果租到了一辆 Aqua 2016 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n总里程 137551 km... 真的是我今生第一次见六位数里程的车，这要怎么开 16 小时啊\n\n没有 Android auto，没有自动巡航，甚至连能给手机充电的 USB 口都没有，刹车还会发出奇怪声音。下次再也不在 2525 租车了",
-    "views": 140,
+    "views": 141,
     "forwards": 1,
     "media_group_id": 14023113027725101,
     "images": [
@@ -81335,7 +81335,7 @@
     "id": 5930,
     "date": "2025-07-20T11:59:59",
     "text": "自动对焦太厉害了 <i class=\"custom-emoji\" emoji-src=\"emoji/6318635837244313060.webp\">😡</i>",
-    "views": 84,
+    "views": 85,
     "forwards": 0,
     "images": [
       {
