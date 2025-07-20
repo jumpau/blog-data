@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6053,
+    "views": 6054,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -76457,7 +76457,7 @@
     "id": 5547,
     "date": "2025-06-03T16:25:42",
     "text": "<a href=\"https://zh.m.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6\">无事发生日</a>快乐\n\n发现把社交上的生日设在历史上的今天确实起到了提醒大家不忘记这一天的效果",
-    "views": 297,
+    "views": 298,
     "forwards": 2,
     "images": [
       {
@@ -76476,7 +76476,7 @@
     "id": 5548,
     "date": "2025-06-04T16:56:42",
     "text": "终末列车坐过站，走了半小时回到家了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n不过路上风景也不错，还见到了设计感报表超炫酷的高輪网关车站，也许也是一种幸运吧 qwq",
-    "views": 265,
+    "views": 266,
     "forwards": 1,
     "media_group_id": 13992449623337293,
     "images": [
@@ -76530,7 +76530,7 @@
     "id": 5553,
     "date": "2025-06-05T07:12:17",
     "text": "在东京快一个月了，做了一个「东京迷子宾果」\n\n哪些是亲身经历、哪些是都市传说，就由你来判断吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5442664243474211327.tgs\">👀</i>",
-    "views": 289,
+    "views": 290,
     "forwards": 5,
     "images": [
       {
@@ -76549,7 +76549,7 @@
     "id": 5554,
     "date": "2025-06-05T13:58:32",
     "text": "一些最近漏掉的照片\n\n1. 和谦谦在池袋散步，看到了另一栋楼和天空融在一起\n2. 天川家旁边的天空\n3. 去登山的另外四个人的即兴表情包合影\n4. 和谦谦开车去河边散步的夜景",
-    "views": 259,
+    "views": 260,
     "forwards": 1,
     "media_group_id": 13993055297378557,
     "images": [
@@ -76599,14 +76599,14 @@
     "id": 5558,
     "date": "2025-06-06T06:22:21",
     "text": "太尴尬了\n\n：我找到了这篇相关的文献，但是我不太相信它能用\n这时候群里另一位正式员工突然出来\n：啊这篇是我写的 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 254,
+    "views": 255,
     "forwards": 0
   },
   {
     "id": 5559,
     "date": "2025-06-06T06:57:49",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n好梦幻的声音，感觉被 ASMR 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>\n♪ If our story finds an end tonight\n♪ Will you be by my side\n♪ Oh till we say goodbye\n♪ Or should I say good night?",
-    "views": 256,
+    "views": 257,
     "forwards": 0,
     "files": [
       {
@@ -76628,7 +76628,7 @@
     "id": 5560,
     "date": "2025-06-06T11:12:01",
     "text": "不登校\n\n<span class=\"spoiler\"><span>（因为毕业了 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</span></span></i>",
-    "views": 269,
+    "views": 270,
     "forwards": 1,
     "images": [
       {
@@ -76647,7 +76647,7 @@
     "id": 5561,
     "date": "2025-06-06T17:08:48",
     "text": "草 等等 突然发现\n\n要楽奈（mygo 猫猫的名字）是不是也可以读成「いらない」<i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n...还真能用输入法打出来哇\n\n<del>可能猫猫确实什么都いらない</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 275,
+    "views": 276,
     "forwards": 0,
     "files": [
       {
@@ -76669,7 +76669,7 @@
     "id": 5562,
     "date": "2025-06-07T06:08:29",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nチーズうまトマハンバーグ<del>（写作：番茄汉堡芝士意饭）</del>\n\n吃起来没有听上去那么黑暗料理，可能这里面唯一不喜欢的只有生鸡蛋... 来日本一个月了还是无法适应生鸡蛋",
-    "views": 285,
+    "views": 286,
     "forwards": 0,
     "media_group_id": 13994212076573165,
     "images": [
@@ -76699,7 +76699,7 @@
     "id": 5564,
     "date": "2025-06-07T06:41:11",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n喜欢上这个风格了",
-    "views": 274,
+    "views": 275,
     "forwards": 0,
     "reply": {
       "id": 5516,
@@ -76725,7 +76725,7 @@
     "id": 5565,
     "date": "2025-06-07T11:18:59",
     "text": "没想到 第一次被「日本语上手」是在理发店...\n\n去渋谷的 SOLEIL TOKYO 理了发（因为有非常棒的学生优惠！只花了 ￥3300）虽然学生卡忘在家里了，但是说学生卡放在加拿大了拿出照片萌混过关 <i class=\"custom-emoji\" emoji-src=\"emoji/5114340437808645487.webm\">🙁</i>\n\n剪得很好看！<del>问我想要什么发型的时候给看了一个高松灯 cosplay 照片然后其他的就おまかせ了</del>... 即使这样还能剪出满意的样子 Kana 老师好厉害！\n\n（也很有耐心！看我没听懂的时候换成借来词我就听懂了（<del>什么时候日语变成英语啊</del>",
-    "views": 294,
+    "views": 295,
     "forwards": 0,
     "media_group_id": 13994361119445349,
     "images": [
@@ -76755,7 +76755,7 @@
     "id": 5567,
     "date": "2025-06-08T01:12:33",
     "text": "\"Frequently bought together\" <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n...明明我只是想买一件真的用来游泳的泳衣，然后发现亚马逊上スク水好像都是情趣向 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 317,
+    "views": 318,
     "forwards": 4,
     "images": [
       {
@@ -76775,7 +76775,7 @@
     "id": 5568,
     "date": "2025-06-08T11:35:44",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##NSFW\">#NSFW</a>\n今天去东京 Pride 看演出，Aya Sato 的舞真的超劲爆 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n看了两遍，中午排练的时候看到了然后正式演出又看一遍\n\n（AV1 编码警告，旧设备没法看的话可以去 <a href=\"https://youtu.be/WPW7oAyKpzs\">YouTube</a> / <a href=\"https://pixeldrain.com/u/b6Kg9Nyi\">无压原画</a>",
-    "views": 284,
+    "views": 285,
     "forwards": 1,
     "files": [
       {
@@ -76798,7 +76798,7 @@
     "id": 5569,
     "date": "2025-06-08T14:56:12",
     "text": "这次 Pride 因为猜到会很热所以只穿了内衣，披上 nina 第二次演唱会的「旁若无人」 披风就出门了（<del>旁若无人的目光确实很凉快！</del>\n\n不想带包但是不能不带现金，灵机一动把钱塞卡套里了，脖子上挂着北里柴三郎的头图莫名好笑\n\n在会场转了一圈，去加拿大的亭子里拿了一个旗子还和志愿者搭了话，发现居然是多伦多大校友，是大三的学妹来日本旅游，好巧 <i class=\"custom-emoji\" emoji-src=\"emoji/6114192958708254309.webm\">🌈</i>\n\n会场上还有很多大公司，发各种彩虹色的广告周边... 其实不是很喜欢这种氛围，明明 LGBT 是一种对社会常规的挑战，但是感觉这些公司却全都做着很刻板的事情。也许只是因为舆论压力、因为「参加 Pride」成为了新的常规才去参加的吧。觉得豆腐说的有道理，如果风向变了最先退出的应该就是这些公司。\n\n以及游行那边好热闹 <i class=\"custom-emoji\" emoji-src=\"emoji/6114058788224895244.webm\">🏃‍♂</i> 去看 Live 之前去朋友在的台湾队凑了凑热闹。集合之后排队排了一个小时才出会场开始游行... 下次就不进去排队直接在街上等了，等开始游行再直接街上汇合",
-    "views": 260,
+    "views": 261,
     "forwards": 1,
     "media_group_id": 13995156582788461,
     "images": [
@@ -81300,7 +81300,7 @@
     "id": 5928,
     "date": "2025-07-19T01:38:48",
     "text": "前几天花了好多时间准备 Android auto，然后今天发现租的车上根本没有支持 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n因为 Times 没车了所以从 2525 上租了一辆 Aqua，我以为肯定是这三四年的吧... 结果租到了一辆 Aqua 2016 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n总里程 137551 km... 真的是我今生第一次见六位数里程的车，这要怎么开 16 小时啊\n\n没有 Android auto，没有自动巡航，甚至连能给手机充电的 USB 口都没有，刹车还会发出奇怪声音。下次再也不在 2525 租车了",
-    "views": 122,
+    "views": 124,
     "forwards": 1,
     "media_group_id": 14023113027725101,
     "images": [
