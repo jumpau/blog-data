@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6056,
+    "views": 6057,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -80507,7 +80507,7 @@
     "id": 5875,
     "date": "2025-07-11T07:05:46",
     "text": "门的后面是另一个平行世界",
-    "views": 165,
+    "views": 166,
     "forwards": 1,
     "files": [
       {
@@ -81057,7 +81057,7 @@
     "id": 5915,
     "date": "2025-07-16T15:29:01",
     "text": "被下国际象棋的朋友推荐了 King of the Bridge 这款游戏！直播玩玩 qwq\n\n<a href=\"https://youtube.com/live/Lwz5Qq1VaH0\">https://youtube.com/live/Lwz5Qq1VaH0</a>",
-    "views": 178,
+    "views": 179,
     "forwards": 0
   },
   {
@@ -81070,7 +81070,7 @@
     "id": 5917,
     "date": "2025-07-16T17:07:13",
     "text": "直播一个小时打通了！回放在<a href=\"https://youtube.com/live/Lwz5Qq1VaH0\">这里</a>\n\n这个游戏规则改得好过分！感觉也许国际象棋新手反而会玩得更好？感觉所有一般国际象棋上的定式都不通用了，所以反而按照肌肉记忆下棋会很吃瘪 quq（<span class=\"spoiler\"><span>所以我能这么快通关反而说明我国际象棋打得很菜吗</span></span>\n\n以及想出这么邪门的作弊和反击规则作者是恶魔吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 不熟悉新的规则的时候对方乱走我都不知道是不是作弊，但是我作弊就 100% 会被抓到好不公平哇...\n\n第一周目对方作弊的时候利用反击很快就赢了，但是是坏结局。第二周目尝试不作弊赢棋真的好难好难，毕竟对方作弊的时候你发现了也没办法撤回去... 不过最后对面犯够多蠢让我赢了 qwq（感觉如果对面 AI 更聪明一点的话不反击完全就是不可能赢的\n\n<del>什么时候有 pvp 模式啊</del> <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 195,
+    "views": 197,
     "forwards": 0,
     "media_group_id": 14021485066316709,
     "images": [
@@ -81104,7 +81104,7 @@
     "id": 5920,
     "date": "2025-07-17T03:41:01",
     "text": "速通！\n\n（居然正常通关 + 速通之后依然没有超过两小时退款期限）",
-    "views": 178,
+    "views": 179,
     "forwards": 0,
     "media_group_id": 14021789291254117,
     "files": [
@@ -81140,7 +81140,7 @@
     "id": 5922,
     "date": "2025-07-17T14:58:27",
     "text": "\"Japanized western restaurant\"",
-    "views": 177,
+    "views": 178,
     "forwards": 1,
     "images": [
       {
@@ -81158,7 +81158,7 @@
   {
     "id": 5923,
     "date": "2025-07-17T16:54:36",
-    "views": 294,
+    "views": 295,
     "forwards": 3,
     "files": [
       {
@@ -81229,7 +81229,7 @@
     "id": 5924,
     "date": "2025-07-18T01:57:19",
     "text": "（其实发这个 poll 是因为我用的 nekogram 最近的更新有强迫症宝具 bug，总是会在没有未读的时候显示 1 未读... 降级就没有了，但是降级会损坏数据库，不知道怎么办 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 174,
+    "views": 175,
     "forwards": 1,
     "reply": {
       "id": 5923
@@ -81251,7 +81251,7 @@
     "id": 5925,
     "date": "2025-07-18T17:50:27",
     "text": "自己还是个小孩的一百个迹象：\n\n每次每次每次每次旅行前一天晚上都睡不好，即使吃了平时会让我迷糊一整天的安眠药都没救 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 159,
+    "views": 160,
     "forwards": 0,
     "images": [
       {
@@ -81270,7 +81270,7 @@
     "id": 5927,
     "date": "2025-07-18T18:03:00",
     "text": "通往未来的圣地巡礼",
-    "views": 155,
+    "views": 156,
     "forwards": 1,
     "media_group_id": 14022894242547901,
     "images": [
@@ -81300,7 +81300,7 @@
     "id": 5928,
     "date": "2025-07-19T01:38:48",
     "text": "前几天花了好多时间准备 Android auto，然后今天发现租的车上根本没有支持 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n因为 Times 没车了所以从 2525 上租了一辆 Aqua，我以为肯定是这三四年的吧... 结果租到了一辆 Aqua 2016 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n总里程 137551 km... 真的是我今生第一次见六位数里程的车，这要怎么开 16 小时啊\n\n没有 Android auto，没有自动巡航，甚至连能给手机充电的 USB 口都没有，刹车还会发出奇怪声音。下次再也不在 2525 租车了",
-    "views": 142,
+    "views": 144,
     "forwards": 1,
     "media_group_id": 14023113027725101,
     "images": [
@@ -81335,7 +81335,7 @@
     "id": 5930,
     "date": "2025-07-20T11:59:59",
     "text": "自动对焦太厉害了 <i class=\"custom-emoji\" emoji-src=\"emoji/6318635837244313060.webp\">😡</i>",
-    "views": 89,
+    "views": 94,
     "forwards": 0,
     "images": [
       {
