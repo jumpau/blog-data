@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6060,
+    "views": 6061,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -81229,7 +81229,7 @@
     "id": 5924,
     "date": "2025-07-18T01:57:19",
     "text": "（其实发这个 poll 是因为我用的 nekogram 最近的更新有强迫症宝具 bug，总是会在没有未读的时候显示 1 未读... 降级就没有了，但是降级会损坏数据库，不知道怎么办 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 175,
+    "views": 176,
     "forwards": 1,
     "reply": {
       "id": 5923
@@ -81251,7 +81251,7 @@
     "id": 5925,
     "date": "2025-07-18T17:50:27",
     "text": "自己还是个小孩的一百个迹象：\n\n每次每次每次每次旅行前一天晚上都睡不好，即使吃了平时会让我迷糊一整天的安眠药都没救 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 161,
+    "views": 162,
     "forwards": 0,
     "images": [
       {
@@ -81270,7 +81270,7 @@
     "id": 5927,
     "date": "2025-07-18T18:03:00",
     "text": "通往未来的圣地巡礼",
-    "views": 158,
+    "views": 159,
     "forwards": 1,
     "media_group_id": 14022894242547901,
     "images": [
@@ -81300,7 +81300,7 @@
     "id": 5928,
     "date": "2025-07-19T01:38:48",
     "text": "前几天花了好多时间准备 Android auto，然后今天发现租的车上根本没有支持 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n因为 Times 没车了所以从 2525 上租了一辆 Aqua，我以为肯定是这三四年的吧... 结果租到了一辆 Aqua 2016 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n总里程 137551 km... 真的是我今生第一次见六位数里程的车，这要怎么开 16 小时啊\n\n没有 Android auto，没有自动巡航，甚至连能给手机充电的 USB 口都没有，刹车还会发出奇怪声音。下次再也不在 2525 租车了",
-    "views": 146,
+    "views": 147,
     "forwards": 1,
     "media_group_id": 14023113027725101,
     "images": [
@@ -81335,7 +81335,7 @@
     "id": 5930,
     "date": "2025-07-20T11:59:59",
     "text": "自动对焦太厉害了 <i class=\"custom-emoji\" emoji-src=\"emoji/6318635837244313060.webp\">😡</i>",
-    "views": 110,
+    "views": 111,
     "forwards": 0,
     "images": [
       {
