@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5492,
+    "views": 5493,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -76944,7 +76944,7 @@
     "id": 5582,
     "date": "2025-06-10T02:45:54",
     "text": "看看日本家电怎么接地 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n<del>插头：竖起中指</del>",
-    "views": 283,
+    "views": 284,
     "forwards": 1,
     "images": [
       {
@@ -77107,7 +77107,7 @@
   {
     "id": 5591,
     "date": "2025-06-14T11:14:21",
-    "views": 273,
+    "views": 274,
     "forwards": 0,
     "files": [
       {
@@ -77129,7 +77129,7 @@
     "id": 5592,
     "date": "2025-06-14T12:30:05",
     "text": "和海边的猫猫聊天\n\n第一次用喵喵语和本地母语猫聊天，虽然我有很重的地球人口音，但是对方居然听懂了耶！开心，我喵喵语本当上手 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n（AV1 编码警告，旧设备没法看的话可以去 <a href=\"https://youtu.be/ZSFM4JiXlM4\">YouTube</a> / <a href=\"https://pixeldrain.com/u/hDCWSXDV\">无压原画</a>",
-    "views": 277,
+    "views": 278,
     "forwards": 2,
     "files": [
       {
@@ -77152,7 +77152,7 @@
     "id": 5593,
     "date": "2025-06-14T14:23:34",
     "text": "在冲绳！",
-    "views": 273,
+    "views": 274,
     "forwards": 3,
     "media_group_id": 13999288118518437,
     "images": [
@@ -77232,7 +77232,7 @@
     "id": 5600,
     "date": "2025-06-16T16:36:07",
     "text": "我下海了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>（物理）\n我晒伤了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170333464076748646.webm\">🫠</i>\n\n虽然抹了防晒但是是外面穿着 T 恤的时候，所以 T 恤盖住但是泳衣没盖住的地方就晒黑了... 不太聪明喵。\n\n不过大海好棒！躺在沙滩旁边的水里，感受温和的海浪打到身上好舒服。不过也不小心喝到了盐... <del>大海是不是某种星球规模的咸口海鲜汤</del>",
-    "views": 247,
+    "views": 248,
     "forwards": 3,
     "media_group_id": 14000734141051621,
     "images": [
@@ -81158,7 +81158,7 @@
   {
     "id": 5923,
     "date": "2025-07-17T16:54:36",
-    "views": 299,
+    "views": 300,
     "forwards": 3,
     "files": [
       {
@@ -81251,7 +81251,7 @@
     "id": 5925,
     "date": "2025-07-18T17:50:27",
     "text": "自己还是个小孩的一百个迹象：\n\n每次每次每次每次旅行前一天晚上都睡不好，即使吃了平时会让我迷糊一整天的安眠药都没救 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 162,
+    "views": 163,
     "forwards": 0,
     "images": [
       {
@@ -81270,7 +81270,7 @@
     "id": 5927,
     "date": "2025-07-18T18:03:00",
     "text": "通往未来的圣地巡礼",
-    "views": 159,
+    "views": 160,
     "forwards": 1,
     "media_group_id": 14022894242547901,
     "images": [
