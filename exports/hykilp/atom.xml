@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-07-24T12:14:36.938597+00:00</updated>
+  <updated>2025-07-24T14:15:45.878637+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5959</id>
+    <title>小桂桂的回忆录 📒 #5959</title>
+    <updated>2025-07-24T13:11:18+00:00</updated>
+    <content>&lt;p&gt;然后去ひがし茶屋街吃了饭！&lt;/p&gt;
+&lt;p&gt;夕阳打在建筑上很有下午茶的氛围，可惜这个时候大部分店都关门了...&lt;/p&gt;
+&lt;p&gt;去了一加看起来不错的日式西餐店，结果感觉中了游客陷阱，虽然好吃但是比其他店的同一道菜贵了一两倍。呜呜，下次还是不在面向游客的地方吃饭了。&lt;/p&gt;
+&lt;p&gt;以及这家店给我们看起来比较亚洲的人上了茶，却给旁边看起来比较欧美的人上了白水...感觉假设欧美人不喜欢茶好怪，尤其是在茶屋街上啊 &lt;i class="custom-emoji" emoji-src="emoji/6170461003130603392.webm"&gt;👊&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5959" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>5949</id>
+    <title>小桂桂的回忆录 📒 #5949</title>
+    <updated>2025-07-24T12:43:39+00:00</updated>
+    <content>&lt;p&gt;第一站是&lt;del&gt;拙政园&lt;/del&gt;（兼六園）&lt;/p&gt;
+&lt;p&gt;刚开了八小时车走进园林马上就放松下来了！&lt;/p&gt;
+&lt;p&gt;感觉来到这里现在才终于理解「侘び寂び」的美，在这里每个石灯路牌都摆的很随意、没有一条路一条河是直的、没有一根树枝是整齐的（甚至有些树太弯弯曲曲了需要用其他树的尸体来支撑自己的树枝）但是这些不完美这些随机感加起来却正好造就了这个完美的风景... 反而是追求完美规整的过程中得不到的
+&lt;del&gt;
+所以我家里乱其实也是（被打&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;以及拍到了好看鸟，相机大满足！还有一个 NHK 1933 年在这里建的小电视信号亭子，风格和这个园林好搭&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5949" rel="alternate"/>
+  </entry>
   <entry>
     <id>5939</id>
     <title>小桂桂的回忆录 📒 #5939</title>
