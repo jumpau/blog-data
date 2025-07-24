@@ -2,11 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-07-24T16:14:12.425628+00:00</updated>
+  <updated>2025-07-24T18:15:34.074274+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5971</id>
+    <title>小桂桂的回忆录 📒 #5971</title>
+    <updated>2025-07-24T18:10:25+00:00</updated>
+    <content>&lt;p&gt;震惊，借给我的 Pixel 5a 三整天过去之后依然有电... &lt;span class="spoiler"&gt;&lt;span&gt;可能从超大功耗火龙 888 过来的人用什么手机都会觉得续航好吧&lt;/span&gt;&lt;/span&gt; &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5971" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>5967</id>
+    <title>小桂桂的回忆录 📒 #5967</title>
+    <updated>2025-07-24T17:54:06+00:00</updated>
+    <content>&lt;p&gt;入住民宿之后又试了一次拍星星！&lt;/p&gt;
+&lt;p&gt;虽然这次在海边的路上每隔一段路都有路灯所以没有上次暗，但是这次有相机的大画幅就比之前好看很多啦，长曝光不会像用手机那么多噪点了。还拍到了一点点真正的自转轨迹哇！（ISO100 曝光了 200s）&lt;/p&gt;
+&lt;p&gt;好想坐在相机旁边曝光一整晚，可惜第二天还有早起的计划 &lt;i class="custom-emoji" emoji-src="emoji/6323364467388188938.webp"&gt;😴&lt;/i&gt; 就回民宿啦&lt;/p&gt;
+&lt;p&gt;（p4 谦谦的幽灵入镜hhhh&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5967" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>5966</id>
+    <title>小桂桂的回忆录 📒 #5966</title>
+    <updated>2025-07-24T17:09:06+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##戴上耳机"&gt;#戴上耳机&lt;/a&gt;
+&lt;del&gt;随机到这首歌是不是网易云在提醒我该睡觉了&lt;/del&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5966" rel="alternate"/>
+  </entry>
   <entry>
     <id>5959</id>
     <title>小桂桂的回忆录 📒 #5959</title>
