@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-07-25T08:15:05.187091+00:00</updated>
+  <updated>2025-07-25T10:13:16.594775+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5972</id>
+    <title>小桂桂的回忆录 📒 #5972</title>
+    <updated>2025-07-25T09:44:01+00:00</updated>
+    <content>&lt;p&gt;最后买了一加 13！不过因为是从中国买的两周之后才能到手&lt;/p&gt;
+&lt;p&gt;其实 Ace 5 Pro 就是 13 砍了一些功能的版本啦，大部分其他参数都是一样的。看了下觉得这些功能 +CN￥550 完全值得，所以买了贵一点的 13，算上国补 CN￥3100&lt;/p&gt;
+&lt;p&gt;打算先试试 ColorOS + GApps 能不能用顺手啦，如果不能的话打算试试自己适配 PixelOS 过去，反正现在一加依然可以随便解锁（希望不会踩大坑 ;-;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5972" rel="alternate"/>
+  </entry>
   <entry>
     <id>5971</id>
     <title>小桂桂的回忆录 📒 #5971</title>
