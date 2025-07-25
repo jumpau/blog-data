@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6069,
+    "views": 6070,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -81431,7 +81431,7 @@
     "id": 5937,
     "date": "2025-07-23T16:03:58",
     "text": "我拍到了双头四翼鸟（？）",
-    "views": 185,
+    "views": 186,
     "forwards": 1,
     "images": [
       {
@@ -81450,7 +81450,7 @@
     "id": 5938,
     "date": "2025-07-24T05:28:44",
     "text": "这次选新手机，因为已经买了相机所以不考虑照相了。比较在意的是充电和续航和可玩性。认真看了一圈对比了各种参数之后，在考虑从下面这三个中选一个：\n\n1. 红米 Note 12 Turbo 好处是超便宜而且有特别多三方 ROM 适配，但是指标（续航、充电速度）一般\n\n2. 一加 Ace 3 的好处是指标还好而且挺便宜的，还有三方 ROM，虽然只有一个 PixelOS 在被维护\n\n3. 一加 Ace 5 Pro 性能续航充电都是绝对顶配，价格也不贵，是我最看好的一款。但是第三方 ROM 只有一个社区适配的 OxygenOS，现在差不多就只是 ColorOS 国际版了。不过 ColorOS 能开谷歌服务的话也不是不能用？不刷的话说不定还可以过 Play Integrity 用谷歌 Pay... <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i> <del>或者我要试试自己适配 PixelOS 上去吗</del>\n\n所以又选择恐惧症了，感觉每个都有可能会后悔的地方，不知道怎么选... 问问群友 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 161,
+    "views": 162,
     "forwards": 0,
     "reply": {
       "id": 5935,
@@ -81861,7 +81861,7 @@
     "id": 5972,
     "date": "2025-07-25T09:44:01",
     "text": "最后买了一加 13！不过因为是从中国买的两周之后才能到手\n\n其实 Ace 5 Pro 就是 13 砍了一些功能的版本啦，大部分其他参数都是一样的。看了下觉得这些功能 +CN￥550 完全值得，所以买了贵一点的 13，算上国补 CN￥3100\n\n打算先试试 ColorOS + GApps 能不能用顺手啦，如果不能的话打算试试自己适配 PixelOS 过去，反正现在一加依然可以随便解锁（希望不会踩大坑 ;-;",
-    "views": 95,
+    "views": 99,
     "forwards": 0,
     "reply": {
       "id": 5938,
@@ -81884,7 +81884,7 @@
     "id": 5973,
     "date": "2025-07-25T11:19:10",
     "text": "因为觉得一加 13 的相机又是圆的又不在中心有点丑，所以设计了一个能够把这个圆形转化为设计元素的星空手机壳 qwq\n\n过几天看看效果怎么样，如果效果好的话说不定这个也可以拿来卖 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 72,
+    "views": 76,
     "forwards": 2,
     "media_group_id": 14027538801505661,
     "images": [
