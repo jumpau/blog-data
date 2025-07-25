@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-07-25T10:13:16.594775+00:00</updated>
+  <updated>2025-07-25T12:14:57.885362+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5973</id>
+    <title>小桂桂的回忆录 📒 #5973</title>
+    <updated>2025-07-25T11:19:10+00:00</updated>
+    <content>&lt;p&gt;因为觉得一加 13 的相机又是圆的又不在中心有点丑，所以设计了一个能够把这个圆形转化为设计元素的星空手机壳 qwq&lt;/p&gt;
+&lt;p&gt;过几天看看效果怎么样，如果效果好的话说不定这个也可以拿来卖 &lt;i class="custom-emoji" emoji-src="emoji/6111506770197219135.webm"&gt;😮&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5973" rel="alternate"/>
+  </entry>
   <entry>
     <id>5972</id>
     <title>小桂桂的回忆录 📒 #5972</title>
