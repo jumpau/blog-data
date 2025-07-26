@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-07-26T12:13:42.202490+00:00</updated>
+  <updated>2025-07-26T14:14:05.068702+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5978</id>
+    <title>小桂桂的回忆录 📒 #5978</title>
+    <updated>2025-07-26T13:01:53+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##戴上耳机"&gt;#戴上耳机&lt;/a&gt;
+充满神秘感的曲调加上猫头鹰的呼呼声感觉自己在被这首歌带进森林 🦉&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5978" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>5977</id>
+    <title>小桂桂的回忆录 📒 #5977</title>
+    <updated>2025-07-26T12:30:05+00:00</updated>
+    <content>&lt;p&gt;已经养成了特别喜欢一首歌就会买一个专辑的坏习惯&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5977" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>5976</id>
+    <title>小桂桂的回忆录 📒 #5976</title>
+    <updated>2025-07-26T12:27:41+00:00</updated>
+    <content>&lt;p&gt;感觉身边每个频道都在发 AOSCC &lt;i class="custom-emoji" emoji-src="emoji/6323315689444607430.webp"&gt;☁️&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5976" rel="alternate"/>
+  </entry>
   <entry>
     <id>5973</id>
     <title>小桂桂的回忆录 📒 #5973</title>
