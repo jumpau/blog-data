@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-07-26T16:14:18.369700+00:00</updated>
+  <updated>2025-07-26T18:17:56.193229+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>5985</id>
+    <title>小桂桂的回忆录 📒 #5985</title>
+    <updated>2025-07-26T17:17:04+00:00</updated>
+    <content>&lt;p&gt;在石川第二天去了輪島，亲眼看到了两年前能登半岛地震的影响...&lt;/p&gt;
+&lt;p&gt;开过去的路上有很多单向交替的红绿灯，有时候是靠悬崖侧的一半路塌下去，有时候是靠山侧放了防落石头的黑袋子。&lt;/p&gt;
+&lt;p&gt;到輪島之后，原本是繁华的輪島朝市只剩下建筑拆掉之后长出来的草丛，旁边只剩下一家和菓子店和一家把住宅一户建的窗户改造成店面的饮料亭。平常街道的转角是被掀起来的楼、堆成小山的废弃木材、裸露的生锈木钉、落在地上变成台阶的屋顶... 还有像是已经习惯了见到对这幅景观震惊的我们一样默默路过的本地人&lt;/p&gt;
+&lt;p&gt;前一天在金沢走在路上还到处都是说着英文中文的游客，但是这里除了我们以外真的一个游客都没有...&lt;/p&gt;
+&lt;p&gt;地震两年之后，感觉轮岛还没有恢复的很大原因是被人抛弃了——游客不来这里玩，住户也搬走了。可能还住在这里的人都想要相信总有一天能恢复到从前的样子，我也希望这样，可惜以现在的人数总觉得不太实际呢 &lt;i class="custom-emoji" emoji-src="emoji/6323475221709850605.webp"&gt;😭&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=5985" rel="alternate"/>
+  </entry>
   <entry>
     <id>5978</id>
     <title>小桂桂的回忆录 📒 #5978</title>
