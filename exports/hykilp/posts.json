@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2657,
+    "views": 2658,
     "forwards": 29,
     "images": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5526,
+    "views": 5527,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -81924,7 +81924,7 @@
     "id": 5976,
     "date": "2025-07-26T12:27:41",
     "text": "感觉身边每个频道都在发 AOSCC <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 509,
+    "views": 511,
     "forwards": 9
   },
   {
@@ -82960,7 +82960,7 @@
     "id": 6068,
     "date": "2025-07-29T06:30:13",
     "text": "翻翻 one among us 邮箱里收到的不太聪明垃圾邮件",
-    "views": 123,
+    "views": 128,
     "forwards": 0,
     "media_group_id": 14030164905103125,
     "images": [
@@ -83010,7 +83010,7 @@
     "id": 6072,
     "date": "2025-07-29T14:58:44",
     "text": "！！！！！！好耶 滑铁卢 MEng 居然给我下 offer 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 69,
+    "views": 84,
     "forwards": 1,
     "images": [
       {
