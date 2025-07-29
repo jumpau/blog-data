@@ -68660,7 +68660,7 @@
     "id": 4971,
     "date": "2025-03-01T03:12:36",
     "text": "一个月没出门摸草了，今天出门去和光量子和珂朵莉约了饭 qwq 还有 daylily 和琉璃来远程拼桌（？）\n\n果然出门就开心很多，以后还是要多出门摸摸草 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 426,
+    "views": 427,
     "forwards": 6,
     "media_group_id": 13926390054616325,
     "images": [
@@ -69317,7 +69317,7 @@
     "id": 5018,
     "date": "2025-03-12T16:43:32",
     "text": "<a href=\"https://tree.aza.moe/\">https://tree.aza.moe/</a> \n\n写了一个可视化整棵树的网页，用来表示层级的线条我居然只用 css 画出来了，好奇妙 qwq\n\n感谢大家一起种树 🌲",
-    "views": 1247,
+    "views": 1248,
     "forwards": 15,
     "reply": {
       "id": 5017,
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5527,
+    "views": 5530,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -81924,7 +81924,7 @@
     "id": 5976,
     "date": "2025-07-26T12:27:41",
     "text": "感觉身边每个频道都在发 AOSCC <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 511,
+    "views": 514,
     "forwards": 9
   },
   {
@@ -82908,7 +82908,7 @@
     "id": 6065,
     "date": "2025-07-27T08:06:23",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n让我想到两年前遇到的这首歌，或者这首诗，是在人类消失的世界中一只青猫的自白\n\n♪ もう世界には誰もいない\n♪ でも世界はこんなに美しい\n♪ 人はどこへ行ったのですか\n♪ 私の首に鈴をつけたまま\n♪ 雨乞いの祈りの続きを教えもせずに\n♪ 夜明けに消えた夢の続きを教えもせずに\n\n查了一下，这首歌的作者能登麻美子还真的是在金沢市出生的，但是写这首歌是在地震之前... 原来只是巧合，<span class=\"spoiler\"><span>巧得有点可怕了</span></span>",
-    "views": 154,
+    "views": 155,
     "forwards": 0,
     "files": [
       {
@@ -82930,7 +82930,7 @@
     "id": 6066,
     "date": "2025-07-27T16:47:21",
     "text": "？为什么谷歌地图 street view icon 变成了猫娘",
-    "views": 157,
+    "views": 158,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -82953,14 +82953,14 @@
     "id": 6067,
     "date": "2025-07-28T14:48:33",
     "text": "哭哭\n\n因为原本维护前端的风庄在<span class=\"spoiler\"><span>休眠</span></span>，久违地回到 <a href=\"one-among.us\">one-among.us</a> 前端代码库里改点代码。\n\n太久没写了这套代码变得好陌生，翻翻文件重新熟悉一下，翻到风庄留下的天才代码想要和谁吐槽吐槽的时候才真正意识到她真的不在了... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>",
-    "views": 157,
+    "views": 158,
     "forwards": 2
   },
   {
     "id": 6068,
     "date": "2025-07-29T06:30:13",
     "text": "翻翻 one among us 邮箱里收到的不太聪明垃圾邮件",
-    "views": 128,
+    "views": 132,
     "forwards": 0,
     "media_group_id": 14030164905103125,
     "images": [
@@ -83010,7 +83010,7 @@
     "id": 6072,
     "date": "2025-07-29T14:58:44",
     "text": "！！！！！！好耶 滑铁卢 MEng 居然给我下 offer 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 84,
+    "views": 93,
     "forwards": 1,
     "images": [
       {
