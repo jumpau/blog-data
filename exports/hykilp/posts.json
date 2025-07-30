@@ -46200,14 +46200,14 @@
     "id": 3397,
     "date": "2024-02-23T23:49:29",
     "text": "<del>为什么听东方的曲子会让我想玩 maimai 而不是想玩东方</del>",
-    "views": 87,
+    "views": 88,
     "forwards": 0
   },
   {
     "id": 3398,
     "date": "2024-02-24T02:24:22",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\nMe: mom can we have 双层麦香鱼?\nMom: we have 双层麦香鱼 at home!\n双层麦香鱼 at home:",
-    "views": 106,
+    "views": 107,
     "forwards": 0,
     "images": [
       {
@@ -46226,7 +46226,7 @@
     "id": 3399,
     "date": "2024-02-24T04:47:31",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n♫ 楽しい歌歌いましょ\n♫ 楽しい歌歌いましょ\n♫ 嫌なことは忘れて\n\n欢乐 qwq",
-    "views": 111,
+    "views": 112,
     "forwards": 0,
     "files": [
       {
@@ -72112,7 +72112,7 @@
     "id": 5222,
     "date": "2025-04-16T06:29:11",
     "text": "居然真的能像在用相机一样拍长曝光哇",
-    "views": 307,
+    "views": 308,
     "forwards": 0,
     "reply": {
       "id": 5214,
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5531,
+    "views": 5532,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6078,
+    "views": 6079,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -80939,14 +80939,14 @@
     "id": 5908,
     "date": "2025-07-15T14:48:43",
     "text": "第一次经历地震",
-    "views": 191,
+    "views": 192,
     "forwards": 0
   },
   {
     "id": 5909,
     "date": "2025-07-15T14:57:45",
     "text": "震度4, 完全完全没感觉... 大家说地震了我才知道地震了的程度 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 203,
+    "views": 204,
     "forwards": 0,
     "reply": {
       "id": 5908,
@@ -81140,7 +81140,7 @@
     "id": 5922,
     "date": "2025-07-17T14:58:27",
     "text": "\"Japanized western restaurant\"",
-    "views": 242,
+    "views": 243,
     "forwards": 1,
     "images": [
       {
@@ -81158,7 +81158,7 @@
   {
     "id": 5923,
     "date": "2025-07-17T16:54:36",
-    "views": 356,
+    "views": 357,
     "forwards": 3,
     "files": [
       {
@@ -81229,7 +81229,7 @@
     "id": 5924,
     "date": "2025-07-18T01:57:19",
     "text": "（其实发这个 poll 是因为我用的 nekogram 最近的更新有强迫症宝具 bug，总是会在没有未读的时候显示 1 未读... 降级就没有了，但是降级会损坏数据库，不知道怎么办 <i class=\"custom-emoji\" emoji-src=\"emoji/5444876709977398781.tgs\">😸</i>",
-    "views": 246,
+    "views": 247,
     "forwards": 1,
     "reply": {
       "id": 5923
@@ -81394,7 +81394,7 @@
     "id": 5934,
     "date": "2025-07-22T15:43:21",
     "text": "设计了一件 T，打算定制出来\n\n只要用 T 恤声明自己 KY 就不怕别人嫌我 KY 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 217,
+    "views": 218,
     "forwards": 3,
     "images": [
       {
@@ -81861,7 +81861,7 @@
     "id": 5972,
     "date": "2025-07-25T09:44:01",
     "text": "最后买了一加 13！不过因为是从中国买的两周之后才能到手\n\n其实 Ace 5 Pro 就是 13 砍了一些功能的版本啦，大部分其他参数都是一样的。看了下觉得这些功能 +CN￥550 完全值得，所以买了贵一点的 13，算上国补 CN￥3100\n\n打算先试试 ColorOS + GApps 能不能用顺手啦，如果不能的话打算试试自己适配 PixelOS 过去，反正现在一加依然可以随便解锁（希望不会踩大坑 ;-;",
-    "views": 175,
+    "views": 176,
     "forwards": 2,
     "reply": {
       "id": 5938,
@@ -81924,7 +81924,7 @@
     "id": 5976,
     "date": "2025-07-26T12:27:41",
     "text": "感觉身边每个频道都在发 AOSCC <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 528,
+    "views": 529,
     "forwards": 9
   },
   {
@@ -82438,7 +82438,7 @@
   {
     "id": 6026,
     "date": "2025-07-27T04:41:12",
-    "views": 385,
+    "views": 386,
     "forwards": 7,
     "reply": {
       "id": 5976,
@@ -82475,7 +82475,7 @@
             "data": "NA=="
           }
         ],
-        "total_voter_count": 197,
+        "total_voter_count": 198,
         "is_closed": false,
         "is_anonymous": true,
         "type": "REGULAR",
@@ -82930,7 +82930,7 @@
     "id": 6066,
     "date": "2025-07-27T16:47:21",
     "text": "？为什么谷歌地图 street view icon 变成了猫娘",
-    "views": 161,
+    "views": 162,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -82960,7 +82960,7 @@
     "id": 6068,
     "date": "2025-07-29T06:30:13",
     "text": "翻翻 one among us 邮箱里收到的不太聪明垃圾邮件",
-    "views": 146,
+    "views": 148,
     "forwards": 0,
     "media_group_id": 14030164905103125,
     "images": [
@@ -83010,7 +83010,7 @@
     "id": 6072,
     "date": "2025-07-29T14:58:44",
     "text": "！！！！！！好耶 滑铁卢 MEng 居然给我下 offer 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 127,
+    "views": 131,
     "forwards": 3,
     "images": [
       {
@@ -83029,8 +83029,8 @@
     "id": 6073,
     "date": "2025-07-30T15:49:50",
     "text": "和 tjk 的朋友们打了桌游 Arcs！第一次玩喜提第三 qwq\n\n桌游好玩但是规则好复杂，其实看了一遍规则解说但是实际玩的时候还是好多不懂（x）",
-    "views": 36,
-    "forwards": 0,
+    "views": 70,
+    "forwards": 1,
     "images": [
       {
         "width": 2560,
