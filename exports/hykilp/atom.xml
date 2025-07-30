@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-07-30T14:15:17.742038+00:00</updated>
+  <updated>2025-07-30T16:15:01.587139+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6073</id>
+    <title>小桂桂的回忆录 📒 #6073</title>
+    <updated>2025-07-30T15:49:50+00:00</updated>
+    <content>&lt;p&gt;和 tjk 的朋友们打了桌游 Arcs！第一次玩喜提第三 qwq&lt;/p&gt;
+&lt;p&gt;桌游好玩但是规则好复杂，其实看了一遍规则解说但是实际玩的时候还是好多不懂（x）&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6073" rel="alternate"/>
+  </entry>
   <entry>
     <id>6072</id>
     <title>小桂桂的回忆录 📒 #6072</title>
