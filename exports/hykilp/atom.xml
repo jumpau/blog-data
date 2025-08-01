@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-08-01T10:14:44.890389+00:00</updated>
+  <updated>2025-08-01T12:16:44.270386+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6077</id>
+    <title>小桂桂的回忆录 📒 #6077</title>
+    <updated>2025-08-01T11:32:58+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##戴上耳机"&gt;#戴上耳机&lt;/a&gt;
+怀念 CD 技术之前的黑胶专辑，每首歌的结尾都和下一首歌的开头无缝融合在一起&lt;/p&gt;
+&lt;p&gt;我最喜欢也是最早接触的这种专辑是 Pink Floyd 的 &lt;em&gt;Dark Side of the Moon&lt;/em&gt;，比起十首不同的曲子更像是像是一首 40 分钟长的曲子，从一个旋律发展到下一个，是名副其实的 Progressive Rock&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6077" rel="alternate"/>
+  </entry>
   <entry>
     <id>6076</id>
     <title>小桂桂的回忆录 📒 #6076</title>
