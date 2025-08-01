@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-08-01T14:15:43.308123+00:00</updated>
+  <updated>2025-08-01T16:14:39.339631+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6080</id>
+    <title>小桂桂的回忆录 📒 #6080</title>
+    <updated>2025-08-01T16:13:45+00:00</updated>
+    <content>&lt;p&gt;和聊聊试了试玩战锤 40k 桌游，有点被无聊到（x） &lt;/p&gt;
+&lt;p&gt;之前玩 DnD 的话比较喜欢的是剧情的灵活性，但是这里只有战斗。而且作为战斗桌游也不是很好玩，因为感觉战略性太弱了还是很依赖运气...&lt;/p&gt;
+&lt;p&gt;不知道剧情向的玩法会不会好一点&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6080" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>6079</id>
+    <title>小桂桂的回忆录 📒 #6079</title>
+    <updated>2025-08-01T15:25:54+00:00</updated>
+    <content>&lt;p&gt;平时用的分账单网站 splitwise 今天说达到了免费上限需要订阅 ca$7/mo 会员才能继续添加&lt;/p&gt;
+&lt;p&gt;因此从 splitwise 迁移到了开源的 spliit，顺便给它赞助一个 ca$7/mo &lt;i class="custom-emoji" emoji-src="emoji/6111607409870898919.webm"&gt;👍&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;虽然付的都是同样的钱，但是付给开源软件更安心一点 qwq&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6079" rel="alternate"/>
+  </entry>
   <entry>
     <id>6078</id>
     <title>小桂桂的回忆录 📒 #6078</title>
