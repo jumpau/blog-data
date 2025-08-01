@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6083,
+    "views": 6084,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -81924,7 +81924,7 @@
     "id": 5976,
     "date": "2025-07-26T12:27:41",
     "text": "感觉身边每个频道都在发 AOSCC <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 606,
+    "views": 607,
     "forwards": 9
   },
   {
@@ -82930,7 +82930,7 @@
     "id": 6066,
     "date": "2025-07-27T16:47:21",
     "text": "？为什么谷歌地图 street view icon 变成了猫娘",
-    "views": 204,
+    "views": 205,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -82953,14 +82953,14 @@
     "id": 6067,
     "date": "2025-07-28T14:48:33",
     "text": "哭哭\n\n因为原本维护前端的风庄在<span class=\"spoiler\"><span>休眠</span></span>，久违地回到 <a href=\"one-among.us\">one-among.us</a> 前端代码库里改点代码。\n\n太久没写了这套代码变得好陌生，翻翻文件重新熟悉一下，翻到风庄留下的天才代码想要和谁吐槽吐槽的时候才真正意识到她真的不在了... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>",
-    "views": 222,
+    "views": 223,
     "forwards": 5
   },
   {
     "id": 6068,
     "date": "2025-07-29T06:30:13",
     "text": "翻翻 one among us 邮箱里收到的不太聪明垃圾邮件",
-    "views": 190,
+    "views": 191,
     "forwards": 1,
     "media_group_id": 14030164905103125,
     "images": [
@@ -83048,14 +83048,14 @@
     "id": 6074,
     "date": "2025-07-31T16:04:35",
     "text": "为什么每次看到自己代码库里超级无敌蠢猫代码想要知道是哪个蠢猫写的进行 git blame 的时候都会 blame 到我自己 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 157,
+    "views": 158,
     "forwards": 2
   },
   {
     "id": 6075,
     "date": "2025-08-01T04:56:48",
     "text": "想要对身边的碳基 AI 进行一些日常的 <a href=\"https://t.me/rynif/37424\">CatAttack</a>，但是猫大部分时间都在睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 135,
+    "views": 136,
     "forwards": 1,
     "images": [
       {
@@ -83074,7 +83074,7 @@
     "id": 6076,
     "date": "2025-08-01T05:49:40",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##也许不要戴上耳机\">#也许不要戴上耳机</a>\n今天选工作 bgm 决定回去听听 Beatles，因为为什么不，然后马上被地雷歌词扳机到 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n音乐很好听，但是歌词... 简直是教科书级别的感情操控\n\n♪ If You Leave Me\n♪ I'll Never Make It Alone <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n♪ Believe me when I beg you\n♪ Don't Ever Leave Me Alone <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n♪ When You Told me\n♪ You Didn't Need Me Any More\n♪ Well You Know I Nearly Broke Down And Died <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n把自己情绪健康的责任转移到别人身上、用自己的痛苦唤起别人的罪恶感和愧疚感、恐吓要求别人留下来...所有禁忌都沾到了\n\n大家记得千万不要对自己喜欢的人这样说话哦 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>（并没有阴阳怪气",
-    "views": 131,
+    "views": 132,
     "forwards": 3,
     "files": [
       {
@@ -83096,7 +83096,7 @@
     "id": 6077,
     "date": "2025-08-01T11:32:58",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n怀念 CD 技术之前的黑胶专辑，每首歌的结尾都和下一首歌的开头无缝融合在一起\n\n我最喜欢也是最早接触的这种专辑是 Pink Floyd 的 <em>Dark Side of the Moon</em>，比起十首不同的曲子更像是像是一首 40 分钟长的曲子，从一个旋律发展到下一个，是名副其实的 Progressive Rock",
-    "views": 115,
+    "views": 116,
     "forwards": 2,
     "files": [
       {
@@ -83118,7 +83118,7 @@
     "id": 6078,
     "date": "2025-08-01T13:08:37",
     "text": "喜欢日本超市因为总是在创新，每次去超市都会有新的发现\n\n讨厌日本超市也是因为总是在创新，七月喜欢的桃桃布丁八月就下架换成其他的了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 112,
+    "views": 114,
     "forwards": 0,
     "reply": {
       "id": 5802,
@@ -83141,7 +83141,7 @@
     "id": 6079,
     "date": "2025-08-01T15:25:54",
     "text": "平时用的分账单网站 splitwise 今天说达到了免费上限需要订阅 ca$7/mo 会员才能继续添加\n\n因此从 splitwise 迁移到了开源的 spliit，顺便给它赞助一个 ca$7/mo <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n虽然付的都是同样的钱，但是付给开源软件更安心一点 qwq",
-    "views": 95,
+    "views": 98,
     "forwards": 1,
     "images": [
       {
@@ -83160,7 +83160,7 @@
     "id": 6080,
     "date": "2025-08-01T16:13:45",
     "text": "和聊聊试了试玩战锤 40k 桌游，有点被无聊到（x） \n\n之前玩 DnD 的话比较喜欢的是剧情的灵活性，但是这里只有战斗。而且作为战斗桌游也不是很好玩，因为感觉战略性太弱了还是很依赖运气...\n\n不知道剧情向的玩法会不会好一点",
-    "views": 65,
+    "views": 69,
     "forwards": 0,
     "images": [
       {
