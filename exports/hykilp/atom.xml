@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-08-01T12:16:44.270386+00:00</updated>
+  <updated>2025-08-01T14:15:43.308123+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6078</id>
+    <title>小桂桂的回忆录 📒 #6078</title>
+    <updated>2025-08-01T13:08:37+00:00</updated>
+    <content>&lt;p&gt;喜欢日本超市因为总是在创新，每次去超市都会有新的发现&lt;/p&gt;
+&lt;p&gt;讨厌日本超市也是因为总是在创新，七月喜欢的桃桃布丁八月就下架换成其他的了 &lt;i class="custom-emoji" emoji-src="emoji/6170424195260877091.webm"&gt;🤗&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6078" rel="alternate"/>
+  </entry>
   <entry>
     <id>6077</id>
     <title>小桂桂的回忆录 📒 #6077</title>
