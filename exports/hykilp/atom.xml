@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-08-02T14:15:39.454327+00:00</updated>
+  <updated>2025-08-02T16:13:06.553863+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6084</id>
+    <title>小桂桂的回忆录 📒 #6084</title>
+    <updated>2025-08-02T15:45:14+00:00</updated>
+    <content>&lt;p&gt;有人玩 PT 吗？想要交换 PT 邀请 qwq&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6084" rel="alternate"/>
+  </entry>
   <entry>
     <id>6083</id>
     <title>小桂桂的回忆录 📒 #6083</title>
