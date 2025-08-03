@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-08-03T06:15:13.667655+00:00</updated>
+  <updated>2025-08-03T08:15:39.047350+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6085</id>
+    <title>小桂桂的回忆录 📒 #6085</title>
+    <updated>2025-08-03T07:12:37+00:00</updated>
+    <content>&lt;p&gt;收到了&lt;span class="spoiler"&gt;&lt;span&gt;时隔两周的&lt;/span&gt;&lt;/span&gt;返图！是兼六园桥上的 Abbey Road &lt;i class="custom-emoji" emoji-src="emoji/6170419595350903248.webm"&gt;✨&lt;/i&gt; &lt;/p&gt;
+&lt;p&gt;（摄影 credit: 半喵）&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6085" rel="alternate"/>
+  </entry>
   <entry>
     <id>6084</id>
     <title>小桂桂的回忆录 📒 #6084</title>
