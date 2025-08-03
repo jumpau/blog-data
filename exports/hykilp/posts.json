@@ -67971,7 +67971,7 @@
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1296,
+    "views": 1297,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -67993,7 +67993,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 1094,
+    "views": 1095,
     "forwards": 7,
     "files": [
       {
@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5545,
+    "views": 5546,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -81158,7 +81158,7 @@
   {
     "id": 5923,
     "date": "2025-07-17T16:54:36",
-    "views": 360,
+    "views": 361,
     "forwards": 3,
     "files": [
       {
@@ -81335,7 +81335,7 @@
     "id": 5930,
     "date": "2025-07-20T11:59:59",
     "text": "自动对焦太厉害了 <i class=\"custom-emoji\" emoji-src=\"emoji/6318635837244313060.webp\">😡</i>",
-    "views": 213,
+    "views": 214,
     "forwards": 0,
     "images": [
       {
@@ -81420,7 +81420,7 @@
     "id": 5936,
     "date": "2025-07-23T13:45:10",
     "text": "感谢マモル借给我 Pixel 5a，终于不用抱着 iPad 到处跑了<i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 196,
+    "views": 197,
     "forwards": 0,
     "reply": {
       "id": 5935,
@@ -81431,7 +81431,7 @@
     "id": 5937,
     "date": "2025-07-23T16:03:58",
     "text": "我拍到了双头四翼鸟（？）",
-    "views": 211,
+    "views": 212,
     "forwards": 1,
     "images": [
       {
@@ -81450,7 +81450,7 @@
     "id": 5938,
     "date": "2025-07-24T05:28:44",
     "text": "这次选新手机，因为已经买了相机所以不考虑照相了。比较在意的是充电和续航和可玩性。认真看了一圈对比了各种参数之后，在考虑从下面这三个中选一个：\n\n1. 红米 Note 12 Turbo 好处是超便宜而且有特别多三方 ROM 适配，但是指标（续航、充电速度）一般\n\n2. 一加 Ace 3 的好处是指标还好而且挺便宜的，还有三方 ROM，虽然只有一个 PixelOS 在被维护\n\n3. 一加 Ace 5 Pro 性能续航充电都是绝对顶配，价格也不贵，是我最看好的一款。但是第三方 ROM 只有一个社区适配的 OxygenOS，现在差不多就只是 ColorOS 国际版了。不过 ColorOS 能开谷歌服务的话也不是不能用？不刷的话说不定还可以过 Play Integrity 用谷歌 Pay... <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i> <del>或者我要试试自己适配 PixelOS 上去吗</del>\n\n所以又选择恐惧症了，感觉每个都有可能会后悔的地方，不知道怎么选... 问问群友 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 186,
+    "views": 187,
     "forwards": 1,
     "reply": {
       "id": 5935,
@@ -82960,7 +82960,7 @@
     "id": 6068,
     "date": "2025-07-29T06:30:13",
     "text": "翻翻 one among us 邮箱里收到的不太聪明垃圾邮件",
-    "views": 202,
+    "views": 203,
     "forwards": 1,
     "media_group_id": 14030164905103125,
     "images": [
@@ -83010,7 +83010,7 @@
     "id": 6072,
     "date": "2025-07-29T14:58:44",
     "text": "！！！！！！好耶 滑铁卢 MEng 居然给我下 offer 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 207,
+    "views": 208,
     "forwards": 3,
     "images": [
       {
@@ -83029,7 +83029,7 @@
     "id": 6073,
     "date": "2025-07-30T15:49:50",
     "text": "和 tjk 的朋友们打了桌游 Arcs！第一次玩喜提第三 qwq\n\n桌游好玩但是规则好复杂，其实看了一遍规则解说但是实际玩的时候还是好多不懂（x）",
-    "views": 179,
+    "views": 180,
     "forwards": 1,
     "images": [
       {
@@ -83048,14 +83048,14 @@
     "id": 6074,
     "date": "2025-07-31T16:04:35",
     "text": "为什么每次看到自己代码库里超级无敌蠢猫代码想要知道是哪个蠢猫写的进行 git blame 的时候都会 blame 到我自己 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 165,
+    "views": 166,
     "forwards": 2
   },
   {
     "id": 6075,
     "date": "2025-08-01T04:56:48",
     "text": "想要对身边的碳基 AI 进行一些日常的 <a href=\"https://t.me/rynif/37424\">CatAttack</a>，但是猫大部分时间都在睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 151,
+    "views": 152,
     "forwards": 1,
     "images": [
       {
@@ -83074,7 +83074,7 @@
     "id": 6076,
     "date": "2025-08-01T05:49:40",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##也许不要戴上耳机\">#也许不要戴上耳机</a>\n今天选工作 bgm 决定回去听听 Beatles，因为为什么不，然后马上被地雷歌词扳机到 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n音乐很好听，但是歌词... 简直是教科书级别的感情操控\n\n♪ If You Leave Me\n♪ I'll Never Make It Alone <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n♪ Believe me when I beg you\n♪ Don't Ever Leave Me Alone <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n♪ When You Told me\n♪ You Didn't Need Me Any More\n♪ Well You Know I Nearly Broke Down And Died <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n把自己情绪健康的责任转移到别人身上、用自己的痛苦唤起别人的罪恶感和愧疚感、恐吓要求别人留下来...所有禁忌都沾到了\n\n大家记得千万不要对自己喜欢的人这样说话哦 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>（并没有阴阳怪气",
-    "views": 152,
+    "views": 153,
     "forwards": 4,
     "files": [
       {
@@ -83141,7 +83141,7 @@
     "id": 6079,
     "date": "2025-08-01T15:25:54",
     "text": "平时用的分账单网站 splitwise 今天说达到了免费上限需要订阅 ca$7/mo 会员才能继续添加\n\n因此从 splitwise 迁移到了开源的 spliit，顺便给它赞助一个 ca$7/mo <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n虽然付的都是同样的钱，但是付给开源软件更安心一点 qwq",
-    "views": 157,
+    "views": 158,
     "forwards": 3,
     "images": [
       {
@@ -83160,7 +83160,7 @@
     "id": 6080,
     "date": "2025-08-01T16:13:45",
     "text": "和聊聊试了试玩战锤 40k 桌游，有点被无聊到（x） \n\n之前玩 DnD 的话比较喜欢的是剧情的灵活性，但是这里只有战斗。而且作为战斗桌游也不是很好玩，因为感觉战略性太弱了还是很依赖运气...\n\n不知道剧情向的玩法会不会好一点",
-    "views": 155,
+    "views": 156,
     "forwards": 1,
     "images": [
       {
@@ -83179,7 +83179,7 @@
     "id": 6081,
     "date": "2025-08-02T04:07:28",
     "text": "<a href=\"##梦\">#梦</a> 梦到和朋友们出去玩，我丢三落四，走到一个地方发现书包不见了，回退在路边椅子上找到了\n\n然后走到下一个地方发现手机不见了，找了一圈决定回退，回退的时候发现相机又不见了，一个人回退到回退之前的地方在翻包找手机的桌子上找到了相机。然后想去和回退的朋友们汇合，发现朋友们不见了，天完全黑了而且没有手机也没法联系... <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>\n\n在梦里拍到了好多好看照片，记得有一张长焦拍了日落下一栋全玻璃大楼反射着一栋夕阳照成黄色的传统建筑（可惜还不能从梦中相机导出照片，让 chatgpt 想象一张好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 139,
+    "views": 142,
     "forwards": 0,
     "images": [
       {
@@ -83198,14 +83198,14 @@
     "id": 6082,
     "date": "2025-08-02T09:49:01",
     "text": "想补一些经典但是一直没去看的旧番，海贼王 死亡笔记 钢之炼金术师 Z高达之类的，然后打开搜索引擎看到 >50 集直接被劝退... <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 125,
+    "views": 130,
     "forwards": 1
   },
   {
     "id": 6083,
     "date": "2025-08-02T13:39:30",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n查资料的时候看到这个超级炫酷的音乐 PV，随即去看了 Cencoroll Connect，是一个一小时的动画电影\n\n有点厉害，打斗动画配上 ryo 的音乐超燃，而且在反常的场面里每个人都很从容很日常的样子真的太炫酷了，也正好能够让一个个眼神和表情的小动作表现力爆发\n\n唯一的遗憾是有点短... 这个一小时的 Connect 是 1+2 总集篇，但是 1 和 2 就已经隔了十年 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 第三集制作决定已经发了但是到现在还没消息，要再等十年吗...",
-    "views": 112,
+    "views": 118,
     "forwards": 0,
     "files": [
       {
@@ -83228,7 +83228,7 @@
     "id": 6084,
     "date": "2025-08-02T15:45:14",
     "text": "有人玩 PT 吗？想要交换 PT 邀请 qwq",
-    "views": 95,
+    "views": 104,
     "forwards": 0
   }
 ]
