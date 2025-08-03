@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-08-03T14:14:56.133957+00:00</updated>
+  <updated>2025-08-03T16:15:11.508362+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6088</id>
+    <title>小桂桂的回忆录 📒 #6088</title>
+    <updated>2025-08-03T14:35:32+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="##戴上耳机"&gt;#戴上耳机&lt;/a&gt;
+聊聊看我发不喜欢的 Beatles 曲子不开心，那就发一首喜欢的 Beatles 曲子好了 qwq&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Now And Then&lt;/em&gt; 是 Beatles 的最后一首曲子，是 2023 年把解散之后 1990 年没发布的录音翻出来重新制作的曲子。&lt;/p&gt;
+&lt;p&gt;虽然 Beatles 也许是历史上对音乐影响最大的乐队，在现在这个信息快速涌入的时代里也很难不被遗忘——即使知道自己会被遗忘，即使知道从前的粉丝们已经 move on，也会希望大家能时不时回来听听自己的曲子，也许这首歌就是这样的心情吧。&lt;/p&gt;
+&lt;p&gt;♪ Oh, now and then
+♪ I want you to be there for me
+♪ Always to return to me
+♪ I know it's true
+♪ It's all because of you
+♪ And if you go away
+♪ I know you'll never stay&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6088" rel="alternate"/>
+  </entry>
   <entry>
     <id>6086</id>
     <title>小桂桂的回忆录 📒 #6086</title>
