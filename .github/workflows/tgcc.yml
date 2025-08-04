@@ -1,4 +1,4 @@
-name: Telegram Channel Updater
+name: Updater
 
 on:
   schedule:
