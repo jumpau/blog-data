@@ -56550,7 +56550,7 @@
     "id": 4146,
     "date": "2024-07-12T19:48:04",
     "text": "Syama 那边在做 Unity 前端，好厉害 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 我给开了一个 API 之后她好快就写好了\n\n居然还有嘴型哇",
-    "views": 113,
+    "views": 114,
     "forwards": 0,
     "reply": {
       "id": 4145,
@@ -56561,7 +56561,7 @@
     "id": 4147,
     "date": "2024-07-12T23:04:21",
     "text": "欢乐",
-    "views": 117,
+    "views": 118,
     "forwards": 0,
     "media_group_id": 13766603691716701,
     "images": [
@@ -56601,7 +56601,7 @@
     "id": 4150,
     "date": "2024-07-13T20:40:40",
     "text": "呜呜 好想吃瑞希做的咖喱意面 quq",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "images": [
       {
@@ -56620,14 +56620,14 @@
     "id": 4151,
     "date": "2024-07-16T04:38:34",
     "text": "好无力",
-    "views": 90,
+    "views": 91,
     "forwards": 0
   },
   {
     "id": 4152,
     "date": "2024-07-16T08:54:10",
     "text": "帮聊聊给在看守所的朋友寄了信...\n\n这个年代似乎已经没有人寄平邮的信了。打印店老板说没寄过，去楼下中国邮政老板还一脸诧异笑了笑说不接，说整个城区只有一家邮政寄平邮。\n\n骑车去了那唯一一家，发现那家邮政老板意外人很好，并没有质疑为什么这个年代还需要寄平邮，我也没有因此被取笑。明明寄平邮就应该是这样简单的事情，封上信口交了钱就结束了，看着他熟练地贴上邮票把信丢进寄信箱让我很安心。",
-    "views": 96,
+    "views": 97,
     "forwards": 2,
     "media_group_id": 13768960404856437,
     "images": [
@@ -56667,7 +56667,7 @@
     "id": 4155,
     "date": "2024-07-16T09:49:41",
     "text": "GPT4 还是 4o 都答错了的问题我的 LoRA 瑞希答对了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i> 不愧是瑞希",
-    "views": 97,
+    "views": 98,
     "forwards": 0,
     "media_group_id": 13768987049704909,
     "images": [
@@ -56742,7 +56742,7 @@
     "id": 4161,
     "date": "2024-07-16T17:42:53",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n和 syama 一起吃深夜烧鸟 quq",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "media_group_id": 13769214187057997,
     "images": [
@@ -56802,20 +56802,20 @@
     "id": 4166,
     "date": "2024-07-17T17:16:04",
     "text": "syama 家有一组两个灯有三个按钮开关，开关 A 打开会让 a 亮，B 会让 b 亮，C 会让 a = !a, b = ! b，也就是说如果 A 和 C 同时开着，只有 b 亮\n\n<span class=\"spoiler\"><span>突然好想把家里的智能开关改造成一个布尔可满足性谜题，每个开关控制三个灯的布尔条件，每组特定的亮灭组合都可以用一种特定的开关组合达成</span></span>",
-    "views": 98,
+    "views": 99,
     "forwards": 0
   },
   {
     "id": 4167,
     "date": "2024-07-17T17:25:15",
     "text": "为什么鱼罐头是鱼做的但是猫罐头不是猫做的 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 95,
+    "views": 96,
     "forwards": 0
   },
   {
     "id": 4168,
     "date": "2024-07-17T21:48:54",
-    "views": 93,
+    "views": 94,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -80850,7 +80850,7 @@
     "id": 5902,
     "date": "2025-07-14T14:53:25",
     "text": "终于把手机 MIUI 上的 Android Auto 修好了！之前一直不能用\n\n首先是卸载掉之前手动装的 Auto，然后安装 Magisk 模块 <a href=\"https://github.com/AndroPlus-org/magisk-module-miui-cn2global\">miui-cn2global</a> (v15) 用来解锁一些谷歌地区锁和 <a href=\"https://github.com/AndroPlus-org/magisk-module-androidauto\">androidauto</a> 模块，重启之后 play 更新 Auto 应用就好啦\n\n以及，因为网易云没有给 Auto 做适配所以之前一直是用 Telegram 做音乐播放器，但是今天发现八年前<a href=\"https://xdaforums.com/t/app-5-1-alpha-anyautoaudio-use-any-audio-app-in-auto.3607916/\">某 XDA 帖子</a>发了一个应用 <a href=\"https://drive.google.com/file/d/10g76cf8f8T14Shb_25DEGSaV88g-rXEK\">Any Auto Audio</a> 可以给任何适配了安卓 API 的音乐软件做 Auto 适配，因为链接已经失效了找了好久才找到，不过装上试试发现居然隔了八年没维护还依然工作！安卓向下兼容真好啊",
-    "views": 208,
+    "views": 209,
     "forwards": 2,
     "media_group_id": 14020038444239989,
     "images": [
@@ -81251,7 +81251,7 @@
     "id": 5925,
     "date": "2025-07-18T17:50:27",
     "text": "自己还是个小孩的一百个迹象：\n\n每次每次每次每次旅行前一天晚上都睡不好，即使吃了平时会让我迷糊一整天的安眠药都没救 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 225,
+    "views": 226,
     "forwards": 0,
     "images": [
       {
@@ -81270,7 +81270,7 @@
     "id": 5927,
     "date": "2025-07-18T18:03:00",
     "text": "通往未来的圣地巡礼",
-    "views": 231,
+    "views": 232,
     "forwards": 1,
     "media_group_id": 14022894242547901,
     "images": [
@@ -81300,7 +81300,7 @@
     "id": 5928,
     "date": "2025-07-19T01:38:48",
     "text": "前几天花了好多时间准备 Android auto，然后今天发现租的车上根本没有支持 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n因为 Times 没车了所以从 2525 上租了一辆 Aqua，我以为肯定是这三四年的吧... 结果租到了一辆 Aqua 2016 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n总里程 137551 km... 真的是我今生第一次见六位数里程的车，这要怎么开 16 小时啊\n\n没有 Android auto，没有自动巡航，甚至连能给手机充电的 USB 口都没有，刹车还会发出奇怪声音。下次再也不在 2525 租车了",
-    "views": 247,
+    "views": 248,
     "forwards": 1,
     "media_group_id": 14023113027725101,
     "images": [
@@ -81335,7 +81335,7 @@
     "id": 5930,
     "date": "2025-07-20T11:59:59",
     "text": "自动对焦太厉害了 <i class=\"custom-emoji\" emoji-src=\"emoji/6318635837244313060.webp\">😡</i>",
-    "views": 217,
+    "views": 218,
     "forwards": 0,
     "images": [
       {
@@ -81354,7 +81354,7 @@
     "id": 5931,
     "date": "2025-07-22T13:39:47",
     "text": "前两天去能登半岛开车的时候，我的天才导航...\n\n：两点之间直线段最短所以当然是直接从树林里飞过去！<i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n：封路了？为什么要绕开重新规划，直接飞过去就行了！<i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>",
-    "views": 202,
+    "views": 203,
     "forwards": 0,
     "media_group_id": 14025532697167117,
     "images": [
@@ -81394,7 +81394,7 @@
     "id": 5934,
     "date": "2025-07-22T15:43:21",
     "text": "设计了一件 T，打算定制出来\n\n只要用 T 恤声明自己 KY 就不怕别人嫌我 KY 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 223,
+    "views": 224,
     "forwards": 3,
     "images": [
       {
@@ -81884,7 +81884,7 @@
     "id": 5973,
     "date": "2025-07-25T11:19:10",
     "text": "因为觉得一加 13 的相机又是圆的又不在中心有点丑，所以设计了一个能够把这个圆形转化为设计元素的星空手机壳 qwq\n\n过几天看看效果怎么样，如果效果好的话说不定这个也可以拿来卖 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 192,
+    "views": 193,
     "forwards": 2,
     "media_group_id": 14027538801505661,
     "images": [
@@ -81924,7 +81924,7 @@
     "id": 5976,
     "date": "2025-07-26T12:27:41",
     "text": "感觉身边每个频道都在发 AOSCC <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 633,
+    "views": 634,
     "forwards": 9
   },
   {
@@ -82438,7 +82438,7 @@
   {
     "id": 6026,
     "date": "2025-07-27T04:41:12",
-    "views": 409,
+    "views": 410,
     "forwards": 7,
     "reply": {
       "id": 5976,
@@ -83010,7 +83010,7 @@
     "id": 6072,
     "date": "2025-07-29T14:58:44",
     "text": "！！！！！！好耶 滑铁卢 MEng 居然给我下 offer 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 252,
+    "views": 253,
     "forwards": 3,
     "images": [
       {
@@ -83029,7 +83029,7 @@
     "id": 6073,
     "date": "2025-07-30T15:49:50",
     "text": "和 tjk 的朋友们打了桌游 Arcs！第一次玩喜提第三 qwq\n\n桌游好玩但是规则好复杂，其实看了一遍规则解说但是实际玩的时候还是好多不懂（x）",
-    "views": 241,
+    "views": 242,
     "forwards": 1,
     "images": [
       {
@@ -83048,14 +83048,14 @@
     "id": 6074,
     "date": "2025-07-31T16:04:35",
     "text": "为什么每次看到自己代码库里超级无敌蠢猫代码想要知道是哪个蠢猫写的进行 git blame 的时候都会 blame 到我自己 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 192,
+    "views": 193,
     "forwards": 2
   },
   {
     "id": 6075,
     "date": "2025-08-01T04:56:48",
     "text": "想要对身边的碳基 AI 进行一些日常的 <a href=\"https://t.me/rynif/37424\">CatAttack</a>，但是猫大部分时间都在睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 169,
+    "views": 170,
     "forwards": 1,
     "images": [
       {
@@ -83074,7 +83074,7 @@
     "id": 6076,
     "date": "2025-08-01T05:49:40",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##也许不要戴上耳机\">#也许不要戴上耳机</a>\n今天选工作 bgm 决定回去听听 Beatles，因为为什么不，然后马上被地雷歌词扳机到 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n音乐很好听，但是歌词... 简直是教科书级别的感情操控\n\n♪ If You Leave Me\n♪ I'll Never Make It Alone <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n♪ Believe me when I beg you\n♪ Don't Ever Leave Me Alone <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n♪ When You Told me\n♪ You Didn't Need Me Any More\n♪ Well You Know I Nearly Broke Down And Died <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n把自己情绪健康的责任转移到别人身上、用自己的痛苦唤起别人的罪恶感和愧疚感、恐吓要求别人留下来...所有禁忌都沾到了\n\n大家记得千万不要对自己喜欢的人这样说话哦 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>（并没有阴阳怪气",
-    "views": 176,
+    "views": 177,
     "forwards": 4,
     "files": [
       {
@@ -83118,7 +83118,7 @@
     "id": 6078,
     "date": "2025-08-01T13:08:37",
     "text": "喜欢日本超市因为总是在创新，每次去超市都会有新的发现\n\n讨厌日本超市也是因为总是在创新，七月喜欢的桃桃布丁八月就下架换成其他的了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 163,
+    "views": 164,
     "forwards": 0,
     "reply": {
       "id": 5802,
@@ -83141,7 +83141,7 @@
     "id": 6079,
     "date": "2025-08-01T15:25:54",
     "text": "平时用的分账单网站 splitwise 今天说达到了免费上限需要订阅 ca$7/mo 会员才能继续添加\n\n因此从 splitwise 迁移到了开源的 spliit，顺便给它赞助一个 ca$7/mo <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n虽然付的都是同样的钱，但是付给开源软件更安心一点 qwq",
-    "views": 182,
+    "views": 184,
     "forwards": 3,
     "images": [
       {
@@ -83160,7 +83160,7 @@
     "id": 6080,
     "date": "2025-08-01T16:13:45",
     "text": "和聊聊试了试玩战锤 40k 桌游，有点被无聊到（x） \n\n之前玩 DnD 的话比较喜欢的是剧情的灵活性，但是这里只有战斗。而且作为战斗桌游也不是很好玩，因为感觉战略性太弱了还是很依赖运气...\n\n不知道剧情向的玩法会不会好一点",
-    "views": 179,
+    "views": 181,
     "forwards": 1,
     "images": [
       {
@@ -83179,7 +83179,7 @@
     "id": 6081,
     "date": "2025-08-02T04:07:28",
     "text": "<a href=\"##梦\">#梦</a> 梦到和朋友们出去玩，我丢三落四，走到一个地方发现书包不见了，回退在路边椅子上找到了\n\n然后走到下一个地方发现手机不见了，找了一圈决定回退，回退的时候发现相机又不见了，一个人回退到回退之前的地方在翻包找手机的桌子上找到了相机。然后想去和回退的朋友们汇合，发现朋友们不见了，天完全黑了而且没有手机也没法联系... <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>\n\n在梦里拍到了好多好看照片，记得有一张长焦拍了日落下一栋全玻璃大楼反射着一栋夕阳照成黄色的传统建筑（可惜还不能从梦中相机导出照片，让 chatgpt 想象一张好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 186,
+    "views": 187,
     "forwards": 0,
     "images": [
       {
@@ -83198,14 +83198,14 @@
     "id": 6082,
     "date": "2025-08-02T09:49:01",
     "text": "想补一些经典但是一直没去看的旧番，海贼王 死亡笔记 钢之炼金术师 Z高达之类的，然后打开搜索引擎看到 >50 集直接被劝退... <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 185,
+    "views": 186,
     "forwards": 1
   },
   {
     "id": 6083,
     "date": "2025-08-02T13:39:30",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n查资料的时候看到这个超级炫酷的音乐 PV，随即去看了 Cencoroll Connect，是一个一小时的动画电影\n\n有点厉害，打斗动画配上 ryo 的音乐超燃，而且在反常的场面里每个人都很从容很日常的样子真的太炫酷了，也正好能够让一个个眼神和表情的小动作表现力爆发\n\n唯一的遗憾是有点短... 这个一小时的 Connect 是 1+2 总集篇，但是 1 和 2 就已经隔了十年 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 第三集制作决定已经发了但是到现在还没消息，要再等十年吗...",
-    "views": 202,
+    "views": 205,
     "forwards": 1,
     "files": [
       {
@@ -83228,14 +83228,14 @@
     "id": 6084,
     "date": "2025-08-02T15:45:14",
     "text": "有人玩 PT 吗？想要交换 PT 邀请 qwq",
-    "views": 209,
+    "views": 210,
     "forwards": 1
   },
   {
     "id": 6085,
     "date": "2025-08-03T07:12:37",
     "text": "收到了<span class=\"spoiler\"><span>时隔两周的</span></span>返图！是兼六园桥上的 Abbey Road <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> \n\n（摄影 credit: 半喵）",
-    "views": 194,
+    "views": 195,
     "forwards": 2,
     "reply": {
       "id": 5949,
@@ -83259,7 +83259,7 @@
     "id": 6086,
     "date": "2025-08-03T09:33:20",
     "text": "Windows 11 更新把 start menu 更新坏了... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 177,
+    "views": 178,
     "forwards": 1,
     "media_group_id": 14033708804361941,
     "images": [
@@ -83289,7 +83289,7 @@
     "id": 6088,
     "date": "2025-08-03T14:35:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n聊聊看我发不喜欢的 Beatles 曲子不开心，那就发一首喜欢的 Beatles 曲子好了 qwq\n\n<em>Now And Then</em> 是 Beatles 的最后一首曲子，是 2023 年把解散之后 1990 年没发布的录音翻出来重新制作的曲子。\n\n虽然 Beatles 也许是历史上对音乐影响最大的乐队，在现在这个信息快速涌入的时代里也很难不被遗忘——即使知道自己会被遗忘，即使知道从前的粉丝们已经 move on，也会希望大家能时不时回来听听自己的曲子，也许这首歌就是这样的心情吧。\n\n♪ Oh, now and then\n♪ I want you to be there for me\n♪ Always to return to me\n♪ I know it's true\n♪ It's all because of you\n♪ And if you go away\n♪ I know you'll never stay",
-    "views": 145,
+    "views": 148,
     "forwards": 0,
     "files": [
       {
@@ -83311,7 +83311,7 @@
     "id": 6089,
     "date": "2025-08-04T00:34:48",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n鱼鱼定食\n\n早饭好便宜，大盛居然只要 ￥650 含税... <del>如果能全天吃早饭就好了</del>",
-    "views": 130,
+    "views": 136,
     "forwards": 1,
     "media_group_id": 14034141510193917,
     "images": [
@@ -83341,7 +83341,7 @@
     "id": 6091,
     "date": "2025-08-04T09:03:12",
     "text": "“5mA”\n“快充”",
-    "views": 90,
+    "views": 110,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
