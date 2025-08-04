@@ -56169,7 +56169,7 @@
     "id": 4117,
     "date": "2024-07-10T16:40:29",
     "text": "最近 AquaDX 和其他服务器经常宕机的原因\n\n相信聊聊已经尽力了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 110,
+    "views": 111,
     "forwards": 2,
     "media_group_id": 13765037034951597,
     "images": [
@@ -56209,7 +56209,7 @@
     "id": 4120,
     "date": "2024-07-11T05:31:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\nAdo 的声线好疯！转粉了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>",
-    "views": 106,
+    "views": 107,
     "forwards": 0,
     "files": [
       {
@@ -56231,7 +56231,7 @@
     "id": 4121,
     "date": "2024-07-11T07:14:30",
     "text": "给 maimai 手台买了一个漫步者 C2X 音响，它自带的功放 EQ 真的有大问题...\n\n拆开功放发现是 TDA7303 EQ + TDA7379 的廉价方案，感觉救不了，重新配了一个 DIY 功放\n\n这次用了两片 TPA3116D2 的方案，一片 50W * 2 给左右双声道，另一片 100W 单声道给低音炮，配了一个 24V 8A 电源，效果真的立竿见影\n\n今天给它画了一个壳子 3D 打印出来了，看起来也还不错呢 qwq",
-    "views": 101,
+    "views": 102,
     "forwards": 1,
     "media_group_id": 13765456567346213,
     "images": [
@@ -56301,7 +56301,7 @@
     "id": 4127,
     "date": "2024-07-11T17:01:07",
     "text": "<a href=\"##出售\">#出售</a> <a href=\"##电子产品\">#电子产品</a> <a href=\"##iPad\">#iPad</a> <a href=\"##苹果\">#苹果</a> <a href=\"##A12X\">#A12X</a> <a href=\"##aarch64\">#aarch64</a> \n联系 Azalea  价格 2333\n便宜出缺陷机 iPad Pro 11\" 256G A12X A2013\n美版 Cellular 4G 插卡支持 eSIM，电池 87%，系统 17.4.1\n\n两周前 ￥2650 从咸鱼上入的，面交被卖家坑了，当面验货的时候觉得很好但是之后发现了好多暗病，因此换了新 M1 iPad Pro。带钢化膜，带定制的 🏳️‍⚧️ PJSK 「25 时」 磁吸壳，买了纸模还没贴需要的话可以一起发过去。\n\n❌ FaceID 不能用\n❌ 左上角非常偶尔会误触（玩游戏如果返回/暂停键在左上角的话可能需要旋转 180°）\n❌ 有美国 JetBlue 的 MDM 锁（可以解，刷机/重置/继承/恢复备份之后需要连电脑解，解锁之后不刷机就和正常机器一样完全分辨不出来... 当时面交应该当面重置的 😭）\n\n总之就是这样，全都是当面验货没找出来藏得很深的小毛病，被闲鱼坑了不想去坑下一家就便宜挂在这里好了。🉑小刀。帮你们查了 GSX 记录，更多详情见评论区",
-    "views": 69,
+    "views": 70,
     "forwards": 0,
     "forwarded_from": {
       "name": "二手🐴"
@@ -56404,7 +56404,7 @@
     "id": 4136,
     "date": "2024-07-12T03:38:53",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n<a href=\"https://t.me/Azuelle\">@Azuelle</a> 从日本带回来的博多纯情らーめん <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i> 好吃诶",
-    "views": 105,
+    "views": 106,
     "forwards": 2,
     "media_group_id": 13766044269129149,
     "images": [
@@ -56454,7 +56454,7 @@
     "id": 4140,
     "date": "2024-07-12T07:47:26",
     "text": "？",
-    "views": 108,
+    "views": 109,
     "forwards": 0,
     "images": [
       {
@@ -56473,13 +56473,13 @@
     "id": 4141,
     "date": "2024-07-12T11:18:33",
     "text": "在想 为什么有酿十年的酒但是没有炖十年的肉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 107,
+    "views": 108,
     "forwards": 0
   },
   {
     "id": 4142,
     "date": "2024-07-12T12:14:00",
-    "views": 110,
+    "views": 111,
     "forwards": 0,
     "media_group_id": 13766291520648917,
     "files": [
@@ -56513,7 +56513,7 @@
     "id": 4144,
     "date": "2024-07-12T12:14:12",
     "text": "第一代模型和第二代模型的对比 qwq\n\n都是 VITS 架构，v1 是从每个角色 200 条 10s 音频的 900 MB 小数据集训练 500 轮出来的，v2 是由全游戏总共 173k 条音频的 30GB 大数据集训练现在刚 50 轮就已经比 v1 好太多了哇\n\n不过大数据集训练好慢... 即使为了防止显存炸掉限制了 10s（因为要把整个音频读进显存里才能训练，最长长度不一致的话很容易 OOM）即使把 batch size 调到 48 用 4090 训练，每轮也要半小时这么久...\n\n新的模型也开放了一个测试网页，欢迎来玩哦 <a href=\"http://sekai-test2.aquadx.net/\">http://sekai-test2.aquadx.net/</a> （之后下线的时候会把这条编辑掉）",
-    "views": 105,
+    "views": 106,
     "forwards": 0,
     "reply": {
       "id": 4142
@@ -56523,7 +56523,7 @@
     "id": 4145,
     "date": "2024-07-12T19:47:31",
     "text": "接上桂桂TTS了.说话有声音了",
-    "views": 112,
+    "views": 113,
     "forwards": 0,
     "forwarded_from": {
       "name": "Own",
@@ -57113,7 +57113,7 @@
     "id": 4188,
     "date": "2024-07-20T19:43:02",
     "text": "是同一个游戏",
-    "views": 92,
+    "views": 93,
     "forwards": 0,
     "images": [
       {
@@ -57132,7 +57132,7 @@
     "id": 4189,
     "date": "2024-07-21T10:35:56",
     "text": "兔兔苹果！",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "media_group_id": 13772465252381349,
     "images": [
@@ -57179,7 +57179,7 @@
     "id": 4193,
     "date": "2024-07-21T14:01:31",
     "text": "楼下新开了一家米线店，原来直接用廉价建材装修成「很老旧装修的气氛」也能很好看 quq",
-    "views": 87,
+    "views": 88,
     "forwards": 0,
     "media_group_id": 13772563932384525,
     "images": [
@@ -64978,7 +64978,7 @@
     "id": 4723,
     "date": "2024-12-07T18:42:15",
     "text": "考试当天告诉我 ttc 地铁停了... 然后看了一眼打车价格，原本可能 $20 不到的路程现在要 $50",
-    "views": 137,
+    "views": 138,
     "forwards": 2,
     "media_group_id": 13868775484602197,
     "images": [
@@ -65137,7 +65137,7 @@
     "id": 4734,
     "date": "2024-12-09T13:16:31",
     "text": "打视频电话的时候把 iPad 放在腿上会发生什么：",
-    "views": 152,
+    "views": 153,
     "forwards": 3,
     "images": [
       {
@@ -65156,7 +65156,7 @@
     "id": 4735,
     "date": "2024-12-09T15:20:41",
     "text": "是不是把系统用户名改成 \"sandbox\" 就可以绕过大部分的病毒 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>",
-    "views": 176,
+    "views": 177,
     "forwards": 1
   },
   {
@@ -65247,7 +65247,7 @@
     "id": 4743,
     "date": "2024-12-11T05:39:52",
     "text": "发现 btrfs 开全局压缩有奇效\n\n压缩前总共用了 2.82TB，开一下 zstd:3 直接省了 1.06TB 出来",
-    "views": 139,
+    "views": 140,
     "forwards": 0,
     "images": [
       {
@@ -65266,14 +65266,14 @@
     "id": 4744,
     "date": "2024-12-11T06:49:45",
     "text": "<a href=\"##ADHD\">#ADHD</a> 三次了，解锁了笔记本想不起来要干什么，然后找到了一些事情做，做了一会觉得好困啊睡觉吧，锁定了电脑然后想起来了啊我是因为风扇很吵想给它睡眠来着，然后<del> goto 「解锁了笔记本想不起来要干什么」</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445059765778521446.tgs\">📦</i>",
-    "views": 131,
+    "views": 132,
     "forwards": 0
   },
   {
     "id": 4745,
     "date": "2024-12-11T16:16:28",
     "text": "看看一个好软件是怎么被毁掉的\n\nWindows 一直没有好用的驱动层按键映射软件，像 AHK 这种用户层映射会因为优先级问题让远程桌面出现卡键 bug、让依赖快捷键转发的东西不工作。如果想要「只让一个特定的键盘设备的 Ctrl 和 ⌘ 交换」的话，也许只有 reWASD 这一个软件可以做到。\n\n三四年前我用 6.0 版本的 reWASD 是为了打蔚蓝多一些组合键，那个时候很好用，花 ￥66 买一个正版。快进到现在 8.0 版本，价格涨到了 ￥250，UI 改得乱七八糟，功能基本没有增加，反而重写了激活和反破解，以前用激活码就可以现在要验证帐号，导致我正版开机自起检查不到帐号崩溃...\n\n唉我就是正版软件的受害者，回去用 7.0 破解版了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>",
-    "views": 126,
+    "views": 127,
     "forwards": 0,
     "media_group_id": 13871470310996093,
     "images": [
@@ -66055,7 +66055,7 @@
     "id": 4795,
     "date": "2024-12-23T22:10:37",
     "text": "doge tool",
-    "views": 141,
+    "views": 142,
     "forwards": 0,
     "images": [
       {
@@ -66074,7 +66074,7 @@
     "id": 4798,
     "date": "2024-12-24T23:51:30",
     "text": "<a href=\"##谜题\">#谜题</a> 进了今月的排行榜",
-    "views": 147,
+    "views": 148,
     "forwards": 0,
     "media_group_id": 13880674321667541,
     "images": [
@@ -66583,14 +66583,14 @@
     "id": 4830,
     "date": "2025-01-03T04:30:44",
     "text": "Google JP 做的 Chrome 的广告 mv 好可爱 quq\n\n草 居然请了匹诺曹P\n\n<a href=\"https://www.youtube.com/watch?v=F50bCrlTbIs\">https://www.youtube.com/watch?v=F50bCrlTbIs</a>",
-    "views": 198,
+    "views": 199,
     "forwards": 3
   },
   {
     "id": 4831,
     "date": "2025-01-03T14:29:20",
     "text": "<a href=\"##梦\">#梦</a> 又是电梯\n\n梦见自己在入住一个旅馆，整个旅馆就是一个大电梯。一楼只有前台和一个超大电梯门，刷一下自己的门卡过一会房间就会移动过来，降落到这个电梯口开门让我进去，然后再上下左右移动回到一个空的格子停车，好奇妙 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n如果真的存在这样的旅店就好了，不过想了想觉得不太可行呢，感觉同时需要上下左右移动支撑重量并且让卫生间工作就很难实现，而且如果要让一个人想要出门的时候不需要移动别人的话也没办法省下空间 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 157,
+    "views": 158,
     "forwards": 0
   },
   {
@@ -66728,7 +66728,7 @@
     "id": 4840,
     "date": "2025-01-05T02:28:49",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n好震撼 <i class=\"custom-emoji\" emoji-src=\"emoji/6323275213672810256.webp\">😀</i> \n\n从快节奏的自责不知所措逐渐失真发狂，又一下子降慢节拍变成浪漫的曲调<span class=\"spoiler\"><span>开始在车后座做爱</span></span>真的震撼",
-    "views": 181,
+    "views": 182,
     "forwards": 3,
     "files": [
       {
@@ -66750,7 +66750,7 @@
     "id": 4841,
     "date": "2025-01-05T11:24:58",
     "text": "国外也有人做了跨服对战，所以我就给 AquaDX 写了选择全国对战池的功能，发现两边社区好不一样... \n\n首先是国内的林国对战需要加闭源的 dll 带反作弊和谱面检查，但是国外的 Yuki 原生客户端就可以连\n\n连上去之后发现原生客户端其实是有等级限制的，比如最低评分的玩家只有 12.0 的话就不能开 Lv10 以上的谱，林国是把这个限制取消了... 所以我每次去林国联机才会被开一些打不动的 Lv15+\n\n玩家群体也很不一样，林国那边基本上每次匹配到人都是评分 16~17 的大佬（像我这样的萌新肯定都被别人开难谱气跑了）。Yuki 那边反而 <14 的人多一点，在群里开语音看到有人用 iPad 做手台，有人用键盘打 Lv8，很喜欢这种聊聊天听听歌的休闲气氛 <i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>\n\n感觉体会到区别之后我不会再回林国那边玩了",
-    "views": 189,
+    "views": 190,
     "forwards": 1,
     "reply": {
       "id": 4813,
@@ -66866,7 +66866,7 @@
     "id": 4849,
     "date": "2025-01-09T05:31:04",
     "text": "为了大手术之后不能动的时候不无聊买了 Quest 3，今天收到了\n\n第一次摸一体的 VR/AR 设备，觉得很厉害，除了玩游戏以外，还可以在独自一人的电影院里看电影、可以接到电脑上变成大显示器、可以在别人做的 3D 场景里面飞来飞去（发现我在 VR 里面不恐高了诶）<i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n不过缺点也很多... 首先是 bug 实在太多了，刚入手第一天遇到的：相机截图没有反馈而且有概率会直接崩溃（今天已经遇到三次了）、设置里点 Meta AI 那个按钮会让设置崩溃、应用商店点进一个应用再点返回会回到主页而不是上一个页面、录像或者投屏的时候视角会每秒闪一下... 您完全不 QA 测试吗 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 稳定性比 Rift 差太多了\n\n其次感觉 AR 还是需要适应一下，用了两三小时 AR 模式现在摘下来看现实中的物体觉得深度都怪怪的 <i class=\"custom-emoji\" emoji-src=\"emoji/6291799077692640677.webm\">🤪</i>",
-    "views": 175,
+    "views": 176,
     "forwards": 2,
     "media_group_id": 13891205318317709,
     "images": [
@@ -70372,14 +70372,14 @@
     "id": 5091,
     "date": "2025-03-28T02:18:25",
     "text": "在想 现实中的树一定是无环的吗？世界这么大总会有一棵树有两根树枝分叉之后长到一起去的吧 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 216,
+    "views": 217,
     "forwards": 1
   },
   {
     "id": 5092,
     "date": "2025-03-28T14:55:53",
     "text": "买了一个酒杯，好好看",
-    "views": 195,
+    "views": 196,
     "forwards": 1,
     "images": [
       {
@@ -70501,7 +70501,7 @@
     "id": 5101,
     "date": "2025-03-29T23:15:07",
     "text": "Girls Band Cry 看完第三集<span class=\"spoiler\"><span>完全爱上 mmk 了！！> < 我完全需要一个能看穿我看穿一切心思的可靠帅气大姐姐啊啊 好羡慕好羡慕 nina</span></span>",
-    "views": 267,
+    "views": 268,
     "forwards": 1,
     "files": [
       {
@@ -70523,7 +70523,7 @@
     "id": 5102,
     "date": "2025-03-30T04:58:48",
     "text": "今天被朋友邀请去看了多伦多大 Allegro 中文合唱团的年度音乐会，好棒好棒！大家都好厉害\n\n之后和他一起去吃了烤串，聊了好多，开心开心 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>\n\n这个朋友是高中的同学，也是当时很好的朋友。记得高中的时候总是和他一起拿学校的 iPad 打音游（当时在玩 Arcaea 和 Cytus 2）还有放学偷偷去学校教堂弹那里的钢琴，好怀念。当时他钢琴弹得超厉害，相比我就只能弹一些安静的简单的曲子 quq\n\n他也是我唯一一个那个时候在现实中认识并且现在还有联系的朋友... 那时候我超社恐 > < 结果现在我不社恐了但是看他还像以前一样社恐<span class=\"spoiler\"><span>，今天邀请我来居然是真的在大学里没交到几个其他朋友 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</span></span></i><span class=\"spoiler\"><span> 太可怜了</span></span>",
-    "views": 291,
+    "views": 292,
     "forwards": 0,
     "files": [
       {
@@ -70658,7 +70658,7 @@
     "id": 5111,
     "date": "2025-04-01T00:40:47",
     "text": "通关了中二节奏「<a href=\"##イロドリミドリ幻想VII\">#イロドリミドリ幻想VII</a> 国际版」愚人节小游戏 qwq\n\n总共花了5分7秒8回合，没想到和 syama 一起四周目就打通了，好玩的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n游玩链接在这里 <a href=\"https://chunithm.sega.jp/irodorimidori/irodorimidori-rpg-2025/\">https://chunithm.sega.jp/irodorimidori/irodorimidori-rpg-2025/</a>",
-    "views": 318,
+    "views": 319,
     "forwards": 0,
     "files": [
       {
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2664,
+    "views": 2665,
     "forwards": 29,
     "images": [
       {
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6089,
+    "views": 6090,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -81394,7 +81394,7 @@
     "id": 5934,
     "date": "2025-07-22T15:43:21",
     "text": "设计了一件 T，打算定制出来\n\n只要用 T 恤声明自己 KY 就不怕别人嫌我 KY 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 222,
+    "views": 223,
     "forwards": 3,
     "images": [
       {
@@ -81413,14 +81413,14 @@
     "id": 5935,
     "date": "2025-07-22T16:39:56",
     "text": "呜呜 手机好像坏掉了\n\n在群里打着字，突然就死机了，屏幕上的任何操作甚至锁屏键都没有用。过一分钟黑屏了，然后试了各种方法都没有反应。试了长按电源键、试了拆开后盖把电池的线拔下来再重新插上再开机，都没法开机... 不知道怎么办了",
-    "views": 206,
+    "views": 207,
     "forwards": 0
   },
   {
     "id": 5936,
     "date": "2025-07-23T13:45:10",
     "text": "感谢マモル借给我 Pixel 5a，终于不用抱着 iPad 到处跑了<i class=\"custom-emoji\" emoji-src=\"emoji/6111506770197219135.webm\">😮</i>",
-    "views": 200,
+    "views": 201,
     "forwards": 0,
     "reply": {
       "id": 5935,
@@ -81431,7 +81431,7 @@
     "id": 5937,
     "date": "2025-07-23T16:03:58",
     "text": "我拍到了双头四翼鸟（？）",
-    "views": 217,
+    "views": 218,
     "forwards": 1,
     "images": [
       {
@@ -81473,7 +81473,7 @@
     "id": 5939,
     "date": "2025-07-24T12:03:51",
     "text": "周末三连休和谦谦和半喵和マモル从东京开车去了金沢和能登半岛！\n\n因为距离远日程排得太满导致大家回家都累累，今天才有力气整理照片 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 下次不排这么满了\n\n这次旅程的第一件事是开车... 和谦谦轮换着开车单程八小时竖跨整个日本，三天下来总共开了 1400km，加了 92.6L 油 <i class=\"custom-emoji\" emoji-src=\"emoji/5444944368597212473.tgs\">🏍</i>\n\n不过还好白天开车风景不错，而且都外大部分路段车也挺少的不太需要被堵车折磨。<del>而且选的这条路测速少可以体验 180kmh 飙车（不）</del>总之并没有很无聊啦\n\n发一些往返拍得比较好看的公路照片 qwq",
-    "views": 156,
+    "views": 157,
     "forwards": 0,
     "media_group_id": 14026869051925621,
     "images": [
@@ -81588,7 +81588,7 @@
     "id": 5949,
     "date": "2025-07-24T12:43:39",
     "text": "第一站是<del>拙政园</del>（兼六園）\n\n刚开了八小时车走进园林马上就放松下来了！\n\n感觉来到这里现在才终于理解「侘び寂び」的美，在这里每个石灯路牌都摆的很随意、没有一条路一条河是直的、没有一根树枝是整齐的（甚至有些树太弯弯曲曲了需要用其他树的尸体来支撑自己的树枝）但是这些不完美这些随机感加起来却正好造就了这个完美的风景... 反而是追求完美规整的过程中得不到的\n<del>\n所以我家里乱其实也是（被打</del>\n\n以及拍到了好看鸟，相机大满足！还有一个 NHK 1933 年在这里建的小电视信号亭子，风格和这个园林好搭",
-    "views": 165,
+    "views": 166,
     "forwards": 1,
     "media_group_id": 14026888154777789,
     "images": [
@@ -81698,7 +81698,7 @@
     "id": 5959,
     "date": "2025-07-24T13:11:18",
     "text": "然后去ひがし茶屋街吃了饭！\n\n夕阳打在建筑上很有下午茶的氛围，可惜这个时候大部分店都关门了...\n\n去了一加看起来不错的日式西餐店，结果感觉中了游客陷阱，虽然好吃但是比其他店的同一道菜贵了一两倍。呜呜，下次还是不在面向游客的地方吃饭了。\n\n以及这家店给我们看起来比较亚洲的人上了茶，却给旁边看起来比较欧美的人上了白水...感觉假设欧美人不喜欢茶好怪，尤其是在茶屋街上啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6170461003130603392.webm\">👊</i>",
-    "views": 156,
+    "views": 157,
     "forwards": 1,
     "media_group_id": 14026901426898781,
     "images": [
@@ -81924,7 +81924,7 @@
     "id": 5976,
     "date": "2025-07-26T12:27:41",
     "text": "感觉身边每个频道都在发 AOSCC <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 631,
+    "views": 633,
     "forwards": 9
   },
   {
@@ -82196,7 +82196,7 @@
     "id": 6005,
     "date": "2025-07-26T19:30:53",
     "text": "然后是更多开车和更多路上的照片 <i class=\"custom-emoji\" emoji-src=\"emoji/5444944368597212473.tgs\">🏍</i>\n\n1. 塌在地上变成了台阶的屋顶\n2. 有趣的废弃房子，停下来看看\n3. 墙壁已经被腐蚀穿了\n4. 政府有在墙上贴已经完成灾害调查，可以领取自然灾害证明的通知\n5. 但是似乎收到通知之前这家已经搬走了...\n6. 在旁边找到了天然新鲜山泉水！我和マモル都喝了一小口，确实是山泉水味\n7. 路过了「世界最长椅子」（确实很长！\n8. 塑料水瓶做的圣诞树\n9. 盐苏打和盐糖果也是这边的特产，尝尝味道有点像更咸的 ramune 莫名好喝\n10. 因为赶时间没坐的巌門游轮",
-    "views": 143,
+    "views": 144,
     "forwards": 0,
     "media_group_id": 14028466026907221,
     "images": [
@@ -82306,7 +82306,7 @@
     "id": 6015,
     "date": "2025-07-26T20:24:35",
     "text": "第二天最后去「花开伊吕波」的圣地参加了湯涌ぼんぼり祭り点灯式，看到了主题曲原唱组合 nano.RIPE 的无料 live！超开心 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n其实之前并没有看过花开伊吕波，反而是因为要去金泽才开始补的，但是我真的马上爱上这部番了，不过等我看完再评价好啦",
-    "views": 158,
+    "views": 159,
     "forwards": 0,
     "media_group_id": 14028491802083293,
     "images": [
@@ -82416,7 +82416,7 @@
     "id": 6025,
     "date": "2025-07-26T20:37:44",
     "text": "试了好多办法都没法把半小时的 Live 以能看的画质压到 100M 以内... 这里还是只发一首歌好啦\n\n完整 Live 在这里：<a href=\"https://youtu.be/M7p9FVgf8Eo\">YouTube</a> / <a href=\"https://public-share.hydev.org/2025-07-27/2025-07-20%20nano.RIPE%20live.cut.mp4\">原片 (av1)</a>\n\n（AV1 编码警告，旧设备没法看的话可以去上面 YouTube）",
-    "views": 193,
+    "views": 194,
     "forwards": 0,
     "files": [
       {
@@ -82953,7 +82953,7 @@
     "id": 6067,
     "date": "2025-07-28T14:48:33",
     "text": "哭哭\n\n因为原本维护前端的风庄在<span class=\"spoiler\"><span>休眠</span></span>，久违地回到 <a href=\"one-among.us\">one-among.us</a> 前端代码库里改点代码。\n\n太久没写了这套代码变得好陌生，翻翻文件重新熟悉一下，翻到风庄留下的天才代码想要和谁吐槽吐槽的时候才真正意识到她真的不在了... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>",
-    "views": 247,
+    "views": 248,
     "forwards": 5
   },
   {
@@ -83010,7 +83010,7 @@
     "id": 6072,
     "date": "2025-07-29T14:58:44",
     "text": "！！！！！！好耶 滑铁卢 MEng 居然给我下 offer 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 250,
+    "views": 252,
     "forwards": 3,
     "images": [
       {
@@ -83029,7 +83029,7 @@
     "id": 6073,
     "date": "2025-07-30T15:49:50",
     "text": "和 tjk 的朋友们打了桌游 Arcs！第一次玩喜提第三 qwq\n\n桌游好玩但是规则好复杂，其实看了一遍规则解说但是实际玩的时候还是好多不懂（x）",
-    "views": 239,
+    "views": 241,
     "forwards": 1,
     "images": [
       {
@@ -83048,14 +83048,14 @@
     "id": 6074,
     "date": "2025-07-31T16:04:35",
     "text": "为什么每次看到自己代码库里超级无敌蠢猫代码想要知道是哪个蠢猫写的进行 git blame 的时候都会 blame 到我自己 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 191,
+    "views": 192,
     "forwards": 2
   },
   {
     "id": 6075,
     "date": "2025-08-01T04:56:48",
     "text": "想要对身边的碳基 AI 进行一些日常的 <a href=\"https://t.me/rynif/37424\">CatAttack</a>，但是猫大部分时间都在睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 168,
+    "views": 169,
     "forwards": 1,
     "images": [
       {
@@ -83074,7 +83074,7 @@
     "id": 6076,
     "date": "2025-08-01T05:49:40",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##也许不要戴上耳机\">#也许不要戴上耳机</a>\n今天选工作 bgm 决定回去听听 Beatles，因为为什么不，然后马上被地雷歌词扳机到 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n音乐很好听，但是歌词... 简直是教科书级别的感情操控\n\n♪ If You Leave Me\n♪ I'll Never Make It Alone <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n♪ Believe me when I beg you\n♪ Don't Ever Leave Me Alone <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n♪ When You Told me\n♪ You Didn't Need Me Any More\n♪ Well You Know I Nearly Broke Down And Died <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n把自己情绪健康的责任转移到别人身上、用自己的痛苦唤起别人的罪恶感和愧疚感、恐吓要求别人留下来...所有禁忌都沾到了\n\n大家记得千万不要对自己喜欢的人这样说话哦 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>（并没有阴阳怪气",
-    "views": 172,
+    "views": 176,
     "forwards": 4,
     "files": [
       {
@@ -83141,7 +83141,7 @@
     "id": 6079,
     "date": "2025-08-01T15:25:54",
     "text": "平时用的分账单网站 splitwise 今天说达到了免费上限需要订阅 ca$7/mo 会员才能继续添加\n\n因此从 splitwise 迁移到了开源的 spliit，顺便给它赞助一个 ca$7/mo <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n虽然付的都是同样的钱，但是付给开源软件更安心一点 qwq",
-    "views": 181,
+    "views": 182,
     "forwards": 3,
     "images": [
       {
@@ -83205,7 +83205,7 @@
     "id": 6083,
     "date": "2025-08-02T13:39:30",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n查资料的时候看到这个超级炫酷的音乐 PV，随即去看了 Cencoroll Connect，是一个一小时的动画电影\n\n有点厉害，打斗动画配上 ryo 的音乐超燃，而且在反常的场面里每个人都很从容很日常的样子真的太炫酷了，也正好能够让一个个眼神和表情的小动作表现力爆发\n\n唯一的遗憾是有点短... 这个一小时的 Connect 是 1+2 总集篇，但是 1 和 2 就已经隔了十年 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 第三集制作决定已经发了但是到现在还没消息，要再等十年吗...",
-    "views": 201,
+    "views": 202,
     "forwards": 1,
     "files": [
       {
@@ -83235,7 +83235,7 @@
     "id": 6085,
     "date": "2025-08-03T07:12:37",
     "text": "收到了<span class=\"spoiler\"><span>时隔两周的</span></span>返图！是兼六园桥上的 Abbey Road <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> \n\n（摄影 credit: 半喵）",
-    "views": 193,
+    "views": 194,
     "forwards": 2,
     "reply": {
       "id": 5949,
@@ -83259,7 +83259,7 @@
     "id": 6086,
     "date": "2025-08-03T09:33:20",
     "text": "Windows 11 更新把 start menu 更新坏了... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 175,
+    "views": 177,
     "forwards": 1,
     "media_group_id": 14033708804361941,
     "images": [
@@ -83289,7 +83289,7 @@
     "id": 6088,
     "date": "2025-08-03T14:35:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n聊聊看我发不喜欢的 Beatles 曲子不开心，那就发一首喜欢的 Beatles 曲子好了 qwq\n\n<em>Now And Then</em> 是 Beatles 的最后一首曲子，是 2023 年把解散之后 1990 年没发布的录音翻出来重新制作的曲子。\n\n虽然 Beatles 也许是历史上对音乐影响最大的乐队，在现在这个信息快速涌入的时代里也很难不被遗忘——即使知道自己会被遗忘，即使知道从前的粉丝们已经 move on，也会希望大家能时不时回来听听自己的曲子，也许这首歌就是这样的心情吧。\n\n♪ Oh, now and then\n♪ I want you to be there for me\n♪ Always to return to me\n♪ I know it's true\n♪ It's all because of you\n♪ And if you go away\n♪ I know you'll never stay",
-    "views": 134,
+    "views": 145,
     "forwards": 0,
     "files": [
       {
@@ -83311,7 +83311,7 @@
     "id": 6089,
     "date": "2025-08-04T00:34:48",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n鱼鱼定食\n\n早饭好便宜，大盛居然只要 ￥650 含税... <del>如果能全天吃早饭就好了</del>",
-    "views": 109,
+    "views": 130,
     "forwards": 1,
     "media_group_id": 14034141510193917,
     "images": [
@@ -83334,6 +83334,29 @@
         "url": "media/6090.jpg",
         "size": 633416,
         "thumb": "media/6090.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6091,
+    "date": "2025-08-04T09:03:12",
+    "text": "“5mA”\n“快充”",
+    "views": 90,
+    "forwards": 1,
+    "forwarded_from": {
+      "name": "Azalea",
+      "url": "https://t.me/hykilpikonna"
+    },
+    "images": [
+      {
+        "width": 1080,
+        "height": 505,
+        "date": "2025-08-04T08:57:56",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-04_08-57-56.jpg",
+        "url": "media/6091.jpg",
+        "size": 70829,
+        "thumb": "media/6091.jpg_thumb.jpg"
       }
     ]
   }
