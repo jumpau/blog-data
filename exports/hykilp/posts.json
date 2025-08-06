@@ -65923,7 +65923,7 @@
     "id": 4787,
     "date": "2024-12-22T02:21:47",
     "text": "几天前和 Syama 打电话的时候她在写公司 VRChat 的项目，和我说不知道怎么写...\n\nVRChat 的语言 Udon# 真的很 <i class=\"custom-emoji\" emoji-src=\"emoji/6327950654941694400.webp\">🤡</i>，是魔改的 C# 但是只保留了非常少的功能，比如不能创建一个 pojo 类、不能有全局变量、不能用内置的数据结构比如 List 只有固定长度的 Array、不能用反射、不能用 lambda 或者传函数、也因此不能用 linq <i class=\"custom-emoji\" emoji-src=\"emoji/6323582802050680516.webp\">🛌</i>\n\n不能定义类的话，那想写一个动画库怎么办呢？想了想决定用扩展函数（给现有的类添加新的函数）来扩展 Dict 在 U# 里面写 Python 🌚\n\n所有数据都存进 Dict 把它当做类用，把类名写进 <code>__type__</code> 里面，所有值都存成 Any，需要访问的时候再动态 cast，<del>和 python 一样完全不检查类型</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445106967469105416.tgs\">☺️</i>\n\n...这样一番折腾之后终于重新实现了 C# 原本就有的东西 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i> 唉 VRChat 罪大恶极",
-    "views": 123,
+    "views": 124,
     "forwards": 0,
     "images": [
       {
@@ -65942,7 +65942,7 @@
     "id": 4788,
     "date": "2024-12-22T03:28:36",
     "text": "发现 Windows 没有 AV1 视频预览的问题装上 <a href=\"https://codecguide.com/download_k-lite_codec_pack_full.htm\">K-Lite Codec Pack</a> 就能解决，很奇妙的是这个软件三天前刚更新过但是网页看起来却像是二十年前的",
-    "views": 131,
+    "views": 132,
     "forwards": 0,
     "images": [
       {
@@ -65961,7 +65961,7 @@
     "id": 4789,
     "date": "2024-12-22T06:37:02",
     "text": "nightcode で",
-    "views": 130,
+    "views": 131,
     "forwards": 0,
     "images": [
       {
@@ -66074,7 +66074,7 @@
     "id": 4798,
     "date": "2024-12-24T23:51:30",
     "text": "<a href=\"##谜题\">#谜题</a> 进了今月的排行榜",
-    "views": 148,
+    "views": 149,
     "forwards": 0,
     "media_group_id": 13880674321667541,
     "images": [
@@ -68839,7 +68839,7 @@
     "id": 4985,
     "date": "2025-03-07T02:19:48",
     "text": "maimai 选歌菜单远处看好像一个脸啊？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 1382,
+    "views": 1383,
     "forwards": 6,
     "media_group_id": 13930511903991437,
     "images": [
@@ -70680,7 +70680,7 @@
   {
     "id": 5112,
     "date": "2025-04-01T15:47:46",
-    "views": 2667,
+    "views": 2668,
     "forwards": 29,
     "images": [
       {
@@ -83010,7 +83010,7 @@
     "id": 6072,
     "date": "2025-07-29T14:58:44",
     "text": "！！！！！！好耶 滑铁卢 MEng 居然给我下 offer 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 263,
+    "views": 264,
     "forwards": 3,
     "images": [
       {
@@ -83029,7 +83029,7 @@
     "id": 6073,
     "date": "2025-07-30T15:49:50",
     "text": "和 tjk 的朋友们打了桌游 Arcs！第一次玩喜提第三 qwq\n\n桌游好玩但是规则好复杂，其实看了一遍规则解说但是实际玩的时候还是好多不懂（x）",
-    "views": 258,
+    "views": 259,
     "forwards": 1,
     "images": [
       {
@@ -83055,7 +83055,7 @@
     "id": 6075,
     "date": "2025-08-01T04:56:48",
     "text": "想要对身边的碳基 AI 进行一些日常的 <a href=\"https://t.me/rynif/37424\">CatAttack</a>，但是猫大部分时间都在睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 177,
+    "views": 178,
     "forwards": 1,
     "images": [
       {
@@ -83074,7 +83074,7 @@
     "id": 6076,
     "date": "2025-08-01T05:49:40",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##也许不要戴上耳机\">#也许不要戴上耳机</a>\n今天选工作 bgm 决定回去听听 Beatles，因为为什么不，然后马上被地雷歌词扳机到 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n音乐很好听，但是歌词... 简直是教科书级别的感情操控\n\n♪ If You Leave Me\n♪ I'll Never Make It Alone <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n♪ Believe me when I beg you\n♪ Don't Ever Leave Me Alone <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n♪ When You Told me\n♪ You Didn't Need Me Any More\n♪ Well You Know I Nearly Broke Down And Died <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n把自己情绪健康的责任转移到别人身上、用自己的痛苦唤起别人的罪恶感和愧疚感、恐吓要求别人留下来...所有禁忌都沾到了\n\n大家记得千万不要对自己喜欢的人这样说话哦 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>（并没有阴阳怪气",
-    "views": 192,
+    "views": 193,
     "forwards": 4,
     "files": [
       {
@@ -83179,7 +83179,7 @@
     "id": 6081,
     "date": "2025-08-02T04:07:28",
     "text": "<a href=\"##梦\">#梦</a> 梦到和朋友们出去玩，我丢三落四，走到一个地方发现书包不见了，回退在路边椅子上找到了\n\n然后走到下一个地方发现手机不见了，找了一圈决定回退，回退的时候发现相机又不见了，一个人回退到回退之前的地方在翻包找手机的桌子上找到了相机。然后想去和回退的朋友们汇合，发现朋友们不见了，天完全黑了而且没有手机也没法联系... <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>\n\n在梦里拍到了好多好看照片，记得有一张长焦拍了日落下一栋全玻璃大楼反射着一栋夕阳照成黄色的传统建筑（可惜还不能从梦中相机导出照片，让 chatgpt 想象一张好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 209,
+    "views": 210,
     "forwards": 0,
     "images": [
       {
@@ -83198,7 +83198,7 @@
     "id": 6082,
     "date": "2025-08-02T09:49:01",
     "text": "想补一些经典但是一直没去看的旧番，海贼王 死亡笔记 钢之炼金术师 Z高达之类的，然后打开搜索引擎看到 >50 集直接被劝退... <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 205,
+    "views": 206,
     "forwards": 1
   },
   {
@@ -83259,7 +83259,7 @@
     "id": 6086,
     "date": "2025-08-03T09:33:20",
     "text": "Windows 11 更新把 start menu 更新坏了... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 236,
+    "views": 238,
     "forwards": 1,
     "media_group_id": 14033708804361941,
     "images": [
@@ -83289,7 +83289,7 @@
     "id": 6088,
     "date": "2025-08-03T14:35:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n聊聊看我发不喜欢的 Beatles 曲子不开心，那就发一首喜欢的 Beatles 曲子好了 qwq\n\n<em>Now And Then</em> 是 Beatles 的最后一首曲子，是 2023 年把解散之后 1990 年没发布的录音翻出来重新制作的曲子。\n\n虽然 Beatles 也许是历史上对音乐影响最大的乐队，在现在这个信息快速涌入的时代里也很难不被遗忘——即使知道自己会被遗忘，即使知道从前的粉丝们已经 move on，也会希望大家能时不时回来听听自己的曲子，也许这首歌就是这样的心情吧。\n\n♪ Oh, now and then\n♪ I want you to be there for me\n♪ Always to return to me\n♪ I know it's true\n♪ It's all because of you\n♪ And if you go away\n♪ I know you'll never stay",
-    "views": 207,
+    "views": 211,
     "forwards": 0,
     "files": [
       {
@@ -83311,7 +83311,7 @@
     "id": 6089,
     "date": "2025-08-04T00:34:48",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n鱼鱼定食\n\n早饭好便宜，大盛居然只要 ￥650 含税... <del>如果能全天吃早饭就好了</del>",
-    "views": 195,
+    "views": 196,
     "forwards": 2,
     "media_group_id": 14034141510193917,
     "images": [
@@ -83341,7 +83341,7 @@
     "id": 6091,
     "date": "2025-08-04T09:03:12",
     "text": "“5mA”\n“快充”",
-    "views": 213,
+    "views": 214,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -83364,7 +83364,7 @@
     "id": 6092,
     "date": "2025-08-04T12:31:45",
     "text": "因为是停产的限定盘，花比原价更高的价格买了二手 qwq\n\n盘面好好看！（因为不舍得拆封，至今买了这么多盘只见过两张盘的盘面 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 167,
+    "views": 168,
     "forwards": 0,
     "media_group_id": 14034485646148837,
     "images": [
@@ -83398,7 +83398,7 @@
     "id": 6094,
     "date": "2025-08-04T15:39:44",
     "text": "：   焊   硒",
-    "views": 175,
+    "views": 176,
     "forwards": 0,
     "images": [
       {
@@ -83417,7 +83417,7 @@
     "id": 6095,
     "date": "2025-08-05T05:23:37",
     "text": "之前还觉得美国在日语里汉字是「米国」这件事很奇怪，现在终于理解为什么了...\n\n日本无论是煮米机还是米都比米国贵 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 165,
+    "views": 166,
     "forwards": 2,
     "media_group_id": 14034971335735757,
     "images": [
@@ -83465,7 +83465,7 @@
     "id": 6098,
     "date": "2025-08-06T11:31:09",
     "text": "\"Unauthorized personnel on track level\"",
-    "views": 126,
+    "views": 130,
     "forwards": 1,
     "media_group_id": 14035838955133589,
     "images": [
@@ -83495,14 +83495,14 @@
     "id": 6100,
     "date": "2025-08-06T15:45:07",
     "text": "> 猫大部分时间都在睡觉\n> 听到 teams 通知声\n「谁凌晨几点给我发 teams，我要起来把它🔇了」\n> 起床打开电脑发现通知声是梦，电脑本来就是🔇的，也没有人给我发 teams\n<i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 103,
+    "views": 108,
     "forwards": 0
   },
   {
     "id": 6101,
     "date": "2025-08-06T17:33:56",
     "text": "今天去优衣库买了两件 UT\n\n原本想买睡衣的，但是看打折 UT 只要 ￥500 甚至比睡衣便宜而且设计还很不错就买 UT 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n虽然并不是很喜欢水星的魔女（除了百合部分当然很喜欢）也并没有看过攻壳机动队",
-    "views": 72,
+    "views": 83,
     "forwards": 0,
     "images": [
       {
@@ -83521,14 +83521,98 @@
     "id": 6102,
     "date": "2025-08-06T18:08:24",
     "text": "Q: 如何让自己不再睡过闹钟\nA: 把所有闹钟都关掉 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 52,
+    "views": 68,
     "forwards": 0
   },
   {
     "id": 6103,
     "date": "2025-08-06T18:12:50",
     "text": "每次旅行出发前一天晚上都睡不着... 平时褪黑素 / 酒 / Lemborexant 任何一样都能让我立刻昏睡，现在全都叠起来也依然睡不着 <i class=\"custom-emoji\" emoji-src=\"emoji/6291657562815205715.webm\">😖</i>",
-    "views": 50,
+    "views": 66,
     "forwards": 0
+  },
+  {
+    "id": 6104,
+    "date": "2025-08-06T20:43:13",
+    "text": "起猛了，所有人都消失了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
+    "views": 31,
+    "forwards": 0,
+    "media_group_id": 14036103945877141,
+    "images": [
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2025-08-06T20:43:09",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-06_20-43-09.jpg",
+        "url": "media/6104.jpg",
+        "size": 1053632,
+        "thumb": "media/6104.jpg_thumb.jpg"
+      },
+      {
+        "width": 1616,
+        "height": 1080,
+        "date": "2025-08-06T20:43:11",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-06_20-43-11.jpg",
+        "url": "media/6105.jpg",
+        "size": 273965,
+        "thumb": "media/6105.jpg_thumb.jpg"
+      },
+      {
+        "width": 1616,
+        "height": 1080,
+        "date": "2025-08-06T20:43:12",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-06_20-43-12.jpg",
+        "url": "media/6106.jpg",
+        "size": 309744,
+        "thumb": "media/6106.jpg_thumb.jpg"
+      },
+      {
+        "width": 1616,
+        "height": 1080,
+        "date": "2025-08-06T20:43:12",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-06_20-43-12.jpg",
+        "url": "media/6107.jpg",
+        "size": 363456,
+        "thumb": "media/6107.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6108,
+    "date": "2025-08-06T22:15:53",
+    "text": "好喜欢这里\n\n可惜并不安静，外面的嘈杂依然能够传进来",
+    "views": 8,
+    "forwards": 0,
+    "forwarded_from": {
+      "name": "Azalea",
+      "url": "https://t.me/hykilpikonna"
+    },
+    "media_group_id": 14036148428911349,
+    "images": [
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2025-08-06T22:14:40",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-06_22-14-40.jpg",
+        "url": "media/6108.jpg",
+        "size": 362794,
+        "thumb": "media/6108.jpg_thumb.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 2560,
+        "date": "2025-08-06T22:14:46",
+        "media_type": "photo",
+        "original_name": "photo_2025-08-06_22-14-46.jpg",
+        "url": "media/6109.jpg",
+        "size": 609040,
+        "thumb": "media/6109.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
