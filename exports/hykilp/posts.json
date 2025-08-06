@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6098,
+    "views": 6099,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -83074,7 +83074,7 @@
     "id": 6076,
     "date": "2025-08-01T05:49:40",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##也许不要戴上耳机\">#也许不要戴上耳机</a>\n今天选工作 bgm 决定回去听听 Beatles，因为为什么不，然后马上被地雷歌词扳机到 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n音乐很好听，但是歌词... 简直是教科书级别的感情操控\n\n♪ If You Leave Me\n♪ I'll Never Make It Alone <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n♪ Believe me when I beg you\n♪ Don't Ever Leave Me Alone <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n♪ When You Told me\n♪ You Didn't Need Me Any More\n♪ Well You Know I Nearly Broke Down And Died <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n把自己情绪健康的责任转移到别人身上、用自己的痛苦唤起别人的罪恶感和愧疚感、恐吓要求别人留下来...所有禁忌都沾到了\n\n大家记得千万不要对自己喜欢的人这样说话哦 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>（并没有阴阳怪气",
-    "views": 186,
+    "views": 187,
     "forwards": 4,
     "files": [
       {
@@ -83205,7 +83205,7 @@
     "id": 6083,
     "date": "2025-08-02T13:39:30",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n查资料的时候看到这个超级炫酷的音乐 PV，随即去看了 Cencoroll Connect，是一个一小时的动画电影\n\n有点厉害，打斗动画配上 ryo 的音乐超燃，而且在反常的场面里每个人都很从容很日常的样子真的太炫酷了，也正好能够让一个个眼神和表情的小动作表现力爆发\n\n唯一的遗憾是有点短... 这个一小时的 Connect 是 1+2 总集篇，但是 1 和 2 就已经隔了十年 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 第三集制作决定已经发了但是到现在还没消息，要再等十年吗...",
-    "views": 219,
+    "views": 220,
     "forwards": 1,
     "files": [
       {
@@ -83311,7 +83311,7 @@
     "id": 6089,
     "date": "2025-08-04T00:34:48",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n鱼鱼定食\n\n早饭好便宜，大盛居然只要 ￥650 含税... <del>如果能全天吃早饭就好了</del>",
-    "views": 186,
+    "views": 187,
     "forwards": 2,
     "media_group_id": 14034141510193917,
     "images": [
@@ -83341,7 +83341,7 @@
     "id": 6091,
     "date": "2025-08-04T09:03:12",
     "text": "“5mA”\n“快充”",
-    "views": 207,
+    "views": 208,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -83364,7 +83364,7 @@
     "id": 6092,
     "date": "2025-08-04T12:31:45",
     "text": "因为是停产的限定盘，花比原价更高的价格买了二手 qwq\n\n盘面好好看！（因为不舍得拆封，至今买了这么多盘只见过两张盘的盘面 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 158,
+    "views": 159,
     "forwards": 0,
     "media_group_id": 14034485646148837,
     "images": [
@@ -83398,7 +83398,7 @@
     "id": 6094,
     "date": "2025-08-04T15:39:44",
     "text": "：   焊   硒",
-    "views": 160,
+    "views": 161,
     "forwards": 0,
     "images": [
       {
@@ -83417,7 +83417,7 @@
     "id": 6095,
     "date": "2025-08-05T05:23:37",
     "text": "之前还觉得美国在日语里汉字是「米国」这件事很奇怪，现在终于理解为什么了...\n\n日本无论是煮米机还是米都比米国贵 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 141,
+    "views": 143,
     "forwards": 1,
     "media_group_id": 14034971335735757,
     "images": [
@@ -83446,7 +83446,7 @@
   {
     "id": 6097,
     "date": "2025-08-05T09:47:24",
-    "views": 113,
+    "views": 115,
     "forwards": 0,
     "images": [
       {
