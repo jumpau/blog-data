@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-08-06T14:15:02.170085+00:00</updated>
+  <updated>2025-08-06T16:17:04.609783+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6100</id>
+    <title>小桂桂的回忆录 📒 #6100</title>
+    <updated>2025-08-06T15:45:07+00:00</updated>
+    <content>&lt;blockquote&gt;
+&lt;p&gt;猫大部分时间都在睡觉
+听到 teams 通知声
+「谁凌晨几点给我发 teams，我要起来把它🔇了」
+起床打开电脑发现通知声是梦，电脑本来就是🔇的，也没有人给我发 teams
+&lt;i class="custom-emoji" emoji-src="emoji/6323556186138346934.webp"&gt;😢&lt;/i&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+    <link href="https://aza.moe/life?post=6100" rel="alternate"/>
+  </entry>
   <entry>
     <id>6098</id>
     <title>小桂桂的回忆录 📒 #6098</title>
