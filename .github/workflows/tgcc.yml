@@ -30,7 +30,7 @@ jobs:
       run: |
         set -xe
         python -VV
-        python -m pip install git+https://github.com/jumpau/TelegramBackup.git
+        python -m pip install git+https://github.com/jumpau/TelegramB.git
         yarn global add puppeteer-lottie-cli
 
     - name: Checkout gh-pages
