@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-08-07T00:18:09.421252+00:00</updated>
+  <updated>2025-08-07T02:55:15.008386+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6111</id>
+    <title>小桂桂的回忆录 📒 #6111</title>
+    <updated>2025-08-07T01:26:39+00:00</updated>
+    <content>&lt;p&gt;新千岁命令行构建指南&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6111" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>6110</id>
+    <title>小桂桂的回忆录 📒 #6110</title>
+    <updated>2025-08-07T01:09:53+00:00</updated>
+    <content>&lt;p&gt;出道了&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6110" rel="alternate"/>
+  </entry>
   <entry>
     <id>6108</id>
     <title>小桂桂的回忆录 📒 #6108</title>
@@ -28,14 +42,6 @@
     <updated>2025-08-06T18:12:50+00:00</updated>
     <content>&lt;p&gt;每次旅行出发前一天晚上都睡不着... 平时褪黑素 / 酒 / Lemborexant 任何一样都能让我立刻昏睡，现在全都叠起来也依然睡不着 &lt;i class="custom-emoji" emoji-src="emoji/6291657562815205715.webm"&gt;😖&lt;/i&gt;&lt;/p&gt;</content>
     <link href="https://aza.moe/life?post=6103" rel="alternate"/>
-  </entry>
-  <entry>
-    <id>6102</id>
-    <title>小桂桂的回忆录 📒 #6102</title>
-    <updated>2025-08-06T18:08:24+00:00</updated>
-    <content>&lt;p&gt;Q: 如何让自己不再睡过闹钟
-A: 把所有闹钟都关掉 &lt;i class="custom-emoji" emoji-src="emoji/6169953432485496291.webm"&gt;😶&lt;/i&gt;&lt;/p&gt;</content>
-    <link href="https://aza.moe/life?post=6102" rel="alternate"/>
   </entry>
   <entry>
     <id>6101</id>
