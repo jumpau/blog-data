@@ -11,10 +11,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - uses: actions/setup-python@v5
-      with:
-        python-version: "3.11"
-        cache: 'pip'
+    - name: Setup Python
+      run: |
+        python3.11 --version || (echo "Python 3.11 not found, installing..." && sudo apt update && sudo apt install -y python3.11 python3.11-venv python3.11-dev python3-pip)
+        python3.11 -m pip install --upgrade pip
   
     - uses: actions/setup-node@v4
       with:
