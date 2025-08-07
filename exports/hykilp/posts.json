@@ -72903,14 +72903,14 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1804,
+    "views": 1805,
     "forwards": 51
   },
   {
     "id": 5278,
     "date": "2025-04-26T16:48:46",
     "text": "溯源一下发现这个漏洞是在 clash-verge-service 代码中出现的，从那个删库的原作者 zzzgydi 2022 年的<a href=\"https://github.com/zzzgydi/clash-verge-service/blob/42b42d47c82469f1a5d37c463dd89aaf41ac911c/src/service/web.rs#L58\">第一个提交</a>开始到现在都一直存在...",
-    "views": 1119,
+    "views": 1120,
     "forwards": 11,
     "reply": {
       "id": 5277,
@@ -72921,7 +72921,7 @@
     "id": 5279,
     "date": "2025-04-27T07:00:09",
     "text": "和 syama 打电话教她读五线谱，她说觉得像在人脑解压 midi <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\n发现自己习惯觉得理所当然的事情在别人眼里也许很难懂... 比如怎样从一个个分数长度的音符中理解每个音符在什么时间开始、或者用前面已经知道的音符定位接下来的音符的音高之类的",
-    "views": 684,
+    "views": 685,
     "forwards": 2,
     "images": [
       {
@@ -73036,7 +73036,7 @@
     "id": 5286,
     "date": "2025-04-28T10:11:40",
     "text": "我让聊聊帮忙把房间里的碗洗了，然后聊聊看到了杯子没有洗，因为觉得杯子不是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n...然后我们争论了好久杯子是不是碗\n\n为了一劳永逸证明杯子是碗，我搓了一个脚本，从 gemma 3 模型里掏出了向量化层，把两个词向量化之后计算余弦相似度。相似度数值越接近 1 词意就越相近\n\n然后计算了「杯子」和「碗」的相似度 = 0.29，「猫」和「动物」的相似度 = 0.16，杯子和碗的词意距离比猫和动物还要更近——如果杯子不是碗，猫就不是动物。但是猫肯定是动物，所以杯子也一定是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5442995162114434162.tgs\">☕</i> 证明结束",
-    "views": 918,
+    "views": 919,
     "forwards": 2,
     "images": [
       {
@@ -73055,7 +73055,7 @@
     "id": 5287,
     "date": "2025-04-28T10:23:37",
     "text": "<span class=\"spoiler\"><span>（是玩笑啦，实际上向量相近只是在语言应用中更相关而已，和“词意”并没有什么实际的关联... 比如「快」和「慢」即使是反义词，相似度却有 0.36 这么高，只是因为很有关联而已 qwq 不过还是挺好玩的hhh）</span></span>",
-    "views": 1157,
+    "views": 1158,
     "forwards": 0,
     "reply": {
       "id": 5286,
@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6103,
+    "views": 6104,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -83289,7 +83289,7 @@
     "id": 6088,
     "date": "2025-08-03T14:35:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n聊聊看我发不喜欢的 Beatles 曲子不开心，那就发一首喜欢的 Beatles 曲子好了 qwq\n\n<em>Now And Then</em> 是 Beatles 的最后一首曲子，是 2023 年把解散之后 1990 年没发布的录音翻出来重新制作的曲子。\n\n虽然 Beatles 也许是历史上对音乐影响最大的乐队，在现在这个信息快速涌入的时代里也很难不被遗忘——即使知道自己会被遗忘，即使知道从前的粉丝们已经 move on，也会希望大家能时不时回来听听自己的曲子，也许这首歌就是这样的心情吧。\n\n♪ Oh, now and then\n♪ I want you to be there for me\n♪ Always to return to me\n♪ I know it's true\n♪ It's all because of you\n♪ And if you go away\n♪ I know you'll never stay",
-    "views": 220,
+    "views": 221,
     "forwards": 0,
     "files": [
       {
@@ -83502,7 +83502,7 @@
     "id": 6101,
     "date": "2025-08-06T17:33:56",
     "text": "今天去优衣库买了两件 UT\n\n原本想买睡衣的，但是看打折 UT 只要 ￥500 甚至比睡衣便宜而且设计还很不错就买 UT 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n虽然并不是很喜欢水星的魔女（除了百合部分当然很喜欢）也并没有看过攻壳机动队",
-    "views": 146,
+    "views": 147,
     "forwards": 0,
     "images": [
       {
@@ -83521,14 +83521,14 @@
     "id": 6103,
     "date": "2025-08-06T18:12:50",
     "text": "每次旅行出发前一天晚上都睡不着... 平时褪黑素 / 酒 / Lemborexant 任何一样都能让我立刻昏睡，现在全都叠起来也依然睡不着 <i class=\"custom-emoji\" emoji-src=\"emoji/6291657562815205715.webm\">😖</i>",
-    "views": 143,
+    "views": 144,
     "forwards": 0
   },
   {
     "id": 6104,
     "date": "2025-08-06T20:43:13",
     "text": "起猛了，所有人都消失了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 138,
+    "views": 140,
     "forwards": 1,
     "media_group_id": 14036103945877141,
     "images": [
@@ -83578,7 +83578,7 @@
     "id": 6108,
     "date": "2025-08-06T22:15:53",
     "text": "好喜欢这里\n\n可惜并不安静，外面的嘈杂依然能够传进来",
-    "views": 130,
+    "views": 132,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -83612,7 +83612,7 @@
     "id": 6110,
     "date": "2025-08-07T01:09:53",
     "text": "出道了",
-    "views": 121,
+    "views": 124,
     "forwards": 0,
     "images": [
       {
@@ -83631,7 +83631,7 @@
     "id": 6111,
     "date": "2025-08-07T01:26:39",
     "text": "新千岁命令行构建指南",
-    "views": 119,
+    "views": 122,
     "forwards": 1,
     "images": [
       {
