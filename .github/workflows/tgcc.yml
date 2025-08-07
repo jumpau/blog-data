@@ -31,7 +31,7 @@ jobs:
       run: |
         set -xe
         python3.11 -VV
-        python3.11 -m pip install --break-system-packages git+https://github.com/jumpau/TelegramB.git
+        python3.11 -m pip install --break-system-packages git+https://github.com/jumpau/TelegramA.git
         yarn global add puppeteer-lottie-cli
 
     - name: Checkout gh-pages
