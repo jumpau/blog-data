@@ -16,7 +16,7 @@ jobs:
       run: |
         python3.11 --version
         python3.11 -m pip install --break-system-packages --upgrade pip
-  
+      
     - uses: actions/setup-node@v4
       with:
         node-version: 18
@@ -31,7 +31,7 @@ jobs:
       run: |
         set -xe
         python -VV
-        python -m pip install git+https://github.com/jumpau/TelegramBackup.git
+        python -m pip install tgc
         yarn global add puppeteer-lottie-cli
 
     - name: Checkout gh-pages
