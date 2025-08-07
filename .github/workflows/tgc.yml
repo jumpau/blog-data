@@ -7,14 +7,15 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
 
     steps:
     - uses: actions/checkout@v4
-    - uses: actions/setup-python@v5
-      with:
-        python-version: "3.11"
-        cache: 'pip'
+    
+    - name: Setup Python
+      run: |
+        python3.11 --version
+        python3.11 -m pip install --break-system-packages --upgrade pip
   
     - uses: actions/setup-node@v4
       with:
