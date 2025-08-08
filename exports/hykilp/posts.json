@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6104,
+    "views": 6105,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -82488,7 +82488,7 @@
     "id": 6027,
     "date": "2025-07-27T06:39:09",
     "text": "第三天早上去能登小岛玻璃工坊体验了制作玻璃风铃 🎐\n\n因为并没有很多人所以也没有排队。大概过程是，首先在超长金属吸管一段插上喷嘴，另一端裹上玻璃，粘上玻璃色料，放进熔炉里加热到软软状态，拿出来一边轻轻吹一边旋转让形状均匀，随着温度下降吹的力度也逐渐更用力。之后为了控制形状让它高度更高，让加热的玻璃贴着打湿了的报纸转，向圆心方向推的力度把玻璃拉长。之后再重复吹两次就大概有形状啦。\n\n这时候为了制造杯口，进行了一次金属管的转移：把另一根金属管裹上一点点玻璃加热粘到底面，然后握住它把杯口连接的地方磨掉（当时看得好害怕以为会很暴力，但是实际上用刀磨一圈然后轻轻敲一下我这根金属管就分开了）最后再加热用镊子把瓶口撑开就完工啦。\n\n看过这么多玻璃艺术馆终于有机会亲手做一次了，超开心！<i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 151,
+    "views": 152,
     "forwards": 1,
     "media_group_id": 14028786797183149,
     "images": [
@@ -82598,7 +82598,7 @@
     "id": 6037,
     "date": "2025-07-27T06:56:38",
     "text": "然后去了旁边的玻璃艺术馆！\n\n...感觉比起展品，这个艺术馆建筑本身才是最耀眼的艺术品，看上去像是某外星文明来访地球搭建的观察基地\n\n这里和其他玻璃展不同的地方在于它更像是传统艺术展，会展出不同人提交获奖的单例作品，而不是像其他玻璃展那样用同一个工坊或者一个人的作品去创造氛围，更多样一些吧。\n\n以及这是我来到日本之后去过的为数不多不禁止拍照的艺术馆，拍了一些喜欢的作品 qwq",
-    "views": 146,
+    "views": 147,
     "forwards": 1,
     "media_group_id": 14028795189465125,
     "images": [
@@ -82708,7 +82708,7 @@
     "id": 6047,
     "date": "2025-07-27T07:07:05",
     "text": "然后开车，路过花开伊吕波圣地西岸駅停下来拍几张照片\n\n看到墙上挂着 nano.RIPE 签名的海报和有点褪色的 kig 团圣地合影，真好呀 quq\n\n是无人车站，旁边的房子似乎已经被常春藤吞噬了，从窗户可以看到房间里面都已经长满了树叶",
-    "views": 143,
+    "views": 144,
     "forwards": 0,
     "media_group_id": 14028800205135693,
     "images": [
@@ -82798,7 +82798,7 @@
     "id": 6055,
     "date": "2025-07-27T07:47:02",
     "text": "然后去了恋路海岸，旺季这么漂亮的沙滩一个人都没有... 旁边是废弃的管理室、褪色的百合海报、網元恋路海鲜旅馆的残骸。原本应该「海の日」前一天晚上举行的恋路火祭り被取消了，现在想想可能即使没有取消也没有很多人会去看吧。\n\n然后去了見附島，見附茶屋废弃了、通往岛上的石子路被海水冲走了、和恋路对应的钟边上地塌了、原本「見附島」三个字的牌子不知道去了哪里、挂在牌子框上象征着永恒的锁也被腐蚀掉了。\n\n見附島还是有几个人的，但是似乎都是本地人。旁边老头老奶奶看着我拿相机说岛上树顶似乎全都是鸟，看不清让我拍一下，拍了放大发现真的每个黑点都是鸟，可能这里的居民里鸟早就比人多了。",
-    "views": 162,
+    "views": 163,
     "forwards": 1,
     "media_group_id": 14028819379618493,
     "images": [
@@ -82908,7 +82908,7 @@
     "id": 6065,
     "date": "2025-07-27T08:06:23",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n让我想到两年前遇到的这首歌，或者这首诗，是在人类消失的世界中一只青猫的自白\n\n♪ もう世界には誰もいない\n♪ でも世界はこんなに美しい\n♪ 人はどこへ行ったのですか\n♪ 私の首に鈴をつけたまま\n♪ 雨乞いの祈りの続きを教えもせずに\n♪ 夜明けに消えた夢の続きを教えもせずに\n\n查了一下，这首歌的作者能登麻美子还真的是在金沢市出生的，但是写这首歌是在地震之前... 原来只是巧合，<span class=\"spoiler\"><span>巧得有点可怕了</span></span>",
-    "views": 227,
+    "views": 228,
     "forwards": 0,
     "files": [
       {
@@ -82930,7 +82930,7 @@
     "id": 6066,
     "date": "2025-07-27T16:47:21",
     "text": "？为什么谷歌地图 street view icon 变成了猫娘",
-    "views": 241,
+    "views": 242,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -82953,14 +82953,14 @@
     "id": 6067,
     "date": "2025-07-28T14:48:33",
     "text": "哭哭\n\n因为原本维护前端的风庄在<span class=\"spoiler\"><span>休眠</span></span>，久违地回到 <a href=\"one-among.us\">one-among.us</a> 前端代码库里改点代码。\n\n太久没写了这套代码变得好陌生，翻翻文件重新熟悉一下，翻到风庄留下的天才代码想要和谁吐槽吐槽的时候才真正意识到她真的不在了... <i class=\"custom-emoji\" emoji-src=\"emoji/6323380753904174863.webp\">😭</i>",
-    "views": 263,
+    "views": 265,
     "forwards": 5
   },
   {
     "id": 6068,
     "date": "2025-07-29T06:30:13",
     "text": "翻翻 one among us 邮箱里收到的不太聪明垃圾邮件",
-    "views": 229,
+    "views": 230,
     "forwards": 1,
     "media_group_id": 14030164905103125,
     "images": [
@@ -83010,7 +83010,7 @@
     "id": 6072,
     "date": "2025-07-29T14:58:44",
     "text": "！！！！！！好耶 滑铁卢 MEng 居然给我下 offer 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 271,
+    "views": 272,
     "forwards": 3,
     "images": [
       {
@@ -83029,7 +83029,7 @@
     "id": 6073,
     "date": "2025-07-30T15:49:50",
     "text": "和 tjk 的朋友们打了桌游 Arcs！第一次玩喜提第三 qwq\n\n桌游好玩但是规则好复杂，其实看了一遍规则解说但是实际玩的时候还是好多不懂（x）",
-    "views": 267,
+    "views": 268,
     "forwards": 1,
     "images": [
       {
@@ -83048,14 +83048,14 @@
     "id": 6074,
     "date": "2025-07-31T16:04:35",
     "text": "为什么每次看到自己代码库里超级无敌蠢猫代码想要知道是哪个蠢猫写的进行 git blame 的时候都会 blame 到我自己 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 219,
+    "views": 220,
     "forwards": 2
   },
   {
     "id": 6075,
     "date": "2025-08-01T04:56:48",
     "text": "想要对身边的碳基 AI 进行一些日常的 <a href=\"https://t.me/rynif/37424\">CatAttack</a>，但是猫大部分时间都在睡觉 <i class=\"custom-emoji\" emoji-src=\"emoji/5445342095453725432.tgs\">😴</i>",
-    "views": 188,
+    "views": 189,
     "forwards": 1,
     "images": [
       {
@@ -83074,7 +83074,7 @@
     "id": 6076,
     "date": "2025-08-01T05:49:40",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a> <a href=\"##也许不要戴上耳机\">#也许不要戴上耳机</a>\n今天选工作 bgm 决定回去听听 Beatles，因为为什么不，然后马上被地雷歌词扳机到 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>\n\n音乐很好听，但是歌词... 简直是教科书级别的感情操控\n\n♪ If You Leave Me\n♪ I'll Never Make It Alone <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n♪ Believe me when I beg you\n♪ Don't Ever Leave Me Alone <i class=\"custom-emoji\" emoji-src=\"emoji/6323343426343404864.webp\">❓</i>\n♪ When You Told me\n♪ You Didn't Need Me Any More\n♪ Well You Know I Nearly Broke Down And Died <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n把自己情绪健康的责任转移到别人身上、用自己的痛苦唤起别人的罪恶感和愧疚感、恐吓要求别人留下来...所有禁忌都沾到了\n\n大家记得千万不要对自己喜欢的人这样说话哦 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>（并没有阴阳怪气",
-    "views": 201,
+    "views": 202,
     "forwards": 4,
     "files": [
       {
@@ -83096,7 +83096,7 @@
     "id": 6077,
     "date": "2025-08-01T11:32:58",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n怀念 CD 技术之前的黑胶专辑，每首歌的结尾都和下一首歌的开头无缝融合在一起\n\n我最喜欢也是最早接触的这种专辑是 Pink Floyd 的 <em>Dark Side of the Moon</em>，比起十首不同的曲子更像是像是一首 40 分钟长的曲子，从一个旋律发展到下一个，是名副其实的 Progressive Rock",
-    "views": 179,
+    "views": 180,
     "forwards": 2,
     "files": [
       {
@@ -83118,7 +83118,7 @@
     "id": 6078,
     "date": "2025-08-01T13:08:37",
     "text": "喜欢日本超市因为总是在创新，每次去超市都会有新的发现\n\n讨厌日本超市也是因为总是在创新，七月喜欢的桃桃布丁八月就下架换成其他的了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 188,
+    "views": 189,
     "forwards": 0,
     "reply": {
       "id": 5802,
@@ -83141,7 +83141,7 @@
     "id": 6079,
     "date": "2025-08-01T15:25:54",
     "text": "平时用的分账单网站 splitwise 今天说达到了免费上限需要订阅 ca$7/mo 会员才能继续添加\n\n因此从 splitwise 迁移到了开源的 spliit，顺便给它赞助一个 ca$7/mo <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n虽然付的都是同样的钱，但是付给开源软件更安心一点 qwq",
-    "views": 218,
+    "views": 219,
     "forwards": 3,
     "images": [
       {
@@ -83179,7 +83179,7 @@
     "id": 6081,
     "date": "2025-08-02T04:07:28",
     "text": "<a href=\"##梦\">#梦</a> 梦到和朋友们出去玩，我丢三落四，走到一个地方发现书包不见了，回退在路边椅子上找到了\n\n然后走到下一个地方发现手机不见了，找了一圈决定回退，回退的时候发现相机又不见了，一个人回退到回退之前的地方在翻包找手机的桌子上找到了相机。然后想去和回退的朋友们汇合，发现朋友们不见了，天完全黑了而且没有手机也没法联系... <i class=\"custom-emoji\" emoji-src=\"emoji/6323396679642907960.webp\">😭</i>\n\n在梦里拍到了好多好看照片，记得有一张长焦拍了日落下一栋全玻璃大楼反射着一栋夕阳照成黄色的传统建筑（可惜还不能从梦中相机导出照片，让 chatgpt 想象一张好了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 220,
+    "views": 221,
     "forwards": 0,
     "images": [
       {
@@ -83198,14 +83198,14 @@
     "id": 6082,
     "date": "2025-08-02T09:49:01",
     "text": "想补一些经典但是一直没去看的旧番，海贼王 死亡笔记 钢之炼金术师 Z高达之类的，然后打开搜索引擎看到 >50 集直接被劝退... <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>",
-    "views": 214,
+    "views": 215,
     "forwards": 1
   },
   {
     "id": 6083,
     "date": "2025-08-02T13:39:30",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n查资料的时候看到这个超级炫酷的音乐 PV，随即去看了 Cencoroll Connect，是一个一小时的动画电影\n\n有点厉害，打斗动画配上 ryo 的音乐超燃，而且在反常的场面里每个人都很从容很日常的样子真的太炫酷了，也正好能够让一个个眼神和表情的小动作表现力爆发\n\n唯一的遗憾是有点短... 这个一小时的 Connect 是 1+2 总集篇，但是 1 和 2 就已经隔了十年 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i> 第三集制作决定已经发了但是到现在还没消息，要再等十年吗...",
-    "views": 240,
+    "views": 241,
     "forwards": 1,
     "files": [
       {
@@ -83228,14 +83228,14 @@
     "id": 6084,
     "date": "2025-08-02T15:45:14",
     "text": "有人玩 PT 吗？想要交换 PT 邀请 qwq",
-    "views": 248,
+    "views": 249,
     "forwards": 1
   },
   {
     "id": 6085,
     "date": "2025-08-03T07:12:37",
     "text": "收到了<span class=\"spoiler\"><span>时隔两周的</span></span>返图！是兼六园桥上的 Abbey Road <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i> \n\n（摄影 credit: 半喵）",
-    "views": 264,
+    "views": 265,
     "forwards": 2,
     "reply": {
       "id": 5949,
@@ -83259,7 +83259,7 @@
     "id": 6086,
     "date": "2025-08-03T09:33:20",
     "text": "Windows 11 更新把 start menu 更新坏了... <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 258,
+    "views": 259,
     "forwards": 1,
     "media_group_id": 14033708804361941,
     "images": [
@@ -83289,7 +83289,7 @@
     "id": 6088,
     "date": "2025-08-03T14:35:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n聊聊看我发不喜欢的 Beatles 曲子不开心，那就发一首喜欢的 Beatles 曲子好了 qwq\n\n<em>Now And Then</em> 是 Beatles 的最后一首曲子，是 2023 年把解散之后 1990 年没发布的录音翻出来重新制作的曲子。\n\n虽然 Beatles 也许是历史上对音乐影响最大的乐队，在现在这个信息快速涌入的时代里也很难不被遗忘——即使知道自己会被遗忘，即使知道从前的粉丝们已经 move on，也会希望大家能时不时回来听听自己的曲子，也许这首歌就是这样的心情吧。\n\n♪ Oh, now and then\n♪ I want you to be there for me\n♪ Always to return to me\n♪ I know it's true\n♪ It's all because of you\n♪ And if you go away\n♪ I know you'll never stay",
-    "views": 226,
+    "views": 227,
     "forwards": 0,
     "files": [
       {
@@ -83311,7 +83311,7 @@
     "id": 6089,
     "date": "2025-08-04T00:34:48",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n鱼鱼定食\n\n早饭好便宜，大盛居然只要 ￥650 含税... <del>如果能全天吃早饭就好了</del>",
-    "views": 214,
+    "views": 215,
     "forwards": 3,
     "media_group_id": 14034141510193917,
     "images": [
@@ -83341,7 +83341,7 @@
     "id": 6091,
     "date": "2025-08-04T09:03:12",
     "text": "“5mA”\n“快充”",
-    "views": 228,
+    "views": 229,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -83364,7 +83364,7 @@
     "id": 6092,
     "date": "2025-08-04T12:31:45",
     "text": "因为是停产的限定盘，花比原价更高的价格买了二手 qwq\n\n盘面好好看！（因为不舍得拆封，至今买了这么多盘只见过两张盘的盘面 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 184,
+    "views": 185,
     "forwards": 0,
     "media_group_id": 14034485646148837,
     "images": [
@@ -83398,7 +83398,7 @@
     "id": 6094,
     "date": "2025-08-04T15:39:44",
     "text": "：   焊   硒",
-    "views": 191,
+    "views": 193,
     "forwards": 0,
     "images": [
       {
