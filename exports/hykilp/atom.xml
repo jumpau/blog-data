@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-08-09T08:15:14.676227+00:00</updated>
+  <updated>2025-08-09T10:14:35.388787+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6119</id>
+    <title>小桂桂的回忆录 📒 #6119</title>
+    <updated>2025-08-09T08:34:44+00:00</updated>
+    <content>&lt;p&gt;怒&lt;/p&gt;
+&lt;p&gt;入住日本旅店，我从踏进旅店就一直在说日语没说过英语，但是前台即使不会英语还尝试和我说英语 &lt;i class="custom-emoji" emoji-src="emoji/6323237375010932266.webp"&gt;😡&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;前台：（想告诉我电梯在哪，挥了挥手指右边，想不起来词的样子）
+前台：…left?
+我：みぎですか? 
+前台：（点头）Yes yes
+&lt;i class="custom-emoji" emoji-src="emoji/6320856404055820121.webp"&gt;😨&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6119" rel="alternate"/>
+  </entry>
   <entry>
     <id>6112</id>
     <title>小桂桂的回忆录 📒 #6112</title>
