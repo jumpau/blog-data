@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5558,
+    "views": 5559,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -80763,7 +80763,7 @@
     "id": 5894,
     "date": "2025-07-13T19:33:56",
     "text": "不知道从什么时候开始谷歌地图不显示评论和照片了\n\n今天查了一下，居然是某种地区锁，双卡手机把设置里的「默认呼叫号码」改成非中国的卡就没问题了...\n\n<del>怕中国人靠发照片评论到处放原神地标吗</del>",
-    "views": 214,
+    "views": 215,
     "forwards": 2
   },
   {
@@ -83141,7 +83141,7 @@
     "id": 6079,
     "date": "2025-08-01T15:25:54",
     "text": "平时用的分账单网站 splitwise 今天说达到了免费上限需要订阅 ca$7/mo 会员才能继续添加\n\n因此从 splitwise 迁移到了开源的 spliit，顺便给它赞助一个 ca$7/mo <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n虽然付的都是同样的钱，但是付给开源软件更安心一点 qwq",
-    "views": 226,
+    "views": 227,
     "forwards": 3,
     "images": [
       {
@@ -83465,7 +83465,7 @@
     "id": 6098,
     "date": "2025-08-06T11:31:09",
     "text": "\"Unauthorized personnel on track level\"",
-    "views": 188,
+    "views": 189,
     "forwards": 1,
     "media_group_id": 14035838955133589,
     "images": [
@@ -83495,14 +83495,14 @@
     "id": 6100,
     "date": "2025-08-06T15:45:07",
     "text": "> 猫大部分时间都在睡觉\n> 听到 teams 通知声\n「谁凌晨几点给我发 teams，我要起来把它🔇了」\n> 起床打开电脑发现通知声是梦，电脑本来就是🔇的，也没有人给我发 teams\n<i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 170,
+    "views": 171,
     "forwards": 0
   },
   {
     "id": 6101,
     "date": "2025-08-06T17:33:56",
     "text": "今天去优衣库买了两件 UT\n\n原本想买睡衣的，但是看打折 UT 只要 ￥500 甚至比睡衣便宜而且设计还很不错就买 UT 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n虽然并不是很喜欢水星的魔女（除了百合部分当然很喜欢）也并没有看过攻壳机动队",
-    "views": 171,
+    "views": 172,
     "forwards": 0,
     "images": [
       {
@@ -83521,14 +83521,14 @@
     "id": 6103,
     "date": "2025-08-06T18:12:50",
     "text": "每次旅行出发前一天晚上都睡不着... 平时褪黑素 / 酒 / Lemborexant 任何一样都能让我立刻昏睡，现在全都叠起来也依然睡不着 <i class=\"custom-emoji\" emoji-src=\"emoji/6291657562815205715.webm\">😖</i>",
-    "views": 170,
+    "views": 171,
     "forwards": 0
   },
   {
     "id": 6104,
     "date": "2025-08-06T20:43:13",
     "text": "起猛了，所有人都消失了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 175,
+    "views": 176,
     "forwards": 1,
     "media_group_id": 14036103945877141,
     "images": [
@@ -83578,7 +83578,7 @@
     "id": 6108,
     "date": "2025-08-06T22:15:53",
     "text": "好喜欢这里\n\n可惜并不安静，外面的嘈杂依然能够传进来",
-    "views": 183,
+    "views": 186,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -83612,7 +83612,7 @@
     "id": 6110,
     "date": "2025-08-07T01:09:53",
     "text": "出道了",
-    "views": 167,
+    "views": 169,
     "forwards": 0,
     "images": [
       {
@@ -83631,7 +83631,7 @@
     "id": 6111,
     "date": "2025-08-07T01:26:39",
     "text": "新千岁命令行构建指南",
-    "views": 177,
+    "views": 179,
     "forwards": 1,
     "images": [
       {
@@ -83650,7 +83650,7 @@
     "id": 6112,
     "date": "2025-08-08T13:46:36",
     "text": "花火大会！\n\n拍照大不会。\n\n拍了 78 张，只有个位数张相机拿稳了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>（禁止在桂桂拍照的时候摇桂桂）\n\n不过大概找到了拍花火的秘诀：快门优先模式，等一个烟花用来自动对焦好之后切手动锁定这个对焦，然后快门调到 2-3s 等看到轨迹的时候按下快门然后不要抖就好啦",
-    "views": 148,
+    "views": 149,
     "forwards": 3,
     "media_group_id": 14037286375648861,
     "images": [
@@ -83730,14 +83730,14 @@
     "id": 6119,
     "date": "2025-08-09T08:34:44",
     "text": "怒\n\n入住日本旅店，我从踏进旅店就一直在说日语没说过英语，但是前台即使不会英语还尝试和我说英语 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n前台：（想告诉我电梯在哪，挥了挥手指右边，想不起来词的样子）\n前台：…left?\n我：みぎですか? \n前台：（点头）Yes yes\n<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 145,
+    "views": 146,
     "forwards": 0
   },
   {
     "id": 6120,
     "date": "2025-08-09T13:38:28",
     "text": "第一眼：...Kitaca is sued by JR Hokkaido... <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 119,
+    "views": 122,
     "forwards": 1,
     "images": [
       {
@@ -83756,7 +83756,7 @@
     "id": 6121,
     "date": "2025-08-10T00:38:58",
     "text": "在北海道甚至能看到东京渋谷的电池增大版 luup 电滑板... 这是怎么开过来的 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 76,
+    "views": 88,
     "forwards": 0,
     "media_group_id": 14038290711445797,
     "images": [
