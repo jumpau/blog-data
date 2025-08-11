@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-08-11T10:14:49.454075+00:00</updated>
+  <updated>2025-08-11T12:17:03.712744+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6133</id>
+    <title>小桂桂的回忆录 📒 #6133</title>
+    <updated>2025-08-11T11:02:51+00:00</updated>
+    <content>&lt;p&gt;昨天开车看到了🦊，今天去动物园反而没看到🦊&lt;/p&gt;
+&lt;p&gt;旭山动物园，天太热了感觉大部分室外动物都在休息室不出来，剩下的动物里大部分都躲在阴凉里睡睡（&lt;del&gt;卡皮巴拉是例外，卡皮巴拉天冷也会躲在阴凉里睡睡&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;不过也值了，拍到了好多好看照片！&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6133" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>6129</id>
+    <title>小桂桂的回忆录 📒 #6129</title>
+    <updated>2025-08-11T10:20:14+00:00</updated>
+    <content>&lt;p&gt;坐上猫猫巴士飞向夕阳 &lt;i class="custom-emoji" emoji-src="emoji/6113861254089017243.webm"&gt;🎈&lt;/i&gt;
+&lt;a href="##北海道"&gt;#北海道&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6129" rel="alternate"/>
+  </entry>
   <entry>
     <id>6128</id>
     <title>小桂桂的回忆录 📒 #6128</title>
