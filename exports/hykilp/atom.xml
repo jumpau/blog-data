@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-08-11T16:15:28.550011+00:00</updated>
+  <updated>2025-08-11T18:16:04.179303+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6143</id>
+    <title>小桂桂的回忆录 📒 #6143</title>
+    <updated>2025-08-11T17:01:30+00:00</updated>
+    <content>&lt;p&gt;呜呜，买了廉航 Jetstar 很晚的航班结果翻车了...&lt;/p&gt;
+&lt;p&gt;延误一小时，直接错过回家的末班电车。我前面的航班甚至直接取消了。&lt;/p&gt;
+&lt;p&gt;不过已经到家啦，感谢 &lt;a href="https://t.me/MamoruIO"&gt;@MamoruIO&lt;/a&gt; 接我回家，得救了 qwq&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6143" rel="alternate"/>
+  </entry>
   <entry>
     <id>6133</id>
     <title>小桂桂的回忆录 📒 #6133</title>
