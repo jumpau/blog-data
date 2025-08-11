@@ -67462,7 +67462,7 @@
     "id": 4889,
     "date": "2025-01-21T23:29:28",
     "text": "（视频转载）\n之前 my sekai 刚出来的时候我说了想做一个动补录自己打中二然后转移到 my sekai 模型上做动画，但是一直没时间开坑，然后现在发现有人做出来了 qwq\n\n<span class=\"spoiler\"><span>感觉人类作为一个分布式计算机有时候真的挺方便的， 把想法说出来过几天就会有别人把它做出来</span></span> <i class=\"custom-emoji\" emoji-src=\"emoji/6170126012861384520.webm\">😴</i>",
-    "views": 257,
+    "views": 258,
     "forwards": 1,
     "files": [
       {
@@ -67633,7 +67633,7 @@
     "id": 4900,
     "date": "2025-01-31T02:29:50",
     "text": "终于可以走路可以洗澡了，正在从一团腐烂肉肉变回小猫 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n因为手术九天没洗澡是不是还打破了某种记录... 太痛苦了，现在真想把洗澡之前用过的头显鼠标键盘手柄全都洗一遍",
-    "views": 214,
+    "views": 215,
     "forwards": 0,
     "reply": {
       "id": 4894,
@@ -67644,21 +67644,21 @@
     "id": 4901,
     "date": "2025-02-01T01:37:55",
     "text": "回到家了！坐五小时火车好折磨 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 191,
+    "views": 192,
     "forwards": 0
   },
   {
     "id": 4902,
     "date": "2025-02-01T15:21:01",
     "text": "聊聊：我们什么时候买的 B50\n我：？？？<i class=\"custom-emoji\" emoji-src=\"emoji/6071188653764250989.webp\">⚠</i>\n聊聊：...维生素\n\n评价是玩舞萌玩的",
-    "views": 183,
+    "views": 184,
     "forwards": 1
   },
   {
     "id": 4903,
     "date": "2025-02-02T16:30:40",
     "text": "前天买回程火车票的时候，发现 Via 的网站设计得真的有点烂\n\n两个人一起买票自动分配座椅会分配到两个不相邻的位置，甚至中间隔着一排... 但是手动选座又要 +$14，怎么办呢？\n\n想到了一个天才的想法，只要开隐私浏览假装自己要占用这些不相邻的座然后下单不付款，下次分配到的就肯定是相邻的了！<i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n试了一下真的成功了，好耶省下 $14 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 202,
+    "views": 203,
     "forwards": 1,
     "media_group_id": 13908110719851517,
     "images": [
@@ -68137,7 +68137,7 @@
     "id": 4934,
     "date": "2025-02-14T18:00:50",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i> sinmai.ipa 绝赞崩坏中",
-    "views": 1440,
+    "views": 1441,
     "forwards": 9,
     "files": [
       {
@@ -72902,14 +72902,14 @@
     "id": 5277,
     "date": "2025-04-26T15:39:57",
     "text": "<a href=\"https://t.me/kxxtchannel/962\">https://t.me/kxxtchannel/962</a>\n\nClash Verge 的提权漏洞好抽象... 有一个本地 http 接口用来启动 clash，但是发请求的人可以指定 clash 程序路径，然后它不检查程序签名也不检查请求来源直接跑，还是用 root 权限跑 <i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>\n\n鉴定为后门",
-    "views": 1806,
+    "views": 1807,
     "forwards": 51
   },
   {
     "id": 5278,
     "date": "2025-04-26T16:48:46",
     "text": "溯源一下发现这个漏洞是在 clash-verge-service 代码中出现的，从那个删库的原作者 zzzgydi 2022 年的<a href=\"https://github.com/zzzgydi/clash-verge-service/blob/42b42d47c82469f1a5d37c463dd89aaf41ac911c/src/service/web.rs#L58\">第一个提交</a>开始到现在都一直存在...",
-    "views": 1120,
+    "views": 1121,
     "forwards": 11,
     "reply": {
       "id": 5277,
@@ -73035,7 +73035,7 @@
     "id": 5286,
     "date": "2025-04-28T10:11:40",
     "text": "我让聊聊帮忙把房间里的碗洗了，然后聊聊看到了杯子没有洗，因为觉得杯子不是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n...然后我们争论了好久杯子是不是碗\n\n为了一劳永逸证明杯子是碗，我搓了一个脚本，从 gemma 3 模型里掏出了向量化层，把两个词向量化之后计算余弦相似度。相似度数值越接近 1 词意就越相近\n\n然后计算了「杯子」和「碗」的相似度 = 0.29，「猫」和「动物」的相似度 = 0.16，杯子和碗的词意距离比猫和动物还要更近——如果杯子不是碗，猫就不是动物。但是猫肯定是动物，所以杯子也一定是碗 <i class=\"custom-emoji\" emoji-src=\"emoji/5442995162114434162.tgs\">☕</i> 证明结束",
-    "views": 920,
+    "views": 921,
     "forwards": 2,
     "images": [
       {
@@ -73919,7 +73919,7 @@
     "id": 5348,
     "date": "2025-05-10T12:25:56",
     "text": "好像买 CD 的时候不小心用了加拿大银行给我的超稀有两千元钞",
-    "views": 307,
+    "views": 308,
     "forwards": 7,
     "forwarded_from": {
       "name": "Azalea",
@@ -81923,7 +81923,7 @@
     "id": 5976,
     "date": "2025-07-26T12:27:41",
     "text": "感觉身边每个频道都在发 AOSCC <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 666,
+    "views": 667,
     "forwards": 9
   },
   {
@@ -83288,7 +83288,7 @@
     "id": 6088,
     "date": "2025-08-03T14:35:32",
     "text": "<a href=\"##戴上耳机\">#戴上耳机</a>\n聊聊看我发不喜欢的 Beatles 曲子不开心，那就发一首喜欢的 Beatles 曲子好了 qwq\n\n<em>Now And Then</em> 是 Beatles 的最后一首曲子，是 2023 年把解散之后 1990 年没发布的录音翻出来重新制作的曲子。\n\n虽然 Beatles 也许是历史上对音乐影响最大的乐队，在现在这个信息快速涌入的时代里也很难不被遗忘——即使知道自己会被遗忘，即使知道从前的粉丝们已经 move on，也会希望大家能时不时回来听听自己的曲子，也许这首歌就是这样的心情吧。\n\n♪ Oh, now and then\n♪ I want you to be there for me\n♪ Always to return to me\n♪ I know it's true\n♪ It's all because of you\n♪ And if you go away\n♪ I know you'll never stay",
-    "views": 236,
+    "views": 237,
     "forwards": 0,
     "files": [
       {
@@ -83310,7 +83310,7 @@
     "id": 6089,
     "date": "2025-08-04T00:34:48",
     "text": "<a href=\"##桂桂今天吃什么\">#桂桂今天吃什么</a>\n鱼鱼定食\n\n早饭好便宜，大盛居然只要 ￥650 含税... <del>如果能全天吃早饭就好了</del>",
-    "views": 223,
+    "views": 224,
     "forwards": 3,
     "media_group_id": 14034141510193917,
     "images": [
@@ -83340,7 +83340,7 @@
     "id": 6091,
     "date": "2025-08-04T09:03:12",
     "text": "“5mA”\n“快充”",
-    "views": 234,
+    "views": 235,
     "forwards": 1,
     "forwarded_from": {
       "name": "Azalea",
@@ -83363,7 +83363,7 @@
     "id": 6092,
     "date": "2025-08-04T12:31:45",
     "text": "因为是停产的限定盘，花比原价更高的价格买了二手 qwq\n\n盘面好好看！（因为不舍得拆封，至今买了这么多盘只见过两张盘的盘面 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 196,
+    "views": 197,
     "forwards": 0,
     "media_group_id": 14034485646148837,
     "images": [
@@ -83416,7 +83416,7 @@
     "id": 6095,
     "date": "2025-08-05T05:23:37",
     "text": "之前还觉得美国在日语里汉字是「米国」这件事很奇怪，现在终于理解为什么了...\n\n日本无论是煮米机还是米都比米国贵 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 203,
+    "views": 204,
     "forwards": 2,
     "media_group_id": 14034971335735757,
     "images": [
@@ -83445,7 +83445,7 @@
   {
     "id": 6097,
     "date": "2025-08-05T09:47:24",
-    "views": 203,
+    "views": 205,
     "forwards": 0,
     "images": [
       {
@@ -83464,7 +83464,7 @@
     "id": 6098,
     "date": "2025-08-06T11:31:09",
     "text": "\"Unauthorized personnel on track level\"",
-    "views": 196,
+    "views": 198,
     "forwards": 1,
     "media_group_id": 14035838955133589,
     "images": [
@@ -83494,14 +83494,14 @@
     "id": 6100,
     "date": "2025-08-06T15:45:07",
     "text": "> 猫大部分时间都在睡觉\n> 听到 teams 通知声\n「谁凌晨几点给我发 teams，我要起来把它🔇了」\n> 起床打开电脑发现通知声是梦，电脑本来就是🔇的，也没有人给我发 teams\n<i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 175,
+    "views": 177,
     "forwards": 0
   },
   {
     "id": 6101,
     "date": "2025-08-06T17:33:56",
     "text": "今天去优衣库买了两件 UT\n\n原本想买睡衣的，但是看打折 UT 只要 ￥500 甚至比睡衣便宜而且设计还很不错就买 UT 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>\n\n虽然并不是很喜欢水星的魔女（除了百合部分当然很喜欢）也并没有看过攻壳机动队",
-    "views": 179,
+    "views": 181,
     "forwards": 0,
     "images": [
       {
@@ -83520,14 +83520,14 @@
     "id": 6103,
     "date": "2025-08-06T18:12:50",
     "text": "每次旅行出发前一天晚上都睡不着... 平时褪黑素 / 酒 / Lemborexant 任何一样都能让我立刻昏睡，现在全都叠起来也依然睡不着 <i class=\"custom-emoji\" emoji-src=\"emoji/6291657562815205715.webm\">😖</i>",
-    "views": 179,
+    "views": 181,
     "forwards": 0
   },
   {
     "id": 6104,
     "date": "2025-08-06T20:43:13",
     "text": "起猛了，所有人都消失了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323315689444607430.webp\">☁️</i>",
-    "views": 182,
+    "views": 184,
     "forwards": 1,
     "media_group_id": 14036103945877141,
     "images": [
@@ -83577,7 +83577,7 @@
     "id": 6108,
     "date": "2025-08-06T22:15:53",
     "text": "好喜欢这里\n\n可惜并不安静，外面的嘈杂依然能够传进来",
-    "views": 203,
+    "views": 205,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -83611,7 +83611,7 @@
     "id": 6110,
     "date": "2025-08-07T01:09:53",
     "text": "出道了",
-    "views": 179,
+    "views": 182,
     "forwards": 0,
     "images": [
       {
@@ -83630,7 +83630,7 @@
     "id": 6111,
     "date": "2025-08-07T01:26:39",
     "text": "新千岁命令行构建指南",
-    "views": 189,
+    "views": 192,
     "forwards": 1,
     "images": [
       {
@@ -83649,7 +83649,7 @@
     "id": 6112,
     "date": "2025-08-08T13:46:36",
     "text": "花火大会！\n\n拍照大不会。\n\n拍了 78 张，只有个位数张相机拿稳了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>（禁止在桂桂拍照的时候摇桂桂）\n\n不过大概找到了拍花火的秘诀：快门优先模式，等一个烟花用来自动对焦好之后切手动锁定这个对焦，然后快门调到 2-3s 等看到轨迹的时候按下快门然后不要抖就好啦",
-    "views": 159,
+    "views": 161,
     "forwards": 3,
     "media_group_id": 14037286375648861,
     "images": [
@@ -83729,14 +83729,14 @@
     "id": 6119,
     "date": "2025-08-09T08:34:44",
     "text": "怒\n\n入住日本旅店，我从踏进旅店就一直在说日语没说过英语，但是前台即使不会英语还尝试和我说英语 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n前台：（想告诉我电梯在哪，挥了挥手指右边，想不起来词的样子）\n前台：…left?\n我：みぎですか? \n前台：（点头）Yes yes\n<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 165,
+    "views": 167,
     "forwards": 0
   },
   {
     "id": 6120,
     "date": "2025-08-09T13:38:28",
     "text": "第一眼：...Kitaca is sued by JR Hokkaido... <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 156,
+    "views": 158,
     "forwards": 1,
     "images": [
       {
@@ -83755,7 +83755,7 @@
     "id": 6121,
     "date": "2025-08-10T00:38:58",
     "text": "在北海道甚至能看到东京渋谷的电池增大版 luup 电滑板... 这是怎么开过来的 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 144,
+    "views": 146,
     "forwards": 0,
     "media_group_id": 14038290711445797,
     "images": [
@@ -83805,7 +83805,7 @@
     "id": 6125,
     "date": "2025-08-10T13:10:27",
     "text": "小狐狸！\n\n我：哇有小狐狸（一脚急刹车从 90 刹到 0）\n🦊：（躲进🌱里）\n我：盯——\n🦊：👀\n我：盯——\n🦊：👀\n我：盯——\n🦊：（钻出来，用头点点地板）\n好可爱 我死了\n\n可惜感觉在车道上喂小狐狸不太好，要是小狐狸觉得车车能给它食物到路上送死就不好了。",
-    "views": 137,
+    "views": 141,
     "forwards": 2,
     "media_group_id": 14038651420384293,
     "images": [
@@ -83845,7 +83845,7 @@
     "id": 6128,
     "date": "2025-08-10T13:42:43",
     "text": "暴カ団 <i class=\"custom-emoji\" emoji-src=\"emoji/6323059984271672911.webp\">😃</i>\n\n暴カ団子大家族 🍡",
-    "views": 106,
+    "views": 111,
     "forwards": 0,
     "images": [
       {
