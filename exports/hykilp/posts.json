@@ -45115,8 +45115,7 @@
         "media_type": "sticker",
         "original_name": "sticker.webm",
         "url": "media/3328.webm",
-        "size": 39480,
-        "thumb": "media/3328.webm_thumb.jpg"
+        "size": 39480
       }
     ]
   },
@@ -72136,7 +72135,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5560,
+    "views": 5561,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -82438,7 +82437,7 @@
   {
     "id": 6026,
     "date": "2025-07-27T04:41:12",
-    "views": 431,
+    "views": 432,
     "forwards": 7,
     "reply": {
       "id": 5976,
@@ -83578,7 +83577,7 @@
     "id": 6108,
     "date": "2025-08-06T22:15:53",
     "text": "好喜欢这里\n\n可惜并不安静，外面的嘈杂依然能够传进来",
-    "views": 201,
+    "views": 202,
     "forwards": 0,
     "forwarded_from": {
       "name": "Azalea",
@@ -83612,7 +83611,7 @@
     "id": 6110,
     "date": "2025-08-07T01:09:53",
     "text": "出道了",
-    "views": 178,
+    "views": 179,
     "forwards": 0,
     "images": [
       {
@@ -83631,7 +83630,7 @@
     "id": 6111,
     "date": "2025-08-07T01:26:39",
     "text": "新千岁命令行构建指南",
-    "views": 188,
+    "views": 189,
     "forwards": 1,
     "images": [
       {
@@ -83730,14 +83729,14 @@
     "id": 6119,
     "date": "2025-08-09T08:34:44",
     "text": "怒\n\n入住日本旅店，我从踏进旅店就一直在说日语没说过英语，但是前台即使不会英语还尝试和我说英语 <i class=\"custom-emoji\" emoji-src=\"emoji/6323237375010932266.webp\">😡</i>\n\n前台：（想告诉我电梯在哪，挥了挥手指右边，想不起来词的样子）\n前台：…left?\n我：みぎですか? \n前台：（点头）Yes yes\n<i class=\"custom-emoji\" emoji-src=\"emoji/6320856404055820121.webp\">😨</i>",
-    "views": 164,
+    "views": 165,
     "forwards": 0
   },
   {
     "id": 6120,
     "date": "2025-08-09T13:38:28",
     "text": "第一眼：...Kitaca is sued by JR Hokkaido... <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 152,
+    "views": 153,
     "forwards": 1,
     "images": [
       {
@@ -83756,7 +83755,7 @@
     "id": 6121,
     "date": "2025-08-10T00:38:58",
     "text": "在北海道甚至能看到东京渋谷的电池增大版 luup 电滑板... 这是怎么开过来的 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>",
-    "views": 136,
+    "views": 139,
     "forwards": 0,
     "media_group_id": 14038290711445797,
     "images": [
@@ -83806,7 +83805,7 @@
     "id": 6125,
     "date": "2025-08-10T13:10:27",
     "text": "小狐狸！\n\n我：哇有小狐狸（一脚急刹车从 90 刹到 0）\n🦊：（躲进🌱里）\n我：盯——\n🦊：👀\n我：盯——\n🦊：👀\n我：盯——\n🦊：（钻出来，用头点点地板）\n好可爱 我死了\n\n可惜感觉在车道上喂小狐狸不太好，要是小狐狸觉得车车能给它食物到路上送死就不好了。",
-    "views": 125,
+    "views": 132,
     "forwards": 2,
     "media_group_id": 14038651420384293,
     "images": [
@@ -83846,7 +83845,7 @@
     "id": 6128,
     "date": "2025-08-10T13:42:43",
     "text": "暴カ団 <i class=\"custom-emoji\" emoji-src=\"emoji/6323059984271672911.webp\">😃</i>\n\n暴カ団子大家族 🍡",
-    "views": 93,
+    "views": 100,
     "forwards": 0,
     "images": [
       {
