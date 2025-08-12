@@ -47331,7 +47331,7 @@
     "id": 3472,
     "date": "2024-03-12T07:01:18",
     "text": "给自己剪一个姬 cut",
-    "views": 119,
+    "views": 120,
     "forwards": 2,
     "forwarded_from": {
       "name": "Azalea",
@@ -47354,7 +47354,7 @@
     "id": 3473,
     "date": "2024-03-12T16:02:09",
     "text": "办韩国签证，因为发 paper 用的名字 \"Azalea\" 不是 legal name 被拒了 <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 112,
+    "views": 113,
     "forwards": 0,
     "reply": {
       "id": 3462,
@@ -47365,7 +47365,7 @@
     "id": 3474,
     "date": "2024-03-13T05:21:37",
     "text": "完 发现短头发扎不上不会洗脸了 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>",
-    "views": 99,
+    "views": 100,
     "forwards": 0,
     "reply": {
       "id": 3472,
@@ -47477,7 +47477,7 @@
     "id": 3481,
     "date": "2024-03-15T08:04:20",
     "text": "剪掉了几根枝试试水培起根，希望能长出来 quq",
-    "views": 116,
+    "views": 117,
     "forwards": 0,
     "media_group_id": 13683918880370149,
     "images": [
@@ -47511,7 +47511,7 @@
     "id": 3483,
     "date": "2024-03-15T08:21:45",
     "text": "聊聊：水培真的没问题嘛？\n我：似乎没有植物激素就推荐水培\n聊聊：激素？它吃雌二醇还是睾酮 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>\n\n猪：它吃骨粉 <i class=\"custom-emoji\" emoji-src=\"emoji/6323321925737121667.webp\">🤪</i>",
-    "views": 107,
+    "views": 108,
     "forwards": 1,
     "reply": {
       "id": 3481,
@@ -47523,7 +47523,7 @@
     "id": 3484,
     "date": "2024-03-15T23:20:32",
     "text": "用长焦坏掉的手机拍一些延时摄影",
-    "views": 109,
+    "views": 110,
     "forwards": 0,
     "images": [
       {
@@ -47542,7 +47542,7 @@
     "id": 3485,
     "date": "2024-03-16T16:15:57",
     "text": "之前看大统华火锅清汤底半价就买了一些，今天用火锅汤底做了汤面 <i class=\"custom-emoji\" emoji-src=\"emoji/6323564771777972671.webp\">🤤</i>",
-    "views": 102,
+    "views": 103,
     "forwards": 0,
     "images": [
       {
@@ -47638,7 +47638,7 @@
     "id": 3492,
     "date": "2024-03-19T01:51:11",
     "text": "重新定义 vegetable",
-    "views": 94,
+    "views": 95,
     "forwards": 0,
     "images": [
       {
@@ -47657,7 +47657,7 @@
     "id": 3493,
     "date": "2024-03-19T16:56:42",
     "text": "？？？ 下雪了！",
-    "views": 83,
+    "views": 84,
     "forwards": 0,
     "images": [
       {
@@ -67780,7 +67780,7 @@
     "id": 4910,
     "date": "2025-02-06T14:01:31",
     "text": "哈哈哈哈哈哈 500 Internal Server Error\n\n<del>果然黑客不会写全栈的 stereotype 是真的</del>",
-    "views": 170,
+    "views": 171,
     "forwards": 0,
     "images": [
       {
@@ -67799,7 +67799,7 @@
     "id": 4911,
     "date": "2025-02-07T05:04:32",
     "text": "头显镜片湿了，都怪 MyGO!!!!!\n\n前几天看了几集 MyGO，前两集能看出主唱高松灯设定上是一个自闭光谱女孩... 看到第三集我直接看哭了\n\n第三集是高松灯的个人回，从开始到结束完全是灯的第一人称视角。从小时候喜欢搜集石头，意识到自己的不同、在日记本中写下「好想成为人类」开始，到被祥子撞到、看到像歌词一样的日记之后邀请一起组乐队，再到从记录下来的回忆中创造出的第一首歌《春日影》一切心情都好 relatable\n\n祥子的执着和同情把灯从她一个人的漂游气泡中拉回来了，日记本里充满情感又乱成一团的思绪也化作歌词找到了用处... 真好啊真好啊，好羡慕有被发现被同情被邀请的机会",
-    "views": 187,
+    "views": 189,
     "forwards": 1,
     "media_group_id": 13911237381564965,
     "images": [
@@ -67829,7 +67829,7 @@
     "id": 4913,
     "date": "2025-02-08T20:02:07",
     "text": "标准结局...\n\n今天打开浏览器告诉我又有一个我装过的插件因为有病毒被下架了，是一个特定平台的视频下载插件\n\n去看了看混淆源码，看到它会在访问任意 URL 之前进行 CSP bypass，并且会每 360 分钟从远程拉配置的样子... 配置里看起来人畜无害，似乎只有视频站的 URL 和默认分辨率，但是可能这已经是 payload 被删掉之后的样子了，毕竟是服务器控制的",
-    "views": 168,
+    "views": 170,
     "forwards": 0,
     "media_group_id": 13912359420583381,
     "images": [
@@ -67873,7 +67873,7 @@
     "id": 4917,
     "date": "2025-02-09T04:21:38",
     "text": "好喵",
-    "views": 184,
+    "views": 186,
     "forwards": 0,
     "images": [
       {
@@ -67892,7 +67892,7 @@
     "id": 4918,
     "date": "2025-02-09T11:46:53",
     "text": "五天之后还是会因为想到恐怖画面睡不着... <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>",
-    "views": 182,
+    "views": 184,
     "forwards": 0,
     "reply": {
       "id": 4907,
@@ -67903,7 +67903,7 @@
     "id": 4919,
     "date": "2025-02-10T00:58:42",
     "text": "不愉快です\n\n戴上 VR 头显想工作一会，结果盯着屏幕五个小时，原本想做的要做的打开之后都没有心情做... 勉强去修好了一个 bug\n\n然后看 AquaDX 群里朋友在玩俄罗斯方块，决定不尝试做事情了还是去和朋友一起玩 qwq",
-    "views": 181,
+    "views": 183,
     "forwards": 0,
     "images": [
       {
@@ -67922,7 +67922,7 @@
     "id": 4920,
     "date": "2025-02-10T02:17:29",
     "text": "哇 和学校开俄罗斯方块社团的朋友聊天说了一下，然后他告诉我他们正在打比赛 <i class=\"custom-emoji\" emoji-src=\"emoji/6170139473288890346.webm\">🤩</i>\n\n然后就去看了，是 ubc 电竞社组织的比赛，uoft 在打 sfu，他打得好厉害 quq\n\n我刚入坑 tetrio 的时候同学正好在比赛什么的真的好巧",
-    "views": 206,
+    "views": 207,
     "forwards": 0,
     "reply": {
       "id": 4919,
@@ -67945,7 +67945,7 @@
     "id": 4921,
     "date": "2025-02-10T10:43:16",
     "text": "发现 emoji / sticker 也不是很跨语言通用，有些文字梗还是会丢失在翻译中...\n\n比如一些表情包里会有螃蟹 <i class=\"custom-emoji\" emoji-src=\"emoji/5233220730220461818.webp\">🎃</i><i class=\"custom-emoji\" emoji-src=\"emoji/6170432338518869955.webm\">🦀</i> 因为在中文日文里都是很常用的表达。中文人会理解为「谢谢」，日文人会理解为「たしかに / 确实」，而其他语言的人可能就觉得是一个物理螃蟹，<del>以及 rust 人可能会理解为 \"rust\"</del>",
-    "views": 312,
+    "views": 313,
     "forwards": 3,
     "images": [
       {
@@ -67964,14 +67964,14 @@
     "id": 4922,
     "date": "2025-02-10T19:56:36",
     "text": "真的觉得开源社区有时候有点过分了，总是有人认为维护者的贡献都是理所应当...\n\n仔细想想，在开源社区里做项目这么久之后，我也会这样对待自己了——会因为别人遇到的 bug 自责，会觉得我有责任需要给别人解决问题，然后把自己累坏 <i class=\"custom-emoji\" emoji-src=\"emoji/6169953432485496291.webm\">😶</i>\n\n也许这就是为什么我只喜欢做，不喜欢发布项目也不喜欢长期维护一个项目吧，因为从发布的那一刻起，我的代办就会被别人的问题和功能请求塞满，不能只顾及自己的想法了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170358057059485759.webm\">😪</i>\n\n<span class=\"spoiler\"><span>也许需要一些 care free 的维护理念、需要对别人说「想要的话去自己研究自己改代码」的勇气，也许这样才能把所有的时间分给自己的想法</span></span>",
-    "views": 245,
+    "views": 246,
     "forwards": 1
   },
   {
     "id": 4923,
     "date": "2025-02-11T05:49:19",
     "text": "做了几个不同的版本，现在可以无歧义地发螃蟹🦀表情了！",
-    "views": 1309,
+    "views": 1310,
     "forwards": 10,
     "reply": {
       "id": 4921,
@@ -67993,7 +67993,7 @@
   {
     "id": 4925,
     "date": "2025-02-11T05:59:32",
-    "views": 1106,
+    "views": 1107,
     "forwards": 7,
     "files": [
       {
@@ -68018,14 +68018,14 @@
     "id": 4926,
     "date": "2025-02-11T12:08:52",
     "text": "syama: \"cappie\" 是儿化音英语吗 <i class=\"custom-emoji\" emoji-src=\"emoji/5445226814236533679.tgs\">🧐</i>",
-    "views": 218,
+    "views": 219,
     "forwards": 0
   },
   {
     "id": 4927,
     "date": "2025-02-12T05:58:10",
     "text": "看 AquaDX 群里朋友在玩中二我也忍不住去联机打了两个币，打出了两个 AJ 哇，二十天没玩没有退步太好了 qwq\n\n...然后我的币又开始流血 呜呜 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>\n\nsyama: 打游戏掉血（物理）🌚",
-    "views": 197,
+    "views": 198,
     "forwards": 0,
     "media_group_id": 13914719125796637,
     "images": [
@@ -68076,7 +68076,7 @@
     "id": 4931,
     "date": "2025-02-13T04:54:57",
     "text": "please? <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 200,
+    "views": 201,
     "forwards": 3,
     "images": [
       {
@@ -68095,7 +68095,7 @@
     "id": 4932,
     "date": "2025-02-13T07:00:30",
     "text": "呜呜 差点被钓鱼了\n\n想要登录 Google Slides，搜索之后点了我觉得是官方网页的第三个结果，也是 <code>google.com</code> 域名... 点进去才发现不对怎么这么丑啊 <i class=\"custom-emoji\" emoji-src=\"emoji/6323397499981661640.webp\">😨</i>\n\n拖大窗口仔细看才发现是 Google Sites... 任何人都可以创建自己的网页发布到 <code>sites.google.com</code> 的路径下，所以虽然是谷歌官方的域名，这个网页其实是第三方的 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i> 发到群里甚至某谷歌员工第一眼都没看出什么不对\n\n仔细看了一下，还好这个页面上的登录链接是谷歌官方的，作者并没有钓谷歌账号，只钓走了广告费... <i class=\"custom-emoji\" emoji-src=\"emoji/6323556186138346934.webp\">😢</i>",
-    "views": 238,
+    "views": 239,
     "forwards": 2,
     "images": [
       {
@@ -68113,7 +68113,7 @@
   {
     "id": 4933,
     "date": "2025-02-14T07:43:52",
-    "views": 229,
+    "views": 230,
     "forwards": 0,
     "files": [
       {
@@ -68138,7 +68138,7 @@
     "id": 4934,
     "date": "2025-02-14T18:00:50",
     "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/6129926368806307865.webp\">🐻‍❄️</i> sinmai.ipa 绝赞崩坏中",
-    "views": 1442,
+    "views": 1443,
     "forwards": 9,
     "files": [
       {
@@ -68159,7 +68159,7 @@
   {
     "id": 4935,
     "date": "2025-02-14T21:16:56",
-    "views": 231,
+    "views": 232,
     "forwards": 0,
     "images": [
       {
@@ -68178,7 +68178,7 @@
     "id": 4936,
     "date": "2025-02-15T04:46:21",
     "text": "买了一个新域名 <a href=\"https://maigo.dev/\">maigo.dev</a> ，开了一个新的 GitHub Org，打算把今后和朋友一起做的新项目放在这里 qwq\n\n<span class=\"spoiler\"><span>（实际上是因为最近发生了一些很心痛的矛盾导致 AquaDX 现在的开发团队大概要散了，服务器也要拆分开了... 所以建起 MaigoLabs 大概是想建一个和新的朋友、以及被矛盾伤害到和现在的团队不兼容的朋友重新开始的地方吧，就像动画里的 MyGO 乐队那样 </span></span><span class=\"spoiler\"><span><i class=\"custom-emoji\" emoji-src=\"emoji/6170248621292783564.webm\">😢</span></span></i>",
-    "views": 217,
+    "views": 218,
     "forwards": 0
   },
   {
@@ -83141,7 +83141,7 @@
     "id": 6079,
     "date": "2025-08-01T15:25:54",
     "text": "平时用的分账单网站 splitwise 今天说达到了免费上限需要订阅 ca$7/mo 会员才能继续添加\n\n因此从 splitwise 迁移到了开源的 spliit，顺便给它赞助一个 ca$7/mo <i class=\"custom-emoji\" emoji-src=\"emoji/6111607409870898919.webm\">👍</i>\n\n虽然付的都是同样的钱，但是付给开源软件更安心一点 qwq",
-    "views": 247,
+    "views": 250,
     "forwards": 3,
     "images": [
       {
@@ -83364,7 +83364,7 @@
     "id": 6092,
     "date": "2025-08-04T12:31:45",
     "text": "因为是停产的限定盘，花比原价更高的价格买了二手 qwq\n\n盘面好好看！（因为不舍得拆封，至今买了这么多盘只见过两张盘的盘面 <i class=\"custom-emoji\" emoji-src=\"emoji/6323267916523374069.webp\">🥺</i>",
-    "views": 202,
+    "views": 203,
     "forwards": 0,
     "media_group_id": 14034485646148837,
     "images": [
@@ -83398,7 +83398,7 @@
     "id": 6094,
     "date": "2025-08-04T15:39:44",
     "text": "：   焊   硒",
-    "views": 219,
+    "views": 220,
     "forwards": 0,
     "images": [
       {
@@ -83417,7 +83417,7 @@
     "id": 6095,
     "date": "2025-08-05T05:23:37",
     "text": "之前还觉得美国在日语里汉字是「米国」这件事很奇怪，现在终于理解为什么了...\n\n日本无论是煮米机还是米都比米国贵 <i class=\"custom-emoji\" emoji-src=\"emoji/5327839194758783219.webm\">🔥</i>",
-    "views": 214,
+    "views": 215,
     "forwards": 2,
     "media_group_id": 14034971335735757,
     "images": [
@@ -83446,7 +83446,7 @@
   {
     "id": 6097,
     "date": "2025-08-05T09:47:24",
-    "views": 215,
+    "views": 216,
     "forwards": 0,
     "images": [
       {
@@ -83465,7 +83465,7 @@
     "id": 6098,
     "date": "2025-08-06T11:31:09",
     "text": "\"Unauthorized personnel on track level\"",
-    "views": 210,
+    "views": 211,
     "forwards": 1,
     "media_group_id": 14035838955133589,
     "images": [
@@ -83806,7 +83806,7 @@
     "id": 6125,
     "date": "2025-08-10T13:10:27",
     "text": "小狐狸！\n\n我：哇有小狐狸（一脚急刹车从 90 刹到 0）\n🦊：（躲进🌱里）\n我：盯——\n🦊：👀\n我：盯——\n🦊：👀\n我：盯——\n🦊：（钻出来，用头点点地板）\n好可爱 我死了\n\n可惜感觉在车道上喂小狐狸不太好，要是小狐狸觉得车车能给它食物到路上送死就不好了。",
-    "views": 178,
+    "views": 179,
     "forwards": 2,
     "media_group_id": 14038651420384293,
     "images": [
@@ -83865,7 +83865,7 @@
     "id": 6129,
     "date": "2025-08-11T10:20:14",
     "text": "坐上猫猫巴士飞向夕阳 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>\n<a href=\"##北海道\">#北海道</a>",
-    "views": 120,
+    "views": 122,
     "forwards": 0,
     "media_group_id": 14039260915406805,
     "images": [
@@ -83915,7 +83915,7 @@
     "id": 6133,
     "date": "2025-08-11T11:02:51",
     "text": "昨天开车看到了🦊，今天去动物园反而没看到🦊\n\n旭山动物园，天太热了感觉大部分室外动物都在休息室不出来，剩下的动物里大部分都躲在阴凉里睡睡（<del>卡皮巴拉是例外，卡皮巴拉天冷也会躲在阴凉里睡睡</del>\n\n不过也值了，拍到了好多好看照片！",
-    "views": 126,
+    "views": 129,
     "forwards": 0,
     "media_group_id": 14039281374329013,
     "images": [
@@ -84030,7 +84030,7 @@
     "id": 6143,
     "date": "2025-08-11T17:01:30",
     "text": "呜呜，买了廉航 Jetstar 很晚的航班结果翻车了...\n\n延误一小时，直接错过回家的末班电车。我前面的航班甚至直接取消了。\n\n不过已经到家啦，感谢 <a href=\"https://t.me/MamoruIO\">@MamoruIO</a> 接我回家，得救了 qwq",
-    "views": 126,
+    "views": 131,
     "forwards": 0,
     "images": [
       {
@@ -84049,7 +84049,7 @@
     "id": 6144,
     "date": "2025-08-12T00:52:38",
     "text": "又来一个\n\n这次藏都不藏了，直接从服务器上拉脚本运行... 服务器可以知道你的 IP 地址并且执行任意脚本，恐怖\n\n想要以后安装插件之前都至少读一遍源码，但是也没有这种时间... 不知道怎么办",
-    "views": 87,
+    "views": 97,
     "forwards": 2,
     "media_group_id": 14039679666701869,
     "images": [
