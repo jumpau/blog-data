@@ -72136,7 +72136,7 @@
     "id": 5223,
     "date": "2025-04-16T14:31:35",
     "text": "互联网真是巨大草台\n\n听说昨天 4chan 被黑了就去查了一下，是真的拿到了 root shell，而且居然不是靠社工\n\n方法是上传了一份文件名是 .pdf 实际上是 postscript 的文件，然后服务器没有校验，用生成预览图的时候会执行的 ghostscript 的漏洞拿到了 shell... 🌚\n\n我<a href=\"https://aza.moe/blog?post=2023-11-18-CyberSci-Canada-Writeup\">上次 CyberSci 2023</a> 的时候解出来的一道防御题就是文件内容没有检查的漏洞，.pdf 后缀但是实际上是 php 脚本... 没想到居然大论坛的生产环境里也能看到这么基础的漏洞 <i class=\"custom-emoji\" emoji-src=\"emoji/6170424195260877091.webm\">🤗</i>",
-    "views": 5564,
+    "views": 5565,
     "forwards": 85,
     "media_group_id": 13958511164945181,
     "images": [
@@ -83846,7 +83846,7 @@
     "id": 6128,
     "date": "2025-08-10T13:42:43",
     "text": "暴カ団 <i class=\"custom-emoji\" emoji-src=\"emoji/6323059984271672911.webp\">😃</i>\n\n暴カ団子大家族 🍡",
-    "views": 172,
+    "views": 173,
     "forwards": 1,
     "images": [
       {
@@ -83865,7 +83865,7 @@
     "id": 6129,
     "date": "2025-08-11T10:20:14",
     "text": "坐上猫猫巴士飞向夕阳 <i class=\"custom-emoji\" emoji-src=\"emoji/6113861254089017243.webm\">🎈</i>\n<a href=\"##北海道\">#北海道</a>",
-    "views": 128,
+    "views": 129,
     "forwards": 0,
     "media_group_id": 14039260915406805,
     "images": [
@@ -83915,7 +83915,7 @@
     "id": 6133,
     "date": "2025-08-11T11:02:51",
     "text": "昨天开车看到了🦊，今天去动物园反而没看到🦊\n\n旭山动物园，天太热了感觉大部分室外动物都在休息室不出来，剩下的动物里大部分都躲在阴凉里睡睡（<del>卡皮巴拉是例外，卡皮巴拉天冷也会躲在阴凉里睡睡</del>\n\n不过也值了，拍到了好多好看照片！",
-    "views": 137,
+    "views": 138,
     "forwards": 0,
     "media_group_id": 14039281374329013,
     "images": [
@@ -84030,7 +84030,7 @@
     "id": 6143,
     "date": "2025-08-11T17:01:30",
     "text": "呜呜，买了廉航 Jetstar 很晚的航班结果翻车了...\n\n延误一小时，直接错过回家的末班电车。我前面的航班甚至直接取消了。\n\n不过已经到家啦，感谢 <a href=\"https://t.me/MamoruIO\">@MamoruIO</a> 接我回家，得救了 qwq",
-    "views": 147,
+    "views": 148,
     "forwards": 0,
     "images": [
       {
@@ -84049,7 +84049,7 @@
     "id": 6144,
     "date": "2025-08-12T00:52:38",
     "text": "又来一个\n\n这次藏都不藏了，直接从服务器上拉脚本运行... 服务器可以知道你的 IP 地址并且执行任意脚本，恐怖\n\n想要以后安装插件之前都至少读一遍源码，但是也没有这种时间... 不知道怎么办",
-    "views": 131,
+    "views": 133,
     "forwards": 2,
     "media_group_id": 14039679666701869,
     "images": [
@@ -84084,7 +84084,7 @@
     "id": 6146,
     "date": "2025-08-12T15:01:35",
     "text": "（整理照片）\n\n这次和妈妈去北海道，拍了很多妈妈的照片，发现给别人拍出好看照片好像很开心...！\n\n唉，好想多给别人拍照，可惜感觉身边的人都不太自信没有很喜欢被拍照片的样子 <i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i>\n\n也许应该买一个随身打印机，给路人拍照然后打印出来发無料 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>",
-    "views": 68,
+    "views": 76,
     "forwards": 1,
     "media_group_id": 14040087162569933,
     "images": [
@@ -84164,7 +84164,7 @@
     "id": 6153,
     "date": "2025-08-12T15:25:16",
     "text": "如果不能重新定义自拍，至少能重新定义手机壁纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>\n\n去室蘭遇到了一朵特别好看的被夕阳点亮的云，然后就绕着这朵云拍到了天黑 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n<del>这个 18-300 镜头真的买的太值了，光圈小什么的都是挑刺，我直接不换镜头从地球岬拉到月球</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 43,
+    "views": 55,
     "forwards": 1,
     "media_group_id": 14040098532878845,
     "images": [
