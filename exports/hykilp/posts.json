@@ -73066,7 +73066,7 @@
     "id": 5288,
     "date": "2025-04-28T20:26:59",
     "text": "后续：clash verge rev 的开发者给 macOS <a href=\"https://github.com/clash-verge-rev/clash-verge-service/commit/06b522d2ccf37bdbc00e59687cc701c946166afe\">添加了可执行程序签名验证</a>，然而这个签名验证并没有用（笑）\n\n因为它甚至没有解析 codesign 输出... 直接验证了 codesign 输出有没有包含特定的字符串，所以黑客只要自己签一个恶意 bin 把它检测的字符串全都堆到 identifier 里就可以绕过检测拿到 root 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170075684434610033.webm\">⌨</i>\n\n（PoC 原图放这里了: <a href=\"https://github.com/clash-verge-rev/clash-verge-service/issues/9\">clash-verge-service#9</a>）\n\n安全检查能写成这样也太草台了，而且这个注释看起来像是 AI 生成的一样... 希望大家都不要用这样的软件",
-    "views": 6106,
+    "views": 6107,
     "forwards": 144,
     "media_group_id": 13966976157341773,
     "images": [
@@ -81158,7 +81158,7 @@
   {
     "id": 5923,
     "date": "2025-07-17T16:54:36",
-    "views": 368,
+    "views": 369,
     "forwards": 3,
     "files": [
       {
@@ -83010,7 +83010,7 @@
     "id": 6072,
     "date": "2025-07-29T14:58:44",
     "text": "！！！！！！好耶 滑铁卢 MEng 居然给我下 offer 了 <i class=\"custom-emoji\" emoji-src=\"emoji/6170419595350903248.webm\">✨</i>",
-    "views": 281,
+    "views": 282,
     "forwards": 3,
     "images": [
       {
@@ -83029,7 +83029,7 @@
     "id": 6073,
     "date": "2025-07-30T15:49:50",
     "text": "和 tjk 的朋友们打了桌游 Arcs！第一次玩喜提第三 qwq\n\n桌游好玩但是规则好复杂，其实看了一遍规则解说但是实际玩的时候还是好多不懂（x）",
-    "views": 276,
+    "views": 277,
     "forwards": 1,
     "images": [
       {
@@ -83048,7 +83048,7 @@
     "id": 6074,
     "date": "2025-07-31T16:04:35",
     "text": "为什么每次看到自己代码库里超级无敌蠢猫代码想要知道是哪个蠢猫写的进行 git blame 的时候都会 blame 到我自己 <i class=\"custom-emoji\" emoji-src=\"emoji/6169958075345144164.webm\">🫣</i>",
-    "views": 229,
+    "views": 230,
     "forwards": 2
   },
   {
@@ -83806,7 +83806,7 @@
     "id": 6125,
     "date": "2025-08-10T13:10:27",
     "text": "小狐狸！\n\n我：哇有小狐狸（一脚急刹车从 90 刹到 0）\n🦊：（躲进🌱里）\n我：盯——\n🦊：👀\n我：盯——\n🦊：👀\n我：盯——\n🦊：（钻出来，用头点点地板）\n好可爱 我死了\n\n可惜感觉在车道上喂小狐狸不太好，要是小狐狸觉得车车能给它食物到路上送死就不好了。",
-    "views": 184,
+    "views": 185,
     "forwards": 2,
     "media_group_id": 14038651420384293,
     "images": [
@@ -84049,7 +84049,7 @@
     "id": 6144,
     "date": "2025-08-12T00:52:38",
     "text": "又来一个\n\n这次藏都不藏了，直接从服务器上拉脚本运行... 服务器可以知道你的 IP 地址并且执行任意脚本，恐怖\n\n想要以后安装插件之前都至少读一遍源码，但是也没有这种时间... 不知道怎么办",
-    "views": 133,
+    "views": 135,
     "forwards": 2,
     "media_group_id": 14039679666701869,
     "images": [
@@ -84084,7 +84084,7 @@
     "id": 6146,
     "date": "2025-08-12T15:01:35",
     "text": "（整理照片）\n\n这次和妈妈去北海道，拍了很多妈妈的照片，发现给别人拍出好看照片好像很开心...！\n\n唉，好想多给别人拍照，可惜感觉身边的人都不太自信没有很喜欢被拍照片的样子 <i class=\"custom-emoji\" emoji-src=\"emoji/6161057305380000113.webp\">🥺</i>\n\n也许应该买一个随身打印机，给路人拍照然后打印出来发無料 <i class=\"custom-emoji\" emoji-src=\"emoji/5325819430553263482.webm\">🤩</i>",
-    "views": 76,
+    "views": 84,
     "forwards": 1,
     "media_group_id": 14040087162569933,
     "images": [
@@ -84164,7 +84164,7 @@
     "id": 6153,
     "date": "2025-08-12T15:25:16",
     "text": "如果不能重新定义自拍，至少能重新定义手机壁纸 <i class=\"custom-emoji\" emoji-src=\"emoji/6323412532367198064.webp\">🍔</i>\n\n去室蘭遇到了一朵特别好看的被夕阳点亮的云，然后就绕着这朵云拍到了天黑 <i class=\"custom-emoji\" emoji-src=\"emoji/6114040285505783709.webm\">🙏</i>\n\n<del>这个 18-300 镜头真的买的太值了，光圈小什么的都是挑刺，我直接不换镜头从地球岬拉到月球</del> <i class=\"custom-emoji\" emoji-src=\"emoji/5445354787082084246.tgs\">🧐</i>",
-    "views": 55,
+    "views": 66,
     "forwards": 1,
     "media_group_id": 14040098532878845,
     "images": [
