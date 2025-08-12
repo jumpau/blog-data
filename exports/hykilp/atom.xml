@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-08-12T14:14:43.689906+00:00</updated>
+  <updated>2025-08-12T16:17:59.264007+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6153</id>
+    <title>小桂桂的回忆录 📒 #6153</title>
+    <updated>2025-08-12T15:25:16+00:00</updated>
+    <content>&lt;p&gt;如果不能重新定义自拍，至少能重新定义手机壁纸 &lt;i class="custom-emoji" emoji-src="emoji/6323412532367198064.webp"&gt;🍔&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;去室蘭遇到了一朵特别好看的被夕阳点亮的云，然后就绕着这朵云拍到了天黑 &lt;i class="custom-emoji" emoji-src="emoji/6114040285505783709.webm"&gt;🙏&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;这个 18-300 镜头真的买的太值了，光圈小什么的都是挑刺，我直接不换镜头从地球岬拉到月球&lt;/del&gt; &lt;i class="custom-emoji" emoji-src="emoji/5445354787082084246.tgs"&gt;🧐&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6153" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>6146</id>
+    <title>小桂桂的回忆录 📒 #6146</title>
+    <updated>2025-08-12T15:01:35+00:00</updated>
+    <content>&lt;p&gt;（整理照片）&lt;/p&gt;
+&lt;p&gt;这次和妈妈去北海道，拍了很多妈妈的照片，发现给别人拍出好看照片好像很开心...！&lt;/p&gt;
+&lt;p&gt;唉，好想多给别人拍照，可惜感觉身边的人都不太自信没有很喜欢被拍照片的样子 &lt;i class="custom-emoji" emoji-src="emoji/6161057305380000113.webp"&gt;🥺&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;也许应该买一个随身打印机，给路人拍照然后打印出来发無料 &lt;i class="custom-emoji" emoji-src="emoji/5325819430553263482.webm"&gt;🤩&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6146" rel="alternate"/>
+  </entry>
   <entry>
     <id>6144</id>
     <title>小桂桂的回忆录 📒 #6144</title>
