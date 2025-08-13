@@ -1,4 +1,4 @@
-name: Telegram Channel Updater
+name: TC
 
 on:
   schedule:
@@ -29,8 +29,8 @@ jobs:
     - name: Install dependencies
       run: |
         set -xe
-        python -VV
-        python -m pip install tgc
+        python3 -VV
+        python3 -m pip install git+https://github.com/jumpau/TB.git
         yarn global add puppeteer-lottie-cli
 
     - name: Setup working directory
@@ -58,7 +58,7 @@ jobs:
         REPO_NAME: ${{ github.repository }}
       run: |
         echo "$REPO_NAME"
-        USER=$(python -c "print('${REPO_NAME}'.split('/')[0])")
+        USER=$(python3 -c "print('${REPO_NAME}'.split('/')[0])")
         echo "$USER"
         rm -rf profile-readme.md
         if ! curl -L "https://raw.githubusercontent.com/${USER}/${USER}/main/README.md" --output profile-readme.md; then
