@@ -2,11 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-cn">
   <id>https://aza.moe/life</id>
   <title>小桂桂的回忆录 📒</title>
-  <updated>2025-08-13T00:17:30.789093+00:00</updated>
+  <updated>2025-08-13T02:49:08.806850+00:00</updated>
   <link href="https://aza.moe/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://aza.moe/meru_256px.png</logo>
   <subtitle>「我们所经历的每个平凡的日常，也许就是连续发生的奇迹」</subtitle>
+  <entry>
+    <id>6169</id>
+    <title>小桂桂的回忆录 📒 #6169</title>
+    <updated>2025-08-13T02:39:08+00:00</updated>
+    <content>&lt;p&gt;以及定制的手机壳也到手了！效果还不错&lt;/p&gt;
+&lt;p&gt;订了两个版本，一个玻璃壳包住镜头、一个彩银壳绕开镜头&lt;/p&gt;
+&lt;p&gt;感觉玻璃壳印刷质量更好但是手感更差，而且第一次尝试摘下来就碎掉了... 反而彩银壳各方面都更好一些 &lt;i class="custom-emoji" emoji-src="emoji/6111506770197219135.webm"&gt;😮&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6169" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>6163</id>
+    <title>小桂桂的回忆录 📒 #6163</title>
+    <updated>2025-08-13T02:25:41+00:00</updated>
+    <content>&lt;p&gt;拿到了新手机一加 13，用了一周 ColorOS 15，写写体验&lt;/p&gt;
+&lt;p&gt;比 MIUI 14 好用的地方：
+- GMS 开箱就能用
+- 解锁 BL 毫无困难
+- 安装梯子不会报诈骗软件
+- 换启动器可以保留手势 &lt;i class="custom-emoji" emoji-src="emoji/5327839194758783219.webm"&gt;🔥&lt;/i&gt;
+- 可以卸载很多系统应用比如视频和钱包和主题商店&lt;/p&gt;
+&lt;p&gt;比 Pixel UI 好用的地方：
+- 动态锁屏很好看！
+- 有更多很有用的小功能，比如指纹快速启动、熄屏手势、侧边栏、流体云&lt;/p&gt;
+&lt;p&gt;不好用的地方：
+- 从 Pixel 转移没法转移应用数据
+- 快捷键设置不灵活，没办法让双击电源打开相机，只能选打开卡包还是刷卡页。长按电源只能选语音助手还是关机
+- 广告（虽然没有小米多）
+- 开启开发者模式之后永远会有一条通知说开发者模式已开启&lt;/p&gt;
+&lt;p&gt;所以试着刷了 OxygenOS，刷完之后所有不满意的地方都解决了！能用 Android auto，修好 Play Integrity 之后甚至能用 Google pay。&lt;/p&gt;
+&lt;p&gt;之前听朋友说 Oxygen 是 Color 套壳我还有点害怕的，但是实际用起来真的非常原生，而且还保留了 Color 那些有用的小功能，总之就是非常满意 &lt;i class="custom-emoji" emoji-src="emoji/6111607409870898919.webm"&gt;👍&lt;/i&gt;&lt;/p&gt;</content>
+    <link href="https://aza.moe/life?post=6163" rel="alternate"/>
+  </entry>
   <entry>
     <id>6153</id>
     <title>小桂桂的回忆录 📒 #6153</title>
