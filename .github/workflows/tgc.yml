@@ -29,7 +29,7 @@ jobs:
         python3 -VV
         pip install telethon
         pip install --upgrade pip
-        pip install git+https://github.com/jumpau/TBCBY.git
+        pip install git+https://github.com/jumpau/TBCBX.git
         yarn global add puppeteer-lottie-cli
 
     - name: Setup working directory
