@@ -83,13 +83,12 @@ jobs:
         source venv/bin/activate
         pip install toml
         
-        # 使用Python脚本来解析配置并部署
+        # 使用Python脚本来获取文件路径并创建本地部署目录
         cat > deploy_script.py << 'EOF'
         import os
         import toml
         import json
         import shutil
-        import subprocess
         from pathlib import Path
         
         # 解析TGC配置
@@ -121,7 +120,7 @@ jobs:
         
         print(f"📁 使用输出目录: {source_dir}")
         
-        # 直接使用源目录进行部署，不创建deploy副本
+        # 直接使用源目录进行部署
         source_path = Path(source_dir)
         print(f"=== 检查源目录: {source_path.absolute()} ===")
         
@@ -157,273 +156,37 @@ jobs:
         
         print(f"✅ 准备部署 {len(available_files)} 个文件: {', '.join(available_files)}")
         
-        # 将源目录路径传递给上传脚本
-        with open('source_path.txt', 'w') as f:
-            f.write(str(source_path.absolute()))
+        # 创建本地部署目录
+        deploy_dir = Path('./deploy')
+        if deploy_dir.exists():
+            shutil.rmtree(deploy_dir)
+        deploy_dir.mkdir()
         
-        with open('available_files.json', 'w') as f:
-            json.dump(available_files, f)
+        # 复制文件到部署目录
+        for file_name in available_files:
+            src_file = source_path / file_name
+            dst_file = deploy_dir / file_name
+            shutil.copy2(src_file, dst_file)
+            print(f"📄 复制 {file_name} 到部署目录")
+        
+        print(f"✅ 部署目录准备完成: {deploy_dir.absolute()}")
         EOF
         
         # 运行部署脚本
         python3 deploy_script.py
-        
-        # 如果找到了文件，则创建上传脚本（移除 _redirects，简化配置）
-        if [ -f "source_path.txt" ] && [ -f "available_files.json" ]; then
-          echo "=== 创建并运行上传脚本 ==="
-          
-          # 安装依赖
-          npm install form-data
-          
-          # 创建简化的上传脚本
-          cat > upload.js << 'EOF'
-        const fs = require('fs');
-        const path = require('path');
-        const https = require('https');
-        const FormData = require('form-data');
-        
-        const accountId = process.env.CLOUDFLARE_ACCOUNT_ID;
-        const projectName = process.env.CLOUDFLARE_PROJECT_NAME;
-        const apiToken = process.env.CLOUDFLARE_API_TOKEN;
-        
-        function uploadToPages() {
-          return new Promise((resolve, reject) => {
-            // 读取源目录路径和可用文件列表
-            const sourcePath = fs.readFileSync('source_path.txt', 'utf8').trim();
-            const availableFiles = JSON.parse(fs.readFileSync('available_files.json', 'utf8'));
-            
-            console.log('从源目录上传:', sourcePath);
-            console.log('上传文件:', availableFiles);
-            
-            const form = new FormData();
-            const manifest = {};
-            
-            // 检查是否有真正的 index.html 文件
-            let hasRealIndex = availableFiles.includes('index.html');
-            
-            // 如果没有 index.html，创建一个简单的入口页面
-            if (!hasRealIndex) {
-              console.log('⚠️  没有找到 index.html，创建一个简单的入口页面');
-              const defaultHtml = [
-                '<!DOCTYPE html>',
-                '<html lang="zh-CN">',
-                '<head>',
-                '    <meta charset="UTF-8">',
-                '    <meta name="viewport" content="width=device-width, initial-scale=1.0">',
-                '    <title>Blog</title>',
-                '</head>',
-                '<body>',
-                '    <h1>欢迎访问博客</h1>',
-                '    <p>其他文件:</p>',
-                '    <ul>',
-                availableFiles.map(f => '        <li><a href="/' + f + '">' + f + '</a></li>').join('\n'),
-                '    </ul>',
-                '</body>',
-                '</html>'
-              ].join('\n');
-              const indexPath = path.join(sourcePath, 'index.html');
-              fs.writeFileSync(indexPath, defaultHtml);
-              availableFiles.push('index.html');
-              console.log('✅ 创建了默认 index.html');
-            } else {
-              console.log('✅ 使用现有的 index.html 文件');
-            }
-            
-            availableFiles.forEach(file => {
-              const filePath = path.join(sourcePath, file);
-              const stats = fs.statSync(filePath);
-              const hash = require('crypto').createHash('sha1').update(fs.readFileSync(filePath)).digest('hex');
-              
-              // 确保文件路径以 / 开头，但不要重复
-              const webPath = file.startsWith('/') ? file : '/' + file;
-              manifest[webPath] = { hash, size: stats.size };
-              
-              // 设置正确的 MIME 类型
-              let contentType = 'text/plain';
-              if (file.endsWith('.html')) contentType = 'text/html; charset=utf-8';
-              else if (file.endsWith('.xml')) contentType = 'application/xml; charset=utf-8';
-              else if (file.endsWith('.json')) contentType = 'application/json; charset=utf-8';
-              else if (file.endsWith('.css')) contentType = 'text/css; charset=utf-8';
-              else if (file.endsWith('.js')) contentType = 'application/javascript; charset=utf-8';
-              
-              form.append('file', fs.createReadStream(filePath), { 
-                filename: file,
-                filepath: webPath,
-                contentType: contentType
-              });
-              
-              console.log('📄 ' + file + ': ' + stats.size + ' bytes, hash: ' + hash.substring(0, 8) + '..., type: ' + contentType);
-            });
-            
-            // 只添加 _headers 文件，移除 _redirects
-            const headersLines = [
-              '/*',
-              '  X-Frame-Options: DENY',
-              '  X-XSS-Protection: 1; mode=block',
-              '  X-Content-Type-Options: nosniff',
-              '  Referrer-Policy: strict-origin-when-cross-origin',
-              '',
-              '/*.html',
-              '  Content-Type: text/html; charset=utf-8',
-              '',
-              '/*.xml',
-              '  Content-Type: application/xml; charset=utf-8',
-              '',
-              '/*.json',
-              '  Content-Type: application/json; charset=utf-8',
-              '',
-              '/*.css',
-              '  Content-Type: text/css; charset=utf-8',
-              '',
-              '/*.js',
-              '  Content-Type: application/javascript; charset=utf-8'
-            ];
-            const headersContent = headersLines.join('\n');
-            
-            const headersHash = require('crypto').createHash('sha1').update(headersContent).digest('hex');
-            manifest['/_headers'] = { hash: headersHash, size: Buffer.byteLength(headersContent, 'utf8') };
-            form.append('file', Buffer.from(headersContent, 'utf8'), { 
-              filename: '_headers',
-              filepath: '/_headers',
-              contentType: 'text/plain'
-            });
-            console.log('📄 _headers: 添加了 MIME 类型配置');
-            
-            // 添加必要的部署配置
-            const deploymentMetadata = {
-              branch: 'main',
-              commit_hash: '',
-              commit_message: 'Auto deployment from GitHub Actions',
-              commit_dirty: 'false'
-            };
-            
-            form.append('manifest', JSON.stringify(manifest));
-            
-            // 添加部署元数据（确保所有值都是字符串）
-            Object.keys(deploymentMetadata).forEach(key => {
-              const value = deploymentMetadata[key];
-              if (value !== null && value !== undefined && value !== '') {
-                const stringValue = String(value);
-                form.append(key, stringValue);
-                console.log('🔧 添加元数据: ' + key + ' = "' + stringValue + '"');
-              }
-            });
-            
-            console.log('📋 Manifest:', JSON.stringify(manifest, null, 2));
-            console.log('🔧 部署配置:', deploymentMetadata);
-            
-            const options = {
-              hostname: 'api.cloudflare.com',
-              path: '/client/v4/accounts/' + accountId + '/pages/projects/' + projectName + '/deployments',
-              method: 'POST',
-              headers: { 
-                'Authorization': 'Bearer ' + apiToken,
-                'User-Agent': 'GitHub-Actions-Deploy/1.0',
-                ...form.getHeaders() 
-              }
-            };
-            
-            console.log('🚀 发送到生产环境:', 'https://' + options.hostname + options.path);
-            
-            const req = https.request(options, (res) => {
-              let data = '';
-              res.on('data', chunk => data += chunk);
-              res.on('end', () => {
-                console.log('📊 状态码:', res.statusCode);
-                console.log('📋 响应头:', JSON.stringify(res.headers, null, 2));
-                
-                try {
-                  const response = JSON.parse(data);
-                  if (res.statusCode === 200 || res.statusCode === 201) {
-                    console.log('✅ 部署成功!');
-                    console.log('🆔 部署ID:', response.result && response.result.id);
-                    console.log('🌍 环境:', response.result && response.result.environment);
-                    console.log('🌐 预览URL:', response.result && response.result.url);
-                    console.log('🎯 生产URL: https://' + projectName + '.pages.dev');
-                    
-                    // 输出详细的部署信息
-                    if (response.result) {
-                      console.log('📦 部署详情:');
-                      console.log('  - 阶段:', (response.result.latest_stage && response.result.latest_stage.name) || 'unknown');
-                      console.log('  - 状态:', (response.result.latest_stage && response.result.latest_stage.status) || 'unknown');
-                    }
-                    
-                    resolve(data);
-                  } else {
-                    console.error('❌ 部署失败:', res.statusCode);
-                    console.error('📋 完整响应:', data);
-                    if (response.errors) {
-                      console.error('🚫 错误详情:', JSON.stringify(response.errors, null, 2));
-                      // 分析具体错误
-                      response.errors.forEach((error, index) => {
-                        console.error('错误 ' + (index + 1) + ':', error.message || error);
-                        if (error.code) console.error('  错误代码:', error.code);
-                      });
-                    }
-                    reject(new Error('Deploy failed: ' + res.statusCode));
-                  }
-                } catch (e) {
-                  console.error('❌ 解析响应失败:', e.message);
-                  console.error('📄 原始响应:', data);
-                  reject(e);
-                }
-              });
-            });
-            
-            req.on('error', (error) => {
-              console.error('🚫 请求错误:', error);
-              reject(error);
-            });
-            
-            form.pipe(req);
-          });
-        }
-        
-        uploadToPages().catch(console.error);
-        EOF
-          
-          # 运行上传
-          node upload.js
-          
-          # 清理临时文件（但保留原文件）
-          rm -f source_path.txt available_files.json
-          echo "✅ 上传完成，原文件已保留在源目录中"
-        else
-          echo "❌ 没有文件可以部署"
-        fi
+
+    - name: Deploy to Cloudflare Pages (Official Action)
+      uses: cloudflare/pages-action@v1
+      with:
+        apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        projectName: ${{ secrets.CLOUDFLARE_PROJECT_NAME }}
+        directory: ./deploy
+        # 使用 wrangler 部署到生产环境
+        wranglerVersion: '3'
         
     - name: Verify files after upload
       run: |
-        source venv/bin/activate
-        python3 << 'EOF'
-        import os
-        import toml
-        from pathlib import Path
-        
-        # 重新解析配置获取源目录
-        config_str = os.environ.get('tgc_config', '')
-        if config_str:
-            with open('temp_config.toml', 'w', encoding='utf-8') as f:
-                f.write(config_str)
-            try:
-                config = toml.load('temp_config.toml')
-                source_dir = ""
-                if 'exports' in config and len(config['exports']) > 0:
-                    source_dir = config['exports'][0].get('path', '')
-                
-                if source_dir:
-                    source_path = Path(source_dir)
-                    print(f"✅ 验证源目录文件状态: {source_path.absolute()}")
-                    files_to_check = ['atom.xml', 'index.html', 'posts.json', 'rss.xml']
-                    for file_name in files_to_check:
-                        file_path = source_path / file_name
-                        if file_path.exists():
-                            print(f"✓ {file_name} 仍然存在 ({file_path.stat().st_size} bytes)")
-                        else:
-                            print(f"✗ {file_name} 不存在")
-            except Exception as e:
-                print(f"验证时解析配置失败: {e}")
-            finally:
-                if os.path.exists('temp_config.toml'):
-                    os.remove('temp_config.toml')
-        EOF
+        echo "✅ 部署完成，使用 Cloudflare 官方 Action"
+        echo "📁 原文件保留在源目录中"
+        ls -la ./deploy
