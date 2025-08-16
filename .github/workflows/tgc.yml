@@ -238,16 +238,18 @@ jobs:
               branch: 'main',
               commit_hash: '',
               commit_message: 'Auto deployment from GitHub Actions',
-              commit_dirty: 'false'  // 改为字符串
+              commit_dirty: 'false'  // 确保是字符串
             };
             
             form.append('manifest', JSON.stringify(manifest));
             
-            // 添加部署元数据（只添加非空字符串）
+            // 添加部署元数据（确保所有值都是字符串）
             Object.keys(deploymentMetadata).forEach(key => {
               const value = deploymentMetadata[key];
-              if (value !== '') {
-                form.append(key, String(value));  // 确保转换为字符串
+              if (value !== null && value !== undefined && value !== '') {
+                const stringValue = String(value);
+                form.append(key, stringValue);
+                console.log(`🔧 添加元数据: ${key} = "${stringValue}"`);
               }
             });
             
@@ -321,8 +323,45 @@ jobs:
           # 运行上传
           node upload.js
           
-          # 清理临时文件
+          # 清理临时文件（但保留原文件）
           rm -f source_path.txt available_files.json
+          echo "✅ 上传完成，原文件已保留在源目录中"
         else
           echo "❌ 没有文件可以部署"
         fi
+        
+    - name: Verify files after upload
+      run: |
+        source venv/bin/activate
+        python3 << 'EOF'
+        import os
+        import toml
+        from pathlib import Path
+        
+        # 重新解析配置获取源目录
+        config_str = os.environ.get('tgc_config', '')
+        if config_str:
+            with open('temp_config.toml', 'w', encoding='utf-8') as f:
+                f.write(config_str)
+            try:
+                config = toml.load('temp_config.toml')
+                source_dir = ""
+                if 'exports' in config and len(config['exports']) > 0:
+                    source_dir = config['exports'][0].get('path', '')
+                
+                if source_dir:
+                    source_path = Path(source_dir)
+                    print(f"✅ 验证源目录文件状态: {source_path.absolute()}")
+                    files_to_check = ['atom.xml', 'index.html', 'posts.json', 'rss.xml']
+                    for file_name in files_to_check:
+                        file_path = source_path / file_name
+                        if file_path.exists():
+                            print(f"✓ {file_name} 仍然存在 ({file_path.stat().st_size} bytes)")
+                        else:
+                            print(f"✗ {file_name} 不存在")
+            except Exception as e:
+                print(f"验证时解析配置失败: {e}")
+            finally:
+                if os.path.exists('temp_config.toml'):
+                    os.remove('temp_config.toml')
+        EOF
