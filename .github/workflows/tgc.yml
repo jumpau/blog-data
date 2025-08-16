@@ -198,6 +198,30 @@ jobs:
             const form = new FormData();
             const manifest = {};
             
+            // 确保有 index.html 作为入口文件
+            if (!availableFiles.includes('index.html')) {
+              console.log('⚠️  没有找到 index.html，创建一个简单的入口页面');
+              const defaultHtml = `<!DOCTYPE html>
+        <html lang="zh-CN">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Blog</title>
+        </head>
+        <body>
+            <h1>欢迎访问博客</h1>
+            <p>其他文件:</p>
+            <ul>
+                ${availableFiles.map(f => `<li><a href="/${f}">${f}</a></li>`).join('\n                ')}
+            </ul>
+        </body>
+        </html>`;
+              const indexPath = path.join(sourcePath, 'index.html');
+              fs.writeFileSync(indexPath, defaultHtml);
+              availableFiles.push('index.html');
+              console.log('✅ 创建了默认 index.html');
+            }
+            
             availableFiles.forEach(file => {
               const filePath = path.join(sourcePath, file);
               const stats = fs.statSync(filePath);
@@ -209,42 +233,81 @@ jobs:
               console.log(`📄 ${file}: ${stats.size} bytes, hash: ${hash.substring(0, 8)}...`);
             });
             
+            // 添加必要的部署配置
+            const deploymentMetadata = {
+              branch: 'main',
+              commit_hash: '',
+              commit_message: 'Auto deployment from GitHub Actions',
+              commit_dirty: false
+            };
+            
             form.append('manifest', JSON.stringify(manifest));
+            
+            // 添加部署元数据
+            Object.keys(deploymentMetadata).forEach(key => {
+              form.append(key, deploymentMetadata[key]);
+            });
+            
             console.log('📋 Manifest:', JSON.stringify(manifest, null, 2));
+            console.log('🔧 部署配置:', deploymentMetadata);
             
             const options = {
               hostname: 'api.cloudflare.com',
               path: `/client/v4/accounts/${accountId}/pages/projects/${projectName}/deployments`,
               method: 'POST',
-              headers: { 'Authorization': `Bearer ${apiToken}`, ...form.getHeaders() }
+              headers: { 
+                'Authorization': `Bearer ${apiToken}`,
+                'User-Agent': 'GitHub-Actions-Deploy/1.0',
+                ...form.getHeaders() 
+              }
             };
             
-            console.log('🚀 发送到:', `https://${options.hostname}${options.path}`);
+            console.log('🚀 发送到生产环境:', `https://${options.hostname}${options.path}`);
             
             const req = https.request(options, (res) => {
               let data = '';
               res.on('data', chunk => data += chunk);
               res.on('end', () => {
                 console.log('📊 状态码:', res.statusCode);
+                console.log('📋 响应头:', JSON.stringify(res.headers, null, 2));
+                
                 try {
                   const response = JSON.parse(data);
                   if (res.statusCode === 200 || res.statusCode === 201) {
                     console.log('✅ 部署成功!');
-                    console.log('🌐 网站URL:', response.result?.url || '未知');
+                    console.log('🆔 部署ID:', response.result?.id);
+                    console.log('🌍 环境:', response.result?.environment);
+                    console.log('🌐 预览URL:', response.result?.url);
+                    console.log('� 生产URL: https://' + projectName + '.pages.dev');
+                    
+                    // 如果是预览环境，输出提升到生产环境的信息
+                    if (response.result?.environment === 'preview') {
+                      console.log('⚠️  当前部署在预览环境，可能需要在 Cloudflare 控制台手动提升到生产环境');
+                      console.log('🔗 或者检查项目的生产分支设置');
+                    }
+                    
                     resolve(data);
                   } else {
                     console.error('❌ 部署失败:', res.statusCode);
-                    console.error('错误详情:', response.errors || data);
+                    console.error('📋 完整响应:', data);
+                    if (response.errors) {
+                      console.error('🚫 错误详情:', JSON.stringify(response.errors, null, 2));
+                    }
                     reject(new Error(`Deploy failed: ${res.statusCode}`));
                   }
                 } catch (e) {
-                  console.error('❌ 解析响应失败:', data);
+                  console.error('❌ 解析响应失败:', e.message);
+                  console.error('📄 原始响应:', data);
                   reject(e);
                 }
               });
             });
             
-            req.on('error', reject);
+            req.on('error', (error) => {
+              console.error('🚫 请求错误:', error);
+              reject(error);
+            });
+            
             form.pipe(req);
           });
         }
