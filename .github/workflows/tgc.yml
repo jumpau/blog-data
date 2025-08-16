@@ -238,14 +238,17 @@ jobs:
               branch: 'main',
               commit_hash: '',
               commit_message: 'Auto deployment from GitHub Actions',
-              commit_dirty: false
+              commit_dirty: 'false'  // 改为字符串
             };
             
             form.append('manifest', JSON.stringify(manifest));
             
-            // 添加部署元数据
+            // 添加部署元数据（只添加非空字符串）
             Object.keys(deploymentMetadata).forEach(key => {
-              form.append(key, deploymentMetadata[key]);
+              const value = deploymentMetadata[key];
+              if (value !== '') {
+                form.append(key, String(value));  // 确保转换为字符串
+              }
             });
             
             console.log('📋 Manifest:', JSON.stringify(manifest, null, 2));
