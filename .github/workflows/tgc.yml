@@ -92,90 +92,170 @@ jobs:
         CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         CLOUDFLARE_PROJECT_NAME: ${{ secrets.CLOUDFLARE_PROJECT_NAME }}
+        tgc_config: ${{ secrets.TGC_CONFIG }}
       run: |
+        # 安装 toml 解析库
+        source venv/bin/activate
+        pip install toml
+        
+        # 使用Python脚本来解析配置并部署
+        cat > deploy_script.py << 'EOF'
+        import os
+        import toml
+        import json
+        import shutil
+        import subprocess
+        from pathlib import Path
+        
+        # 解析TGC配置
+        config_str = os.environ.get('tgc_config', '')
+        if not config_str:
+            print("❌ TGC_CONFIG 为空")
+            exit(1)
+        
+        # 写入临时配置文件
+        with open('temp_config.toml', 'w', encoding='utf-8') as f:
+            f.write(config_str)
+        
+        try:
+            config = toml.load('temp_config.toml')
+            source_dir = ""
+            if 'exports' in config and len(config['exports']) > 0:
+                source_dir = config['exports'][0].get('path', '')
+        except Exception as e:
+            print(f"❌ 解析配置失败: {e}")
+            source_dir = ""
+        
+        # 清理临时文件
+        if os.path.exists('temp_config.toml'):
+            os.remove('temp_config.toml')
+        
+        if not source_dir:
+            print("❌ 无法从配置中获取输出路径，使用默认路径")
+            source_dir = "../../../../../../../www/wwwroot/bk.cn"
+        
+        print(f"📁 使用输出目录: {source_dir}")
+        
         # 创建部署目录
-        mkdir -p deploy
+        deploy_dir = Path('deploy')
+        deploy_dir.mkdir(exist_ok=True)
         
-        # 复制要部署的文件
-        if [ -f atom.xml ]; then cp atom.xml deploy/; fi
-        if [ -f index.html ]; then cp index.html deploy/; fi
-        if [ -f posts.json ]; then cp posts.json deploy/; fi
-        if [ -f rss.xml ]; then cp rss.xml deploy/; fi
+        # 要复制的文件列表
+        files_to_copy = ['atom.xml', 'index.html', 'posts.json', 'rss.xml']
+        copied_files = []
         
-        # 创建上传脚本
-        cat > pages-upload.js << 'EOF'
+        # 复制文件
+        source_path = Path(source_dir)
+        print(f"=== 检查源目录: {source_path.absolute()} ===")
+        
+        if source_path.exists():
+            print("✓ 源目录存在")
+            for file_name in files_to_copy:
+                src_file = source_path / file_name
+                dst_file = deploy_dir / file_name
+                if src_file.exists():
+                    shutil.copy2(src_file, dst_file)
+                    print(f"✓ 复制了 {file_name}")
+                    copied_files.append(file_name)
+                else:
+                    print(f"✗ {file_name} 不存在")
+        else:
+            print("❌ 源目录不存在，尝试查找文件...")
+            # 查找文件
+            for root, dirs, files in os.walk('.'):
+                for file_name in files_to_copy:
+                    if file_name in files:
+                        src_file = Path(root) / file_name
+                        dst_file = deploy_dir / file_name
+                        shutil.copy2(src_file, dst_file)
+                        print(f"✓ 找到并复制了 {file_name} 从 {src_file}")
+                        copied_files.append(file_name)
+        
+        print(f"=== 部署目录文件列表 ===")
+        for item in deploy_dir.iterdir():
+            if item.is_file():
+                print(f"{item.name} ({item.stat().st_size} bytes)")
+        
+        if not copied_files:
+            print("❌ 没有找到任何文件可以部署！")
+            exit(1)
+        
+        print(f"✅ 准备部署 {len(copied_files)} 个文件: {', '.join(copied_files)}")
+        EOF
+        
+        # 运行部署脚本
+        python3 deploy_script.py
+        
+        # 如果有文件被复制，则创建上传脚本
+        if [ -d "deploy" ] && [ "$(ls -A deploy)" ]; then
+          echo "=== 创建并运行上传脚本 ==="
+          
+          # 安装依赖
+          npm install form-data
+          
+          # 创建简化的上传脚本
+          cat > upload.js << 'EOF'
         const fs = require('fs');
         const path = require('path');
         const https = require('https');
         const FormData = require('form-data');
-
+        
         const accountId = process.env.CLOUDFLARE_ACCOUNT_ID;
         const projectName = process.env.CLOUDFLARE_PROJECT_NAME;
         const apiToken = process.env.CLOUDFLARE_API_TOKEN;
-
-        async function uploadToPages() {
-          const form = new FormData();
-          
-          // 创建manifest
-          const manifest = {};
-          const deployDir = 'deploy';
-          const files = fs.readdirSync(deployDir);
-          
-          files.forEach(file => {
-            const filePath = path.join(deployDir, file);
-            const stats = fs.statSync(filePath);
-            manifest[`/${file}`] = {
-              hash: require('crypto').createHash('sha1').update(fs.readFileSync(filePath)).digest('hex'),
-              size: stats.size
-            };
-            form.append('file', fs.createReadStream(filePath), {
-              filename: file,
-              filepath: `/${file}`
-            });
-          });
-
-          // 添加manifest到表单
-          form.append('manifest', JSON.stringify(manifest));
-
+        
+        function uploadToPages() {
           return new Promise((resolve, reject) => {
+            const form = new FormData();
+            const manifest = {};
+            const deployDir = 'deploy';
+            
+            const files = fs.readdirSync(deployDir);
+            console.log('上传文件:', files);
+            
+            files.forEach(file => {
+              const filePath = path.join(deployDir, file);
+              const stats = fs.statSync(filePath);
+              const hash = require('crypto').createHash('sha1').update(fs.readFileSync(filePath)).digest('hex');
+              
+              manifest[`/${file}`] = { hash, size: stats.size };
+              form.append('file', fs.createReadStream(filePath), { filename: file, filepath: `/${file}` });
+            });
+            
+            form.append('manifest', JSON.stringify(manifest));
+            
             const options = {
               hostname: 'api.cloudflare.com',
               path: `/client/v4/accounts/${accountId}/pages/projects/${projectName}/deployments`,
               method: 'POST',
-              headers: {
-                'Authorization': `Bearer ${apiToken}`,
-                ...form.getHeaders()
-              }
+              headers: { 'Authorization': `Bearer ${apiToken}`, ...form.getHeaders() }
             };
-
+            
             const req = https.request(options, (res) => {
               let data = '';
               res.on('data', chunk => data += chunk);
               res.on('end', () => {
-                console.log('Response status:', res.statusCode);
-                console.log('Response body:', data);
+                console.log('Status:', res.statusCode);
                 if (res.statusCode === 200 || res.statusCode === 201) {
-                  console.log('Deploy successful!');
+                  console.log('✅ 部署成功!');
                   resolve(data);
                 } else {
-                  console.error('Deploy failed:', res.statusCode, data);
+                  console.error('❌ 部署失败:', res.statusCode, data);
                   reject(new Error(`Deploy failed: ${res.statusCode}`));
                 }
               });
             });
-
+            
             req.on('error', reject);
             form.pipe(req);
           });
         }
-
+        
         uploadToPages().catch(console.error);
         EOF
-        
-        # 安装 form-data 依赖
-        npm install form-data
-        
-        # 运行上传脚本
-        node pages-upload.js
-        
-        echo "Files deployed to Cloudflare Pages!"
+          
+          # 运行上传
+          node upload.js
+        else
+          echo "❌ 没有文件可以部署"
+        fi
