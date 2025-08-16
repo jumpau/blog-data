@@ -168,14 +168,14 @@ jobs:
         # 运行部署脚本
         python3 deploy_script.py
         
-        # 如果找到了文件，则创建上传脚本
+        # 如果找到了文件，则创建上传脚本（移除 _redirects，简化配置）
         if [ -f "source_path.txt" ] && [ -f "available_files.json" ]; then
           echo "=== 创建并运行上传脚本 ==="
           
           # 安装依赖
           npm install form-data
           
-          # 创建直接从源目录上传的脚本
+          # 创建简化的上传脚本
           cat > upload.js << 'EOF'
         const fs = require('fs');
         const path = require('path');
@@ -255,7 +255,7 @@ jobs:
               console.log('📄 ' + file + ': ' + stats.size + ' bytes, hash: ' + hash.substring(0, 8) + '..., type: ' + contentType);
             });
             
-            // 添加 _headers 文件来确保正确的 MIME 类型
+            // 只添加 _headers 文件，移除 _redirects
             const headersLines = [
               '/*',
               '  X-Frame-Options: DENY',
@@ -288,17 +288,6 @@ jobs:
               contentType: 'text/plain'
             });
             console.log('📄 _headers: 添加了 MIME 类型配置');
-            
-            // 添加 _redirects 文件来处理路由
-            const redirectsContent = '# Redirects for Cloudflare Pages\n/*    /index.html   404';
-            const redirectsHash = require('crypto').createHash('sha1').update(redirectsContent).digest('hex');
-            manifest['/_redirects'] = { hash: redirectsHash, size: Buffer.byteLength(redirectsContent, 'utf8') };
-            form.append('file', Buffer.from(redirectsContent, 'utf8'), { 
-              filename: '_redirects',
-              filepath: '/_redirects',
-              contentType: 'text/plain'
-            });
-            console.log('📄 _redirects: 添加了路由配置');
             
             // 添加必要的部署配置
             const deploymentMetadata = {
@@ -357,18 +346,6 @@ jobs:
                       console.log('📦 部署详情:');
                       console.log('  - 阶段:', (response.result.latest_stage && response.result.latest_stage.name) || 'unknown');
                       console.log('  - 状态:', (response.result.latest_stage && response.result.latest_stage.status) || 'unknown');
-                      if (response.result.deployment_trigger) {
-                        console.log('  - 触发器:', JSON.stringify(response.result.deployment_trigger));
-                      }
-                      if (response.result.build_config) {
-                        console.log('  - 构建配置:', JSON.stringify(response.result.build_config));
-                      }
-                    }
-                    
-                    // 如果是预览环境，输出提升到生产环境的信息
-                    if (response.result && response.result.environment === 'preview') {
-                      console.log('⚠️  当前部署在预览环境，可能需要在 Cloudflare 控制台手动提升到生产环境');
-                      console.log('🔗 或者检查项目的生产分支设置');
                     }
                     
                     resolve(data);
