@@ -72,21 +72,6 @@ jobs:
         echo "Generated files are kept in the current directory:"
         ls -lah
         
-    - name: Backup generated files locally
-      run: |
-        # 创建本地备份目录
-        mkdir -p ~/blog-backup/$(date +%Y%m%d_%H%M%S)
-        BACKUP_DIR=~/blog-backup/$(date +%Y%m%d_%H%M%S)
-        
-        # 复制生成的文件到备份目录
-        if [ -f atom.xml ]; then cp atom.xml $BACKUP_DIR/; fi
-        if [ -f index.html ]; then cp index.html $BACKUP_DIR/; fi
-        if [ -f posts.json ]; then cp posts.json $BACKUP_DIR/; fi
-        if [ -f rss.xml ]; then cp rss.xml $BACKUP_DIR/; fi
-        
-        echo "Files backed up to: $BACKUP_DIR"
-        ls -lah $BACKUP_DIR
-        
     - name: Deploy to Cloudflare Pages
       env:
         CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
@@ -136,64 +121,61 @@ jobs:
         
         print(f"📁 使用输出目录: {source_dir}")
         
-        # 创建部署目录
-        deploy_dir = Path('deploy')
-        deploy_dir.mkdir(exist_ok=True)
-        
-        # 要复制的文件列表
-        files_to_copy = ['atom.xml', 'index.html', 'posts.json', 'rss.xml']
-        copied_files = []
-        
-        # 复制文件
+        # 直接使用源目录进行部署，不创建deploy副本
         source_path = Path(source_dir)
         print(f"=== 检查源目录: {source_path.absolute()} ===")
         
+        # 要检查的文件列表
+        files_to_deploy = ['atom.xml', 'index.html', 'posts.json', 'rss.xml']
+        available_files = []
+        
         if source_path.exists():
             print("✓ 源目录存在")
-            for file_name in files_to_copy:
+            for file_name in files_to_deploy:
                 src_file = source_path / file_name
-                dst_file = deploy_dir / file_name
                 if src_file.exists():
-                    shutil.copy2(src_file, dst_file)
-                    print(f"✓ 复制了 {file_name}")
-                    copied_files.append(file_name)
+                    print(f"✓ 找到文件 {file_name} ({src_file.stat().st_size} bytes)")
+                    available_files.append(file_name)
                 else:
                     print(f"✗ {file_name} 不存在")
         else:
             print("❌ 源目录不存在，尝试查找文件...")
             # 查找文件
             for root, dirs, files in os.walk('.'):
-                for file_name in files_to_copy:
+                for file_name in files_to_deploy:
                     if file_name in files:
                         src_file = Path(root) / file_name
-                        dst_file = deploy_dir / file_name
-                        shutil.copy2(src_file, dst_file)
-                        print(f"✓ 找到并复制了 {file_name} 从 {src_file}")
-                        copied_files.append(file_name)
+                        print(f"✓ 找到文件 {file_name} 在 {src_file} ({src_file.stat().st_size} bytes)")
+                        available_files.append(file_name)
+                        # 更新源目录为找到文件的目录
+                        source_path = Path(root)
+                        break
         
-        print(f"=== 部署目录文件列表 ===")
-        for item in deploy_dir.iterdir():
-            if item.is_file():
-                print(f"{item.name} ({item.stat().st_size} bytes)")
-        
-        if not copied_files:
+        if not available_files:
             print("❌ 没有找到任何文件可以部署！")
             exit(1)
         
-        print(f"✅ 准备部署 {len(copied_files)} 个文件: {', '.join(copied_files)}")
+        print(f"✅ 准备部署 {len(available_files)} 个文件: {', '.join(available_files)}")
+        
+        # 将源目录路径传递给上传脚本
+        with open('source_path.txt', 'w') as f:
+            f.write(str(source_path.absolute()))
+        
+        with open('available_files.json', 'w') as f:
+            json.dump(available_files, f)
         EOF
         
         # 运行部署脚本
         python3 deploy_script.py
         
-        # 如果有文件被复制，则创建上传脚本
-        if [ -d "deploy" ] && [ "$(ls -A deploy)" ]; then
+        # 如果找到了文件，则创建上传脚本
+        if [ -f "source_path.txt" ] && [ -f "available_files.json" ]; then
           echo "=== 创建并运行上传脚本 ==="
           
           # 安装依赖
           npm install form-data
           
-          # 创建简化的上传脚本
+          # 创建直接从源目录上传的脚本
           cat > upload.js << 'EOF'
         const fs = require('fs');
         const path = require('path');
@@ -206,23 +188,29 @@ jobs:
         
         function uploadToPages() {
           return new Promise((resolve, reject) => {
+            // 读取源目录路径和可用文件列表
+            const sourcePath = fs.readFileSync('source_path.txt', 'utf8').trim();
+            const availableFiles = JSON.parse(fs.readFileSync('available_files.json', 'utf8'));
+            
+            console.log('从源目录上传:', sourcePath);
+            console.log('上传文件:', availableFiles);
+            
             const form = new FormData();
             const manifest = {};
-            const deployDir = 'deploy';
             
-            const files = fs.readdirSync(deployDir);
-            console.log('上传文件:', files);
-            
-            files.forEach(file => {
-              const filePath = path.join(deployDir, file);
+            availableFiles.forEach(file => {
+              const filePath = path.join(sourcePath, file);
               const stats = fs.statSync(filePath);
               const hash = require('crypto').createHash('sha1').update(fs.readFileSync(filePath)).digest('hex');
               
               manifest[`/${file}`] = { hash, size: stats.size };
               form.append('file', fs.createReadStream(filePath), { filename: file, filepath: `/${file}` });
+              
+              console.log(`📄 ${file}: ${stats.size} bytes, hash: ${hash.substring(0, 8)}...`);
             });
             
             form.append('manifest', JSON.stringify(manifest));
+            console.log('📋 Manifest:', JSON.stringify(manifest, null, 2));
             
             const options = {
               hostname: 'api.cloudflare.com',
@@ -231,17 +219,27 @@ jobs:
               headers: { 'Authorization': `Bearer ${apiToken}`, ...form.getHeaders() }
             };
             
+            console.log('🚀 发送到:', `https://${options.hostname}${options.path}`);
+            
             const req = https.request(options, (res) => {
               let data = '';
               res.on('data', chunk => data += chunk);
               res.on('end', () => {
-                console.log('Status:', res.statusCode);
-                if (res.statusCode === 200 || res.statusCode === 201) {
-                  console.log('✅ 部署成功!');
-                  resolve(data);
-                } else {
-                  console.error('❌ 部署失败:', res.statusCode, data);
-                  reject(new Error(`Deploy failed: ${res.statusCode}`));
+                console.log('📊 状态码:', res.statusCode);
+                try {
+                  const response = JSON.parse(data);
+                  if (res.statusCode === 200 || res.statusCode === 201) {
+                    console.log('✅ 部署成功!');
+                    console.log('🌐 网站URL:', response.result?.url || '未知');
+                    resolve(data);
+                  } else {
+                    console.error('❌ 部署失败:', res.statusCode);
+                    console.error('错误详情:', response.errors || data);
+                    reject(new Error(`Deploy failed: ${res.statusCode}`));
+                  }
+                } catch (e) {
+                  console.error('❌ 解析响应失败:', data);
+                  reject(e);
                 }
               });
             });
@@ -256,6 +254,9 @@ jobs:
           
           # 运行上传
           node upload.js
+          
+          # 清理临时文件
+          rm -f source_path.txt available_files.json
         else
           echo "❌ 没有文件可以部署"
         fi
