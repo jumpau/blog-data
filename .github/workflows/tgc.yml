@@ -125,7 +125,7 @@ jobs:
         print(f"=== 检查源目录: {source_path.absolute()} ===")
         
         # 要检查的文件列表
-        files_to_deploy = ['atom.xml', 'index.html', 'posts.json', 'rss.xml']
+        files_to_deploy = ['atom.xml', 'index.html', 'posts.json', 'rss.xml', 'sitemap.xml', 'robots.txt']
         available_files = []
         
         if source_path.exists():
